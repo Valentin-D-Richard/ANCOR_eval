@@ -12,7 +12,7 @@ int_words = ['qui', 'où', 'quoi', 'quand', 'comment', 'pourquoi',
 # Main French QU-words ('lequel' and composites are omitted)
 # Diacritics were removed from the corpus, and 'ù' was changed to 'U'
 
-USAGE = """./ana.py [DIR] [--new --coref --pro]
+USAGE = """./extract1.py [DIR] [--newoff --incass --prooff]
 Prints a list of the anaphoric chain of the tei files in DIR
 in a markdown format
 DIR     default is '.'

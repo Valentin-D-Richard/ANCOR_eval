@@ -2,6 +2,8 @@
 
 This repository gathers the commands and statistics realized on the spoken French corpus ANCOR for the study of anaphoric chains containing an interrogative word.
 
+This repository falls under the CC-BY 4.0 licence.
+
 ## How to cite this work
 
 This repository includes two separate studies that were published in the following publications:

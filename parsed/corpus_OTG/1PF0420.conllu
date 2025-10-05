@@ -1,0 +1,64 @@
+# sent_id = 1PF0420_1
+# text = je voudrais savoir quel bus faut prendre pour aller jusqu' à Meylan
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	savoir	savoir	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u1.w2
+4	quel	quel	DET	_	Gender=Masc|Number=Sing|Person=3|PronType=Int	5	det	_	_none=|id=s1.u1.w3
+5	bus	bus	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	id=s1.u1.w4
+6	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	id=s1.u1.w5
+7	prendre	prendre	VERB	_	VerbForm=Inf	6	ccomp	_	_none=|id=s1.u1.w6
+8	pour	pour	ADP	_	_	9	mark	_	_none=|id=s1.u1.w7
+9	aller	aller	VERB	ETRE	VerbForm=Inf	6	advcl	_	id=s1.u1.w8
+10	jusqu'	jusque	ADP	_	_	9	mark	_	_none=|id=s1.u1.w9
+11	à	à	ADP	_	_	12	case	_	id=s1.u1.w10
+12	Meylan	Meylan	PROPN	_	_	9	obl:arg	_	_none=|id=s1.u1.w11
+
+# sent_id = 1PF0420_2
+# text = alors vous allez voir la TAG mademoiselle parce que e je veux pas vous dire de bêtises je crois que c' est le quarante-et-un hein vous leur demandez voyez c' est ils ont carrément des plans là bas hein ma collègue Prénom va vous dire ça
+1	alors	alors	ADV	_	_	3	advmod	_	_none=|id=s1.u2.w0
+2	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	id=s1.u2.w1
+3	allez	aller	VERB	ETRE	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w2
+4	voir	voir	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u2.w3
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	id=s1.u2.w4
+6	TAG	TAG	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	id=s1.u2.w5
+7	mademoiselle	mademoiselle	NOUN	_	Gender=Fem|Number=Sing	3	vocative	_	id=s1.u2.w6
+8	parce	parce	ADV	_	_	12	mark	_	_none=|id=s1.u2.w7
+9	que	que	SCONJ	_	_	8	fixed	_	id=s1.u2.w8
+10	e	e	X	_	_	12	cc	_	_none=|id=s1.u2.w9
+11	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_none=|id=s1.u2.w10
+12	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	advcl	_	_none=|id=s1.u2.w11
+13	pas	pas	ADV	_	Polarity=Neg	12	advmod	_	_none=|id=s1.u2.w12
+14	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	15	iobj	_	id=s1.u2.w13
+15	dire	dire	VERB	_	VerbForm=Inf	12	xcomp	_	_none=|id=s1.u2.w14
+16	de	de	ADP	_	_	17	case	_	_none=|id=s1.u2.w15
+17	bêtises	bêtise	NOUN	_	Gender=Fem|Number=Plur	15	obj	_	id=s1.u2.w16
+18	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_none=|id=s1.u2.w17
+19	crois	croire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	_none=|id=s1.u2.w18
+20	que	que	SCONJ	_	_	24	mark	_	_none=|id=s1.u2.w19
+21	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	24	nsubj	_	id=s1.u2.w20
+22	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	id=s1.u2.w21
+23	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_none=|id=s1.u2.w22
+24	quarante-et-un	quarante-et-un	NUM	_	Gender=Masc|Number=Sing	19	ccomp	_	_none=|id=s1.u2.w23
+25	hein	hein	INTJ	_	_	24	discourse	_	_none=|id=s1.u2.w24
+26	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	28	nsubj	_	_none=|id=s1.u2.w25
+27	leur	lui	PRON	_	Number=Plur|Person=3|PronType=Prs	28	iobj	_	_none=|id=s1.u2.w26
+28	demandez	demander	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	19	dislocated	_	_none=|id=s1.u2.w27
+29	voyez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	33	discourse	_	id=s1.u2.w28
+30	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	31	nsubj	_	_none=|id=s1.u2.w29
+31	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	reparandum	_	id=s1.u2.w30
+32	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	33	nsubj	_	id=s1.u2.w31
+33	ont	avoir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	ccomp	_	_none=|id=s1.u2.w32
+34	carrément	carrément	ADV	_	_	33	advmod	_	_none=|id=s1.u2.w33
+35	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	36	det	_	id=s1.u2.w34
+36	plans	plan	NOUN	_	Gender=Masc|Number=Plur	33	obj	_	id=s1.u2.w35
+37	là	là	ADV	_	_	33	advmod	_	_none=|id=s1.u2.w36
+38	bas	bas	NOUN	_	_	37	fixed	_	id=s1.u2.w37
+39	hein	hein	INTJ	_	_	43	discourse	_	_none=|id=s1.u2.w38
+40	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1|PronType=Prs	41	det	_	id=s1.u2.w39
+41	collègue	collègue	NOUN	_	Gender=Fem|Number=Sing	33	nsubj	_	id=s1.u2.w40
+42	Prénom	Prénom	PROPN	_	_	33	nsubj	_	id=s1.u2.w41
+43	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	conj	_	id=s1.u2.w42
+44	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	45	iobj	_	id=s1.u2.w43
+45	dire	dire	VERB	_	VerbForm=Inf	43	xcomp	_	id=s1.u2.w44
+46	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	45	obj	_	id=s1.u2.w45
+

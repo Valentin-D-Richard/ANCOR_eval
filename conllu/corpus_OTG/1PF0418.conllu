@@ -1,0 +1,46 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0418_0
+# text = 
+
+# sent_id = 1PF0418_1
+# text = je voudrais un plan des pistes cyclables de Grenoble s' il vous plaît
+1	je	_	_	_	_	_	_	_	id=s1.u1.w0
+2	voudrais	_	_	_	_	_	_	_	id=s1.u1.w1
+3	un	_	_	_	_	_	_	_	id=s1.u1.w2
+4	plan	_	_	_	_	_	_	_	id=s1.u1.w3
+5	des	_	_	_	_	_	_	_	id=s1.u1.w4
+6	pistes	_	_	_	_	_	_	_	id=s1.u1.w5
+7	cyclables	_	_	_	_	_	_	_	id=s1.u1.w6
+8	de	_	_	_	_	_	_	_	id=s1.u1.w7
+9	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w8
+10	s'	_	_	_	_	_	_	_	id=s1.u1.w9
+11	il	_	_	_	_	_	_	_	id=s1.u1.w10
+12	vous	_	_	_	_	_	_	_	id=s1.u1.w11
+13	plaît	_	_	_	_	_	_	_	id=s1.u1.w12
+
+# sent_id = 1PF0418_2
+# text = pistes cyclables de Grenoble voilà
+1	pistes	_	_	_	_	_	_	_	id=s1.u2.w0
+2	cyclables	_	_	_	_	_	_	_	id=s1.u2.w1
+3	de	_	_	_	_	_	_	_	id=s1.u2.w2
+4	Grenoble	_	_	_	_	_	_	_	id=s1.u2.w3
+5	voilà	_	_	_	_	_	_	_	id=s1.u2.w4
+
+# sent_id = 1PF0418_3
+# text = ok merci bien
+1	ok	_	_	_	_	_	_	_	id=s1.u3.w0
+2	merci	_	_	_	_	_	_	_	id=s1.u3.w1
+3	bien	_	_	_	_	_	_	_	id=s1.u3.w2
+
+# sent_id = 1PF0418_4
+# text = je vous en prie au revoir
+1	je	_	_	_	_	_	_	_	id=s1.u4.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u4.w1
+3	en	_	_	_	_	_	_	_	id=s1.u4.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u4.w3
+5	au	_	_	_	_	_	_	_	id=s1.u4.w4
+6	revoir	_	_	_	_	_	_	_	id=s1.u4.w5
+
+# sent_id = 1PF0418_5
+# text = 
+

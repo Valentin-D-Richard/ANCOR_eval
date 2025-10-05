@@ -1,0 +1,92 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2SB0212_0
+# text = 
+
+# sent_id = 2SB0212_1
+# text = avez vous le plan de Grenoble s' il vous plaît de la ville et e qu' est ce qu' il y a à visiter enfin
+1	avez	_	_	_	_	_	_	_	id=s1.u1.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u1.w1
+3	le	_	_	_	_	_	_	_	id=s1.u1.w2
+4	plan	_	_	_	_	_	_	_	id=s1.u1.w3
+5	de	_	_	_	_	_	_	_	id=s1.u1.w4
+6	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w5
+7	s'	_	_	_	_	_	_	_	id=s1.u1.w6
+8	il	_	_	_	_	_	_	_	id=s1.u1.w7
+9	vous	_	_	_	_	_	_	_	id=s1.u1.w8
+10	plaît	_	_	_	_	_	_	_	id=s1.u1.w9
+11	de	_	_	_	_	_	_	_	id=s1.u1.w10
+12	la	_	_	_	_	_	_	_	id=s1.u1.w11
+13	ville	_	_	_	_	_	_	_	id=s1.u1.w12
+14	et	_	_	_	_	_	_	_	id=s1.u1.w13
+15	e	_	_	_	_	_	_	_	id=s1.u1.w14
+16	qu'	_	_	_	_	_	_	_	id=s1.u1.w15
+17	est	_	_	_	_	_	_	_	id=s1.u1.w16
+18	ce	_	_	_	_	_	_	_	id=s1.u1.w17
+19	qu'	_	_	_	_	_	_	_	id=s1.u1.w18
+20	il	_	_	_	_	_	_	_	id=s1.u1.w19
+21	y	_	_	_	_	_	_	_	id=s1.u1.w20
+22	a	_	_	_	_	_	_	_	id=s1.u1.w21
+23	à	_	_	_	_	_	_	_	id=s1.u1.w22
+24	visiter	_	_	_	_	_	_	_	id=s1.u1.w23
+25	enfin	_	_	_	_	_	_	_	id=s1.u1.w24
+
+# sent_id = 2SB0212_2
+# text = 
+
+# sent_id = 2SB0212_3
+# text = vous avez énormément de musées à visiter je vais vous laisser le listing hein il est là
+1	vous	_	_	_	_	_	_	_	id=s1.u3.w0
+2	avez	_	_	_	_	_	_	_	id=s1.u3.w1
+3	énormément	_	_	_	_	_	_	_	id=s1.u3.w2
+4	de	_	_	_	_	_	_	_	id=s1.u3.w3
+5	musées	_	_	_	_	_	_	_	id=s1.u3.w4
+6	à	_	_	_	_	_	_	_	id=s1.u3.w5
+7	visiter	_	_	_	_	_	_	_	id=s1.u3.w6
+8	je	_	_	_	_	_	_	_	id=s1.u3.w7
+9	vais	_	_	_	_	_	_	_	id=s1.u3.w8
+10	vous	_	_	_	_	_	_	_	id=s1.u3.w9
+11	laisser	_	_	_	_	_	_	_	id=s1.u3.w10
+12	le	_	_	_	_	_	_	_	id=s1.u3.w11
+13	listing	_	_	_	_	_	_	_	id=s1.u3.w12
+14	hein	_	_	_	_	_	_	_	id=s1.u3.w13
+15	il	_	_	_	_	_	_	_	id=s1.u3.w14
+16	est	_	_	_	_	_	_	_	id=s1.u3.w15
+17	là	_	_	_	_	_	_	_	id=s1.u3.w16
+
+# sent_id = 2SB0212_4
+# text = hum hum
+1	hum	_	_	_	_	_	_	_	id=s1.u4.w0
+2	hum	_	_	_	_	_	_	_	id=s1.u4.w1
+
+# sent_id = 2SB0212_5
+# text = vous avez le téléphérique aussi avec des randonnées pédestres en haut
+1	vous	_	_	_	_	_	_	_	id=s1.u5.w0
+2	avez	_	_	_	_	_	_	_	id=s1.u5.w1
+3	le	_	_	_	_	_	_	_	id=s1.u5.w2
+4	téléphérique	_	_	_	_	_	_	_	id=s1.u5.w3
+5	aussi	_	_	_	_	_	_	_	id=s1.u5.w4
+6	avec	_	_	_	_	_	_	_	id=s1.u5.w5
+7	des	_	_	_	_	_	_	_	id=s1.u5.w6
+8	randonnées	_	_	_	_	_	_	_	id=s1.u5.w7
+9	pédestres	_	_	_	_	_	_	_	id=s1.u5.w8
+10	en	_	_	_	_	_	_	_	id=s1.u5.w9
+11	haut	_	_	_	_	_	_	_	id=s1.u5.w10
+
+# sent_id = 2SB0212_6
+# text = d' accord merci
+1	d'	_	_	_	_	_	_	_	id=s1.u6.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u6.w1
+3	merci	_	_	_	_	_	_	_	id=s1.u6.w2
+
+# sent_id = 2SB0212_7
+# text = je vous en prie au revoir
+1	je	_	_	_	_	_	_	_	id=s1.u7.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u7.w1
+3	en	_	_	_	_	_	_	_	id=s1.u7.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u7.w3
+5	au	_	_	_	_	_	_	_	id=s1.u7.w4
+6	revoir	_	_	_	_	_	_	_	id=s1.u7.w5
+
+# sent_id = 2SB0212_8
+# text = 
+

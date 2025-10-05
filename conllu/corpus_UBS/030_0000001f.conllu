@@ -1,0 +1,66 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 030_0000001f_0
+# text = U B S bonjour
+1	U	_	_	_	_	_	_	_	id=s1.u0.w0
+2	B	_	_	_	_	_	_	_	id=s1.u0.w1
+3	S	_	_	_	_	_	_	_	id=s1.u0.w2
+4	bonjour	_	_	_	_	_	_	_	id=s1.u0.w3
+
+# sent_id = 030_0000001f_1
+# text = oui bonjour Prénom Nom au service scolarité de l' I U T de Vannes j' essaye de joindre Prénom2 Nom2 elle est pas là cet après-midi
+1	oui	_	_	_	_	_	_	_	id=s1.u1.w0
+2	bonjour	_	_	_	_	_	_	_	id=s1.u1.w1
+3	Prénom	_	_	_	_	_	_	_	id=s1.u1.w2
+4	Nom	_	_	_	_	_	_	_	id=s1.u1.w3
+5	au	_	_	_	_	_	_	_	id=s1.u1.w4
+6	service	_	_	_	_	_	_	_	id=s1.u1.w5
+7	scolarité	_	_	_	_	_	_	_	id=s1.u1.w6
+8	de	_	_	_	_	_	_	_	id=s1.u1.w7
+9	l'	_	_	_	_	_	_	_	id=s1.u1.w8
+10	I	_	_	_	_	_	_	_	id=s1.u1.w9
+11	U	_	_	_	_	_	_	_	id=s1.u1.w10
+12	T	_	_	_	_	_	_	_	id=s1.u1.w11
+13	de	_	_	_	_	_	_	_	id=s1.u1.w12
+14	Vannes	_	_	_	_	_	_	_	id=s1.u1.w13
+15	j'	_	_	_	_	_	_	_	id=s1.u1.w14
+16	essaye	_	_	_	_	_	_	_	id=s1.u1.w15
+17	de	_	_	_	_	_	_	_	id=s1.u1.w16
+18	joindre	_	_	_	_	_	_	_	id=s1.u1.w17
+19	Prénom2	_	_	_	_	_	_	_	id=s1.u1.w18
+20	Nom2	_	_	_	_	_	_	_	id=s1.u1.w19
+21	elle	_	_	_	_	_	_	_	id=s1.u1.w20
+22	est	_	_	_	_	_	_	_	id=s1.u1.w21
+23	pas	_	_	_	_	_	_	_	id=s1.u1.w22
+24	là	_	_	_	_	_	_	_	id=s1.u1.w23
+25	cet	_	_	_	_	_	_	_	id=s1.u1.w24
+26	après-midi	_	_	_	_	_	_	_	id=s1.u1.w25
+
+# sent_id = 030_0000001f_2
+# text = e vous avez fait le 725
+1	e	_	_	_	_	_	_	_	id=s1.u2.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u2.w1
+3	avez	_	_	_	_	_	_	_	id=s1.u2.w2
+4	fait	_	_	_	_	_	_	_	id=s1.u2.w3
+5	le	_	_	_	_	_	_	_	id=s1.u2.w4
+6	725	_	_	_	_	_	_	_	id=s1.u2.w5
+
+# sent_id = 030_0000001f_3
+# text = oui c' est çà
+1	oui	_	_	_	_	_	_	_	id=s1.u3.w0
+2	c'	_	_	_	_	_	_	_	id=s1.u3.w1
+3	est	_	_	_	_	_	_	_	id=s1.u3.w2
+4	çà	_	_	_	_	_	_	_	id=s1.u3.w3
+
+# sent_id = 030_0000001f_4
+# text = ne quittez pas je vais voir
+1	ne	_	_	_	_	_	_	_	id=s1.u4.w0
+2	quittez	_	_	_	_	_	_	_	id=s1.u4.w1
+3	pas	_	_	_	_	_	_	_	id=s1.u4.w2
+4	je	_	_	_	_	_	_	_	id=s1.u4.w3
+5	vais	_	_	_	_	_	_	_	id=s1.u4.w4
+6	voir	_	_	_	_	_	_	_	id=s1.u4.w5
+
+# sent_id = 030_0000001f_5
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u5.w0
+

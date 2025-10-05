@@ -1,0 +1,47 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0131_0
+# text = madame bonjour
+1	madame	madame	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u0.w0
+2	bonjour	bonjour	NOUN	_	_	1	nmod	_	_none=|id=s1.u0.w1
+
+# sent_id = 1AP0131_1
+# text = bonjour dites j' aurais voulu e un billet pour e
+1	bonjour	bonjour	INTJ	_	_	2	discourse	_	_none=|id=s1.u1.w0
+2	dites	dre	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	_none=|id=s1.u1.w1
+3	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u1.w2
+4	aurais	avoir	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_none=|id=s1.u1.w3
+5	voulu	vouloir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u1.w4
+6	e	e	VERB	_	VerbForm=Inf	8	reparandum	_	id=s1.u1.w5
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	id=s1.u1.w6
+8	billet	billet	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_none=|id=s1.u1.w7
+9	pour	pour	ADP	_	_	10	case	_	_none=|id=s1.u1.w8
+10	e	e	PRON	_	_	8	nmod	_	id=s1.u1.w9
+
+# sent_id = 1AP0131_2
+# text = " visages du monde "
+1	visages	visage	NOUN	_	Gender=Masc|Number=Plur	0	root	_	id=s1.u2.w1
+2	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_none=|id=s1.u2.w2
+3	monde	monde	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_none=|id=s1.u2.w3
+
+# sent_id = 1AP0131_3
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1AP0131_4
+# text = hum c' est le guichet est juste à côté là
+1	hum	hum	INTJ	_	_	3	discourse	_	_none=|id=s1.u4.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_none=|id=s1.u4.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	reparandum	_	id=s1.u4.w2
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	id=s1.u4.w3
+5	guichet	guichet	NOUN	_	Gender=Masc|Number=Sing	6	dislocated	_	id=s1.u4.w4
+6	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w5
+7	juste	juste	ADV	_	_	9	advmod	_	_none=|id=s1.u4.w6
+8	à	à	ADP	_	_	9	case	_	_none=|id=s1.u4.w7
+9	côté	côté	NOUN	_	Gender=Masc|Number=Sing	6	obl:arg	_	_none=|id=s1.u4.w8
+10	là	là	ADV	_	_	9	advmod	_	_none=|id=s1.u4.w9
+
+# sent_id = 1AP0131_5
+# text = la Sibérie
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	id=s1.u5.w0
+2	Sibérie	Sibérie	PROPN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u5.w1
+

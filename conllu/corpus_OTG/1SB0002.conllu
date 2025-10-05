@@ -1,0 +1,75 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0002_0
+# text = 
+
+# sent_id = 1SB0002_1
+# text = j' aimerais savoir où se trouve la Maison des Jeunes Travailleurs
+1	j'	_	_	_	_	_	_	_	id=s1.u1.w0
+2	aimerais	_	_	_	_	_	_	_	id=s1.u1.w1
+3	savoir	_	_	_	_	_	_	_	id=s1.u1.w2
+4	où	_	_	_	_	_	_	_	id=s1.u1.w3
+5	se	_	_	_	_	_	_	_	id=s1.u1.w4
+6	trouve	_	_	_	_	_	_	_	id=s1.u1.w5
+7	la	_	_	_	_	_	_	_	id=s1.u1.w6
+8	Maison	_	_	_	_	_	_	_	id=s1.u1.w7
+9	des	_	_	_	_	_	_	_	id=s1.u1.w8
+10	Jeunes	_	_	_	_	_	_	_	id=s1.u1.w9
+11	Travailleurs	_	_	_	_	_	_	_	id=s1.u1.w10
+
+# sent_id = 1SB0002_2
+# text = la Maison des Jeunes Travailleurs
+1	la	_	_	_	_	_	_	_	id=s1.u2.w0
+2	Maison	_	_	_	_	_	_	_	id=s1.u2.w1
+3	des	_	_	_	_	_	_	_	id=s1.u2.w2
+4	Jeunes	_	_	_	_	_	_	_	id=s1.u2.w3
+5	Travailleurs	_	_	_	_	_	_	_	id=s1.u2.w4
+
+# sent_id = 1SB0002_3
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1SB0002_4
+# text = le foyer de jeunes travailleurs
+1	le	_	_	_	_	_	_	_	id=s1.u4.w0
+2	foyer	_	_	_	_	_	_	_	id=s1.u4.w1
+3	de	_	_	_	_	_	_	_	id=s1.u4.w2
+4	jeunes	_	_	_	_	_	_	_	id=s1.u4.w3
+5	travailleurs	_	_	_	_	_	_	_	id=s1.u4.w4
+
+# sent_id = 1SB0002_5
+# text = ben oui
+1	ben	_	_	_	_	_	_	_	id=s1.u5.w0
+2	oui	_	_	_	_	_	_	_	id=s1.u5.w1
+
+# sent_id = 1SB0002_6
+# text = oui rue des trois hein
+1	oui	_	_	_	_	_	_	_	id=s1.u6.w0
+2	rue	_	_	_	_	_	_	_	id=s1.u6.w1
+3	des	_	_	_	_	_	_	_	id=s1.u6.w2
+4	trois	_	_	_	_	_	_	_	id=s1.u6.w3
+5	hein	_	_	_	_	_	_	_	id=s1.u6.w4
+
+# sent_id = 1SB0002_7
+# text = c' est super merci
+1	c'	_	_	_	_	_	_	_	id=s1.u7.w0
+2	est	_	_	_	_	_	_	_	id=s1.u7.w1
+3	super	_	_	_	_	_	_	_	id=s1.u7.w2
+4	merci	_	_	_	_	_	_	_	id=s1.u7.w3
+
+# sent_id = 1SB0002_8
+# text = je vous en prie
+1	je	_	_	_	_	_	_	_	id=s1.u8.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u8.w1
+3	en	_	_	_	_	_	_	_	id=s1.u8.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u8.w3
+
+# sent_id = 1SB0002_9
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u9.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u9.w1
+
+# sent_id = 1SB0002_10
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u10.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u10.w1
+

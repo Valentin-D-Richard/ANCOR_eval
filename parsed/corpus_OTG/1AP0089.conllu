@@ -1,0 +1,104 @@
+# sent_id = 1AP0089_0
+# text = c' est encore moi je cherche la place Vaucanson ça vous dit quelque chose
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_none=|id=s1.u0.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	reparandum	_	_none=|id=s1.u0.w1
+3	encore	encore	ADV	_	_	2	advmod	_	_none=|id=s1.u0.w2
+4	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	6	dislocated	_	_none=|id=s1.u0.w3
+5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_none=|id=s1.u0.w4
+6	cherche	chercher	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u0.w5
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	id=s1.u0.w6
+8	place	place	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	id=s1.u0.w7
+9	Vaucanson	Vaucanson	PROPN	_	_	8	nmod:appos	_	id=s1.u0.w8
+10	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	nsubj	_	id=s1.u0.w9
+11	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	12	iobj	_	id=s1.u0.w10
+12	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	id=s1.u0.w11
+13	quelque	quelque	DET	_	Number=Sing|Person=3|PronType=Ind	12	obj	_	id=s1.u0.w12
+14	chose	chose	NOUN	_	Gender=Fem|Number=Sing	13	fixed	_	id=s1.u0.w13
+
+# sent_id = 1AP0089_2
+# text = oui je vais prendre le bouquin on va regarder
+1	oui	oui	INTJ	_	_	3	discourse	_	_none=|id=s1.u2.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u2.w1
+3	vais	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w2
+4	prendre	prendre	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u2.w3
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	id=s1.u2.w4
+6	bouquin	bouquin	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	id=s1.u2.w5
+7	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	8	nsubj	_	_none=|id=s1.u2.w6
+8	va	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	id=s1.u2.w7
+9	regarder	regarder	VERB	_	VerbForm=Inf	8	xcomp	_	_none=|id=s1.u2.w8
+
+# sent_id = 1AP0089_3
+# text = j' ai regardé mais
+1	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u3.w0
+2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux:tense	_	id=s1.u3.w1
+3	regardé	regarder	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u3.w2
+4	mais	mais	CCONJ	_	_	3	cc	_	_none=|id=s1.u3.w3
+
+# sent_id = 1AP0089_4
+# text = alors e la voilà
+1	alors	alors	ADV	_	_	4	advmod	_	_none=|id=s1.u4.w0
+2	e	e	PRON	_	_	1	fixed	_	_none=|id=s1.u4.w1
+3	la	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	id=s1.u4.w2
+4	voilà	voilà	VERB	_	_	0	root	_	id=s1.u4.w3
+
+# sent_id = 1AP0089_5
+# text = ah super
+1	ah	ah	INTJ	_	_	0	root	_	_none=|id=s1.u5.w0
+2	super	super	ADJ	_	_	1	fixed	_	_none=|id=s1.u5.w1
+
+# sent_id = 1AP0089_6
+# text = tenez regardez
+1	tenez	tneir	VERB	_	Number=Sing|Person=2|PronType=Prs	0	root	_	_none=|id=s1.u6.w0
+2	regardez	regarder	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	conj	_	id=s1.u6.w1
+
+# sent_id = 1AP0089_7
+# text = oh non
+1	oh	oh	INTJ	_	_	2	discourse	_	_none=|id=s1.u7.w0
+2	non	non	ADV	_	Polarity=Neg	0	root	_	_none=|id=s1.u7.w1
+
+# sent_id = 1AP0089_8
+# text = là
+1	là	là	ADV	_	_	0	root	_	_none=|id=s1.u8.w0
+
+# sent_id = 1AP0089_9
+# text = c' est pas très loin en plus
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	id=s1.u9.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u9.w1
+3	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	id=s1.u9.w2
+4	très	très	ADV	_	_	5	advmod	_	_none=|id=s1.u9.w3
+5	loin	loin	ADV	_	_	0	root	_	_none=|id=s1.u9.w4
+6	en	en	ADP	_	_	7	case	_	_none=|id=s1.u9.w5
+7	plus	plus	ADV	_	_	5	discourse	_	_none=|id=s1.u9.w6
+
+# sent_id = 1AP0089_10
+# text = non ça fait pas loin
+1	non	non	ADV	_	_	3	discourse	_	id=s1.u10.w0
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_none=|id=s1.u10.w1
+3	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u10.w2
+4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_none=|id=s1.u10.w3
+5	loin	loin	ADV	_	_	3	advmod	_	_none=|id=s1.u10.w4
+
+# sent_id = 1AP0089_11
+# text = très bien merci beaucoup
+1	très	très	ADV	_	_	2	advmod	_	_none=|id=s1.u11.w0
+2	bien	bien	ADV	_	_	0	root	_	_none=|id=s1.u11.w1
+3	merci	merci	INTJ	_	_	2	conj	_	_none=|id=s1.u11.w2
+4	beaucoup	beaucoup	ADV	_	_	3	advmod	_	_none=|id=s1.u11.w3
+
+# sent_id = 1AP0089_12
+# text = mais je vous en prie bonne journée monsieur merci
+1	mais	mais	CCONJ	_	_	5	cc	_	_none=|id=s1.u12.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u12.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	5	iobj	_	id=s1.u12.w2
+4	en	en	PRON	_	Person=3|PronType=Prs	5	iobj	_	_none=|id=s1.u12.w3
+5	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u12.w4
+6	bonne	bon	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	id=s1.u12.w5
+7	journée	journée	NOUN	_	Gender=Fem|Number=Sing	5	obl:mod	_	id=s1.u12.w6
+8	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	5	vocative	_	_none=|id=s1.u12.w7
+9	merci	merci	INTJ	_	_	8	conj	_	_none=|id=s1.u12.w8
+
+# sent_id = 1AP0089_13
+# text = vous aussi
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	0	root	_	id=s1.u13.w0
+2	aussi	aussi	ADV	_	_	1	advmod	_	_none=|id=s1.u13.w1
+

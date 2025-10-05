@@ -1,0 +1,84 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0111_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1SB0111_1
+# text = bonjour j' habite dans le quartier de la rue Thiers je voulais savoir s' il y avait une M J C qui faisait des cours de de gym de n' importe quoi
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	habite	habiter	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	dans	dans	ADP	_	_	6	case	_	_none=|id=s1.u1.w3
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_none=|id=s1.u1.w4
+6	quartier	quartier	NOUN	_	Gender=Masc|Number=Sing	3	obl:arg	_	_none=|id=s1.u1.w5
+7	de	de	ADP	_	_	9	case	_	_none=|id=s1.u1.w6
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	id=s1.u1.w7
+9	rue	rue	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	id=s1.u1.w8
+10	Thiers	Thiers	PROPN	_	_	9	flat:name	_	_none=|id=s1.u1.w9
+11	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_none=|id=s1.u1.w10
+12	voulais	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	3	conj	_	_none=|id=s1.u1.w11
+13	savoir	savoir	VERB	_	VerbForm=Inf	12	xcomp	_	_none=|id=s1.u1.w12
+14	s'	si	SCONJ	_	_	17|17	cue:mark|mark	_	_none=|id=s1.u1.w13
+15	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	expl:subj	_	_none=|id=s1.u1.w14
+16	y	y	PRON	_	Person=3|PronType=Prs	17	expl:comp	_	id=s1.u1.w15
+17	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	ccomp	_	ClauseType=Int|id=s1.u1.w16
+18	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	id=s1.u1.w17
+19	M	M	PROPN	_	_	17	obj	_	id=s1.u1.w18
+20	J	J	PROPN	_	_	19	flat:name	_	id=s1.u1.w19
+21	C	C	PROPN	_	_	19	flat:name	_	id=s1.u1.w20
+22	qui	qui	PRON	_	PronType=Rel	23	nsubj	_	_none=|id=s1.u1.w21
+23	faisait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	19	acl:relcl	_	_none=|id=s1.u1.w22
+24	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	25	det	_	id=s1.u1.w23
+25	cours	cours	NOUN	_	Gender=Masc|Number=Plur	23	obj	_	id=s1.u1.w24
+26	de	de	ADP	_	_	28	reparandum	_	_none=|id=s1.u1.w25
+27	de	de	ADP	_	_	28	case	_	_none=|id=s1.u1.w26
+28	gym	gym	NOUN	_	Gender=Masc|Number=Sing	25	nmod	_	id=s1.u1.w27
+29	de	de	ADP	_	_	30	case	_	_none=|id=s1.u1.w28
+30	n'	ne	ADV	_	Polarity=Neg	23	advmod	_	_none=|id=s1.u1.w29
+31	importe	importer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	fixed	_	id=s1.u1.w30
+32	quoi	quoi	PRON	_	Person=3|PronType=Ind	30	fixed	_	id=s1.u1.w31
+
+# sent_id = 1SB0111_2
+# text = vous avez ici le plan avec les différentes M J C pour voir ce qui vous rapproche le plus de la rue Thiers
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	id=s1.u2.w0
+2	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w1
+3	ici	ici	ADV	_	_	2	advmod	_	_none=|id=s1.u2.w2
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_none=|id=s1.u2.w3
+5	plan	plan	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_none=|id=s1.u2.w4
+6	avec	avec	ADP	_	_	9	case	_	_none=|id=s1.u2.w5
+7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	id=s1.u2.w6
+8	différentes	différent	ADJ	_	Gender=Fem|Number=Plur	9	amod	_	id=s1.u2.w7
+9	M	M	PROPN	_	_	5	nmod	_	_none=|id=s1.u2.w8
+10	J	J	PROPN	_	_	9	flat:name	_	_none=|id=s1.u2.w9
+11	C	C	PROPN	_	_	9	flat:name	_	_none=|id=s1.u2.w10
+12	pour	pour	ADP	_	_	13	mark	_	_none=|id=s1.u2.w11
+13	voir	voir	VERB	_	VerbForm=Inf	5	acl	_	_none=|id=s1.u2.w12
+14	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	obj	_	id=s1.u2.w13
+15	qui	qui	PRON	_	PronType=Rel	17	nsubj	_	_none=|id=s1.u2.w14
+16	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	17	obj	_	id=s1.u2.w15
+17	rapproche	rapprocher	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	id=s1.u2.w16
+18	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	obj	_	_none=|id=s1.u2.w17
+19	plus	plus	ADV	_	_	17	advmod	_	_none=|id=s1.u2.w18
+20	de	de	ADP	_	_	22	case	_	id=s1.u2.w19
+21	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	id=s1.u2.w20
+22	rue	rue	NOUN	_	Gender=Fem|Number=Sing	17	obl:mod	_	id=s1.u2.w21
+23	Thiers	Thiers	PROPN	_	_	22	flat:name	_	_none=|id=s1.u2.w22
+
+# sent_id = 1SB0111_3
+# text = d' accord ben je vous remercie
+1	d'	de	ADP	_	_	2	case	_	_none=|id=s1.u3.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	6	discourse	_	id=s1.u3.w1
+3	ben	ben	INTJ	_	_	6	discourse	_	_none=|id=s1.u3.w2
+4	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_none=|id=s1.u3.w3
+5	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	6	iobj	_	id=s1.u3.w4
+6	remercie	remercier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u3.w5
+
+# sent_id = 1SB0111_4
+# text = je vous en prie au revoir
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u4.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u4.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u4.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w3
+5	au	au	ADP	_	_	6	case	_	_none=|id=s1.u4.w4
+6	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	4	advmod	_	id=s1.u4.w5
+

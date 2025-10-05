@@ -1,0 +1,96 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2SB0315_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 2SB0315_1
+# text = bonjour je voulais un plan de Grenoble
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	je	_	_	_	_	_	_	_	id=s1.u1.w1
+3	voulais	_	_	_	_	_	_	_	id=s1.u1.w2
+4	un	_	_	_	_	_	_	_	id=s1.u1.w3
+5	plan	_	_	_	_	_	_	_	id=s1.u1.w4
+6	de	_	_	_	_	_	_	_	id=s1.u1.w5
+7	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w6
+
+# sent_id = 2SB0315_2
+# text = et bien voilà
+1	et	_	_	_	_	_	_	_	id=s1.u2.w0
+2	bien	_	_	_	_	_	_	_	id=s1.u2.w1
+3	voilà	_	_	_	_	_	_	_	id=s1.u2.w2
+
+# sent_id = 2SB0315_3
+# text = merci et où je puis j' en trouver un autre avec les sens interdits e marqués e puis je en acheter de toute façon
+1	merci	_	_	_	_	_	_	_	id=s1.u3.w0
+2	et	_	_	_	_	_	_	_	id=s1.u3.w1
+3	où	_	_	_	_	_	_	_	id=s1.u3.w2
+4	je	_	_	_	_	_	_	_	id=s1.u3.w3
+5	puis	_	_	_	_	_	_	_	id=s1.u3.w4
+6	j'	_	_	_	_	_	_	_	id=s1.u3.w5
+7	en	_	_	_	_	_	_	_	id=s1.u3.w6
+8	trouver	_	_	_	_	_	_	_	id=s1.u3.w7
+9	un	_	_	_	_	_	_	_	id=s1.u3.w8
+10	autre	_	_	_	_	_	_	_	id=s1.u3.w9
+11	avec	_	_	_	_	_	_	_	id=s1.u3.w10
+12	les	_	_	_	_	_	_	_	id=s1.u3.w11
+13	sens	_	_	_	_	_	_	_	id=s1.u3.w12
+14	interdits	_	_	_	_	_	_	_	id=s1.u3.w13
+15	e	_	_	_	_	_	_	_	id=s1.u3.w14
+16	marqués	_	_	_	_	_	_	_	id=s1.u3.w15
+17	e	_	_	_	_	_	_	_	id=s1.u3.w16
+18	puis	_	_	_	_	_	_	_	id=s1.u3.w17
+19	je	_	_	_	_	_	_	_	id=s1.u3.w18
+20	en	_	_	_	_	_	_	_	id=s1.u3.w19
+21	acheter	_	_	_	_	_	_	_	id=s1.u3.w20
+22	de	_	_	_	_	_	_	_	id=s1.u3.w21
+23	toute	_	_	_	_	_	_	_	id=s1.u3.w22
+24	façon	_	_	_	_	_	_	_	id=s1.u3.w23
+
+# sent_id = 2SB0315_4
+# text = on a des plans en vente à côté il faudrait demander à ma collègue on en vend deux deux deux deux styles non deux sortes différents voilà
+1	on	_	_	_	_	_	_	_	id=s1.u4.w0
+2	a	_	_	_	_	_	_	_	id=s1.u4.w1
+3	des	_	_	_	_	_	_	_	id=s1.u4.w2
+4	plans	_	_	_	_	_	_	_	id=s1.u4.w3
+5	en	_	_	_	_	_	_	_	id=s1.u4.w4
+6	vente	_	_	_	_	_	_	_	id=s1.u4.w5
+7	à	_	_	_	_	_	_	_	id=s1.u4.w6
+8	côté	_	_	_	_	_	_	_	id=s1.u4.w7
+9	il	_	_	_	_	_	_	_	id=s1.u4.w8
+10	faudrait	_	_	_	_	_	_	_	id=s1.u4.w9
+11	demander	_	_	_	_	_	_	_	id=s1.u4.w10
+12	à	_	_	_	_	_	_	_	id=s1.u4.w11
+13	ma	_	_	_	_	_	_	_	id=s1.u4.w12
+14	collègue	_	_	_	_	_	_	_	id=s1.u4.w13
+15	on	_	_	_	_	_	_	_	id=s1.u4.w14
+16	en	_	_	_	_	_	_	_	id=s1.u4.w15
+17	vend	_	_	_	_	_	_	_	id=s1.u4.w16
+18	deux	_	_	_	_	_	_	_	id=s1.u4.w17
+19	deux	_	_	_	_	_	_	_	id=s1.u4.w18
+20	deux	_	_	_	_	_	_	_	id=s1.u4.w19
+21	deux	_	_	_	_	_	_	_	id=s1.u4.w20
+22	styles	_	_	_	_	_	_	_	id=s1.u4.w21
+23	non	_	_	_	_	_	_	_	id=s1.u4.w22
+24	deux	_	_	_	_	_	_	_	id=s1.u4.w23
+25	sortes	_	_	_	_	_	_	_	id=s1.u4.w24
+26	différents	_	_	_	_	_	_	_	id=s1.u4.w25
+27	voilà	_	_	_	_	_	_	_	id=s1.u4.w26
+
+# sent_id = 2SB0315_5
+# text = sens interdits
+1	sens	_	_	_	_	_	_	_	id=s1.u5.w0
+2	interdits	_	_	_	_	_	_	_	id=s1.u5.w1
+
+# sent_id = 2SB0315_6
+# text = deux sortes
+1	deux	_	_	_	_	_	_	_	id=s1.u6.w0
+2	sortes	_	_	_	_	_	_	_	id=s1.u6.w1
+
+# sent_id = 2SB0315_7
+# text = et ben d' accord merci
+1	et	_	_	_	_	_	_	_	id=s1.u7.w0
+2	ben	_	_	_	_	_	_	_	id=s1.u7.w1
+3	d'	_	_	_	_	_	_	_	id=s1.u7.w2
+4	accord	_	_	_	_	_	_	_	id=s1.u7.w3
+5	merci	_	_	_	_	_	_	_	id=s1.u7.w4
+

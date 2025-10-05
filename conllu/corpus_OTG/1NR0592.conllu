@@ -1,0 +1,39 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1NR0592_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1NR0592_1
+# text = je voulais savoir s' il existe un plan des pistes cyclables de Grenoble
+1	je	_	_	_	_	_	_	_	id=s1.u1.w0
+2	voulais	_	_	_	_	_	_	_	id=s1.u1.w1
+3	savoir	_	_	_	_	_	_	_	id=s1.u1.w2
+4	s'	_	_	_	_	_	_	_	id=s1.u1.w3
+5	il	_	_	_	_	_	_	_	id=s1.u1.w4
+6	existe	_	_	_	_	_	_	_	id=s1.u1.w5
+7	un	_	_	_	_	_	_	_	id=s1.u1.w6
+8	plan	_	_	_	_	_	_	_	id=s1.u1.w7
+9	des	_	_	_	_	_	_	_	id=s1.u1.w8
+10	pistes	_	_	_	_	_	_	_	id=s1.u1.w9
+11	cyclables	_	_	_	_	_	_	_	id=s1.u1.w10
+12	de	_	_	_	_	_	_	_	id=s1.u1.w11
+13	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w12
+
+# sent_id = 1NR0592_2
+# text = bien sûr ouais
+1	bien	_	_	_	_	_	_	_	id=s1.u2.w0
+2	sûr	_	_	_	_	_	_	_	id=s1.u2.w1
+3	ouais	_	_	_	_	_	_	_	id=s1.u2.w2
+
+# sent_id = 1NR0592_3
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1NR0592_4
+# text = mais je vous en prie
+1	mais	_	_	_	_	_	_	_	id=s1.u4.w0
+2	je	_	_	_	_	_	_	_	id=s1.u4.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u4.w2
+4	en	_	_	_	_	_	_	_	id=s1.u4.w3
+5	prie	_	_	_	_	_	_	_	id=s1.u4.w4
+

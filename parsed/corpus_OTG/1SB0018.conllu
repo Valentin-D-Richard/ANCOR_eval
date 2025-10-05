@@ -1,0 +1,69 @@
+# sent_id = 1SB0018_0
+# text = je voudrais un pistes des vélos une
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u0.w0
+2	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u0.w1
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	id=s1.u0.w2
+4	pistes	piste	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	id=s1.u0.w3
+5	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	6	det	_	id=s1.u0.w4
+6	vélos	vélo	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	id=s1.u0.w5
+7	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	reparandum	_	id=s1.u0.w6
+
+# sent_id = 1SB0018_1
+# text = plan des pistes cyclables on en a plus
+1	plan	plan	NOUN	_	Gender=Masc|Number=Sing	7	dislocated	_	_none=|id=s1.u1.w0
+2	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	3	det	_	id=s1.u1.w1
+3	pistes	piste	NOUN	_	Gender=Fem|Number=Plur	1	nmod	_	id=s1.u1.w2
+4	cyclables	cyclable	ADJ	_	Gender=Fem|Number=Plur	3	amod	_	id=s1.u1.w3
+5	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	nsubj	_	_none=|id=s1.u1.w4
+6	en	en	PRON	_	Person=3|PronType=Prs	7	obj	_	_none=|id=s1.u1.w5
+7	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w6
+8	plus	plus	ADV	_	_	7	advmod	_	_none=|id=s1.u1.w7
+
+# sent_id = 1SB0018_2
+# text = vous en avez plus
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	id=s1.u2.w0
+2	en	en	PRON	_	Person=3|PronType=Prs	3	obj	_	_none=|id=s1.u2.w1
+3	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w2
+4	plus	plus	ADV	_	_	3	advmod	_	_none=|id=s1.u2.w3
+
+# sent_id = 1SB0018_3
+# text = non ils ont fini leur stock ils rééditent le document donc sous un mois à peu près
+1	non	non	ADV	_	_	4	discourse	_	id=s1.u3.w0
+2	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	id=s1.u3.w1
+3	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_none=|id=s1.u3.w2
+4	fini	finir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u3.w3
+5	leur	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=3|PronType=Prs	6	det	_	id=s1.u3.w4
+6	stock	stock	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_none=|id=s1.u3.w5
+7	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	id=s1.u3.w6
+8	rééditent	rééditer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	id=s1.u3.w7
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	id=s1.u3.w8
+10	document	document	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	id=s1.u3.w9
+11	donc	donc	ADV	_	_	14	advmod	_	_none=|id=s1.u3.w10
+12	sous	sous	ADP	_	_	14	case	_	_none=|id=s1.u3.w11
+13	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_none=|id=s1.u3.w12
+14	mois	mois	NOUN	_	Gender=Masc|Number=Sing	8	obl:mod	_	_none=|id=s1.u3.w13
+15	à	à	ADP	_	_	14	advmod	_	_none=|id=s1.u3.w14
+16	peu	peu	ADV	_	_	15	fixed	_	_none=|id=s1.u3.w15
+17	près	près	ADV	_	_	15	fixed	_	_none=|id=s1.u3.w16
+
+# sent_id = 1SB0018_4
+# text = un mois
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u4.w0
+2	mois	mois	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u4.w1
+
+# sent_id = 1SB0018_5
+# text = ouais
+1	ouais	ouais	INTJ	_	_	0	root	_	_none=|id=s1.u5.w0
+
+# sent_id = 1SB0018_6
+# text = bon d' accord merci
+1	bon	bon	INTJ	_	_	2	discourse	_	_none=|id=s1.u6.w0
+2	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u6.w1
+3	accord	accord	NOUN	_	Gender=Masc|Number=Sing	2	fixed	_	id=s1.u6.w2
+4	merci	merci	INTJ	_	_	2	dep	_	_none=|id=s1.u6.w3
+
+# sent_id = 1SB0018_7
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u7.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u7.w1
+

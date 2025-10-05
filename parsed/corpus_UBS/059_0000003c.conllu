@@ -1,0 +1,71 @@
+# sent_id = 059_0000003c_0
+# text = U B S bonjour
+1	U	U	PROPN	_	_	4	dep	_	_none=|id=s1.u0.w0
+2	B	B	PROPN	_	_	1	flat:name	_	_none=|id=s1.u0.w1
+3	S	S	PROPN	_	_	1	dep	_	_none=|id=s1.u0.w2
+4	bonjour	bonjour	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w3
+
+# sent_id = 059_0000003c_1
+# text = oui bonjour je vous appelle au sujet des résultats de DEUG droit deuxième année j' aimerais savoir quand est ce qu' ils seraient affiché
+1	oui	oui	INTJ	_	_	5	discourse	_	_none=|id=s1.u1.w0
+2	bonjour	bonjour	INTJ	_	_	5	discourse	_	_none=|id=s1.u1.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u1.w2
+4	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	5	iobj	_	id=s1.u1.w3
+5	appelle	appeler	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u1.w4
+6	au	au	ADP	_	_	7	case	_	_none=|id=s1.u1.w5
+7	sujet	sujet	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_none=|id=s1.u1.w6
+8	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	9	det	_	id=s1.u1.w7
+9	résultats	résultat	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	id=s1.u1.w8
+10	de	de	ADP	_	_	11	case	_	_none=|id=s1.u1.w9
+11	DEUG	DEUG	PROPN	_	_	9	nmod	_	_none=|id=s1.u1.w10
+12	droit	droit	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_none=|id=s1.u1.w11
+13	deuxième	deuxième	ADJ	_	Number=Sing	14	amod	_	_none=|id=s1.u1.w12
+14	année	année	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_none=|id=s1.u1.w13
+15	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_none=|id=s1.u1.w14
+16	aimerais	aimer	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	id=s1.u1.w15
+17	savoir	savoir	VERB	_	VerbForm=Inf	16	xcomp	_	_none=|id=s1.u1.w16
+18	quand	quand	ADV	_	Person=3|PronType=Int	17	ccomp	_	_none=|id=s1.u1.w17
+19	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	id=s1.u1.w18
+20	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	17	obj	_	id=s1.u1.w19
+21	qu'	que	PRON	_	PronType=Rel	24	obj	_	id=s1.u1.w20
+22	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	24	nsubj	_	id=s1.u1.w21
+23	seraient	être	AUX	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	aux:tense	_	_none=|id=s1.u1.w22
+24	affiché	afficher	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	acl:relcl	_	id=s1.u1.w23
+
+# sent_id = 059_0000003c_2
+# text = oui je vais vous passer une personne conservez si
+1	oui	oui	ADV	_	_	3	discourse	_	_none=|id=s1.u2.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u2.w1
+3	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w2
+4	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	5	iobj	_	id=s1.u2.w3
+5	passer	passer	VERB	_	VerbForm=Inf	3	xcomp	_	id=s1.u2.w4
+6	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	id=s1.u2.w5
+7	personne	personne	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	id=s1.u2.w6
+8	conservez	conserver	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	discourse	_	id=s1.u2.w7
+9	si	si	SCONJ	_	_	8	discourse	_	_none=|id=s1.u2.w8
+
+# sent_id = 059_0000003c_3
+# text = d' accord merci
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u3.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u3.w1
+3	merci	merci	ADJ	_	_	1	fixed	_	_none=|id=s1.u3.w2
+
+# sent_id = 059_0000003c_4
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u4.w0
+
+# sent_id = 059_0000003c_5
+# text = oui je te je te passe une communication
+1	oui	oui	INTJ	_	_	6	discourse	_	_none=|id=s1.u5.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_none=|id=s1.u5.w1
+3	te	il	PRON	_	Number=Sing|Person=2|PronType=Prs	2	dep	_	_none=|id=s1.u5.w2
+4	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_none=|id=s1.u5.w3
+5	te	lui	PRON	_	Number=Sing|Person=2|PronType=Prs	6	iobj	_	_none=|id=s1.u5.w4
+6	passe	passer	VERB	ETRE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u5.w5
+7	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	id=s1.u5.w6
+8	communication	communication	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	id=s1.u5.w7
+
+# sent_id = 059_0000003c_6
+# text = ouais
+1	ouais	ouais	INTJ	_	_	0	root	_	_none=|id=s1.u6.w0
+

@@ -1,0 +1,116 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0565_0
+# text = monsieur
+1	monsieur	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AG0565_1
+# text = je voudrais prendre la ligne trente-trois on n' a pas de prix non non il y a il y a il y a rien il y a rien
+1	je	_	_	_	_	_	_	_	id=s1.u1.w0
+2	voudrais	_	_	_	_	_	_	_	id=s1.u1.w1
+3	prendre	_	_	_	_	_	_	_	id=s1.u1.w2
+4	la	_	_	_	_	_	_	_	id=s1.u1.w3
+5	ligne	_	_	_	_	_	_	_	id=s1.u1.w4
+6	trente-trois	_	_	_	_	_	_	_	id=s1.u1.w5
+7	on	_	_	_	_	_	_	_	id=s1.u1.w6
+8	n'	_	_	_	_	_	_	_	id=s1.u1.w7
+9	a	_	_	_	_	_	_	_	id=s1.u1.w8
+10	pas	_	_	_	_	_	_	_	id=s1.u1.w9
+11	de	_	_	_	_	_	_	_	id=s1.u1.w10
+12	prix	_	_	_	_	_	_	_	id=s1.u1.w11
+13	non	_	_	_	_	_	_	_	id=s1.u1.w12
+14	non	_	_	_	_	_	_	_	id=s1.u1.w13
+15	il	_	_	_	_	_	_	_	id=s1.u1.w14
+16	y	_	_	_	_	_	_	_	id=s1.u1.w15
+17	a	_	_	_	_	_	_	_	id=s1.u1.w16
+18	il	_	_	_	_	_	_	_	id=s1.u1.w17
+19	y	_	_	_	_	_	_	_	id=s1.u1.w18
+20	a	_	_	_	_	_	_	_	id=s1.u1.w19
+21	il	_	_	_	_	_	_	_	id=s1.u1.w20
+22	y	_	_	_	_	_	_	_	id=s1.u1.w21
+23	a	_	_	_	_	_	_	_	id=s1.u1.w22
+24	rien	_	_	_	_	_	_	_	id=s1.u1.w23
+25	il	_	_	_	_	_	_	_	id=s1.u1.w24
+26	y	_	_	_	_	_	_	_	id=s1.u1.w25
+27	a	_	_	_	_	_	_	_	id=s1.u1.w26
+28	rien	_	_	_	_	_	_	_	id=s1.u1.w27
+
+# sent_id = 1AG0565_2
+# text = au TAG qu' il faut s' adresser
+1	au	_	_	_	_	_	_	_	id=s1.u2.w0
+2	TAG	_	_	_	_	_	_	_	id=s1.u2.w1
+3	qu'	_	_	_	_	_	_	_	id=s1.u2.w2
+4	il	_	_	_	_	_	_	_	id=s1.u2.w3
+5	faut	_	_	_	_	_	_	_	id=s1.u2.w4
+6	s'	_	_	_	_	_	_	_	id=s1.u2.w5
+7	adresser	_	_	_	_	_	_	_	id=s1.u2.w6
+
+# sent_id = 1AG0565_3
+# text = mais c' est pas c' est les TAG qui s' occupent de leur prospectus
+1	mais	_	_	_	_	_	_	_	id=s1.u3.w0
+2	c'	_	_	_	_	_	_	_	id=s1.u3.w1
+3	est	_	_	_	_	_	_	_	id=s1.u3.w2
+4	pas	_	_	_	_	_	_	_	id=s1.u3.w3
+5	c'	_	_	_	_	_	_	_	id=s1.u3.w4
+6	est	_	_	_	_	_	_	_	id=s1.u3.w5
+7	les	_	_	_	_	_	_	_	id=s1.u3.w6
+8	TAG	_	_	_	_	_	_	_	id=s1.u3.w7
+9	qui	_	_	_	_	_	_	_	id=s1.u3.w8
+10	s'	_	_	_	_	_	_	_	id=s1.u3.w9
+11	occupent	_	_	_	_	_	_	_	id=s1.u3.w10
+12	de	_	_	_	_	_	_	_	id=s1.u3.w11
+13	leur	_	_	_	_	_	_	_	id=s1.u3.w12
+14	prospectus	_	_	_	_	_	_	_	id=s1.u3.w13
+
+# sent_id = 1AG0565_4
+# text = comment
+1	comment	_	_	_	_	_	_	_	id=s1.u4.w0
+
+# sent_id = 1AG0565_5
+# text = il faut voir avec les TAG
+1	il	_	_	_	_	_	_	_	id=s1.u5.w0
+2	faut	_	_	_	_	_	_	_	id=s1.u5.w1
+3	voir	_	_	_	_	_	_	_	id=s1.u5.w2
+4	avec	_	_	_	_	_	_	_	id=s1.u5.w3
+5	les	_	_	_	_	_	_	_	id=s1.u5.w4
+6	TAG	_	_	_	_	_	_	_	id=s1.u5.w5
+
+# sent_id = 1AG0565_6
+# text = ah les TAG
+1	ah	_	_	_	_	_	_	_	id=s1.u6.w0
+2	les	_	_	_	_	_	_	_	id=s1.u6.w1
+3	TAG	_	_	_	_	_	_	_	id=s1.u6.w2
+
+# sent_id = 1AG0565_7
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u7.w0
+
+# sent_id = 1AG0565_8
+# text = parce qu' il y a un truc là mais il y a de
+1	parce	_	_	_	_	_	_	_	id=s1.u8.w0
+2	qu'	_	_	_	_	_	_	_	id=s1.u8.w1
+3	il	_	_	_	_	_	_	_	id=s1.u8.w2
+4	y	_	_	_	_	_	_	_	id=s1.u8.w3
+5	a	_	_	_	_	_	_	_	id=s1.u8.w4
+6	un	_	_	_	_	_	_	_	id=s1.u8.w5
+7	truc	_	_	_	_	_	_	_	id=s1.u8.w6
+8	là	_	_	_	_	_	_	_	id=s1.u8.w7
+9	mais	_	_	_	_	_	_	_	id=s1.u8.w8
+10	il	_	_	_	_	_	_	_	id=s1.u8.w9
+11	y	_	_	_	_	_	_	_	id=s1.u8.w10
+12	a	_	_	_	_	_	_	_	id=s1.u8.w11
+13	de	_	_	_	_	_	_	_	id=s1.u8.w12
+
+# sent_id = 1AG0565_9
+# text = il faut leur demander ils en ont peut être en réserve
+1	il	_	_	_	_	_	_	_	id=s1.u9.w0
+2	faut	_	_	_	_	_	_	_	id=s1.u9.w1
+3	leur	_	_	_	_	_	_	_	id=s1.u9.w2
+4	demander	_	_	_	_	_	_	_	id=s1.u9.w3
+5	ils	_	_	_	_	_	_	_	id=s1.u9.w4
+6	en	_	_	_	_	_	_	_	id=s1.u9.w5
+7	ont	_	_	_	_	_	_	_	id=s1.u9.w6
+8	peut	_	_	_	_	_	_	_	id=s1.u9.w7
+9	être	_	_	_	_	_	_	_	id=s1.u9.w8
+10	en	_	_	_	_	_	_	_	id=s1.u9.w9
+11	réserve	_	_	_	_	_	_	_	id=s1.u9.w10
+

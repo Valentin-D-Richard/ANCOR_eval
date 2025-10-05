@@ -1,0 +1,149 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 083_00000054_0
+# text = U B S bonjour
+1	U	_	_	_	_	_	_	_	id=s1.u0.w0
+2	B	_	_	_	_	_	_	_	id=s1.u0.w1
+3	S	_	_	_	_	_	_	_	id=s1.u0.w2
+4	bonjour	_	_	_	_	_	_	_	id=s1.u0.w3
+
+# sent_id = 083_00000054_1
+# text = oui bonjour madame pourrais je parler à monsieur Nom s' il vous plait
+1	oui	_	_	_	_	_	_	_	id=s1.u1.w0
+2	bonjour	_	_	_	_	_	_	_	id=s1.u1.w1
+3	madame	_	_	_	_	_	_	_	id=s1.u1.w2
+4	pourrais	_	_	_	_	_	_	_	id=s1.u1.w3
+5	je	_	_	_	_	_	_	_	id=s1.u1.w4
+6	parler	_	_	_	_	_	_	_	id=s1.u1.w5
+7	à	_	_	_	_	_	_	_	id=s1.u1.w6
+8	monsieur	_	_	_	_	_	_	_	id=s1.u1.w7
+9	Nom	_	_	_	_	_	_	_	id=s1.u1.w8
+10	s'	_	_	_	_	_	_	_	id=s1.u1.w9
+11	il	_	_	_	_	_	_	_	id=s1.u1.w10
+12	vous	_	_	_	_	_	_	_	id=s1.u1.w11
+13	plait	_	_	_	_	_	_	_	id=s1.u1.w12
+
+# sent_id = 083_00000054_2
+# text = monsieur Nom
+1	monsieur	_	_	_	_	_	_	_	id=s1.u2.w0
+2	Nom	_	_	_	_	_	_	_	id=s1.u2.w1
+
+# sent_id = 083_00000054_3
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 083_00000054_4
+# text = je vais rechercher je vais regarder s' il est dans son bureau et dans quelle filière il travaille
+1	je	_	_	_	_	_	_	_	id=s1.u4.w0
+2	vais	_	_	_	_	_	_	_	id=s1.u4.w1
+3	rechercher	_	_	_	_	_	_	_	id=s1.u4.w2
+4	je	_	_	_	_	_	_	_	id=s1.u4.w3
+5	vais	_	_	_	_	_	_	_	id=s1.u4.w4
+6	regarder	_	_	_	_	_	_	_	id=s1.u4.w5
+7	s'	_	_	_	_	_	_	_	id=s1.u4.w6
+8	il	_	_	_	_	_	_	_	id=s1.u4.w7
+9	est	_	_	_	_	_	_	_	id=s1.u4.w8
+10	dans	_	_	_	_	_	_	_	id=s1.u4.w9
+11	son	_	_	_	_	_	_	_	id=s1.u4.w10
+12	bureau	_	_	_	_	_	_	_	id=s1.u4.w11
+13	et	_	_	_	_	_	_	_	id=s1.u4.w12
+14	dans	_	_	_	_	_	_	_	id=s1.u4.w13
+15	quelle	_	_	_	_	_	_	_	id=s1.u4.w14
+16	filière	_	_	_	_	_	_	_	id=s1.u4.w15
+17	il	_	_	_	_	_	_	_	id=s1.u4.w16
+18	travaille	_	_	_	_	_	_	_	id=s1.u4.w17
+
+# sent_id = 083_00000054_5
+# text = e il travaille e au niveau informatique
+1	e	_	_	_	_	_	_	_	id=s1.u5.w0
+2	il	_	_	_	_	_	_	_	id=s1.u5.w1
+3	travaille	_	_	_	_	_	_	_	id=s1.u5.w2
+4	e	_	_	_	_	_	_	_	id=s1.u5.w3
+5	au	_	_	_	_	_	_	_	id=s1.u5.w4
+6	niveau	_	_	_	_	_	_	_	id=s1.u5.w5
+7	informatique	_	_	_	_	_	_	_	id=s1.u5.w6
+
+# sent_id = 083_00000054_6
+# text = ha c' est Prénom Nom
+1	ha	_	_	_	_	_	_	_	id=s1.u6.w0
+2	c'	_	_	_	_	_	_	_	id=s1.u6.w1
+3	est	_	_	_	_	_	_	_	id=s1.u6.w2
+4	Prénom	_	_	_	_	_	_	_	id=s1.u6.w3
+5	Nom	_	_	_	_	_	_	_	id=s1.u6.w4
+
+# sent_id = 083_00000054_7
+# text = voilà tout à fait madame
+1	voilà	_	_	_	_	_	_	_	id=s1.u7.w0
+2	tout	_	_	_	_	_	_	_	id=s1.u7.w1
+3	à	_	_	_	_	_	_	_	id=s1.u7.w2
+4	fait	_	_	_	_	_	_	_	id=s1.u7.w3
+5	madame	_	_	_	_	_	_	_	id=s1.u7.w4
+
+# sent_id = 083_00000054_8
+# text = oui alors attendez lui il est en en science attendez je vais vous le passer son bureau là vous êtes au droit e Nom Prénom alors 0 2 97
+1	oui	_	_	_	_	_	_	_	id=s1.u8.w0
+2	alors	_	_	_	_	_	_	_	id=s1.u8.w1
+3	attendez	_	_	_	_	_	_	_	id=s1.u8.w2
+4	lui	_	_	_	_	_	_	_	id=s1.u8.w3
+5	il	_	_	_	_	_	_	_	id=s1.u8.w4
+6	est	_	_	_	_	_	_	_	id=s1.u8.w5
+7	en	_	_	_	_	_	_	_	id=s1.u8.w6
+8	en	_	_	_	_	_	_	_	id=s1.u8.w7
+9	science	_	_	_	_	_	_	_	id=s1.u8.w8
+10	attendez	_	_	_	_	_	_	_	id=s1.u8.w9
+11	je	_	_	_	_	_	_	_	id=s1.u8.w10
+12	vais	_	_	_	_	_	_	_	id=s1.u8.w11
+13	vous	_	_	_	_	_	_	_	id=s1.u8.w12
+14	le	_	_	_	_	_	_	_	id=s1.u8.w13
+15	passer	_	_	_	_	_	_	_	id=s1.u8.w14
+16	son	_	_	_	_	_	_	_	id=s1.u8.w15
+17	bureau	_	_	_	_	_	_	_	id=s1.u8.w16
+18	là	_	_	_	_	_	_	_	id=s1.u8.w17
+19	vous	_	_	_	_	_	_	_	id=s1.u8.w18
+20	êtes	_	_	_	_	_	_	_	id=s1.u8.w19
+21	au	_	_	_	_	_	_	_	id=s1.u8.w20
+22	droit	_	_	_	_	_	_	_	id=s1.u8.w21
+23	e	_	_	_	_	_	_	_	id=s1.u8.w22
+24	Nom	_	_	_	_	_	_	_	id=s1.u8.w23
+25	Prénom	_	_	_	_	_	_	_	id=s1.u8.w24
+26	alors	_	_	_	_	_	_	_	id=s1.u8.w25
+27	0	_	_	_	_	_	_	_	id=s1.u8.w26
+28	2	_	_	_	_	_	_	_	id=s1.u8.w27
+29	97	_	_	_	_	_	_	_	id=s1.u8.w28
+
+# sent_id = 083_00000054_9
+# text = 
+
+# sent_id = 083_00000054_10
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u10.w0
+
+# sent_id = 083_00000054_11
+# text = 0 1
+1	0	_	_	_	_	_	_	_	id=s1.u11.w0
+2	1	_	_	_	_	_	_	_	id=s1.u11.w1
+
+# sent_id = 083_00000054_12
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u12.w0
+
+# sent_id = 083_00000054_13
+# text = 70 XX
+1	70	_	_	_	_	_	_	_	id=s1.u13.w0
+2	XX	_	_	_	_	_	_	_	id=s1.u13.w1
+
+# sent_id = 083_00000054_14
+# text = 70 XX très bien je vous remercie madame au revoir
+1	70	_	_	_	_	_	_	_	id=s1.u14.w0
+2	XX	_	_	_	_	_	_	_	id=s1.u14.w1
+3	très	_	_	_	_	_	_	_	id=s1.u14.w2
+4	bien	_	_	_	_	_	_	_	id=s1.u14.w3
+5	je	_	_	_	_	_	_	_	id=s1.u14.w4
+6	vous	_	_	_	_	_	_	_	id=s1.u14.w5
+7	remercie	_	_	_	_	_	_	_	id=s1.u14.w6
+8	madame	_	_	_	_	_	_	_	id=s1.u14.w7
+9	au	_	_	_	_	_	_	_	id=s1.u14.w8
+10	revoir	_	_	_	_	_	_	_	id=s1.u14.w9
+
+# sent_id = 083_00000054_15
+# text = 
+

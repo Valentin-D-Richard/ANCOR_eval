@@ -1,0 +1,231 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0467_0
+# text = 
+
+# sent_id = 1PF0467_1
+# text = e je suis nouvel arrivant
+1	e	_	_	_	_	_	_	_	id=s1.u1.w0
+2	je	_	_	_	_	_	_	_	id=s1.u1.w1
+3	suis	_	_	_	_	_	_	_	id=s1.u1.w2
+4	nouvel	_	_	_	_	_	_	_	id=s1.u1.w3
+5	arrivant	_	_	_	_	_	_	_	id=s1.u1.w4
+
+# sent_id = 1PF0467_2
+# text = ouais
+1	ouais	_	_	_	_	_	_	_	id=s1.u2.w0
+
+# sent_id = 1PF0467_3
+# text = j' aurais voulu avoir des documents un peu sur toutes les activités sportives e c' est possible
+1	j'	_	_	_	_	_	_	_	id=s1.u3.w0
+2	aurais	_	_	_	_	_	_	_	id=s1.u3.w1
+3	voulu	_	_	_	_	_	_	_	id=s1.u3.w2
+4	avoir	_	_	_	_	_	_	_	id=s1.u3.w3
+5	des	_	_	_	_	_	_	_	id=s1.u3.w4
+6	documents	_	_	_	_	_	_	_	id=s1.u3.w5
+7	un	_	_	_	_	_	_	_	id=s1.u3.w6
+8	peu	_	_	_	_	_	_	_	id=s1.u3.w7
+9	sur	_	_	_	_	_	_	_	id=s1.u3.w8
+10	toutes	_	_	_	_	_	_	_	id=s1.u3.w9
+11	les	_	_	_	_	_	_	_	id=s1.u3.w10
+12	activités	_	_	_	_	_	_	_	id=s1.u3.w11
+13	sportives	_	_	_	_	_	_	_	id=s1.u3.w12
+14	e	_	_	_	_	_	_	_	id=s1.u3.w13
+15	c'	_	_	_	_	_	_	_	id=s1.u3.w14
+16	est	_	_	_	_	_	_	_	id=s1.u3.w15
+17	possible	_	_	_	_	_	_	_	id=s1.u3.w16
+
+# sent_id = 1PF0467_4
+# text = sportives c' est pas nous c' est l' OMS l' Office Municipal des sports ils sont trois passage du palais de justice ils sont indépendants eux
+1	sportives	_	_	_	_	_	_	_	id=s1.u4.w0
+2	c'	_	_	_	_	_	_	_	id=s1.u4.w1
+3	est	_	_	_	_	_	_	_	id=s1.u4.w2
+4	pas	_	_	_	_	_	_	_	id=s1.u4.w3
+5	nous	_	_	_	_	_	_	_	id=s1.u4.w4
+6	c'	_	_	_	_	_	_	_	id=s1.u4.w5
+7	est	_	_	_	_	_	_	_	id=s1.u4.w6
+8	l'	_	_	_	_	_	_	_	id=s1.u4.w7
+9	OMS	_	_	_	_	_	_	_	id=s1.u4.w8
+10	l'	_	_	_	_	_	_	_	id=s1.u4.w9
+11	Office	_	_	_	_	_	_	_	id=s1.u4.w10
+12	Municipal	_	_	_	_	_	_	_	id=s1.u4.w11
+13	des	_	_	_	_	_	_	_	id=s1.u4.w12
+14	sports	_	_	_	_	_	_	_	id=s1.u4.w13
+15	ils	_	_	_	_	_	_	_	id=s1.u4.w14
+16	sont	_	_	_	_	_	_	_	id=s1.u4.w15
+17	trois	_	_	_	_	_	_	_	id=s1.u4.w16
+18	passage	_	_	_	_	_	_	_	id=s1.u4.w17
+19	du	_	_	_	_	_	_	_	id=s1.u4.w18
+20	palais	_	_	_	_	_	_	_	id=s1.u4.w19
+21	de	_	_	_	_	_	_	_	id=s1.u4.w20
+22	justice	_	_	_	_	_	_	_	id=s1.u4.w21
+23	ils	_	_	_	_	_	_	_	id=s1.u4.w22
+24	sont	_	_	_	_	_	_	_	id=s1.u4.w23
+25	indépendants	_	_	_	_	_	_	_	id=s1.u4.w24
+26	eux	_	_	_	_	_	_	_	id=s1.u4.w25
+
+# sent_id = 1PF0467_5
+# text = hum hum
+1	hum	_	_	_	_	_	_	_	id=s1.u5.w0
+2	hum	_	_	_	_	_	_	_	id=s1.u5.w1
+
+# sent_id = 1PF0467_6
+# text = c' est deux cent soixante-sept associations sur Grenoble sportives donc vous comprenez c' est pas la même association
+1	c'	_	_	_	_	_	_	_	id=s1.u6.w0
+2	est	_	_	_	_	_	_	_	id=s1.u6.w1
+3	deux	_	_	_	_	_	_	_	id=s1.u6.w2
+4	cent	_	_	_	_	_	_	_	id=s1.u6.w3
+5	soixante-sept	_	_	_	_	_	_	_	id=s1.u6.w4
+6	associations	_	_	_	_	_	_	_	id=s1.u6.w5
+7	sur	_	_	_	_	_	_	_	id=s1.u6.w6
+8	Grenoble	_	_	_	_	_	_	_	id=s1.u6.w7
+9	sportives	_	_	_	_	_	_	_	id=s1.u6.w8
+10	donc	_	_	_	_	_	_	_	id=s1.u6.w9
+11	vous	_	_	_	_	_	_	_	id=s1.u6.w10
+12	comprenez	_	_	_	_	_	_	_	id=s1.u6.w11
+13	c'	_	_	_	_	_	_	_	id=s1.u6.w12
+14	est	_	_	_	_	_	_	_	id=s1.u6.w13
+15	pas	_	_	_	_	_	_	_	id=s1.u6.w14
+16	la	_	_	_	_	_	_	_	id=s1.u6.w15
+17	même	_	_	_	_	_	_	_	id=s1.u6.w16
+18	association	_	_	_	_	_	_	_	id=s1.u6.w17
+
+# sent_id = 1PF0467_7
+# text = 
+
+# sent_id = 1PF0467_8
+# text = hum hum
+1	hum	_	_	_	_	_	_	_	id=s1.u8.w0
+2	hum	_	_	_	_	_	_	_	id=s1.u8.w1
+
+# sent_id = 1PF0467_9
+# text = une grosse association l' OMS et dessus vous avez toutes les fédérations vous voulez faire du taekwondo du rafting du canyonning
+1	une	_	_	_	_	_	_	_	id=s1.u9.w0
+2	grosse	_	_	_	_	_	_	_	id=s1.u9.w1
+3	association	_	_	_	_	_	_	_	id=s1.u9.w2
+4	l'	_	_	_	_	_	_	_	id=s1.u9.w3
+5	OMS	_	_	_	_	_	_	_	id=s1.u9.w4
+6	et	_	_	_	_	_	_	_	id=s1.u9.w5
+7	dessus	_	_	_	_	_	_	_	id=s1.u9.w6
+8	vous	_	_	_	_	_	_	_	id=s1.u9.w7
+9	avez	_	_	_	_	_	_	_	id=s1.u9.w8
+10	toutes	_	_	_	_	_	_	_	id=s1.u9.w9
+11	les	_	_	_	_	_	_	_	id=s1.u9.w10
+12	fédérations	_	_	_	_	_	_	_	id=s1.u9.w11
+13	vous	_	_	_	_	_	_	_	id=s1.u9.w12
+14	voulez	_	_	_	_	_	_	_	id=s1.u9.w13
+15	faire	_	_	_	_	_	_	_	id=s1.u9.w14
+16	du	_	_	_	_	_	_	_	id=s1.u9.w15
+17	taekwondo	_	_	_	_	_	_	_	id=s1.u9.w16
+18	du	_	_	_	_	_	_	_	id=s1.u9.w17
+19	rafting	_	_	_	_	_	_	_	id=s1.u9.w18
+20	du	_	_	_	_	_	_	_	id=s1.u9.w19
+21	canyonning	_	_	_	_	_	_	_	id=s1.u9.w20
+
+# sent_id = 1PF0467_10
+# text = hum
+1	hum	_	_	_	_	_	_	_	id=s1.u10.w0
+
+# sent_id = 1PF0467_11
+# text = du rameur du saut en élastique
+1	du	_	_	_	_	_	_	_	id=s1.u11.w0
+2	rameur	_	_	_	_	_	_	_	id=s1.u11.w1
+3	du	_	_	_	_	_	_	_	id=s1.u11.w2
+4	saut	_	_	_	_	_	_	_	id=s1.u11.w3
+5	en	_	_	_	_	_	_	_	id=s1.u11.w4
+6	élastique	_	_	_	_	_	_	_	id=s1.u11.w5
+
+# sent_id = 1PF0467_12
+# text = d' accord
+1	d'	_	_	_	_	_	_	_	id=s1.u12.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u12.w1
+
+# sent_id = 1PF0467_13
+# text = vous avez toutes les possibilités de vous vous tuer en peu de temps
+1	vous	_	_	_	_	_	_	_	id=s1.u13.w0
+2	avez	_	_	_	_	_	_	_	id=s1.u13.w1
+3	toutes	_	_	_	_	_	_	_	id=s1.u13.w2
+4	les	_	_	_	_	_	_	_	id=s1.u13.w3
+5	possibilités	_	_	_	_	_	_	_	id=s1.u13.w4
+6	de	_	_	_	_	_	_	_	id=s1.u13.w5
+7	vous	_	_	_	_	_	_	_	id=s1.u13.w6
+8	vous	_	_	_	_	_	_	_	id=s1.u13.w7
+9	tuer	_	_	_	_	_	_	_	id=s1.u13.w8
+10	en	_	_	_	_	_	_	_	id=s1.u13.w9
+11	peu	_	_	_	_	_	_	_	id=s1.u13.w10
+12	de	_	_	_	_	_	_	_	id=s1.u13.w11
+13	temps	_	_	_	_	_	_	_	id=s1.u13.w12
+
+# sent_id = 1PF0467_14
+# text = d' accord merci au revoir
+1	d'	_	_	_	_	_	_	_	id=s1.u14.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u14.w1
+3	merci	_	_	_	_	_	_	_	id=s1.u14.w2
+4	au	_	_	_	_	_	_	_	id=s1.u14.w3
+5	revoir	_	_	_	_	_	_	_	id=s1.u14.w4
+
+# sent_id = 1PF0467_15
+# text = bon courage je vous ai oublié de vous dire à quinze heures le lundi quinze heures tous les jours hein jamais le matin hein
+1	bon	_	_	_	_	_	_	_	id=s1.u15.w0
+2	courage	_	_	_	_	_	_	_	id=s1.u15.w1
+3	je	_	_	_	_	_	_	_	id=s1.u15.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u15.w3
+5	ai	_	_	_	_	_	_	_	id=s1.u15.w4
+6	oublié	_	_	_	_	_	_	_	id=s1.u15.w5
+7	de	_	_	_	_	_	_	_	id=s1.u15.w6
+8	vous	_	_	_	_	_	_	_	id=s1.u15.w7
+9	dire	_	_	_	_	_	_	_	id=s1.u15.w8
+10	à	_	_	_	_	_	_	_	id=s1.u15.w9
+11	quinze	_	_	_	_	_	_	_	id=s1.u15.w10
+12	heures	_	_	_	_	_	_	_	id=s1.u15.w11
+13	le	_	_	_	_	_	_	_	id=s1.u15.w12
+14	lundi	_	_	_	_	_	_	_	id=s1.u15.w13
+15	quinze	_	_	_	_	_	_	_	id=s1.u15.w14
+16	heures	_	_	_	_	_	_	_	id=s1.u15.w15
+17	tous	_	_	_	_	_	_	_	id=s1.u15.w16
+18	les	_	_	_	_	_	_	_	id=s1.u15.w17
+19	jours	_	_	_	_	_	_	_	id=s1.u15.w18
+20	hein	_	_	_	_	_	_	_	id=s1.u15.w19
+21	jamais	_	_	_	_	_	_	_	id=s1.u15.w20
+22	le	_	_	_	_	_	_	_	id=s1.u15.w21
+23	matin	_	_	_	_	_	_	_	id=s1.u15.w22
+24	hein	_	_	_	_	_	_	_	id=s1.u15.w23
+
+# sent_id = 1PF0467_16
+# text = ouais
+1	ouais	_	_	_	_	_	_	_	id=s1.u16.w0
+
+# sent_id = 1PF0467_17
+# text = donc si vous attendez ils ouvrent que l' après midi à quinze heures
+1	donc	_	_	_	_	_	_	_	id=s1.u17.w0
+2	si	_	_	_	_	_	_	_	id=s1.u17.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u17.w2
+4	attendez	_	_	_	_	_	_	_	id=s1.u17.w3
+5	ils	_	_	_	_	_	_	_	id=s1.u17.w4
+6	ouvrent	_	_	_	_	_	_	_	id=s1.u17.w5
+7	que	_	_	_	_	_	_	_	id=s1.u17.w6
+8	l'	_	_	_	_	_	_	_	id=s1.u17.w7
+9	après	_	_	_	_	_	_	_	id=s1.u17.w8
+10	midi	_	_	_	_	_	_	_	id=s1.u17.w9
+11	à	_	_	_	_	_	_	_	id=s1.u17.w10
+12	quinze	_	_	_	_	_	_	_	id=s1.u17.w11
+13	heures	_	_	_	_	_	_	_	id=s1.u17.w12
+
+# sent_id = 1PF0467_18
+# text = ah d' accord
+1	ah	_	_	_	_	_	_	_	id=s1.u18.w0
+2	d'	_	_	_	_	_	_	_	id=s1.u18.w1
+3	accord	_	_	_	_	_	_	_	id=s1.u18.w2
+
+# sent_id = 1PF0467_19
+# text = ouais
+1	ouais	_	_	_	_	_	_	_	id=s1.u19.w0
+
+# sent_id = 1PF0467_20
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u20.w0
+
+# sent_id = 1PF0467_21
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u21.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u21.w1
+

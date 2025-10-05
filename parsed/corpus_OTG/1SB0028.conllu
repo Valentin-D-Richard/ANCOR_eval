@@ -1,0 +1,65 @@
+# sent_id = 1SB0028_0
+# text = bonjour je voudrais savoir où est la Caisse des Allocations Familiales
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u0.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u0.w1
+3	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u0.w2
+4	savoir	savoir	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u0.w3
+5	où	où	PRON	_	PronType=Rel	4	ccomp	_	id=s1.u0.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u0.w5
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	id=s1.u0.w6
+8	Caisse	Caisse	PROPN	_	Gender=Fem|Number=Sing	4	nsubj	_	id=s1.u0.w7
+9	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	10	det	_	id=s1.u0.w8
+10	Allocations	Allocations	PROPN	_	Gender=Fem|Number=Plur	8	nmod	_	id=s1.u0.w9
+11	Familiales	Familiales	PROPN	_	Gender=Fem|Number=Plur	10	amod	_	_none=|id=s1.u0.w10
+
+# sent_id = 1SB0028_1
+# text = rue des alliés
+1	rue	rue	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u1.w0
+2	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	3	case	_	id=s1.u1.w1
+3	alliés	allié	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	id=s1.u1.w2
+
+# sent_id = 1SB0028_2
+# text = c' est à dire
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	id=s1.u2.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w1
+3	à	à	ADP	_	_	4	mark	_	_none=|id=s1.u2.w2
+4	dire	dire	VERB	_	VerbForm=Inf	2	ccomp	_	_none=|id=s1.u2.w3
+
+# sent_id = 1SB0028_3
+# text = rue des alliés après le Cargo après la Chambre d' Agriculture
+1	rue	rue	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u3.w0
+2	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	3	det	_	id=s1.u3.w1
+3	alliés	allié	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	id=s1.u3.w2
+4	après	après	ADP	_	_	6	case	_	_none=|id=s1.u3.w3
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_none=|id=s1.u3.w4
+6	Cargo	Cargo	PROPN	_	_	1	nmod	_	_none=|id=s1.u3.w5
+7	après	après	ADP	_	_	9	case	_	_none=|id=s1.u3.w6
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	id=s1.u3.w7
+9	Chambre	Chambre	PROPN	_	_	3	conj	_	id=s1.u3.w8
+10	d'	de	ADP	_	_	11	case	_	id=s1.u3.w9
+11	Agriculture	Agriculture	PROPN	_	_	9	nmod	_	id=s1.u3.w10
+
+# sent_id = 1SB0028_4
+# text = on est où on est où nous d' accord très bien je vous remercie au revoir
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_none=|id=s1.u4.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u4.w1
+3	où	où	PRON	_	_	6	reparandum	_	id=s1.u4.w2
+4	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	nsubj	_	id=s1.u4.w3
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	id=s1.u4.w4
+6	où	où	PRON	_	PronType=Rel	14	ccomp	_	id=s1.u4.w5
+7	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	6	dislocated	_	id=s1.u4.w6
+8	d'	de	ADP	_	_	9	case	_	_none=|id=s1.u4.w7
+9	accord	accord	NOUN	_	Gender=Masc|Number=Sing	6	discourse	_	id=s1.u4.w8
+10	très	très	ADV	_	_	11	advmod	_	_none=|id=s1.u4.w9
+11	bien	bien	ADV	_	_	6	advmod	_	_none=|id=s1.u4.w10
+12	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	id=s1.u4.w11
+13	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	14	iobj	_	id=s1.u4.w12
+14	remercie	remercier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w13
+15	au	au	ADP	_	_	16	case	_	_none=|id=s1.u4.w14
+16	revoir	revoir	VERB	_	VerbForm=Inf	8	fixed	_	id=s1.u4.w15
+
+# sent_id = 1SB0028_5
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u5.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u5.w1
+

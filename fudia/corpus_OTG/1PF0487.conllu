@@ -1,0 +1,43 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0487_0
+# text = madame bonjour
+1	madame	madame	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u0.w0
+2	bonjour	bonjour	NOUN	_	_	1	nmod	_	_none=|id=s1.u0.w1
+
+# sent_id = 1PF0487_1
+# text = est ce que vous avez déjà le programme du " café des Arts " pour octobre
+1	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	id=s1.u1.w0
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u1.w1
+3	que	que	SCONJ	_	_	5	mark	_	_none=|id=s1.u1.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_none=|id=s1.u1.w3
+5	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	_none=|id=s1.u1.w4
+6	déjà	déjà	ADV	_	_	5	advmod	_	_none=|id=s1.u1.w5
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	id=s1.u1.w6
+8	programme	programme	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	id=s1.u1.w7
+9	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_none=|id=s1.u1.w8
+10	café	café	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	id=s1.u1.w10
+11	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	12	det	_	id=s1.u1.w11
+12	Arts	Arts	PROPN	_	_	10	nmod	_	id=s1.u1.w12
+13	pour	pour	ADP	_	_	14	case	_	_none=|id=s1.u1.w14
+14	octobre	octobre	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_none=|id=s1.u1.w15
+
+# sent_id = 1PF0487_2
+# text = le café des actes
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u2.w0
+2	café	café	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u2.w1
+3	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	4	det	_	id=s1.u2.w2
+4	actes	acte	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	id=s1.u2.w3
+
+# sent_id = 1PF0487_3
+# text = des Arts
+1	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	2	det	_	id=s1.u3.w0
+2	Arts	Arts	PROPN	_	_	0	root	_	id=s1.u3.w1
+
+# sent_id = 1PF0487_4
+# text = des Arts septembre octobre voilà
+1	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	2	det	_	id=s1.u4.w0
+2	Arts	Arts	PROPN	_	Gender=Masc|Number=Plur	0	root	_	_none=|id=s1.u4.w1
+3	septembre	septembre	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_none=|id=s1.u4.w2
+4	octobre	octobre	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_none=|id=s1.u4.w3
+5	voilà	voilà	VERB	_	_	2	discourse	_	id=s1.u4.w4
+

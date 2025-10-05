@@ -1,0 +1,53 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0566_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AG0566_1
+# text = est ce qu' il serait possible d' avoir e des horaires de train Grenoble Genève
+1	est	_	_	_	_	_	_	_	id=s1.u1.w0
+2	ce	_	_	_	_	_	_	_	id=s1.u1.w1
+3	qu'	_	_	_	_	_	_	_	id=s1.u1.w2
+4	il	_	_	_	_	_	_	_	id=s1.u1.w3
+5	serait	_	_	_	_	_	_	_	id=s1.u1.w4
+6	possible	_	_	_	_	_	_	_	id=s1.u1.w5
+7	d'	_	_	_	_	_	_	_	id=s1.u1.w6
+8	avoir	_	_	_	_	_	_	_	id=s1.u1.w7
+9	e	_	_	_	_	_	_	_	id=s1.u1.w8
+10	des	_	_	_	_	_	_	_	id=s1.u1.w9
+11	horaires	_	_	_	_	_	_	_	id=s1.u1.w10
+12	de	_	_	_	_	_	_	_	id=s1.u1.w11
+13	train	_	_	_	_	_	_	_	id=s1.u1.w12
+14	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w13
+15	Genève	_	_	_	_	_	_	_	id=s1.u1.w14
+
+# sent_id = 1AG0566_2
+# text = il faut demander à la SNCF tout de suite sur votre gauche là
+1	il	_	_	_	_	_	_	_	id=s1.u2.w0
+2	faut	_	_	_	_	_	_	_	id=s1.u2.w1
+3	demander	_	_	_	_	_	_	_	id=s1.u2.w2
+4	à	_	_	_	_	_	_	_	id=s1.u2.w3
+5	la	_	_	_	_	_	_	_	id=s1.u2.w4
+6	SNCF	_	_	_	_	_	_	_	id=s1.u2.w5
+7	tout	_	_	_	_	_	_	_	id=s1.u2.w6
+8	de	_	_	_	_	_	_	_	id=s1.u2.w7
+9	suite	_	_	_	_	_	_	_	id=s1.u2.w8
+10	sur	_	_	_	_	_	_	_	id=s1.u2.w9
+11	votre	_	_	_	_	_	_	_	id=s1.u2.w10
+12	gauche	_	_	_	_	_	_	_	id=s1.u2.w11
+13	là	_	_	_	_	_	_	_	id=s1.u2.w12
+
+# sent_id = 1AG0566_3
+# text = ah d' accord merci
+1	ah	_	_	_	_	_	_	_	id=s1.u3.w0
+2	d'	_	_	_	_	_	_	_	id=s1.u3.w1
+3	accord	_	_	_	_	_	_	_	id=s1.u3.w2
+4	merci	_	_	_	_	_	_	_	id=s1.u3.w3
+
+# sent_id = 1AG0566_4
+# text = je vous en prie
+1	je	_	_	_	_	_	_	_	id=s1.u4.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u4.w1
+3	en	_	_	_	_	_	_	_	id=s1.u4.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u4.w3
+

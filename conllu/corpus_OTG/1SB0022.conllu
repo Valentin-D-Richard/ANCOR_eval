@@ -1,0 +1,51 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0022_0
+# text = monsieur
+1	monsieur	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1SB0022_1
+# text = madame est ce que vous avez des des cartes e bien imprimées distribuées par les sociétés d' autoroute carte de France
+1	madame	_	_	_	_	_	_	_	id=s1.u1.w0
+2	est	_	_	_	_	_	_	_	id=s1.u1.w1
+3	ce	_	_	_	_	_	_	_	id=s1.u1.w2
+4	que	_	_	_	_	_	_	_	id=s1.u1.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u1.w4
+6	avez	_	_	_	_	_	_	_	id=s1.u1.w5
+7	des	_	_	_	_	_	_	_	id=s1.u1.w6
+8	des	_	_	_	_	_	_	_	id=s1.u1.w7
+9	cartes	_	_	_	_	_	_	_	id=s1.u1.w8
+10	e	_	_	_	_	_	_	_	id=s1.u1.w9
+11	bien	_	_	_	_	_	_	_	id=s1.u1.w10
+12	imprimées	_	_	_	_	_	_	_	id=s1.u1.w11
+13	distribuées	_	_	_	_	_	_	_	id=s1.u1.w12
+14	par	_	_	_	_	_	_	_	id=s1.u1.w13
+15	les	_	_	_	_	_	_	_	id=s1.u1.w14
+16	sociétés	_	_	_	_	_	_	_	id=s1.u1.w15
+17	d'	_	_	_	_	_	_	_	id=s1.u1.w16
+18	autoroute	_	_	_	_	_	_	_	id=s1.u1.w17
+19	carte	_	_	_	_	_	_	_	id=s1.u1.w18
+20	de	_	_	_	_	_	_	_	id=s1.u1.w19
+21	France	_	_	_	_	_	_	_	id=s1.u1.w20
+
+# sent_id = 1SB0022_2
+# text = " bison futé " guide des autoroutes
+1	bison	_	_	_	_	_	_	_	id=s1.u2.w1
+2	futé	_	_	_	_	_	_	_	id=s1.u2.w2
+3	guide	_	_	_	_	_	_	_	id=s1.u2.w4
+4	des	_	_	_	_	_	_	_	id=s1.u2.w5
+5	autoroutes	_	_	_	_	_	_	_	id=s1.u2.w6
+
+# sent_id = 1SB0022_3
+# text = d' accord ok merci
+1	d'	_	_	_	_	_	_	_	id=s1.u3.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u3.w1
+3	ok	_	_	_	_	_	_	_	id=s1.u3.w2
+4	merci	_	_	_	_	_	_	_	id=s1.u3.w3
+
+# sent_id = 1SB0022_4
+# text = je vous en prie
+1	je	_	_	_	_	_	_	_	id=s1.u4.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u4.w1
+3	en	_	_	_	_	_	_	_	id=s1.u4.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u4.w3
+

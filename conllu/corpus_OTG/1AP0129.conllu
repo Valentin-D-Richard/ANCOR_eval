@@ -1,0 +1,47 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0129_0
+# text = je vous en prie
+1	je	_	_	_	_	_	_	_	id=s1.u0.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u0.w1
+3	en	_	_	_	_	_	_	_	id=s1.u0.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u0.w3
+
+# sent_id = 1AP0129_1
+# text = bonjour est ce que vous avez des cartes e des cartes e de curiosités touristiques de Grenoble
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	est	_	_	_	_	_	_	_	id=s1.u1.w1
+3	ce	_	_	_	_	_	_	_	id=s1.u1.w2
+4	que	_	_	_	_	_	_	_	id=s1.u1.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u1.w4
+6	avez	_	_	_	_	_	_	_	id=s1.u1.w5
+7	des	_	_	_	_	_	_	_	id=s1.u1.w6
+8	cartes	_	_	_	_	_	_	_	id=s1.u1.w7
+9	e	_	_	_	_	_	_	_	id=s1.u1.w8
+10	des	_	_	_	_	_	_	_	id=s1.u1.w9
+11	cartes	_	_	_	_	_	_	_	id=s1.u1.w10
+12	e	_	_	_	_	_	_	_	id=s1.u1.w11
+13	de	_	_	_	_	_	_	_	id=s1.u1.w12
+14	curiosités	_	_	_	_	_	_	_	id=s1.u1.w13
+15	touristiques	_	_	_	_	_	_	_	id=s1.u1.w14
+16	de	_	_	_	_	_	_	_	id=s1.u1.w15
+17	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w16
+
+# sent_id = 1AP0129_2
+# text = hum hum
+1	hum	_	_	_	_	_	_	_	id=s1.u2.w0
+2	hum	_	_	_	_	_	_	_	id=s1.u2.w1
+
+# sent_id = 1AP0129_3
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1AP0129_4
+# text = voilà au revoir
+1	voilà	_	_	_	_	_	_	_	id=s1.u4.w0
+2	au	_	_	_	_	_	_	_	id=s1.u4.w1
+3	revoir	_	_	_	_	_	_	_	id=s1.u4.w2
+
+# sent_id = 1AP0129_5
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u5.w0
+

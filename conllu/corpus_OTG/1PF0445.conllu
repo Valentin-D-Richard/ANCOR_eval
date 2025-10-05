@@ -1,0 +1,207 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0445_0
+# text = bonjour j' aimerais savoir où se trouve l' agence France Télécom la plus proche
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+2	j'	_	_	_	_	_	_	_	id=s1.u0.w1
+3	aimerais	_	_	_	_	_	_	_	id=s1.u0.w2
+4	savoir	_	_	_	_	_	_	_	id=s1.u0.w3
+5	où	_	_	_	_	_	_	_	id=s1.u0.w4
+6	se	_	_	_	_	_	_	_	id=s1.u0.w5
+7	trouve	_	_	_	_	_	_	_	id=s1.u0.w6
+8	l'	_	_	_	_	_	_	_	id=s1.u0.w7
+9	agence	_	_	_	_	_	_	_	id=s1.u0.w8
+10	France	_	_	_	_	_	_	_	id=s1.u0.w9
+11	Télécom	_	_	_	_	_	_	_	id=s1.u0.w10
+12	la	_	_	_	_	_	_	_	id=s1.u0.w11
+13	plus	_	_	_	_	_	_	_	id=s1.u0.w12
+14	proche	_	_	_	_	_	_	_	id=s1.u0.w13
+
+# sent_id = 1PF0445_1
+# text = 
+
+# sent_id = 1PF0445_2
+# text = dix boulevard Jean Pain
+1	dix	_	_	_	_	_	_	_	id=s1.u2.w0
+2	boulevard	_	_	_	_	_	_	_	id=s1.u2.w1
+3	Jean	_	_	_	_	_	_	_	id=s1.u2.w2
+4	Pain	_	_	_	_	_	_	_	id=s1.u2.w3
+
+# sent_id = 1PF0445_3
+# text = c' est où
+1	c'	_	_	_	_	_	_	_	id=s1.u3.w0
+2	est	_	_	_	_	_	_	_	id=s1.u3.w1
+3	où	_	_	_	_	_	_	_	id=s1.u3.w2
+
+# sent_id = 1PF0445_4
+# text = en face de l' hôtel après l' hôtel de ville
+1	en	_	_	_	_	_	_	_	id=s1.u4.w0
+2	face	_	_	_	_	_	_	_	id=s1.u4.w1
+3	de	_	_	_	_	_	_	_	id=s1.u4.w2
+4	l'	_	_	_	_	_	_	_	id=s1.u4.w3
+5	hôtel	_	_	_	_	_	_	_	id=s1.u4.w4
+6	après	_	_	_	_	_	_	_	id=s1.u4.w5
+7	l'	_	_	_	_	_	_	_	id=s1.u4.w6
+8	hôtel	_	_	_	_	_	_	_	id=s1.u4.w7
+9	de	_	_	_	_	_	_	_	id=s1.u4.w8
+10	ville	_	_	_	_	_	_	_	id=s1.u4.w9
+
+# sent_id = 1PF0445_5
+# text = holala c- c' est et il y a Europôle il y en a pas une par hasard
+1	holala	_	_	_	_	_	_	_	id=s1.u5.w0
+2	c-	_	_	_	_	_	_	_	id=s1.u5.w1
+3	c'	_	_	_	_	_	_	_	id=s1.u5.w2
+4	est	_	_	_	_	_	_	_	id=s1.u5.w3
+5	et	_	_	_	_	_	_	_	id=s1.u5.w4
+6	il	_	_	_	_	_	_	_	id=s1.u5.w5
+7	y	_	_	_	_	_	_	_	id=s1.u5.w6
+8	a	_	_	_	_	_	_	_	id=s1.u5.w7
+9	Europôle	_	_	_	_	_	_	_	id=s1.u5.w8
+10	il	_	_	_	_	_	_	_	id=s1.u5.w9
+11	y	_	_	_	_	_	_	_	id=s1.u5.w10
+12	en	_	_	_	_	_	_	_	id=s1.u5.w11
+13	a	_	_	_	_	_	_	_	id=s1.u5.w12
+14	pas	_	_	_	_	_	_	_	id=s1.u5.w13
+15	une	_	_	_	_	_	_	_	id=s1.u5.w14
+16	par	_	_	_	_	_	_	_	id=s1.u5.w15
+17	hasard	_	_	_	_	_	_	_	id=s1.u5.w16
+
+# sent_id = 1PF0445_6
+# text = à Europôle e j' ai aucune idée je crois pas mais je peux pas vous l' affirmer
+1	à	_	_	_	_	_	_	_	id=s1.u6.w0
+2	Europôle	_	_	_	_	_	_	_	id=s1.u6.w1
+3	e	_	_	_	_	_	_	_	id=s1.u6.w2
+4	j'	_	_	_	_	_	_	_	id=s1.u6.w3
+5	ai	_	_	_	_	_	_	_	id=s1.u6.w4
+6	aucune	_	_	_	_	_	_	_	id=s1.u6.w5
+7	idée	_	_	_	_	_	_	_	id=s1.u6.w6
+8	je	_	_	_	_	_	_	_	id=s1.u6.w7
+9	crois	_	_	_	_	_	_	_	id=s1.u6.w8
+10	pas	_	_	_	_	_	_	_	id=s1.u6.w9
+11	mais	_	_	_	_	_	_	_	id=s1.u6.w10
+12	je	_	_	_	_	_	_	_	id=s1.u6.w11
+13	peux	_	_	_	_	_	_	_	id=s1.u6.w12
+14	pas	_	_	_	_	_	_	_	id=s1.u6.w13
+15	vous	_	_	_	_	_	_	_	id=s1.u6.w14
+16	l'	_	_	_	_	_	_	_	id=s1.u6.w15
+17	affirmer	_	_	_	_	_	_	_	id=s1.u6.w16
+
+# sent_id = 1PF0445_7
+# text = oui e c' est vers l' hôtel de ville
+1	oui	_	_	_	_	_	_	_	id=s1.u7.w0
+2	e	_	_	_	_	_	_	_	id=s1.u7.w1
+3	c'	_	_	_	_	_	_	_	id=s1.u7.w2
+4	est	_	_	_	_	_	_	_	id=s1.u7.w3
+5	vers	_	_	_	_	_	_	_	id=s1.u7.w4
+6	l'	_	_	_	_	_	_	_	id=s1.u7.w5
+7	hôtel	_	_	_	_	_	_	_	id=s1.u7.w6
+8	de	_	_	_	_	_	_	_	id=s1.u7.w7
+9	ville	_	_	_	_	_	_	_	id=s1.u7.w8
+
+# sent_id = 1PF0445_8
+# text = ben vous êtes moins loin de l' hôtel de ville que de la gare hein
+1	ben	_	_	_	_	_	_	_	id=s1.u8.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u8.w1
+3	êtes	_	_	_	_	_	_	_	id=s1.u8.w2
+4	moins	_	_	_	_	_	_	_	id=s1.u8.w3
+5	loin	_	_	_	_	_	_	_	id=s1.u8.w4
+6	de	_	_	_	_	_	_	_	id=s1.u8.w5
+7	l'	_	_	_	_	_	_	_	id=s1.u8.w6
+8	hôtel	_	_	_	_	_	_	_	id=s1.u8.w7
+9	de	_	_	_	_	_	_	_	id=s1.u8.w8
+10	ville	_	_	_	_	_	_	_	id=s1.u8.w9
+11	que	_	_	_	_	_	_	_	id=s1.u8.w10
+12	de	_	_	_	_	_	_	_	id=s1.u8.w11
+13	la	_	_	_	_	_	_	_	id=s1.u8.w12
+14	gare	_	_	_	_	_	_	_	id=s1.u8.w13
+15	hein	_	_	_	_	_	_	_	id=s1.u8.w14
+
+# sent_id = 1PF0445_9
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u9.w0
+
+# sent_id = 1PF0445_10
+# text = l' hôtel de ville e
+1	l'	_	_	_	_	_	_	_	id=s1.u10.w0
+2	hôtel	_	_	_	_	_	_	_	id=s1.u10.w1
+3	de	_	_	_	_	_	_	_	id=s1.u10.w2
+4	ville	_	_	_	_	_	_	_	id=s1.u10.w3
+5	e	_	_	_	_	_	_	_	id=s1.u10.w4
+
+# sent_id = 1PF0445_11
+# text = je prends le tram là et puis ouais je vais à pied
+1	je	_	_	_	_	_	_	_	id=s1.u11.w0
+2	prends	_	_	_	_	_	_	_	id=s1.u11.w1
+3	le	_	_	_	_	_	_	_	id=s1.u11.w2
+4	tram	_	_	_	_	_	_	_	id=s1.u11.w3
+5	là	_	_	_	_	_	_	_	id=s1.u11.w4
+6	et	_	_	_	_	_	_	_	id=s1.u11.w5
+7	puis	_	_	_	_	_	_	_	id=s1.u11.w6
+8	ouais	_	_	_	_	_	_	_	id=s1.u11.w7
+9	je	_	_	_	_	_	_	_	id=s1.u11.w8
+10	vais	_	_	_	_	_	_	_	id=s1.u11.w9
+11	à	_	_	_	_	_	_	_	id=s1.u11.w10
+12	pied	_	_	_	_	_	_	_	id=s1.u11.w11
+
+# sent_id = 1PF0445_12
+# text = 
+
+# sent_id = 1PF0445_13
+# text = là vous allez à pieds là
+1	là	_	_	_	_	_	_	_	id=s1.u13.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u13.w1
+3	allez	_	_	_	_	_	_	_	id=s1.u13.w2
+4	à	_	_	_	_	_	_	_	id=s1.u13.w3
+5	pieds	_	_	_	_	_	_	_	id=s1.u13.w4
+6	là	_	_	_	_	_	_	_	id=s1.u13.w5
+
+# sent_id = 1PF0445_14
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u14.w0
+
+# sent_id = 1PF0445_15
+# text = c' est vous voyez la place de Verdun
+1	c'	_	_	_	_	_	_	_	id=s1.u15.w0
+2	est	_	_	_	_	_	_	_	id=s1.u15.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u15.w2
+4	voyez	_	_	_	_	_	_	_	id=s1.u15.w3
+5	la	_	_	_	_	_	_	_	id=s1.u15.w4
+6	place	_	_	_	_	_	_	_	id=s1.u15.w5
+7	de	_	_	_	_	_	_	_	id=s1.u15.w6
+8	Verdun	_	_	_	_	_	_	_	id=s1.u15.w7
+
+# sent_id = 1PF0445_16
+# text = ouais
+1	ouais	_	_	_	_	_	_	_	id=s1.u16.w0
+
+# sent_id = 1PF0445_17
+# text = le rectorat c' est à côté du rectorat
+1	le	_	_	_	_	_	_	_	id=s1.u17.w0
+2	rectorat	_	_	_	_	_	_	_	id=s1.u17.w1
+3	c'	_	_	_	_	_	_	_	id=s1.u17.w2
+4	est	_	_	_	_	_	_	_	id=s1.u17.w3
+5	à	_	_	_	_	_	_	_	id=s1.u17.w4
+6	côté	_	_	_	_	_	_	_	id=s1.u17.w5
+7	du	_	_	_	_	_	_	_	id=s1.u17.w6
+8	rectorat	_	_	_	_	_	_	_	id=s1.u17.w7
+
+# sent_id = 1PF0445_18
+# text = à côté du rectorat ouais ben j- e
+1	à	_	_	_	_	_	_	_	id=s1.u18.w0
+2	côté	_	_	_	_	_	_	_	id=s1.u18.w1
+3	du	_	_	_	_	_	_	_	id=s1.u18.w2
+4	rectorat	_	_	_	_	_	_	_	id=s1.u18.w3
+5	ouais	_	_	_	_	_	_	_	id=s1.u18.w4
+6	ben	_	_	_	_	_	_	_	id=s1.u18.w5
+7	j-	_	_	_	_	_	_	_	id=s1.u18.w6
+8	e	_	_	_	_	_	_	_	id=s1.u18.w7
+
+# sent_id = 1PF0445_19
+# text = du rectorat ouais dans le grand bâtiment
+1	du	_	_	_	_	_	_	_	id=s1.u19.w0
+2	rectorat	_	_	_	_	_	_	_	id=s1.u19.w1
+3	ouais	_	_	_	_	_	_	_	id=s1.u19.w2
+4	dans	_	_	_	_	_	_	_	id=s1.u19.w3
+5	le	_	_	_	_	_	_	_	id=s1.u19.w4
+6	grand	_	_	_	_	_	_	_	id=s1.u19.w5
+7	bâtiment	_	_	_	_	_	_	_	id=s1.u19.w6
+

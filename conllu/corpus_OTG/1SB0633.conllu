@@ -1,0 +1,53 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0633_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1SB0633_1
+# text = bonjour est ce que vous avez des cartes de Grenoble
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	est	_	_	_	_	_	_	_	id=s1.u1.w1
+3	ce	_	_	_	_	_	_	_	id=s1.u1.w2
+4	que	_	_	_	_	_	_	_	id=s1.u1.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u1.w4
+6	avez	_	_	_	_	_	_	_	id=s1.u1.w5
+7	des	_	_	_	_	_	_	_	id=s1.u1.w6
+8	cartes	_	_	_	_	_	_	_	id=s1.u1.w7
+9	de	_	_	_	_	_	_	_	id=s1.u1.w8
+10	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w9
+
+# sent_id = 1SB0633_2
+# text = oui il vous en faut
+1	oui	_	_	_	_	_	_	_	id=s1.u2.w0
+2	il	_	_	_	_	_	_	_	id=s1.u2.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u2.w2
+4	en	_	_	_	_	_	_	_	id=s1.u2.w3
+5	faut	_	_	_	_	_	_	_	id=s1.u2.w4
+
+# sent_id = 1SB0633_3
+# text = e une seule
+1	e	_	_	_	_	_	_	_	id=s1.u3.w0
+2	une	_	_	_	_	_	_	_	id=s1.u3.w1
+3	seule	_	_	_	_	_	_	_	id=s1.u3.w2
+
+# sent_id = 1SB0633_4
+# text = une seule ben la voilà
+1	une	_	_	_	_	_	_	_	id=s1.u4.w0
+2	seule	_	_	_	_	_	_	_	id=s1.u4.w1
+3	ben	_	_	_	_	_	_	_	id=s1.u4.w2
+4	la	_	_	_	_	_	_	_	id=s1.u4.w3
+5	voilà	_	_	_	_	_	_	_	id=s1.u4.w4
+
+# sent_id = 1SB0633_5
+# text = merci bien merci
+1	merci	_	_	_	_	_	_	_	id=s1.u5.w0
+2	bien	_	_	_	_	_	_	_	id=s1.u5.w1
+3	merci	_	_	_	_	_	_	_	id=s1.u5.w2
+
+# sent_id = 1SB0633_6
+# text = bonne journée au revoir
+1	bonne	_	_	_	_	_	_	_	id=s1.u6.w0
+2	journée	_	_	_	_	_	_	_	id=s1.u6.w1
+3	au	_	_	_	_	_	_	_	id=s1.u6.w2
+4	revoir	_	_	_	_	_	_	_	id=s1.u6.w3
+

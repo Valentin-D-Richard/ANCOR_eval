@@ -1,0 +1,66 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0043_0
+# text = monsieur
+1	monsieur	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1SB0043_1
+# text = bonjour voilà je voulais me renseigner pour acheter une carte jeune
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	voilà	_	_	_	_	_	_	_	id=s1.u1.w1
+3	je	_	_	_	_	_	_	_	id=s1.u1.w2
+4	voulais	_	_	_	_	_	_	_	id=s1.u1.w3
+5	me	_	_	_	_	_	_	_	id=s1.u1.w4
+6	renseigner	_	_	_	_	_	_	_	id=s1.u1.w5
+7	pour	_	_	_	_	_	_	_	id=s1.u1.w6
+8	acheter	_	_	_	_	_	_	_	id=s1.u1.w7
+9	une	_	_	_	_	_	_	_	id=s1.u1.w8
+10	carte	_	_	_	_	_	_	_	id=s1.u1.w9
+11	jeune	_	_	_	_	_	_	_	id=s1.u1.w10
+
+# sent_id = 1SB0043_2
+# text = carte jeune alors il faut aller au CRIJ huit rue Voltaire derrière l' immeuble
+1	carte	_	_	_	_	_	_	_	id=s1.u2.w0
+2	jeune	_	_	_	_	_	_	_	id=s1.u2.w1
+3	alors	_	_	_	_	_	_	_	id=s1.u2.w2
+4	il	_	_	_	_	_	_	_	id=s1.u2.w3
+5	faut	_	_	_	_	_	_	_	id=s1.u2.w4
+6	aller	_	_	_	_	_	_	_	id=s1.u2.w5
+7	au	_	_	_	_	_	_	_	id=s1.u2.w6
+8	CRIJ	_	_	_	_	_	_	_	id=s1.u2.w7
+9	huit	_	_	_	_	_	_	_	id=s1.u2.w8
+10	rue	_	_	_	_	_	_	_	id=s1.u2.w9
+11	Voltaire	_	_	_	_	_	_	_	id=s1.u2.w10
+12	derrière	_	_	_	_	_	_	_	id=s1.u2.w11
+13	l'	_	_	_	_	_	_	_	id=s1.u2.w12
+14	immeuble	_	_	_	_	_	_	_	id=s1.u2.w13
+
+# sent_id = 1SB0043_3
+# text = derrière cet immeuble là
+1	derrière	_	_	_	_	_	_	_	id=s1.u3.w0
+2	cet	_	_	_	_	_	_	_	id=s1.u3.w1
+3	immeuble	_	_	_	_	_	_	_	id=s1.u3.w2
+4	là	_	_	_	_	_	_	_	id=s1.u3.w3
+
+# sent_id = 1SB0043_4
+# text = vous faites le tour comme ça
+1	vous	_	_	_	_	_	_	_	id=s1.u4.w0
+2	faites	_	_	_	_	_	_	_	id=s1.u4.w1
+3	le	_	_	_	_	_	_	_	id=s1.u4.w2
+4	tour	_	_	_	_	_	_	_	id=s1.u4.w3
+5	comme	_	_	_	_	_	_	_	id=s1.u4.w4
+6	ça	_	_	_	_	_	_	_	id=s1.u4.w5
+
+# sent_id = 1SB0043_5
+# text = d' accord merci beaucoup au revoir
+1	d'	_	_	_	_	_	_	_	id=s1.u5.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u5.w1
+3	merci	_	_	_	_	_	_	_	id=s1.u5.w2
+4	beaucoup	_	_	_	_	_	_	_	id=s1.u5.w3
+5	au	_	_	_	_	_	_	_	id=s1.u5.w4
+6	revoir	_	_	_	_	_	_	_	id=s1.u5.w5
+
+# sent_id = 1SB0043_6
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u6.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u6.w1
+

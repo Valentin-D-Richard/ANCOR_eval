@@ -1,0 +1,36 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0529_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AG0529_1
+# text = est ce que vous auriez un plan de Grenoble s' il vous plaît
+1	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	id=s1.u1.w0
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u1.w1
+3	que	que	SCONJ	_	_	5	mark	_	_none=|id=s1.u1.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	id=s1.u1.w3
+5	auriez	aurvoir	VERB	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	_none=|id=s1.u1.w4
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	id=s1.u1.w5
+7	plan	plan	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	id=s1.u1.w6
+8	de	de	ADP	_	_	9	case	_	id=s1.u1.w7
+9	Grenoble	Grenoble	PROPN	_	_	7	nmod	_	id=s1.u1.w8
+10	s'	se	SCONJ	_	_	13	mark	_	_none=|id=s1.u1.w9
+11	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	expl:subj	_	_none=|id=s1.u1.w10
+12	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	13	iobj	_	id=s1.u1.w11
+13	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	discourse	_	_none=|id=s1.u1.w12
+
+# sent_id = 1AG0529_2
+# text = bien sûr voilà
+1	bien	bien	ADV	_	_	3	advmod	_	_none=|id=s1.u2.w0
+2	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u2.w1
+3	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u2.w2
+
+# sent_id = 1AG0529_3
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1AG0529_4
+# text = de rien
+1	de	de	ADP	_	_	2	case	_	_none=|id=s1.u4.w0
+2	rien	rien	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	0	root	_	_none=|id=s1.u4.w1
+

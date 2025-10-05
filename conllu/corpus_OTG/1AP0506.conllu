@@ -1,0 +1,51 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0506_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AP0506_1
+# text = bonjour je voudrais deux affiches de Grenoble e du " Dauphiné Libéré " avec les spectacles et loisirs de Grenoble s' il vous plaît
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	je	_	_	_	_	_	_	_	id=s1.u1.w1
+3	voudrais	_	_	_	_	_	_	_	id=s1.u1.w2
+4	deux	_	_	_	_	_	_	_	id=s1.u1.w3
+5	affiches	_	_	_	_	_	_	_	id=s1.u1.w4
+6	de	_	_	_	_	_	_	_	id=s1.u1.w5
+7	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w6
+8	e	_	_	_	_	_	_	_	id=s1.u1.w7
+9	du	_	_	_	_	_	_	_	id=s1.u1.w8
+10	Dauphiné	_	_	_	_	_	_	_	id=s1.u1.w10
+11	Libéré	_	_	_	_	_	_	_	id=s1.u1.w11
+12	avec	_	_	_	_	_	_	_	id=s1.u1.w13
+13	les	_	_	_	_	_	_	_	id=s1.u1.w14
+14	spectacles	_	_	_	_	_	_	_	id=s1.u1.w15
+15	et	_	_	_	_	_	_	_	id=s1.u1.w16
+16	loisirs	_	_	_	_	_	_	_	id=s1.u1.w17
+17	de	_	_	_	_	_	_	_	id=s1.u1.w18
+18	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w19
+19	s'	_	_	_	_	_	_	_	id=s1.u1.w20
+20	il	_	_	_	_	_	_	_	id=s1.u1.w21
+21	vous	_	_	_	_	_	_	_	id=s1.u1.w22
+22	plaît	_	_	_	_	_	_	_	id=s1.u1.w23
+
+# sent_id = 1AP0506_2
+# text = 
+
+# sent_id = 1AP0506_3
+# text = tenez
+1	tenez	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1AP0506_4
+# text = merci madame
+1	merci	_	_	_	_	_	_	_	id=s1.u4.w0
+2	madame	_	_	_	_	_	_	_	id=s1.u4.w1
+
+# sent_id = 1AP0506_5
+# text = au revoir madame
+1	au	_	_	_	_	_	_	_	id=s1.u5.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u5.w1
+3	madame	_	_	_	_	_	_	_	id=s1.u5.w2
+
+# sent_id = 1AP0506_6
+# text = 
+

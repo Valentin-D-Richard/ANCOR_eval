@@ -1,0 +1,42 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0273_1
+# text = j' aurais aimé un plan de la ville s' il vous plaît
+1	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w0
+2	aurais	avoir	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_none=|id=s1.u1.w1
+3	aimé	aimer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u1.w2
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_none=|id=s1.u1.w3
+5	plan	plan	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_none=|id=s1.u1.w4
+6	de	de	ADP	_	_	8	case	_	id=s1.u1.w5
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	id=s1.u1.w6
+8	ville	ville	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	id=s1.u1.w7
+9	s'	s'	SCONJ	_	_	12	mark	_	_none=|id=s1.u1.w8
+10	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl:subj	_	_none=|id=s1.u1.w9
+11	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	12	iobj	_	_none=|id=s1.u1.w10
+12	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	discourse	_	_none=|id=s1.u1.w11
+
+# sent_id = 1AP0273_2
+# text = sûr
+1	sûr	Sûr	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u2.w0
+
+# sent_id = 1AP0273_3
+# text = merci bien
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+2	bien	bien	ADV	_	_	1	advmod	_	_none=|id=s1.u3.w1
+
+# sent_id = 1AP0273_4
+# text = je vous en prie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u4.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u4.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u4.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w3
+
+# sent_id = 1AP0273_5
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u5.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u5.w1
+
+# sent_id = 1AP0273_6
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u6.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u6.w1
+

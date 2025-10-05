@@ -1,0 +1,38 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0365_0
+# text = bonjour madame
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+2	madame	_	_	_	_	_	_	_	id=s1.u0.w1
+
+# sent_id = 1AG0365_1
+# text = bonjour est ce que vous avez le programme de oui e e je " connaissance du monde "
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	est	_	_	_	_	_	_	_	id=s1.u1.w1
+3	ce	_	_	_	_	_	_	_	id=s1.u1.w2
+4	que	_	_	_	_	_	_	_	id=s1.u1.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u1.w4
+6	avez	_	_	_	_	_	_	_	id=s1.u1.w5
+7	le	_	_	_	_	_	_	_	id=s1.u1.w6
+8	programme	_	_	_	_	_	_	_	id=s1.u1.w7
+9	de	_	_	_	_	_	_	_	id=s1.u1.w8
+10	oui	_	_	_	_	_	_	_	id=s1.u1.w9
+11	e	_	_	_	_	_	_	_	id=s1.u1.w10
+12	e	_	_	_	_	_	_	_	id=s1.u1.w11
+13	je	_	_	_	_	_	_	_	id=s1.u1.w12
+14	connaissance	_	_	_	_	_	_	_	id=s1.u1.w14
+15	du	_	_	_	_	_	_	_	id=s1.u1.w15
+16	monde	_	_	_	_	_	_	_	id=s1.u1.w16
+
+# sent_id = 1AG0365_2
+# text = 
+
+# sent_id = 1AG0365_3
+# text = juste à côté madame à la billeterie
+1	juste	_	_	_	_	_	_	_	id=s1.u3.w0
+2	à	_	_	_	_	_	_	_	id=s1.u3.w1
+3	côté	_	_	_	_	_	_	_	id=s1.u3.w2
+4	madame	_	_	_	_	_	_	_	id=s1.u3.w3
+5	à	_	_	_	_	_	_	_	id=s1.u3.w4
+6	la	_	_	_	_	_	_	_	id=s1.u3.w5
+7	billeterie	_	_	_	_	_	_	_	id=s1.u3.w6
+

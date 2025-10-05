@@ -1,0 +1,28 @@
+# sent_id = 1AP0319_0
+# text = bonjour c' est pour savoir si je peux déposer les
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u0.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	id=s1.u0.w1
+3	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u0.w2
+4	pour	pour	ADP	_	_	5	mark	_	_none=|id=s1.u0.w3
+5	savoir	savoir	VERB	_	VerbForm=Inf	3	ccomp	_	_none=|id=s1.u0.w4
+6	si	si	SCONJ	_	_	8	mark	_	_none=|id=s1.u0.w5
+7	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_none=|id=s1.u0.w6
+8	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	ccomp	_	id=s1.u0.w7
+9	déposer	déposer	VERB	_	VerbForm=Inf	8	xcomp	_	id=s1.u0.w8
+10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	obj	_	id=s1.u0.w9
+
+# sent_id = 1AP0319_1
+# text = oui mettez les sur le " servez -vous "
+1	oui	oui	ADV	_	_	2	discourse	_	_none=|id=s1.u1.w0
+2	mettez	metre	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	2	obj	_	id=s1.u1.w2
+4	sur	sur	ADP	_	_	6	case	_	_none=|id=s1.u1.w3
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_none=|id=s1.u1.w4
+6	servez	servre	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	_none=|id=s1.u1.w6
+7	-vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	id=s1.u1.w7
+
+# sent_id = 1AP0319_2
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u2.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u2.w1
+

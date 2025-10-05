@@ -1,0 +1,57 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0074_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AP0074_1
+# text = oui bonjour je voudrais un plan de Grenoble
+1	oui	_	_	_	_	_	_	_	id=s1.u1.w0
+2	bonjour	_	_	_	_	_	_	_	id=s1.u1.w1
+3	je	_	_	_	_	_	_	_	id=s1.u1.w2
+4	voudrais	_	_	_	_	_	_	_	id=s1.u1.w3
+5	un	_	_	_	_	_	_	_	id=s1.u1.w4
+6	plan	_	_	_	_	_	_	_	id=s1.u1.w5
+7	de	_	_	_	_	_	_	_	id=s1.u1.w6
+8	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w7
+
+# sent_id = 1AP0074_2
+# text = bien sûr
+1	bien	_	_	_	_	_	_	_	id=s1.u2.w0
+2	sûr	_	_	_	_	_	_	_	id=s1.u2.w1
+
+# sent_id = 1AP0074_3
+# text = c' est payant
+1	c'	_	_	_	_	_	_	_	id=s1.u3.w0
+2	est	_	_	_	_	_	_	_	id=s1.u3.w1
+3	payant	_	_	_	_	_	_	_	id=s1.u3.w2
+
+# sent_id = 1AP0074_4
+# text = non
+1	non	_	_	_	_	_	_	_	id=s1.u4.w0
+
+# sent_id = 1AP0074_5
+# text = ben merci
+1	ben	_	_	_	_	_	_	_	id=s1.u5.w0
+2	merci	_	_	_	_	_	_	_	id=s1.u5.w1
+
+# sent_id = 1AP0074_6
+# text = au delà de dix c' est payant
+1	au	_	_	_	_	_	_	_	id=s1.u6.w0
+2	delà	_	_	_	_	_	_	_	id=s1.u6.w1
+3	de	_	_	_	_	_	_	_	id=s1.u6.w2
+4	dix	_	_	_	_	_	_	_	id=s1.u6.w3
+5	c'	_	_	_	_	_	_	_	id=s1.u6.w4
+6	est	_	_	_	_	_	_	_	id=s1.u6.w5
+7	payant	_	_	_	_	_	_	_	id=s1.u6.w6
+
+# sent_id = 1AP0074_7
+# text = merci au
+1	merci	_	_	_	_	_	_	_	id=s1.u7.w0
+2	au	_	_	_	_	_	_	_	id=s1.u7.w1
+
+# sent_id = 1AP0074_8
+# text = au revoir merci
+1	au	_	_	_	_	_	_	_	id=s1.u8.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u8.w1
+3	merci	_	_	_	_	_	_	_	id=s1.u8.w2
+

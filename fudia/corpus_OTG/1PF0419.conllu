@@ -1,0 +1,43 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0419_0
+# text = bonjour madame
+1	bonjour	bonjour	NOUN	_	_	0	root	_	_none=|id=s1.u0.w0
+2	madame	madame	NOUN	_	Gender=Fem|Number=Sing	1	vocative	_	id=s1.u0.w1
+
+# sent_id = 1PF0419_1
+# text = bonjour les tarifs S N C F e Grenoble Paris
+1	bonjour	bonjour	NOUN	_	_	0	root	_	_none=|id=s1.u1.w0
+2	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	id=s1.u1.w1
+3	tarifs	tarif	NOUN	_	Gender=Masc|Number=Plur	1	appos	_	_none=|id=s1.u1.w2
+4	S	S	PROPN	_	_	3	amod	_	_none=|id=s1.u1.w3
+5	N	N	PROPN	_	_	3	amod	_	_none=|id=s1.u1.w4
+6	C	C	PROPN	_	_	3	nmod:appos	_	_none=|id=s1.u1.w5
+7	F	F	PROPN	_	_	3	nmod:appos	_	_none=|id=s1.u1.w6
+8	e	e	ADP	_	_	9	case	_	_none=|id=s1.u1.w7
+9	Grenoble	Grenoble	PROPN	_	_	3	appos	_	_none=|id=s1.u1.w8
+10	Paris	Paris	PROPN	_	_	9	flat:name	_	_none=|id=s1.u1.w9
+
+# sent_id = 1PF0419_2
+# text = alors il faut aller au bout madame sur la gauche c' est la S N C F
+1	alors	alors	ADV	_	_	3	advmod	_	_none=|id=s1.u2.w0
+2	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_none=|id=s1.u2.w1
+3	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w2
+4	aller	aller	VERB	ETRE	VerbForm=Inf	3	ccomp	_	_none=|id=s1.u2.w3
+5	au	au	ADP	_	_	6	case	_	_none=|id=s1.u2.w4
+6	bout	bout	NOUN	_	Gender=Masc|Number=Sing	4	obl:arg	_	_none=|id=s1.u2.w5
+7	madame	madame	NOUN	_	Gender=Fem|Number=Sing	14	vocative	_	id=s1.u2.w6
+8	sur	sur	ADP	_	_	10	case	_	_none=|id=s1.u2.w7
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_none=|id=s1.u2.w8
+10	gauche	gauche	NOUN	_	Gender=Fem|Number=Sing	14	obl:mod	_	id=s1.u2.w9
+11	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	_none=|id=s1.u2.w10
+12	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	id=s1.u2.w11
+13	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	id=s1.u2.w12
+14	S	S	PROPN	_	_	3	conj	_	_none=|id=s1.u2.w13
+15	N	N	PROPN	_	_	14	amod	_	_none=|id=s1.u2.w14
+16	C	C	PROPN	_	_	14	conj	_	id=s1.u2.w15
+17	F	F	PROPN	_	_	14	flat:name	_	id=s1.u2.w16
+
+# sent_id = 1PF0419_3
+# text = désolé
+1	désolé	désolé	ADV	_	_	0	root	_	_none=|id=s1.u3.w0
+

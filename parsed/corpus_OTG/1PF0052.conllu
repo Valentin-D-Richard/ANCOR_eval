@@ -1,0 +1,116 @@
+# sent_id = 1PF0052_0
+# text = dites moi tout
+1	dites	dire	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u0.w0
+2	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	1	iobj	_	_none=|id=s1.u0.w1
+3	tout	tout	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	fixed	_	_none=|id=s1.u0.w2
+
+# sent_id = 1PF0052_1
+# text = est ce que vous avez e des journaux e comme " le 38 " tout ça
+1	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	id=s1.u1.w0
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	id=s1.u1.w1
+3	que	que	PRON	_	PronType=Rel	5	obj	_	id=s1.u1.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	id=s1.u1.w3
+5	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_none=|id=s1.u1.w4
+6	e	e	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl:relcl	_	_none=|id=s1.u1.w5
+7	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	8	det	_	id=s1.u1.w6
+8	journaux	journal	NOUN	_	Gender=Masc|Number=Plur	5	obl:mod	_	_none=|id=s1.u1.w7
+9	e	e	CCONJ	_	_	12	cc	_	_none=|id=s1.u1.w8
+10	comme	comme	ADP	_	_	12	case	_	_none=|id=s1.u1.w9
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_none=|id=s1.u1.w11
+12	38	38	ADJ	_	_	3	conj	_	_none=|id=s1.u1.w12
+13	tout	tout	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	_none=|id=s1.u1.w14
+14	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	conj	_	id=s1.u1.w15
+
+# sent_id = 1PF0052_2
+# text = j' ai " l' Info "
+1	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	id=s1.u2.w0
+2	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w1
+3	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	4	det	_	id=s1.u2.w3
+4	Info	Info	PROPN	_	_	2	obj	_	_none=|id=s1.u2.w4
+
+# sent_id = 1PF0052_3
+# text = " l' Info "
+1	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	2	det	_	id=s1.u3.w1
+2	Info	Info	PROPN	_	_	0	root	_	_none=|id=s1.u3.w2
+
+# sent_id = 1PF0052_4
+# text = ouais
+1	ouais	ouais	INTJ	_	_	0	root	_	_none=|id=s1.u4.w0
+
+# sent_id = 1PF0052_5
+# text = il est sorti quand
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_none=|id=s1.u5.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_none=|id=s1.u5.w1
+3	sorti	sortir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u5.w2
+4	quand	quand	SCONJ	_	_	3	advmod	_	_none=|id=s1.u5.w3
+
+# sent_id = 1PF0052_6
+# text = il est sorti hier
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_none=|id=s1.u6.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	id=s1.u6.w1
+3	sorti	sortir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u6.w2
+4	hier	hier	ADV	_	_	3	advmod	_	_none=|id=s1.u6.w3
+
+# sent_id = 1PF0052_7
+# text = hier oh ben j' aimerais bien en avoir un exemplaire
+1	hier	hier	ADV	_	_	5	advmod	_	_none=|id=s1.u7.w0
+2	oh	oh	INTJ	_	_	1	discourse	_	_none=|id=s1.u7.w1
+3	ben	ben	INTJ	_	_	1	discourse	_	_none=|id=s1.u7.w2
+4	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u7.w3
+5	aimerais	aimer	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u7.w4
+6	bien	bien	ADV	_	_	5	advmod	_	_none=|id=s1.u7.w5
+7	en	en	PRON	_	Person=3|PronType=Prs	8	obj	_	id=s1.u7.w6
+8	avoir	avoir	VERB	_	VerbForm=Inf	5	xcomp	_	_none=|id=s1.u7.w7
+9	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	id=s1.u7.w8
+10	exemplaire	exemplaire	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_none=|id=s1.u7.w9
+
+# sent_id = 1PF0052_8
+# text = bien sûr qu' est ce que vous me donnez en échange
+1	bien	bien	ADV	_	_	3	advmod	_	_none=|id=s1.u8.w0
+2	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	1	fixed	_	_none=|id=s1.u8.w1
+3	qu'	que	PRON	_	Person=3|PronType=Int	0	root	_	id=s1.u8.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u8.w3
+5	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	dislocated	_	_none=|id=s1.u8.w4
+6	que	que	PRON	_	PronType=Rel	9	obj	_	id=s1.u8.w5
+7	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	9	nsubj	_	_none=|id=s1.u8.w6
+8	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	9	iobj	_	_none=|id=s1.u8.w7
+9	donnez	donner	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_none=|id=s1.u8.w8
+10	en	en	ADP	_	_	11	case	_	_none=|id=s1.u8.w9
+11	échange	échange	NOUN	_	Gender=Masc|Number=Sing	9	obl:mod	_	_none=|id=s1.u8.w10
+
+# sent_id = 1PF0052_9
+# text = en échange me retrouver sur Grenoble voilà
+1	en	en	ADP	_	_	2	case	_	_none=|id=s1.u9.w0
+2	échange	échange	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_none=|id=s1.u9.w1
+3	me	le	PRON	_	Number=Sing|Person=1|PronType=Prs	4	iobj	_	_none=|id=s1.u9.w2
+4	retrouver	retrouver	VERB	_	VerbForm=Inf	0	root	_	id=s1.u9.w3
+5	sur	sur	ADP	_	_	6	case	_	id=s1.u9.w4
+6	Grenoble	Grenoble	PROPN	_	_	4	obl:arg	_	_none=|id=s1.u9.w5
+7	voilà	voilà	VERB	_	_	2	discourse	_	_none=|id=s1.u9.w6
+
+# sent_id = 1PF0052_10
+# text = comment
+1	comment	Comment	NOUN	_	_	0	root	_	_none=|id=s1.u10.w0
+
+# sent_id = 1PF0052_11
+# text = la saison c' est Grenoble merci
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	id=s1.u11.w0
+2	saison	saison	NOUN	_	Gender=Fem|Number=Sing	5	dislocated	_	_none=|id=s1.u11.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	id=s1.u11.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u11.w3
+5	Grenoble	Grenoble	PROPN	_	_	0	root	_	id=s1.u11.w4
+6	merci	merci	INTJ	_	_	5	dislocated	_	_none=|id=s1.u11.w5
+
+# sent_id = 1PF0052_12
+# text = la saison c' est Grenoble c' est bien au revoir
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u12.w0
+2	saison	saison	NOUN	_	Gender=Fem|Number=Sing	5	dislocated	_	_none=|id=s1.u12.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_none=|id=s1.u12.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u12.w3
+5	Grenoble	Grenoble	PROPN	_	_	0	root	_	_none=|id=s1.u12.w4
+6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	id=s1.u12.w5
+7	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	id=s1.u12.w6
+8	bien	bien	ADV	_	_	7	xcomp	_	_none=|id=s1.u12.w7
+9	au	au	ADP	_	_	10	case	_	_none=|id=s1.u12.w8
+10	revoir	revoir	VERB	_	VerbForm=Inf	7	xcomp	_	id=s1.u12.w9
+

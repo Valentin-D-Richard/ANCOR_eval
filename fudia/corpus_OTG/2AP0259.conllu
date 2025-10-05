@@ -1,0 +1,299 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2AP0259_1
+# text = madame avez- vous un plan de la ville
+1	madame	madame	NOUN	_	_	2	vocative	_	_none=|id=s1.u1.w0
+2	avez-	aveoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1|ClauseType=Int
+3	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	2|2	cue:mark|nsubj	_	id=s1.u1.w2
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	id=s1.u1.w3
+5	plan	plan	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_none=|id=s1.u1.w4
+6	de	de	ADP	_	_	8	case	_	_none=|id=s1.u1.w5
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	id=s1.u1.w6
+8	ville	ville	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	id=s1.u1.w7
+
+# sent_id = 2AP0259_2
+# text = oui je vous en prie madame
+1	oui	oui	ADV	_	_	5	discourse	_	_none=|id=s1.u2.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u2.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	5	iobj	_	id=s1.u2.w2
+4	en	en	PRON	_	Person=3|PronType=Prs	5	iobj	_	_none=|id=s1.u2.w3
+5	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w4
+6	madame	madame	NOUN	_	Gender=Fem|Number=Sing	5	vocative	_	id=s1.u2.w5
+
+# sent_id = 2AP0259_3
+# text = et le le musée Dauphinois est ce qu' on peut y aller à pied d' ici
+1	et	et	CCONJ	_	_	7	cc	_	_none=|id=s1.u3.w0
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	reparandum	_	_none=|id=s1.u3.w1
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_none=|id=s1.u3.w2
+4	musée	musée	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_none=|id=s1.u3.w3
+5	Dauphinois	Dauphinois	PROPN	_	_	4	nmod:appos	_	_none=|id=s1.u3.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	id=s1.u3.w5
+7	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u3.w6
+8	qu'	que	PRON	_	PronType=Rel	10	dep:comp	_	_none=|id=s1.u3.w7
+9	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj	_	id=s1.u3.w8
+10	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_none=|id=s1.u3.w9
+11	y	y	PRON	_	Person=3|PronType=Prs	12	iobj	_	id=s1.u3.w10
+12	aller	aller	VERB	_	VerbForm=Inf	10	xcomp	_	id=s1.u3.w11
+13	à	à	ADP	_	_	14	case	_	_none=|id=s1.u3.w12
+14	pied	pied	NOUN	_	Gender=Masc|Number=Plur	12	obl:mod	_	_none=|id=s1.u3.w13
+15	d'	de	ADP	_	_	16	case	_	_none=|id=s1.u3.w14
+16	ici	ici	ADV	_	_	10	advmod	_	_none=|id=s1.u3.w15
+
+# sent_id = 2AP0259_4
+# text = oui c' est possible hein
+1	oui	oui	ADV	_	_	4	discourse	_	_none=|id=s1.u4.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_none=|id=s1.u4.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	id=s1.u4.w2
+4	possible	possible	ADJ	_	Number=Sing	0	root	_	id=s1.u4.w3
+5	hein	hein	INTJ	_	_	4	discourse	_	_none=|id=s1.u4.w4
+
+# sent_id = 2AP0259_5
+# text = c' est pas loin
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	id=s1.u5.w0
+2	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u5.w1
+3	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	_none=|id=s1.u5.w2
+4	loin	loin	ADV	_	_	2	advmod	_	_none=|id=s1.u5.w3
+
+# sent_id = 2AP0259_6
+# text = non il faut il est là hein attends et voilà
+1	non	non	ADV	_	_	3	advmod	_	_none=|id=s1.u6.w0
+2	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_none=|id=s1.u6.w1
+3	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	reparandum	_	id=s1.u6.w2
+4	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_none=|id=s1.u6.w3
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	id=s1.u6.w4
+6	là	là	ADV	_	_	0	root	_	_none=|id=s1.u6.w5
+7	hein	hein	INTJ	_	_	6	discourse	_	_none=|id=s1.u6.w6
+8	attends	ttendir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	discourse	_	id=s1.u6.w7
+9	et	et	CCONJ	_	_	10	cc	_	_none=|id=s1.u6.w8
+10	voilà	voilà	VERB	_	_	6	conj	_	id=s1.u6.w9
+
+# sent_id = 2AP0259_7
+# text = hum hum
+1	hum	hum	INTJ	_	_	0	root	_	_none=|id=s1.u7.w0
+2	hum	hum	INTJ	_	_	1	fixed	_	_none=|id=s1.u7.w1
+
+# sent_id = 2AP0259_8
+# text = il est là le musée Dauphinois
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_none=|id=s1.u8.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u8.w1
+3	là	là	ADV	_	_	0	root	_	_none=|id=s1.u8.w2
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	id=s1.u8.w3
+5	musée	musée	NOUN	_	Gender=Masc|Number=Sing	3	appos	_	id=s1.u8.w4
+6	Dauphinois	Dauphinois	PROPN	_	_	5	nmod:appos	_	_none=|id=s1.u8.w5
+
+# sent_id = 2AP0259_9
+# text = hum hum c' est bon
+1	hum	hum	INTJ	_	_	5	discourse	_	_none=|id=s1.u9.w0
+2	hum	hum	INTJ	_	_	5	discourse	_	_none=|id=s1.u9.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_none=|id=s1.u9.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u9.w3
+5	bon	bon	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u9.w4
+
+# sent_id = 2AP0259_10
+# text = ouais ça ça monte un petit peu mais bon c' est c' est faisable hein sans problème oui bien sûr
+1	ouais	ouais	INTJ	_	_	4	discourse	_	_none=|id=s1.u10.w0
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	reparandum	_	id=s1.u10.w1
+3	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_none=|id=s1.u10.w2
+4	monte	monter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u10.w3
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_none=|id=s1.u10.w4
+6	petit	petit	ADJ	_	Gender=Masc|Number=Sing	5	fixed	_	_none=|id=s1.u10.w5
+7	peu	peu	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_none=|id=s1.u10.w6
+8	mais	mais	CCONJ	_	_	11	cc	_	_none=|id=s1.u10.w7
+9	bon	bon	INTJ	_	_	11	discourse	_	id=s1.u10.w8
+10	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	_none=|id=s1.u10.w9
+11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	reparandum	_	id=s1.u10.w10
+12	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	id=s1.u10.w11
+13	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	id=s1.u10.w12
+14	faisable	faisable	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	id=s1.u10.w13
+15	hein	hein	INTJ	_	_	14	discourse	_	_none=|id=s1.u10.w14
+16	sans	sans	ADP	_	_	17	case	_	_none=|id=s1.u10.w15
+17	problème	problème	NOUN	_	Gender=Masc|Number=Sing	14	obl:mod	_	id=s1.u10.w16
+18	oui	oui	ADV	_	_	17	discourse	_	_none=|id=s1.u10.w17
+19	bien	bien	ADV	_	_	17	advmod	_	_none=|id=s1.u10.w18
+20	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	19	fixed	_	id=s1.u10.w19
+
+# sent_id = 2AP0259_12
+# text = merci bien
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u12.w0
+2	bien	bien	ADV	_	_	1	advmod	_	_none=|id=s1.u12.w1
+
+# sent_id = 2AP0259_13
+# text = pont Saint-Laurent vous coupez dans le vieux Grenoble là tout droit
+1	pont	pont	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	id=s1.u13.w0
+2	Saint-Laurent	Saint-lAurent	PROPN	_	_	1	nmod:appos	_	_none=|id=s1.u13.w1
+3	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	id=s1.u13.w2
+4	coupez	couper	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u13.w3
+5	dans	dans	ADP	_	_	8	case	_	id=s1.u13.w4
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_none=|id=s1.u13.w5
+7	vieux	vieux	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_none=|id=s1.u13.w6
+8	Grenoble	Grenoble	PROPN	_	_	4	obl:arg	_	_none=|id=s1.u13.w7
+9	là	là	ADV	_	_	8	advmod	_	_none=|id=s1.u13.w8
+10	tout	tout	ADV	_	_	11	advmod	_	_none=|id=s1.u13.w9
+11	droit	droit	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_none=|id=s1.u13.w10
+
+# sent_id = 2AP0259_14
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u14.w0
+
+# sent_id = 2AP0259_15
+# text = vous prenez le pont Saint-Laurent et vous tombez sur la montée de Chalemont puis vous à pied ça monte un peu
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	id=s1.u15.w0
+2	prenez	prenoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u15.w1
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_none=|id=s1.u15.w2
+4	pont	pont	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_none=|id=s1.u15.w3
+5	Saint-Laurent	Saint-lAurent	PROPN	_	_	4	nmod:appos	_	_none=|id=s1.u15.w4
+6	et	et	CCONJ	_	_	8	cc	_	_none=|id=s1.u15.w5
+7	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	8	nsubj	_	id=s1.u15.w6
+8	tombez	tomber	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	id=s1.u15.w7
+9	sur	sur	ADP	_	_	11	case	_	id=s1.u15.w8
+10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	id=s1.u15.w9
+11	montée	montée	NOUN	_	Gender=Fem|Number=Sing	8	obl:mod	_	id=s1.u15.w10
+12	de	de	ADP	_	_	13	case	_	_none=|id=s1.u15.w11
+13	Chalemont	Chalemont	PROPN	_	_	11	nmod	_	id=s1.u15.w12
+14	puis	puis	CCONJ	_	_	19	cc	_	_none=|id=s1.u15.w13
+15	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	19	dislocated	_	id=s1.u15.w14
+16	à	à	ADP	_	_	17	case	_	_none=|id=s1.u15.w15
+17	pied	pied	NOUN	_	Gender=Masc|Number=Sing	19	obl:mod	_	_none=|id=s1.u15.w16
+18	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	19	nsubj	_	id=s1.u15.w17
+19	monte	monter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	id=s1.u15.w18
+20	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	advmod	_	_none=|id=s1.u15.w19
+21	peu	peu	NOUN	_	_	20	fixed	_	id=s1.u15.w20
+
+# sent_id = 2AP0259_17
+# text = c' est en face
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	id=s1.u17.w0
+2	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u17.w1
+3	en	en	ADP	_	_	4	case	_	_none=|id=s1.u17.w2
+4	face	face	NOUN	_	Gender=Fem|Number=Sing	2	obl:arg	_	id=s1.u17.w3
+
+# sent_id = 2AP0259_19
+# text = bon et il y a un tram aussi qui e qui pour repartir là qui
+1	bon	bon	INTJ	_	_	5	discourse	_	_none=|id=s1.u19.w0
+2	et	et	CCONJ	_	_	5	cc	_	_none=|id=s1.u19.w1
+3	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:subj	_	_none=|id=s1.u19.w2
+4	y	y	PRON	_	Person=3|PronType=Prs	5	expl:comp	_	_none=|id=s1.u19.w3
+5	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ClauseType=Int|id=s1.u19.w4
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_none=|id=s1.u19.w5
+7	tram	tram	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_none=|id=s1.u19.w6
+8	aussi	aussi	ADV	_	_	5	advmod	_	_none=|id=s1.u19.w7
+9	qui	qui	PRON	_	PronType=Rel	10	nsubj	_	_none=|id=s1.u19.w8
+10	e	er	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	reparandum	_	_none=|id=s1.u19.w9
+11	qui	qui	PRON	_	PronType=Rel	13	nsubj	_	_none=|id=s1.u19.w10
+12	pour	pour	ADP	_	_	13	mark	_	_none=|id=s1.u19.w11
+13	repartir	repartir	VERB	_	VerbForm=Inf	5	advcl	_	id=s1.u19.w12
+14	là	là	ADV	_	_	13	advmod	_	_none=|id=s1.u19.w13
+15	qui	qui	PRON	_	PronType=Int	5|13	cue:wh|obl:mod	_	_none=|id=s1.u19.w14|PhraseType=Int
+
+# sent_id = 2AP0259_20
+# text = les trams ils font ça hein
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	id=s1.u20.w0
+2	trams	tram	NOUN	_	Gender=Masc|Number=Plur	4	dislocated	_	_none=|id=s1.u20.w1
+3	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	id=s1.u20.w2
+4	font	re	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u20.w3
+5	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	obj	_	id=s1.u20.w4
+6	hein	hein	INTJ	_	_	4	discourse	_	_none=|id=s1.u20.w5
+
+# sent_id = 2AP0259_21
+# text = ils font ça ah d' accord
+1	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	id=s1.u21.w0
+2	font	re	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u21.w1
+3	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	obj	_	id=s1.u21.w2
+4	ah	ah	INTJ	_	_	2	discourse	_	_none=|id=s1.u21.w3
+5	d'	de	ADP	_	_	2	advmod	_	_none=|id=s1.u21.w4
+6	accord	accord	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	id=s1.u21.w5
+
+# sent_id = 2AP0259_23
+# text = ça c' est la ligne B
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	dislocated	_	id=s1.u23.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	id=s1.u23.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u23.w2
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	id=s1.u23.w3
+5	ligne	ligne	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u23.w4
+6	B	B	PROPN	_	_	5	nmod:appos	_	_none=|id=s1.u23.w5
+
+# sent_id = 2AP0259_24
+# text = hum hum
+1	hum	hum	INTJ	_	_	0	root	_	_none=|id=s1.u24.w0
+2	hum	hum	INTJ	_	_	1	fixed	_	_none=|id=s1.u24.w1
+
+# sent_id = 2AP0259_25
+# text = ça c' est la ligne A
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	dislocated	_	id=s1.u25.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	id=s1.u25.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u25.w2
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	id=s1.u25.w3
+5	ligne	ligne	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u25.w4
+6	A	A	PROPN	_	_	5	nmod:appos	_	id=s1.u25.w5
+
+# sent_id = 2AP0259_26
+# text = A
+1	A	A	PUNCT	_	_	0	root	_	id=s1.u26.w0
+
+# sent_id = 2AP0259_27
+# text = ça c' est la ligne B A
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	dislocated	_	id=s1.u27.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	id=s1.u27.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u27.w2
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	id=s1.u27.w3
+5	ligne	ligne	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u27.w4
+6	B	B	PROPN	_	_	5	nmod:appos	_	_none=|id=s1.u27.w5
+7	A	A	PROPN	_	_	5	nmod:appos	_	id=s1.u27.w6
+
+# sent_id = 2AP0259_29
+# text = hum
+1	hum	hum	INTJ	_	_	0	root	_	_none=|id=s1.u29.w0
+
+# sent_id = 2AP0259_30
+# text = tout ça c' est la ligne A et celle-ci c' est la ligne B
+1	tout	tout	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_none=|id=s1.u30.w0
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	dislocated	_	_none=|id=s1.u30.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_none=|id=s1.u30.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	id=s1.u30.w3
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	id=s1.u30.w4
+6	ligne	ligne	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u30.w5
+7	A	A	PROPN	_	_	6	nmod:appos	_	id=s1.u30.w6
+8	et	et	CCONJ	_	_	13	cc	_	_none=|id=s1.u30.w7
+9	celle-ci	celle	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	dislocated	_	id=s1.u30.w8
+10	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj	_	id=s1.u30.w9
+11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	id=s1.u30.w10
+12	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	id=s1.u30.w11
+13	ligne	ligne	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	id=s1.u30.w12
+14	B	B	PROPN	_	_	13	amod	_	id=s1.u30.w13
+
+# sent_id = 2AP0259_32
+# text = hum hum d' accord alors il faut revenir ici pour prendre le billet
+1	hum	hum	INTJ	_	_	7	discourse	_	_none=|id=s1.u32.w0
+2	hum	hum	INTJ	_	_	7	discourse	_	_none=|id=s1.u32.w1
+3	d'	de	ADP	_	_	7	dep	_	_none=|id=s1.u32.w2
+4	accord	accord	NOUN	_	Gender=Masc|Number=Sing	3	fixed	_	id=s1.u32.w3
+5	alors	alors	ADV	_	_	7	advmod	_	_none=|id=s1.u32.w4
+6	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	_none=|id=s1.u32.w5
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u32.w6
+8	revenir	revenir	VERB	_	VerbForm=Inf	7	ccomp	_	id=s1.u32.w7
+9	ici	ici	ADV	_	_	8	advmod	_	_none=|id=s1.u32.w8
+10	pour	pour	ADP	_	_	11	mark	_	_none=|id=s1.u32.w9
+11	prendre	prendre	VERB	_	VerbForm=Inf	8	advcl	_	id=s1.u32.w10
+12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	id=s1.u32.w11
+13	billet	billet	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	id=s1.u32.w12
+
+# sent_id = 2AP0259_33
+# text = hum
+1	hum	hum	INTJ	_	_	0	root	_	_none=|id=s1.u33.w0
+
+# sent_id = 2AP0259_34
+# text = d' accord merci beaucoup
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u34.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u34.w1
+3	merci	merci	INTJ	_	_	1	obj	_	_none=|id=s1.u34.w2
+4	beaucoup	beaucoup	ADV	_	_	3	advmod	_	_none=|id=s1.u34.w3
+
+# sent_id = 2AP0259_35
+# text = au revoir madame
+1	au	au	ADP	_	_	0	root	_	_none=|id=s1.u35.w0
+2	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u35.w1
+3	madame	madame	NOUN	_	Gender=Fem|Number=Sing	1	vocative	_	id=s1.u35.w2
+
+# sent_id = 2AP0259_36
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u36.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u36.w1
+

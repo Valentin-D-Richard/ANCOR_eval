@@ -1,0 +1,20 @@
+# sent_id = 1AG0508_1
+# text = je pourrais avoir un plan de Grenoble
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	pourrais	pouvoir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	avoir	avoir	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u1.w2
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	id=s1.u1.w3
+5	plan	plan	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_none=|id=s1.u1.w4
+6	de	de	ADP	_	_	7	case	_	id=s1.u1.w5
+7	Grenoble	Grenoble	PROPN	_	_	5	nmod	_	id=s1.u1.w6
+
+# sent_id = 1AG0508_2
+# text = voilà madame
+1	voilà	voilà	VERB	_	_	0	root	_	id=s1.u2.w0
+2	madame	madame	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	id=s1.u2.w1
+
+# sent_id = 1AG0508_3
+# text = merci bien
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+2	bien	bien	ADV	_	_	1	advmod	_	_none=|id=s1.u3.w1
+

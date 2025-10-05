@@ -1,0 +1,75 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2SB0165_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 2SB0165_1
+# text = je veux savoir si vous avez des plans de Grenoble et de la fac
+1	je	_	_	_	_	_	_	_	id=s1.u1.w0
+2	veux	_	_	_	_	_	_	_	id=s1.u1.w1
+3	savoir	_	_	_	_	_	_	_	id=s1.u1.w2
+4	si	_	_	_	_	_	_	_	id=s1.u1.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u1.w4
+6	avez	_	_	_	_	_	_	_	id=s1.u1.w5
+7	des	_	_	_	_	_	_	_	id=s1.u1.w6
+8	plans	_	_	_	_	_	_	_	id=s1.u1.w7
+9	de	_	_	_	_	_	_	_	id=s1.u1.w8
+10	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w9
+11	et	_	_	_	_	_	_	_	id=s1.u1.w10
+12	de	_	_	_	_	_	_	_	id=s1.u1.w11
+13	la	_	_	_	_	_	_	_	id=s1.u1.w12
+14	fac	_	_	_	_	_	_	_	id=s1.u1.w13
+
+# sent_id = 2SB0165_2
+# text = et de la
+1	et	_	_	_	_	_	_	_	id=s1.u2.w0
+2	de	_	_	_	_	_	_	_	id=s1.u2.w1
+3	la	_	_	_	_	_	_	_	id=s1.u2.w2
+
+# sent_id = 2SB0165_3
+# text = et de la fac
+1	et	_	_	_	_	_	_	_	id=s1.u3.w0
+2	de	_	_	_	_	_	_	_	id=s1.u3.w1
+3	la	_	_	_	_	_	_	_	id=s1.u3.w2
+4	fac	_	_	_	_	_	_	_	id=s1.u3.w3
+
+# sent_id = 2SB0165_4
+# text = là plan de Grenoble et de la fac on va tenter là vous en avez un ici
+1	là	_	_	_	_	_	_	_	id=s1.u4.w0
+2	plan	_	_	_	_	_	_	_	id=s1.u4.w1
+3	de	_	_	_	_	_	_	_	id=s1.u4.w2
+4	Grenoble	_	_	_	_	_	_	_	id=s1.u4.w3
+5	et	_	_	_	_	_	_	_	id=s1.u4.w4
+6	de	_	_	_	_	_	_	_	id=s1.u4.w5
+7	la	_	_	_	_	_	_	_	id=s1.u4.w6
+8	fac	_	_	_	_	_	_	_	id=s1.u4.w7
+9	on	_	_	_	_	_	_	_	id=s1.u4.w8
+10	va	_	_	_	_	_	_	_	id=s1.u4.w9
+11	tenter	_	_	_	_	_	_	_	id=s1.u4.w10
+12	là	_	_	_	_	_	_	_	id=s1.u4.w11
+13	vous	_	_	_	_	_	_	_	id=s1.u4.w12
+14	en	_	_	_	_	_	_	_	id=s1.u4.w13
+15	avez	_	_	_	_	_	_	_	id=s1.u4.w14
+16	un	_	_	_	_	_	_	_	id=s1.u4.w15
+17	ici	_	_	_	_	_	_	_	id=s1.u4.w16
+
+# sent_id = 2SB0165_5
+# text = d' accord
+1	d'	_	_	_	_	_	_	_	id=s1.u5.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u5.w1
+
+# sent_id = 2SB0165_6
+# text = voilà merci
+1	voilà	_	_	_	_	_	_	_	id=s1.u6.w0
+2	merci	_	_	_	_	_	_	_	id=s1.u6.w1
+
+# sent_id = 2SB0165_7
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u7.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u7.w1
+
+# sent_id = 2SB0165_8
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u8.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u8.w1
+

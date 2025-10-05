@@ -1,0 +1,63 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0309_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0309_1
+# text = bonjour je voudrais la liste des radios de Grenoble
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	id=s1.u1.w3
+5	liste	liste	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	id=s1.u1.w4
+6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	id=s1.u1.w5
+7	radios	radio	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	id=s1.u1.w6
+8	de	de	ADP	_	_	9	case	_	_none=|id=s1.u1.w7
+9	Grenoble	Grenoble	PROPN	_	_	7	nmod	_	id=s1.u1.w8
+
+# sent_id = 1AP0309_2
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u2.w0
+
+# sent_id = 1AP0309_3
+# text = à Grenoble et et région si
+1	à	à	ADP	_	_	2	case	_	_none=|id=s1.u3.w0
+2	Grenoble	Grenoble	PROPN	_	_	0	root	_	_none=|id=s1.u3.w1
+3	et	et	CCONJ	_	_	4	reparandum	_	_none=|id=s1.u3.w2
+4	et	et	CCONJ	conj:reform	_	5	cc	_	_none=|id=s1.u3.w3
+5	région	région	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	id=s1.u3.w4
+6	si	si	INTJ	_	_	2	discourse	_	_none=|id=s1.u3.w5
+
+# sent_id = 1AP0309_4
+# text = c' est Grenoble et et les alentours hein le grand Grenoble hein
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	id=s1.u4.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u4.w1
+3	Grenoble	Grenoble	PROPN	_	_	0	root	_	id=s1.u4.w2
+4	et	et	CCONJ	_	_	5	reparandum	_	_none=|id=s1.u4.w3
+5	et	et	CCONJ	_	_	7	cc	_	_none=|id=s1.u4.w4
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	id=s1.u4.w5
+7	alentours	alentour	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	_none=|id=s1.u4.w6
+8	hein	hein	INTJ	_	_	7	discourse	_	_none=|id=s1.u4.w7
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_none=|id=s1.u4.w8
+10	grand	grand	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_none=|id=s1.u4.w9
+11	Grenoble	Grenoble	PROPN	_	_	3	conj	_	id=s1.u4.w10
+12	hein	hein	INTJ	_	_	3	discourse	_	_none=|id=s1.u4.w11
+
+# sent_id = 1AP0309_5
+# text = oui d' accord merci beaucoup
+1	oui	oui	INTJ	_	_	3	discourse	_	_none=|id=s1.u5.w0
+2	d'	de	ADP	_	_	3	case	_	_none=|id=s1.u5.w1
+3	accord	accord	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u5.w2
+4	merci	merci	INTJ	_	_	3	conj	_	_none=|id=s1.u5.w3
+5	beaucoup	beaucoup	ADV	_	_	4	advmod	_	_none=|id=s1.u5.w4
+
+# sent_id = 1AP0309_6
+# text = je vous en prie madame au revoir
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u6.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u6.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u6.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u6.w3
+5	madame	madame	NOUN	_	Gender=Fem|Number=Sing	4	vocative	_	id=s1.u6.w4
+6	au	au	ADP	_	_	7	case	_	_none=|id=s1.u6.w5
+7	revoir	revoir	VERB	_	VerbForm=Inf	5	acl	_	id=s1.u6.w6
+

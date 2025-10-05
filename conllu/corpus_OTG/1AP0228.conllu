@@ -1,0 +1,50 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0228_0
+# text = le programme des films s' il vous plaît
+1	le	_	_	_	_	_	_	_	id=s1.u0.w0
+2	programme	_	_	_	_	_	_	_	id=s1.u0.w1
+3	des	_	_	_	_	_	_	_	id=s1.u0.w2
+4	films	_	_	_	_	_	_	_	id=s1.u0.w3
+5	s'	_	_	_	_	_	_	_	id=s1.u0.w4
+6	il	_	_	_	_	_	_	_	id=s1.u0.w5
+7	vous	_	_	_	_	_	_	_	id=s1.u0.w6
+8	plaît	_	_	_	_	_	_	_	id=s1.u0.w7
+
+# sent_id = 1AP0228_1
+# text = " le petit bulletin "
+1	le	_	_	_	_	_	_	_	id=s1.u1.w1
+2	petit	_	_	_	_	_	_	_	id=s1.u1.w2
+3	bulletin	_	_	_	_	_	_	_	id=s1.u1.w3
+
+# sent_id = 1AP0228_2
+# text = e qui se passe ici
+1	e	_	_	_	_	_	_	_	id=s1.u2.w0
+2	qui	_	_	_	_	_	_	_	id=s1.u2.w1
+3	se	_	_	_	_	_	_	_	id=s1.u2.w2
+4	passe	_	_	_	_	_	_	_	id=s1.u2.w3
+5	ici	_	_	_	_	_	_	_	id=s1.u2.w4
+
+# sent_id = 1AP0228_3
+# text = ah " visages du monde "
+1	ah	_	_	_	_	_	_	_	id=s1.u3.w0
+2	visages	_	_	_	_	_	_	_	id=s1.u3.w2
+3	du	_	_	_	_	_	_	_	id=s1.u3.w3
+4	monde	_	_	_	_	_	_	_	id=s1.u3.w4
+
+# sent_id = 1AP0228_4
+# text = je vous remercie beaucoup
+1	je	_	_	_	_	_	_	_	id=s1.u4.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u4.w1
+3	remercie	_	_	_	_	_	_	_	id=s1.u4.w2
+4	beaucoup	_	_	_	_	_	_	_	id=s1.u4.w3
+
+# sent_id = 1AP0228_5
+# text = je vous en prie madame au revoir
+1	je	_	_	_	_	_	_	_	id=s1.u5.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u5.w1
+3	en	_	_	_	_	_	_	_	id=s1.u5.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u5.w3
+5	madame	_	_	_	_	_	_	_	id=s1.u5.w4
+6	au	_	_	_	_	_	_	_	id=s1.u5.w5
+7	revoir	_	_	_	_	_	_	_	id=s1.u5.w6
+

@@ -1,0 +1,54 @@
+# sent_id = 1AG0155_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AG0155_1
+# text = bonjour je voudrais avoir un renseignement je ne suis pas d' ici je cherche un des restaurants où l' on puisse écouter de la musique des choses comme ça où est ce que je pourrais avoir tout ça
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	avoir	avoir	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u1.w3
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	id=s1.u1.w4
+6	renseignement	renseignement	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_none=|id=s1.u1.w5
+7	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_none=|id=s1.u1.w6
+8	ne	ne	ADV	_	Polarity=Neg	9	advmod	_	_none=|id=s1.u1.w7
+9	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	advcl	_	_none=|id=s1.u1.w8
+10	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	_none=|id=s1.u1.w9
+11	d'	de	ADP	_	_	12	case	_	_none=|id=s1.u1.w10
+12	ici	ici	ADV	_	_	9	advmod	_	_none=|id=s1.u1.w11
+13	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_none=|id=s1.u1.w12
+14	cherche	chercher	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	id=s1.u1.w13
+15	un	un	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	17	det	_	_none=|id=s1.u1.w14
+16	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	17	det	_	id=s1.u1.w15
+17	restaurants	restaurant	NOUN	_	Gender=Masc|Number=Plur	14	obj	_	id=s1.u1.w16
+18	où	où	PRON	_	PronType=Rel	21	obl:mod	_	_none=|id=s1.u1.w17
+19	l'	le	PRON	_	Definite=Def|Number=Sing|PronType=Art	9	obj	_	_none=|id=s1.u1.w18
+20	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	21	nsubj	_	_none=|id=s1.u1.w19
+21	puisse	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	_none=|id=s1.u1.w20
+22	écouter	écouter	VERB	_	VerbForm=Inf	21	xcomp	_	_none=|id=s1.u1.w21
+23	de	de	ADP	_	_	25	det	_	_none=|id=s1.u1.w22
+24	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	fixed	_	id=s1.u1.w23
+25	musique	musique	NOUN	_	Gender=Fem|Number=Sing	22	obj	_	id=s1.u1.w24
+26	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	27	det	_	id=s1.u1.w25
+27	choses	chose	NOUN	_	Gender=Fem|Number=Plur	22	obj	_	id=s1.u1.w26
+28	comme	comme	ADP	_	_	29	case	_	_none=|id=s1.u1.w27
+29	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	27	nmod	_	id=s1.u1.w28
+30	où	où	PRON	_	PronType=Rel	32	advmod	_	id=s1.u1.w29
+31	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	cop	_	id=s1.u1.w30
+32	ce	ce	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	14	obl:mod	_	id=s1.u1.w31
+33	que	que	SCONJ	_	_	35	mark	_	_none=|id=s1.u1.w32
+34	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	35	nsubj	_	id=s1.u1.w33
+35	pourrais	pourr	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	32	acl:relcl	_	id=s1.u1.w34
+36	avoir	avoir	VERB	_	VerbForm=Inf	35	xcomp	_	id=s1.u1.w35
+37	tout	tout	ADJ	_	Gender=Masc|Number=Sing	38	amod	_	id=s1.u1.w36
+38	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	36	obj	_	_none=|id=s1.u1.w37
+
+# sent_id = 1AG0155_2
+# text = là dedans
+1	là	là	ADV	_	_	2	advmod	_	_none=|id=s1.u2.w0
+2	dedans	dedans	ADV	_	_	0	root	_	_none=|id=s1.u2.w1
+
+# sent_id = 1AG0155_3
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+

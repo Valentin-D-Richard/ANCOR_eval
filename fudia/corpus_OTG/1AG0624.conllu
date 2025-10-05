@@ -1,0 +1,34 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0624_0
+# text = je peux vous renseigner
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u0.w0
+2	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u0.w1
+3	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	4	obj	_	_none=|id=s1.u0.w2
+4	renseigner	renseigner	VERB	_	VerbForm=Inf	2	xcomp	_	id=s1.u0.w3
+
+# sent_id = 1AG0624_1
+# text = vous avez un plan de la ville s' il vous plaît
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	id=s1.u1.w0
+2	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u1.w1
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	id=s1.u1.w2
+4	plan	plan	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_none=|id=s1.u1.w3
+5	de	de	ADP	_	_	7	case	_	id=s1.u1.w4
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	id=s1.u1.w5
+7	ville	ville	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	id=s1.u1.w6
+8	s'	se	SCONJ	_	_	11	mark	_	_none=|id=s1.u1.w7
+9	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl:subj	_	_none=|id=s1.u1.w8
+10	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	11	iobj	_	_none=|id=s1.u1.w9
+11	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	discourse	_	_none=|id=s1.u1.w10
+
+# sent_id = 1AG0624_2
+# text = bien sûr voilà monsieur oui
+1	bien	bien	ADV	_	_	3	advmod	_	_none=|id=s1.u2.w0
+2	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u2.w1
+3	voilà	voilà	VERB	_	_	0	root	_	id=s1.u2.w2
+4	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_none=|id=s1.u2.w3
+5	oui	oui	INTJ	_	_	4	discourse	_	_none=|id=s1.u2.w4
+
+# sent_id = 1AG0624_3
+# text = gratuit
+1	gratuit	gratuit	CCONJ	_	_	0	root	_	_none=|id=s1.u3.w0
+

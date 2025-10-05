@@ -1,0 +1,53 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2AP0598_0
+# text = bonsoir
+1	bonsoir	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 2AP0598_1
+# text = un plan de la ville s' il vous plaît
+1	un	_	_	_	_	_	_	_	id=s1.u1.w0
+2	plan	_	_	_	_	_	_	_	id=s1.u1.w1
+3	de	_	_	_	_	_	_	_	id=s1.u1.w2
+4	la	_	_	_	_	_	_	_	id=s1.u1.w3
+5	ville	_	_	_	_	_	_	_	id=s1.u1.w4
+6	s'	_	_	_	_	_	_	_	id=s1.u1.w5
+7	il	_	_	_	_	_	_	_	id=s1.u1.w6
+8	vous	_	_	_	_	_	_	_	id=s1.u1.w7
+9	plaît	_	_	_	_	_	_	_	id=s1.u1.w8
+
+# sent_id = 2AP0598_2
+# text = oui bien sûr
+1	oui	_	_	_	_	_	_	_	id=s1.u2.w0
+2	bien	_	_	_	_	_	_	_	id=s1.u2.w1
+3	sûr	_	_	_	_	_	_	_	id=s1.u2.w2
+
+# sent_id = 2AP0598_3
+# text = est ce que vous avez une liste des hôtels
+1	est	_	_	_	_	_	_	_	id=s1.u3.w0
+2	ce	_	_	_	_	_	_	_	id=s1.u3.w1
+3	que	_	_	_	_	_	_	_	id=s1.u3.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u3.w3
+5	avez	_	_	_	_	_	_	_	id=s1.u3.w4
+6	une	_	_	_	_	_	_	_	id=s1.u3.w5
+7	liste	_	_	_	_	_	_	_	id=s1.u3.w6
+8	des	_	_	_	_	_	_	_	id=s1.u3.w7
+9	hôtels	_	_	_	_	_	_	_	id=s1.u3.w8
+
+# sent_id = 2AP0598_4
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u4.w0
+
+# sent_id = 2AP0598_5
+# text = merci beaucoup
+1	merci	_	_	_	_	_	_	_	id=s1.u5.w0
+2	beaucoup	_	_	_	_	_	_	_	id=s1.u5.w1
+
+# sent_id = 2AP0598_6
+# text = je vous en prie bonne soirée
+1	je	_	_	_	_	_	_	_	id=s1.u6.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u6.w1
+3	en	_	_	_	_	_	_	_	id=s1.u6.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u6.w3
+5	bonne	_	_	_	_	_	_	_	id=s1.u6.w4
+6	soirée	_	_	_	_	_	_	_	id=s1.u6.w5
+

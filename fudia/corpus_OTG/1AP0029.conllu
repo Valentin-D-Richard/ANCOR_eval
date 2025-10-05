@@ -1,0 +1,146 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0029_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0029_1
+# text = je voudrais savoir j' ai vu qu' il y avait un " atelier de l' oeil " je voudrais savoir si c' est des cours de dessin en fait
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	savoir	savoir	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u1.w2
+4	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_none=|id=s1.u1.w3
+5	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_none=|id=s1.u1.w4
+6	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_none=|id=s1.u1.w5
+7	qu'	que	SCONJ	_	_	10	mark	_	_none=|id=s1.u1.w6
+8	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_none=|id=s1.u1.w7
+9	y	y	PRON	_	Person=3|PronType=Prs	10	expl:comp	_	id=s1.u1.w8
+10	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	ccomp	_	_none=|id=s1.u1.w9
+11	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_none=|id=s1.u1.w10
+12	atelier	atelier	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_none=|id=s1.u1.w12
+13	de	de	ADP	_	_	15	case	_	_none=|id=s1.u1.w13
+14	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	15	det	_	id=s1.u1.w14
+15	oeil	oeil	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	id=s1.u1.w15
+16	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_none=|id=s1.u1.w17
+17	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_none=|id=s1.u1.w18
+18	savoir	savoir	VERB	_	VerbForm=Inf	17	xcomp	_	id=s1.u1.w19
+19	si	si	SCONJ	_	_	23|23	cue:mark|mark	_	id=s1.u1.w20
+20	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	23	nsubj	_	id=s1.u1.w21
+21	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	id=s1.u1.w22
+22	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	23	det	_	id=s1.u1.w23
+23	cours	cours	NOUN	_	Gender=Masc|Number=Plur	18	ccomp	_	ClauseType=Int|id=s1.u1.w24
+24	de	de	ADP	_	_	25	case	_	id=s1.u1.w25
+25	dessin	dessin	NOUN	_	Gender=Masc|Number=Sing	23	nmod	_	id=s1.u1.w26
+26	en	en	ADP	_	_	27	case	_	_none=|id=s1.u1.w27
+27	fait	fait	NOUN	_	Gender=Masc|Number=Sing	23	discourse	_	id=s1.u1.w28
+
+# sent_id = 1AP0029_2
+# text = c' est une galerie
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	id=s1.u2.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	id=s1.u2.w1
+3	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	id=s1.u2.w2
+4	galerie	galerie	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u2.w3
+
+# sent_id = 1AP0029_3
+# text = c' est une galerie une de e
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	id=s1.u3.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	id=s1.u3.w1
+3	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	id=s1.u3.w2
+4	galerie	galerie	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u3.w3
+5	une	un	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Ind	4	appos	_	id=s1.u3.w4
+6	de	de	ADP	_	_	5	dep	_	_none=|id=s1.u3.w5
+7	e	e	NOUN	_	_	5	nmod	_	id=s1.u3.w6
+
+# sent_id = 1AP0029_4
+# text = galerie de l' oeil " vous dire s' ils donnent des cours ça se peut hein on n' est pas franchement au courant de tout leur programme et c' est avant tout une galerie et c' est dans ce but qu' ils ont fait une exposition donc je vais vous donner leur carte et puis vous les contactez
+1	galerie	galerie	NOUN	_	Gender=Fem|Number=Sing	14	dislocated	_	_none=|id=s1.u4.w0
+2	de	de	ADP	_	_	4	case	_	_none=|id=s1.u4.w1
+3	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	4	det	_	id=s1.u4.w2
+4	oeil	oeil	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_none=|id=s1.u4.w3
+5	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	14	iobj	_	id=s1.u4.w5
+6	dire	dire	VERB	_	VerbForm=Inf	14	ccomp	_	_none=|id=s1.u4.w6
+7	s'	se	SCONJ	_	_	9	mark	_	_none=|id=s1.u4.w7
+8	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_none=|id=s1.u4.w8
+9	donnent	donner	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl	_	_none=|id=s1.u4.w9
+10	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	11	det	_	id=s1.u4.w10
+11	cours	cours	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	id=s1.u4.w11
+12	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	_none=|id=s1.u4.w12
+13	se	se	PRON	_	Person=3|PronType=Prs	14	expl:pass	_	_none=|id=s1.u4.w13
+14	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w14
+15	hein	hein	INTJ	_	_	33	discourse	_	_none=|id=s1.u4.w15
+16	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	33	nsubj	_	_none=|id=s1.u4.w16
+17	n'	ne	ADV	_	Polarity=Neg	18	advmod	_	_none=|id=s1.u4.w17
+18	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_none=|id=s1.u4.w18
+19	pas	pas	ADV	_	Polarity=Neg	21	advmod	_	_none=|id=s1.u4.w19
+20	franchement	franchement	ADV	_	_	22	advmod	_	_none=|id=s1.u4.w20
+21	au	au	ADP	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	case	_	_none=|id=s1.u4.w21
+22	courant	courant	NOUN	_	Gender=Masc|Number=Sing	6	ccomp	_	id=s1.u4.w22
+23	de	de	ADP	_	_	26	case	_	_none=|id=s1.u4.w23
+24	tout	tout	ADJ	_	Gender=Masc|Number=Sing	26	amod	_	_none=|id=s1.u4.w24
+25	leur	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=3|PronType=Prs	26	det	_	_none=|id=s1.u4.w25
+26	programme	programme	NOUN	_	Gender=Masc|Number=Sing	21	obl:mod	_	_none=|id=s1.u4.w26
+27	et	et	CCONJ	_	_	33	cc	_	_none=|id=s1.u4.w27
+28	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	33	nsubj	_	id=s1.u4.w28
+29	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	cop	_	id=s1.u4.w29
+30	avant	avant	ADP	_	_	39	advmod	_	_none=|id=s1.u4.w30
+31	tout	tout	NOUN	_	Gender=Masc|Number=Sing	30	fixed	_	id=s1.u4.w31
+32	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	33	det	_	id=s1.u4.w32
+33	galerie	galerie	NOUN	_	Gender=Fem|Number=Sing	21	conj	_	id=s1.u4.w33
+34	et	et	CCONJ	_	_	39	cc	_	_none=|id=s1.u4.w34
+35	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	39	expl:subj	_	_none=|id=s1.u4.w35
+36	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	39	cop	_	id=s1.u4.w36
+37	dans	dans	ADP	_	_	39	case	_	_none=|id=s1.u4.w37
+38	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	39	det	_	_none=|id=s1.u4.w38
+39	but	but	NOUN	_	Gender=Masc|Number=Sing	33	conj	_	_none=|id=s1.u4.w39
+40	qu'	que	SCONJ	_	_	43	mark	_	_none=|id=s1.u4.w40
+41	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	43	nsubj	_	_none=|id=s1.u4.w41
+42	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	43	aux:tense	_	_none=|id=s1.u4.w42
+43	fait	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	39	acl	_	_none=|id=s1.u4.w43
+44	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	45	det	_	id=s1.u4.w44
+45	exposition	exposition	NOUN	_	Gender=Fem|Number=Sing	43	obj	_	id=s1.u4.w45
+46	donc	donc	ADV	_	_	48	cc	_	_none=|id=s1.u4.w46
+47	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	48	nsubj	_	_none=|id=s1.u4.w47
+48	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	33	conj	_	id=s1.u4.w48
+49	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	50	iobj	_	id=s1.u4.w49
+50	donner	donner	VERB	_	VerbForm=Inf	48	xcomp	_	id=s1.u4.w50
+51	leur	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=3|PronType=Prs	52	det	_	id=s1.u4.w51
+52	carte	carte	NOUN	_	Gender=Fem|Number=Sing	50	obj	_	id=s1.u4.w52
+53	et	et	CCONJ	_	_	57	cc	_	_none=|id=s1.u4.w53
+54	puis	puis	CCONJ	_	_	53	fixed	_	id=s1.u4.w54
+55	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	57	nsubj	_	id=s1.u4.w55
+56	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	57	obj	_	id=s1.u4.w56
+57	contactez	contacter	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	39	acl	_	id=s1.u4.w57
+
+# sent_id = 1AP0029_5
+# text = oh oui volontiers
+1	oh	oh	INTJ	_	_	3	discourse	_	_none=|id=s1.u5.w0
+2	oui	oui	INTJ	_	_	3	discourse	_	_none=|id=s1.u5.w1
+3	volontiers	volontiers	ADV	_	_	0	root	_	_none=|id=s1.u5.w2
+
+# sent_id = 1AP0029_6
+# text = voilà voilà
+1	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u6.w0
+2	voilà	voilà	VERB	_	_	1	conj	_	id=s1.u6.w1
+
+# sent_id = 1AP0029_7
+# text = et je vous remercie
+1	et	et	CCONJ	_	_	4	cc	_	_none=|id=s1.u7.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u7.w1
+3	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	4	obj	_	_none=|id=s1.u7.w2
+4	remercie	remercier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u7.w3
+
+# sent_id = 1AP0029_8
+# text = je vous en prie au revoir
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u8.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u8.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u8.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u8.w3
+5	au	au	ADP	_	_	6	case	_	_none=|id=s1.u8.w4
+6	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	4	advmod	_	id=s1.u8.w5
+
+# sent_id = 1AP0029_9
+# text = s' il vous plaît
+1	s'	se	SCONJ	_	_	4	mark	_	_none=|id=s1.u9.w0
+2	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	_none=|id=s1.u9.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u9.w2
+4	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u9.w3
+

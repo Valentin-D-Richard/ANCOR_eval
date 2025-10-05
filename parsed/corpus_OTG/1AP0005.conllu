@@ -1,0 +1,121 @@
+# sent_id = 1AP0005_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0005_1
+# text = bonjour j' aurais vous avez un plan des pistes cyclables à Grenoble
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	aurais	avoir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	id=s1.u1.w3
+5	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_none=|id=s1.u1.w4
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	id=s1.u1.w5
+7	plan	plan	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_none=|id=s1.u1.w6
+8	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	9	det	_	id=s1.u1.w7
+9	pistes	piste	NOUN	_	Gender=Fem|Number=Plur	7	nmod	_	id=s1.u1.w8
+10	cyclables	cyclaber	ADJ	_	Gender=Fem|Number=Plur	9	amod	_	id=s1.u1.w9
+11	à	à	ADP	_	_	12	case	_	_none=|id=s1.u1.w10
+12	Grenoble	Grenoble	PROPN	_	_	9	nmod	_	_none=|id=s1.u1.w11
+
+# sent_id = 1AP0005_2
+# text = ils sont tombés en rupture de stock la communauté de la commune ce qui fait que le temps de le rééditer e il faut quand même un mois de délai peut être que vous le trouverez dans les mairies essayez de faire les mairies parce qu' ils en ont déposés aussi nous je sais que ça fait un moment qu' on en a plus hein parce qu' ils partent de chez nous très très vite hein
+1	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	id=s1.u2.w0
+2	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_none=|id=s1.u2.w1
+3	tombés	tomber	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u2.w2
+4	en	en	ADP	_	_	5	case	_	_none=|id=s1.u2.w3
+5	rupture	rupture	NOUN	_	Gender=Fem|Number=Sing	3	obl:arg	_	id=s1.u2.w4
+6	de	de	ADP	_	_	7	case	_	_none=|id=s1.u2.w5
+7	stock	stock	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	id=s1.u2.w6
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	id=s1.u2.w7
+9	communauté	communauté	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	id=s1.u2.w8
+10	de	de	ADP	_	_	12	case	_	_none=|id=s1.u2.w9
+11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	id=s1.u2.w10
+12	commune	commune	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	id=s1.u2.w11
+13	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	dislocated	_	_none=|id=s1.u2.w12
+14	qui	qui	PRON	_	PronType=Rel	15	nsubj	_	_none=|id=s1.u2.w13
+15	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_none=|id=s1.u2.w14
+16	que	que	SCONJ	_	_	18	case	_	_none=|id=s1.u2.w15
+17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_none=|id=s1.u2.w16
+18	temps	temps	NOUN	_	Gender=Masc|Number=Sing	50	obl:mod	_	_none=|id=s1.u2.w17
+19	de	de	ADP	_	_	21	mark	_	_none=|id=s1.u2.w18
+20	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obj	_	_none=|id=s1.u2.w19
+21	rééditer	rééditer	VERB	_	VerbForm=Inf	18	acl	_	_none=|id=s1.u2.w20
+22	e	e	CCONJ	_	_	24	cc	_	_none=|id=s1.u2.w21
+23	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	expl:subj	_	_none=|id=s1.u2.w22
+24	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	id=s1.u2.w23
+25	quand	quand	SCONJ	_	_	24	advmod	_	_none=|id=s1.u2.w24
+26	même	même	ADV	_	_	25	fixed	_	_none=|id=s1.u2.w25
+27	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_none=|id=s1.u2.w26
+28	mois	mois	NOUN	_	Gender=Masc|Number=Sing	24	obj	_	_none=|id=s1.u2.w27
+29	de	de	ADP	_	_	30	case	_	_none=|id=s1.u2.w28
+30	délai	délai	NOUN	_	Gender=Masc|Number=Sing	28	nmod	_	id=s1.u2.w29
+31	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	advmod	_	_none=|id=s1.u2.w30
+32	être	être	VERB	_	VerbForm=Inf	31	fixed	_	_none=|id=s1.u2.w31
+33	que	que	SCONJ	_	_	36	mark	_	_none=|id=s1.u2.w32
+34	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	36	nsubj	_	_none=|id=s1.u2.w33
+35	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	obj	_	_none=|id=s1.u2.w34
+36	trouverez	trouveroir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	50	advcl	_	_none=|id=s1.u2.w35
+37	dans	dans	ADP	_	_	39	case	_	_none=|id=s1.u2.w36
+38	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	39	det	_	id=s1.u2.w37
+39	mairies	mairie	NOUN	_	Gender=Fem|Number=Plur	36	obl:mod	_	id=s1.u2.w38
+40	essayez	essayer	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	24	conj	_	_none=|id=s1.u2.w39
+41	de	de	ADP	_	_	42	mark	_	_none=|id=s1.u2.w40
+42	faire	faire	VERB	_	VerbForm=Inf	59	acl	_	id=s1.u2.w41
+43	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	44	det	_	id=s1.u2.w42
+44	mairies	mairie	NOUN	_	Gender=Fem|Number=Plur	42	obj	_	id=s1.u2.w43
+45	parce	parce	ADV	_	_	50	mark	_	_none=|id=s1.u2.w44
+46	qu'	que	SCONJ	_	_	45	fixed	_	id=s1.u2.w45
+47	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	50	nsubj	_	_none=|id=s1.u2.w46
+48	en	e	PRON	_	Person=3|PronType=Prs	36	obj	_	_none=|id=s1.u2.w47
+49	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	50	aux:tense	_	_none=|id=s1.u2.w48
+50	déposés	déposer	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	24	conj	_	_none=|id=s1.u2.w49
+51	aussi	aussi	ADV	_	_	50	advmod	_	_none=|id=s1.u2.w50
+52	nous	il	PRON	_	Number=Plur|Person=1|PronType=Prs	54	dislocated	_	id=s1.u2.w51
+53	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	54	nsubj	_	_none=|id=s1.u2.w52
+54	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	24	conj	_	id=s1.u2.w53
+55	que	que	SCONJ	_	_	57	mark	_	_none=|id=s1.u2.w54
+56	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	57	nsubj	_	id=s1.u2.w55
+57	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	ccomp	_	id=s1.u2.w56
+58	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	59	det	_	id=s1.u2.w57
+59	moment	moment	NOUN	_	Gender=Masc|Number=Sing	57	obj	_	id=s1.u2.w58
+60	qu'	que	SCONJ	_	_	63	obj	_	_none=|id=s1.u2.w59
+61	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	63	nsubj	_	_none=|id=s1.u2.w60
+62	en	en	PRON	_	Person=3|PronType=Prs	63	obj	_	id=s1.u2.w61
+63	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	59	acl:relcl	_	id=s1.u2.w62
+64	plus	plus	ADV	_	_	63	advmod	_	id=s1.u2.w63
+65	hein	hein	INTJ	_	_	42	discourse	_	_none=|id=s1.u2.w64
+66	parce	parce	ADV	_	_	69	mark	_	_none=|id=s1.u2.w65
+67	qu'	que	SCONJ	_	_	66	fixed	_	id=s1.u2.w66
+68	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	69	nsubj	_	_none=|id=s1.u2.w67
+69	partent	parter	VERB	ETRE	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	40	ccomp	_	_none=|id=s1.u2.w68
+70	de	de	ADP	_	_	72	case	_	_none=|id=s1.u2.w69
+71	chez	chez	ADP	_	_	72	case	_	id=s1.u2.w70
+72	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	63	obl:mod	_	id=s1.u2.w71
+73	très	très	ADV	_	_	75	advmod	_	_none=|id=s1.u2.w72
+74	très	très	ADV	_	_	75	advmod	_	_none=|id=s1.u2.w73
+75	vite	vite	ADV	_	_	69	advmod	_	_none=|id=s1.u2.w74
+76	hein	hein	INTJ	_	_	54	discourse	_	_none=|id=s1.u2.w75
+
+# sent_id = 1AP0005_7
+# text = d' accord merci
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u7.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u7.w1
+3	merci	merci	ADJ	_	_	1	fixed	_	_none=|id=s1.u7.w2
+
+# sent_id = 1AP0005_8
+# text = je vous en prie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u8.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u8.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u8.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u8.w3
+
+# sent_id = 1AP0005_9
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u9.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u9.w1
+
+# sent_id = 1AP0005_10
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u10.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u10.w1
+

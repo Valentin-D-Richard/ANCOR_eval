@@ -1,0 +1,83 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2SB0212_1
+# text = avez vous le plan de Grenoble s' il vous plaît de la ville et e qu' est ce qu' il y a à visiter enfin
+1	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w0|ClauseType=Int
+2	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	1|1	cue:mark|nsubj	_	id=s1.u1.w1
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_none=|id=s1.u1.w2
+4	plan	plan	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_none=|id=s1.u1.w3
+5	de	de	ADP	_	_	6	case	_	_none=|id=s1.u1.w4
+6	Grenoble	Grenoble	PROPN	_	_	4	nmod	_	_none=|id=s1.u1.w5
+7	s'	si	SCONJ	_	_	10	mark	_	_none=|id=s1.u1.w6
+8	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_none=|id=s1.u1.w7
+9	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	10	iobj	_	_none=|id=s1.u1.w8
+10	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_none=|id=s1.u1.w9
+11	de	de	ADP	_	_	13	case	_	_none=|id=s1.u1.w10
+12	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	id=s1.u1.w11
+13	ville	ville	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_none=|id=s1.u1.w12
+14	et	et	CCONJ	_	_	16	cc	_	_none=|id=s1.u1.w13
+15	e	e	PRON	_	_	16	reparandum	_	_none=|id=s1.u1.w14
+16	qu'	que	PRON	_	ExtPos=PRON|Person=3|PronType=Int	_	_	_	id=s1.u1.w15
+17	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	fixed	_	id=s1.u1.w16
+18	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	16	fixed	_	id=s1.u1.w17
+19	qu'	que	PRON	_	PronType=Rel	16	fixed	_	id=s1.u1.w18
+20	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	expl:subj	_	_none=|id=s1.u1.w19
+21	y	y	PRON	_	Person=3|PronType=Prs	22	expl:comp	_	id=s1.u1.w20
+22	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	id=s1.u1.w21
+23	à	à	ADP	_	_	24	mark	_	id=s1.u1.w22
+24	visiter	visiter	VERB	_	VerbForm=Inf	22	xcomp	_	id=s1.u1.w23
+25	enfin	enfin	ADV	_	_	22	discourse	_	_none=|id=s1.u1.w24
+
+# sent_id = 2SB0212_3
+# text = vous avez énormément de musées à visiter je vais vous laisser le listing hein il est là
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_none=|id=s1.u3.w0
+2	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u3.w1
+3	énormément	énormément	ADV	_	_	2	obj	_	_none=|id=s1.u3.w2
+4	de	de	ADP	_	_	5	case	_	_none=|id=s1.u3.w3
+5	musées	musée	NOUN	_	Gender=Masc|Number=Plur	3	obl:arg	_	id=s1.u3.w4
+6	à	à	ADP	_	_	7	mark	_	_none=|id=s1.u3.w5
+7	visiter	visiter	VERB	_	VerbForm=Inf	5	acl	_	id=s1.u3.w6
+8	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	id=s1.u3.w7
+9	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	id=s1.u3.w8
+10	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	9	iobj	_	id=s1.u3.w9
+11	laisser	laisser	VERB	_	VerbForm=Inf	9	xcomp	_	id=s1.u3.w10
+12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	id=s1.u3.w11
+13	listing	listing	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	id=s1.u3.w12
+14	hein	hein	INTJ	_	_	17	discourse	_	_none=|id=s1.u3.w13
+15	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	id=s1.u3.w14
+16	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	id=s1.u3.w15
+17	là	là	ADV	_	_	11	advcl	_	id=s1.u3.w16
+
+# sent_id = 2SB0212_4
+# text = hum hum
+1	hum	hum	INTJ	_	_	0	root	_	_none=|id=s1.u4.w0
+2	hum	hum	INTJ	_	_	1	fixed	_	_none=|id=s1.u4.w1
+
+# sent_id = 2SB0212_5
+# text = vous avez le téléphérique aussi avec des randonnées pédestres en haut
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	id=s1.u5.w0
+2	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u5.w1
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_none=|id=s1.u5.w2
+4	téléphérique	téléphérique	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_none=|id=s1.u5.w3
+5	aussi	aussi	ADV	_	_	2	advmod	_	_none=|id=s1.u5.w4
+6	avec	avec	ADP	_	_	8	case	_	_none=|id=s1.u5.w5
+7	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	8	det	_	id=s1.u5.w6
+8	randonnées	randonnée	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	id=s1.u5.w7
+9	pédestres	pédestre	ADJ	_	Gender=Fem|Number=Plur	8	amod	_	id=s1.u5.w8
+10	en	en	ADP	_	_	11	case	_	_none=|id=s1.u5.w9
+11	haut	haut	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_none=|id=s1.u5.w10
+
+# sent_id = 2SB0212_6
+# text = d' accord merci
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u6.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u6.w1
+3	merci	merci	ADJ	_	_	1	fixed	_	_none=|id=s1.u6.w2
+
+# sent_id = 2SB0212_7
+# text = je vous en prie au revoir
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u7.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u7.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u7.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u7.w3
+5	au	au	ADP	_	_	6	case	_	_none=|id=s1.u7.w4
+6	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	4	advmod	_	id=s1.u7.w5
+

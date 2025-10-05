@@ -1,0 +1,83 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0246_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0246_1
+# text = je cherche le PAM j' ai rendez vous à à dix heures avec Prénom Nom
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	id=s1.u1.w0
+2	cherche	chercher	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u1.w1
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	id=s1.u1.w2
+4	PAM	PAM	PROPN	_	_	2	obj	_	_none=|id=s1.u1.w3
+5	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_none=|id=s1.u1.w4
+6	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux:tense	_	_none=|id=s1.u1.w5
+7	rendez	rendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_none=|id=s1.u1.w6
+8	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	7	obj	_	id=s1.u1.w7
+9	à	à	ADP	_	_	12	reparandum	_	_none=|id=s1.u1.w8
+10	à	à	ADP	_	_	12	case	_	_none=|id=s1.u1.w9
+11	dix	dix	NUM	_	Number=Plur	12	nummod	_	_none=|id=s1.u1.w10
+12	heures	heure	NOUN	_	Gender=Fem|Number=Plur	7	obl:mod	_	id=s1.u1.w11
+13	avec	avec	ADP	_	_	14	case	_	_none=|id=s1.u1.w12
+14	Prénom	Prénom	PROPN	_	_	7	obl:mod	_	_none=|id=s1.u1.w13
+15	Nom	Nom	PROPN	_	_	14	conj	_	_none=|id=s1.u1.w14
+
+# sent_id = 1AP0246_2
+# text = alors il faut e passer sur votre gauche après le guichet du Cargo
+1	alors	alors	ADV	_	_	3	advmod	_	_none=|id=s1.u2.w0
+2	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_none=|id=s1.u2.w1
+3	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w2
+4	e	e	PRON	_	_	5	mark	_	id=s1.u2.w3
+5	passer	passer	VERB	_	VerbForm=Inf	3	ccomp	_	id=s1.u2.w4
+6	sur	sur	ADP	_	_	8	case	_	_none=|id=s1.u2.w5
+7	votre	son	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=2|PronType=Prs	8	det	_	id=s1.u2.w6
+8	gauche	gauche	NOUN	_	Gender=Fem|Number=Sing	5	obl:arg	_	id=s1.u2.w7
+9	après	après	ADP	_	_	11	case	_	_none=|id=s1.u2.w8
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_none=|id=s1.u2.w9
+11	guichet	guichet	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	id=s1.u2.w10
+12	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_none=|id=s1.u2.w11
+13	Cargo	Cargo	PROPN	_	_	11	nmod	_	_none=|id=s1.u2.w12
+
+# sent_id = 1AP0246_3
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1AP0246_4
+# text = il y a un ascenseur donc vous montez et vous verrez c' est indiqué deuxième ou troisième dans l' ascenseur
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_none=|id=s1.u4.w0
+2	y	y	PRON	_	Person=3|PronType=Prs	3	expl:comp	_	_none=|id=s1.u4.w1
+3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w2
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_none=|id=s1.u4.w3
+5	ascenseur	ascenseur	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_none=|id=s1.u4.w4
+6	donc	donc	ADV	_	_	8	advmod	_	_none=|id=s1.u4.w5
+7	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	8	nsubj	_	_none=|id=s1.u4.w6
+8	montez	monter	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	conj	_	id=s1.u4.w7
+9	et	et	CCONJ	_	_	11	cc	_	_none=|id=s1.u4.w8
+10	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	11	nsubj	_	id=s1.u4.w9
+11	verrez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	8	conj	_	id=s1.u4.w10
+12	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	id=s1.u4.w11
+13	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	_	id=s1.u4.w12
+14	indiqué	indiquer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	conj	_	id=s1.u4.w13
+15	deuxième	deuxième	ADJ	_	Number=Sing	14	obj	_	_none=|id=s1.u4.w14
+16	ou	ou	CCONJ	_	_	17	cc	_	id=s1.u4.w15
+17	troisième	troisième	ADJ	_	Number=Sing	15	conj	_	id=s1.u4.w16
+18	dans	dans	ADP	_	_	20	case	_	_none=|id=s1.u4.w17
+19	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	20	det	_	_none=|id=s1.u4.w18
+20	ascenseur	ascenseur	NOUN	_	Gender=Masc|Number=Sing	14	obl:mod	_	id=s1.u4.w19
+
+# sent_id = 1AP0246_5
+# text = un ascenseur
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u5.w0
+2	ascenseur	ascenseur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u5.w1
+
+# sent_id = 1AP0246_6
+# text = d' accord merci
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u6.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u6.w1
+3	merci	merci	ADJ	_	_	1	fixed	_	_none=|id=s1.u6.w2
+
+# sent_id = 1AP0246_7
+# text = au revoir madame
+1	au	au	ADP	_	_	0	root	_	_none=|id=s1.u7.w0
+2	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u7.w1
+3	madame	madame	NOUN	_	Gender=Fem|Number=Sing	1	vocative	_	id=s1.u7.w2
+

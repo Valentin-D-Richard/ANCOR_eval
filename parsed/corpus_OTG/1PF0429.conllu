@@ -1,0 +1,122 @@
+# sent_id = 1PF0429_0
+# text = bonjour monsieur
+1	bonjour	bonjour	NOUN	_	_	0	root	_	_none=|id=s1.u0.w0
+2	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	_none=|id=s1.u0.w1
+
+# sent_id = 1PF0429_1
+# text = j' aurais besoin d' un plan de Grenoble
+1	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	aurais	avoir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	besoin	besoin	NOUN	_	Gender=Masc|Number=Sing	2	obj:lvc	_	_none=|id=s1.u1.w2
+4	d'	de	ADP	_	_	6	case	_	_none=|id=s1.u1.w3
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	id=s1.u1.w4
+6	plan	plan	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	id=s1.u1.w5
+7	de	de	ADP	_	_	8	case	_	id=s1.u1.w6
+8	Grenoble	Grenoble	PROPN	_	_	6	nmod	_	id=s1.u1.w7
+
+# sent_id = 1PF0429_2
+# text = un plan de Grenoble voilà
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u2.w0
+2	plan	plan	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_none=|id=s1.u2.w1
+3	de	de	ADP	_	_	4	case	_	_none=|id=s1.u2.w2
+4	Grenoble	Grenoble	PROPN	_	_	2	nmod	_	_none=|id=s1.u2.w3
+5	voilà	voilà	VERB	_	_	0	root	_	id=s1.u2.w4
+
+# sent_id = 1PF0429_3
+# text = merci bien
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+2	bien	bien	ADV	_	_	1	advmod	_	_none=|id=s1.u3.w1
+
+# sent_id = 1PF0429_4
+# text = c' est moi
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_none=|id=s1.u4.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u4.w1
+3	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	_	_none=|id=s1.u4.w2
+
+# sent_id = 1PF0429_5
+# text = il y a les rues détaillées dedans
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_none=|id=s1.u5.w0
+2	y	y	PRON	_	Person=3|PronType=Prs	3	expl:comp	_	id=s1.u5.w1
+3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u5.w2
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	id=s1.u5.w3
+5	rues	rue	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	id=s1.u5.w4
+6	détaillées	détailler	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	id=s1.u5.w5
+7	dedans	dedans	ADV	_	_	3	advmod	_	_none=|id=s1.u5.w6
+
+# sent_id = 1PF0429_7
+# text = comment
+1	comment	Comment	NOUN	_	_	0	root	_	_none=|id=s1.u7.w0
+
+# sent_id = 1PF0429_8
+# text = il y a les rues dedans
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_none=|id=s1.u8.w0
+2	y	y	PRON	_	Person=3|PronType=Prs	3	expl:comp	_	id=s1.u8.w1
+3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u8.w2
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	id=s1.u8.w3
+5	rues	rue	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	id=s1.u8.w4
+6	dedans	dedans	ADV	_	_	3	advmod	_	_none=|id=s1.u8.w5
+
+# sent_id = 1PF0429_9
+# text = un plan e qui n' est pas exhaustif hein c' est un plan si vous voulez d' approche touristique gratuit après il faut que vous vous munissiez d' un plan qu' on vend ici
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u9.w0
+2	plan	plan	NOUN	_	Gender=Masc|Number=Sing	13	dislocated	_	_none=|id=s1.u9.w1
+3	e	e	ADJ	_	_	2	appos	_	_none=|id=s1.u9.w2
+4	qui	qui	PRON	_	PronType=Rel	8	nsubj	_	_none=|id=s1.u9.w3
+5	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	_none=|id=s1.u9.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_none=|id=s1.u9.w5
+7	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	_none=|id=s1.u9.w6
+8	exhaustif	exhaustif	ADJ	_	Gender=Masc|Number=Sing	2	acl:relcl	_	_none=|id=s1.u9.w7
+9	hein	hein	INTJ	_	_	8	discourse	_	_none=|id=s1.u9.w8
+10	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj	_	_none=|id=s1.u9.w9
+11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	id=s1.u9.w10
+12	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	id=s1.u9.w11
+13	plan	plan	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u9.w12
+14	si	si	SCONJ	_	_	16	mark	_	_none=|id=s1.u9.w13
+15	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	16	nsubj	_	_none=|id=s1.u9.w14
+16	voulez	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	13	advcl	_	_none=|id=s1.u9.w15
+17	d'	de	ADP	_	_	18	case	_	_none=|id=s1.u9.w16
+18	approche	approche	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	id=s1.u9.w17
+19	touristique	touristique	ADJ	_	Number=Sing	18	amod	_	_none=|id=s1.u9.w18
+20	gratuit	gratuit	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	_none=|id=s1.u9.w19
+21	après	après	ADV	_	_	23	advmod	_	_none=|id=s1.u9.w20
+22	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	expl:subj	_	_none=|id=s1.u9.w21
+23	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	id=s1.u9.w22
+24	que	que	SCONJ	_	_	27	mark	_	_none=|id=s1.u9.w23
+25	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	27	nsubj	_	id=s1.u9.w24
+26	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	27	nsubj	_	id=s1.u9.w25
+27	munissiez	munissier	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	23	ccomp	_	id=s1.u9.w26
+28	d'	de	ADP	_	_	30	case	_	_none=|id=s1.u9.w27
+29	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	30	det	_	id=s1.u9.w28
+30	plan	plan	NOUN	_	Gender=Masc|Number=Sing	27	obl:arg	_	id=s1.u9.w29
+31	qu'	que	PRON	_	_	33	obj	_	id=s1.u9.w30
+32	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	33	nsubj	_	id=s1.u9.w31
+33	vend	vendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	acl:relcl	_	id=s1.u9.w32
+34	ici	ici	ADV	_	_	33	advmod	_	_none=|id=s1.u9.w33
+
+# sent_id = 1PF0429_10
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u10.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u10.w1
+
+# sent_id = 1PF0429_11
+# text = ça est c' est les gros plans e tout est détaillé hein mais c' est pas le même prix
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_none=|id=s1.u11.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	reparandum	_	_none=|id=s1.u11.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	id=s1.u11.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	id=s1.u11.w3
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	id=s1.u11.w4
+6	gros	gros	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	_none=|id=s1.u11.w5
+7	plans	plan	NOUN	_	Gender=Masc|Number=Plur	0	root	_	id=s1.u11.w6
+8	e	e	CCONJ	_	_	11	cc	_	_none=|id=s1.u11.w7
+9	tout	tout	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	11	nsubj	_	_none=|id=s1.u11.w8
+10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_none=|id=s1.u11.w9
+11	détaillé	détailler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	_none=|id=s1.u11.w10
+12	hein	hein	INTJ	_	_	11	discourse	_	_none=|id=s1.u11.w11
+13	mais	mais	CCONJ	_	_	19	cc	_	id=s1.u11.w12
+14	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	19	nsubj	_	id=s1.u11.w13
+15	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	id=s1.u11.w14
+16	pas	pas	ADV	_	Polarity=Neg	19	advmod	_	id=s1.u11.w15
+17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	id=s1.u11.w16
+18	même	même	ADJ	_	Gender=Masc|Number=Sing	19	amod	_	id=s1.u11.w17
+19	prix	prix	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	id=s1.u11.w18
+

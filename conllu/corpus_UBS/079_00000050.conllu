@@ -1,0 +1,195 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 079_00000050_0
+# text = U B S bonjour
+1	U	_	_	_	_	_	_	_	id=s1.u0.w0
+2	B	_	_	_	_	_	_	_	id=s1.u0.w1
+3	S	_	_	_	_	_	_	_	id=s1.u0.w2
+4	bonjour	_	_	_	_	_	_	_	id=s1.u0.w3
+
+# sent_id = 079_00000050_1
+# text = oui bonjour madame Prénom Nom Crédit Agricole Normand service formation j' appelais au sujet d' une modification d' une convention de stage pour Prénom2 Nom2
+1	oui	_	_	_	_	_	_	_	id=s1.u1.w0
+2	bonjour	_	_	_	_	_	_	_	id=s1.u1.w1
+3	madame	_	_	_	_	_	_	_	id=s1.u1.w2
+4	Prénom	_	_	_	_	_	_	_	id=s1.u1.w3
+5	Nom	_	_	_	_	_	_	_	id=s1.u1.w4
+6	Crédit	_	_	_	_	_	_	_	id=s1.u1.w5
+7	Agricole	_	_	_	_	_	_	_	id=s1.u1.w6
+8	Normand	_	_	_	_	_	_	_	id=s1.u1.w7
+9	service	_	_	_	_	_	_	_	id=s1.u1.w8
+10	formation	_	_	_	_	_	_	_	id=s1.u1.w9
+11	j'	_	_	_	_	_	_	_	id=s1.u1.w10
+12	appelais	_	_	_	_	_	_	_	id=s1.u1.w11
+13	au	_	_	_	_	_	_	_	id=s1.u1.w12
+14	sujet	_	_	_	_	_	_	_	id=s1.u1.w13
+15	d'	_	_	_	_	_	_	_	id=s1.u1.w14
+16	une	_	_	_	_	_	_	_	id=s1.u1.w15
+17	modification	_	_	_	_	_	_	_	id=s1.u1.w16
+18	d'	_	_	_	_	_	_	_	id=s1.u1.w17
+19	une	_	_	_	_	_	_	_	id=s1.u1.w18
+20	convention	_	_	_	_	_	_	_	id=s1.u1.w19
+21	de	_	_	_	_	_	_	_	id=s1.u1.w20
+22	stage	_	_	_	_	_	_	_	id=s1.u1.w21
+23	pour	_	_	_	_	_	_	_	id=s1.u1.w22
+24	Prénom2	_	_	_	_	_	_	_	id=s1.u1.w23
+25	Nom2	_	_	_	_	_	_	_	id=s1.u1.w24
+
+# sent_id = 079_00000050_2
+# text = oui en quelle filière
+1	oui	_	_	_	_	_	_	_	id=s1.u2.w0
+2	en	_	_	_	_	_	_	_	id=s1.u2.w1
+3	quelle	_	_	_	_	_	_	_	id=s1.u2.w2
+4	filière	_	_	_	_	_	_	_	id=s1.u2.w3
+
+# sent_id = 079_00000050_3
+# text = elle est en licence professionnelle gestion des Ressources Humaines dans les PMO
+1	elle	_	_	_	_	_	_	_	id=s1.u3.w0
+2	est	_	_	_	_	_	_	_	id=s1.u3.w1
+3	en	_	_	_	_	_	_	_	id=s1.u3.w2
+4	licence	_	_	_	_	_	_	_	id=s1.u3.w3
+5	professionnelle	_	_	_	_	_	_	_	id=s1.u3.w4
+6	gestion	_	_	_	_	_	_	_	id=s1.u3.w5
+7	des	_	_	_	_	_	_	_	id=s1.u3.w6
+8	Ressources	_	_	_	_	_	_	_	id=s1.u3.w7
+9	Humaines	_	_	_	_	_	_	_	id=s1.u3.w8
+10	dans	_	_	_	_	_	_	_	id=s1.u3.w9
+11	les	_	_	_	_	_	_	_	id=s1.u3.w10
+12	PMO	_	_	_	_	_	_	_	id=s1.u3.w11
+
+# sent_id = 079_00000050_4
+# text = 
+
+# sent_id = 079_00000050_5
+# text = je vais vous passer la personne concernée donc secrétariat c' est Prénom3 Nom3 donc j' espère qu' elle est là parce que sinon conservez hein
+1	je	_	_	_	_	_	_	_	id=s1.u5.w0
+2	vais	_	_	_	_	_	_	_	id=s1.u5.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u5.w2
+4	passer	_	_	_	_	_	_	_	id=s1.u5.w3
+5	la	_	_	_	_	_	_	_	id=s1.u5.w4
+6	personne	_	_	_	_	_	_	_	id=s1.u5.w5
+7	concernée	_	_	_	_	_	_	_	id=s1.u5.w6
+8	donc	_	_	_	_	_	_	_	id=s1.u5.w7
+9	secrétariat	_	_	_	_	_	_	_	id=s1.u5.w8
+10	c'	_	_	_	_	_	_	_	id=s1.u5.w9
+11	est	_	_	_	_	_	_	_	id=s1.u5.w10
+12	Prénom3	_	_	_	_	_	_	_	id=s1.u5.w11
+13	Nom3	_	_	_	_	_	_	_	id=s1.u5.w12
+14	donc	_	_	_	_	_	_	_	id=s1.u5.w13
+15	j'	_	_	_	_	_	_	_	id=s1.u5.w14
+16	espère	_	_	_	_	_	_	_	id=s1.u5.w15
+17	qu'	_	_	_	_	_	_	_	id=s1.u5.w16
+18	elle	_	_	_	_	_	_	_	id=s1.u5.w17
+19	est	_	_	_	_	_	_	_	id=s1.u5.w18
+20	là	_	_	_	_	_	_	_	id=s1.u5.w19
+21	parce	_	_	_	_	_	_	_	id=s1.u5.w20
+22	que	_	_	_	_	_	_	_	id=s1.u5.w21
+23	sinon	_	_	_	_	_	_	_	id=s1.u5.w22
+24	conservez	_	_	_	_	_	_	_	id=s1.u5.w23
+25	hein	_	_	_	_	_	_	_	id=s1.u5.w24
+
+# sent_id = 079_00000050_6
+# text = 
+
+# sent_id = 079_00000050_7
+# text = d' accord
+1	d'	_	_	_	_	_	_	_	id=s1.u7.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u7.w1
+
+# sent_id = 079_00000050_8
+# text = est occupé veuillez rappeler ultérieurement ou effectuer un rappel automati-
+1	est	_	_	_	_	_	_	_	id=s1.u8.w0
+2	occupé	_	_	_	_	_	_	_	id=s1.u8.w1
+3	veuillez	_	_	_	_	_	_	_	id=s1.u8.w2
+4	rappeler	_	_	_	_	_	_	_	id=s1.u8.w3
+5	ultérieurement	_	_	_	_	_	_	_	id=s1.u8.w4
+6	ou	_	_	_	_	_	_	_	id=s1.u8.w5
+7	effectuer	_	_	_	_	_	_	_	id=s1.u8.w6
+8	un	_	_	_	_	_	_	_	id=s1.u8.w7
+9	rappel	_	_	_	_	_	_	_	id=s1.u8.w8
+10	automati-	_	_	_	_	_	_	_	id=s1.u8.w9
+
+# sent_id = 079_00000050_9
+# text = oui sa ligne est occupée mais je vais vous donner son numéro direct
+1	oui	_	_	_	_	_	_	_	id=s1.u9.w0
+2	sa	_	_	_	_	_	_	_	id=s1.u9.w1
+3	ligne	_	_	_	_	_	_	_	id=s1.u9.w2
+4	est	_	_	_	_	_	_	_	id=s1.u9.w3
+5	occupée	_	_	_	_	_	_	_	id=s1.u9.w4
+6	mais	_	_	_	_	_	_	_	id=s1.u9.w5
+7	je	_	_	_	_	_	_	_	id=s1.u9.w6
+8	vais	_	_	_	_	_	_	_	id=s1.u9.w7
+9	vous	_	_	_	_	_	_	_	id=s1.u9.w8
+10	donner	_	_	_	_	_	_	_	id=s1.u9.w9
+11	son	_	_	_	_	_	_	_	id=s1.u9.w10
+12	numéro	_	_	_	_	_	_	_	id=s1.u9.w11
+13	direct	_	_	_	_	_	_	_	id=s1.u9.w12
+
+# sent_id = 079_00000050_10
+# text = d' accord alors attendez je note
+1	d'	_	_	_	_	_	_	_	id=s1.u10.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u10.w1
+3	alors	_	_	_	_	_	_	_	id=s1.u10.w2
+4	attendez	_	_	_	_	_	_	_	id=s1.u10.w3
+5	je	_	_	_	_	_	_	_	id=s1.u10.w4
+6	note	_	_	_	_	_	_	_	id=s1.u10.w5
+
+# sent_id = 079_00000050_11
+# text = un crayon oui bien-sûr
+1	un	_	_	_	_	_	_	_	id=s1.u11.w0
+2	crayon	_	_	_	_	_	_	_	id=s1.u11.w1
+3	oui	_	_	_	_	_	_	_	id=s1.u11.w2
+4	bien-sûr	_	_	_	_	_	_	_	id=s1.u11.w3
+
+# sent_id = 079_00000050_12
+# text = oui allez -y
+1	oui	_	_	_	_	_	_	_	id=s1.u12.w0
+2	allez	_	_	_	_	_	_	_	id=s1.u12.w1
+3	-y	_	_	_	_	_	_	_	id=s1.u12.w2
+
+# sent_id = 079_00000050_13
+# text = 0 2 97
+1	0	_	_	_	_	_	_	_	id=s1.u13.w0
+2	2	_	_	_	_	_	_	_	id=s1.u13.w1
+3	97	_	_	_	_	_	_	_	id=s1.u13.w2
+
+# sent_id = 079_00000050_14
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u14.w0
+
+# sent_id = 079_00000050_15
+# text = 0 1
+1	0	_	_	_	_	_	_	_	id=s1.u15.w0
+2	1	_	_	_	_	_	_	_	id=s1.u15.w1
+
+# sent_id = 079_00000050_16
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u16.w0
+
+# sent_id = 079_00000050_17
+# text = 26 XX
+1	26	_	_	_	_	_	_	_	id=s1.u17.w0
+2	XX	_	_	_	_	_	_	_	id=s1.u17.w1
+
+# sent_id = 079_00000050_18
+# text = d' accord merci madame d' accord merci beaucoup madame au revoir
+1	d'	_	_	_	_	_	_	_	id=s1.u18.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u18.w1
+3	merci	_	_	_	_	_	_	_	id=s1.u18.w2
+4	madame	_	_	_	_	_	_	_	id=s1.u18.w3
+5	d'	_	_	_	_	_	_	_	id=s1.u18.w4
+6	accord	_	_	_	_	_	_	_	id=s1.u18.w5
+7	merci	_	_	_	_	_	_	_	id=s1.u18.w6
+8	beaucoup	_	_	_	_	_	_	_	id=s1.u18.w7
+9	madame	_	_	_	_	_	_	_	id=s1.u18.w8
+10	au	_	_	_	_	_	_	_	id=s1.u18.w9
+11	revoir	_	_	_	_	_	_	_	id=s1.u18.w10
+
+# sent_id = 079_00000050_19
+# text = Prénom3 Nom3
+1	Prénom3	_	_	_	_	_	_	_	id=s1.u19.w0
+2	Nom3	_	_	_	_	_	_	_	id=s1.u19.w1
+
+# sent_id = 079_00000050_20
+# text = madame
+1	madame	_	_	_	_	_	_	_	id=s1.u20.w0
+

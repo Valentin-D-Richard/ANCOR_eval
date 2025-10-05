@@ -1,0 +1,71 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0605_0
+# text = bonsoir
+1	bonsoir	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AP0605_1
+# text = e comment je peux savoir si vous aviez " le 38 "
+1	e	_	_	_	_	_	_	_	id=s1.u1.w0
+2	comment	_	_	_	_	_	_	_	id=s1.u1.w1
+3	je	_	_	_	_	_	_	_	id=s1.u1.w2
+4	peux	_	_	_	_	_	_	_	id=s1.u1.w3
+5	savoir	_	_	_	_	_	_	_	id=s1.u1.w4
+6	si	_	_	_	_	_	_	_	id=s1.u1.w5
+7	vous	_	_	_	_	_	_	_	id=s1.u1.w6
+8	aviez	_	_	_	_	_	_	_	id=s1.u1.w7
+9	le	_	_	_	_	_	_	_	id=s1.u1.w9
+10	38	_	_	_	_	_	_	_	id=s1.u1.w10
+
+# sent_id = 1AP0605_2
+# text = on l' a plus il y en a plus
+1	on	_	_	_	_	_	_	_	id=s1.u2.w0
+2	l'	_	_	_	_	_	_	_	id=s1.u2.w1
+3	a	_	_	_	_	_	_	_	id=s1.u2.w2
+4	plus	_	_	_	_	_	_	_	id=s1.u2.w3
+5	il	_	_	_	_	_	_	_	id=s1.u2.w4
+6	y	_	_	_	_	_	_	_	id=s1.u2.w5
+7	en	_	_	_	_	_	_	_	id=s1.u2.w6
+8	a	_	_	_	_	_	_	_	id=s1.u2.w7
+9	plus	_	_	_	_	_	_	_	id=s1.u2.w8
+
+# sent_id = 1AP0605_3
+# text = faut passer quand pour l' avoir
+1	faut	_	_	_	_	_	_	_	id=s1.u3.w0
+2	passer	_	_	_	_	_	_	_	id=s1.u3.w1
+3	quand	_	_	_	_	_	_	_	id=s1.u3.w2
+4	pour	_	_	_	_	_	_	_	id=s1.u3.w3
+5	l'	_	_	_	_	_	_	_	id=s1.u3.w4
+6	avoir	_	_	_	_	_	_	_	id=s1.u3.w5
+
+# sent_id = 1AP0605_4
+# text = ben on nous le livre le lundi matin à partir de quatre heures du matin
+1	ben	_	_	_	_	_	_	_	id=s1.u4.w0
+2	on	_	_	_	_	_	_	_	id=s1.u4.w1
+3	nous	_	_	_	_	_	_	_	id=s1.u4.w2
+4	le	_	_	_	_	_	_	_	id=s1.u4.w3
+5	livre	_	_	_	_	_	_	_	id=s1.u4.w4
+6	le	_	_	_	_	_	_	_	id=s1.u4.w5
+7	lundi	_	_	_	_	_	_	_	id=s1.u4.w6
+8	matin	_	_	_	_	_	_	_	id=s1.u4.w7
+9	à	_	_	_	_	_	_	_	id=s1.u4.w8
+10	partir	_	_	_	_	_	_	_	id=s1.u4.w9
+11	de	_	_	_	_	_	_	_	id=s1.u4.w10
+12	quatre	_	_	_	_	_	_	_	id=s1.u4.w11
+13	heures	_	_	_	_	_	_	_	id=s1.u4.w12
+14	du	_	_	_	_	_	_	_	id=s1.u4.w13
+15	matin	_	_	_	_	_	_	_	id=s1.u4.w14
+
+# sent_id = 1AP0605_5
+# text = lundi matin porte d' accord merci
+1	lundi	_	_	_	_	_	_	_	id=s1.u5.w0
+2	matin	_	_	_	_	_	_	_	id=s1.u5.w1
+3	porte	_	_	_	_	_	_	_	id=s1.u5.w2
+4	d'	_	_	_	_	_	_	_	id=s1.u5.w3
+5	accord	_	_	_	_	_	_	_	id=s1.u5.w4
+6	merci	_	_	_	_	_	_	_	id=s1.u5.w5
+
+# sent_id = 1AP0605_6
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u6.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u6.w1
+

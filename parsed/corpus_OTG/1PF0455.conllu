@@ -1,0 +1,111 @@
+# sent_id = 1PF0455_0
+# text = bonjour si vous pouvez me renseigner e toutes les activités de terre que vous avez sur Grenoble de terre de poterie e
+1	bonjour	bonjour	NOUN	_	_	4	discourse	_	_none=|id=s1.u0.w0
+2	si	si	SCONJ	_	_	4	mark	_	_none=|id=s1.u0.w1
+3	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_none=|id=s1.u0.w2
+4	pouvez	pouvoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u0.w3
+5	me	le	PRON	_	Number=Sing|Person=1|PronType=Prs	6	obj	_	_none=|id=s1.u0.w4
+6	renseigner	renseigner	VERB	_	VerbForm=Inf	4	xcomp	_	_none=|id=s1.u0.w5
+7	e	e	ADP	_	_	10	case	_	id=s1.u0.w6
+8	toutes	tout	ADJ	_	Gender=Fem|Number=Plur	10	amod	_	id=s1.u0.w7
+9	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	id=s1.u0.w8
+10	activités	activité	NOUN	_	Gender=Fem|Number=Plur	6	obl:mod	_	id=s1.u0.w9
+11	de	de	ADP	_	_	12	case	_	_none=|id=s1.u0.w10
+12	terre	terre	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	id=s1.u0.w11
+13	que	que	PRON	_	PronType=Rel	15	obj	_	_none=|id=s1.u0.w12
+14	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	15	nsubj	_	_none=|id=s1.u0.w13
+15	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_none=|id=s1.u0.w14
+16	sur	sur	ADP	_	_	17	case	_	_none=|id=s1.u0.w15
+17	Grenoble	Grenoble	PROPN	_	_	15	obl:mod	_	_none=|id=s1.u0.w16
+18	de	de	ADP	_	_	19	case	_	_none=|id=s1.u0.w17
+19	terre	terre	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	id=s1.u0.w18
+20	de	de	ADP	_	_	21	case	_	_none=|id=s1.u0.w19
+21	poterie	poterie	NOUN	_	Gender=Fem|Number=Sing	19	nmod	_	id=s1.u0.w20
+22	e	e	PUNCT	_	_	4	punct	_	_none=|id=s1.u0.w21
+
+# sent_id = 1PF0455_1
+# text = les activités de
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	id=s1.u1.w0
+2	activités	activité	NOUN	_	Gender=Fem|Number=Plur	0	root	_	id=s1.u1.w1
+3	de	de	ADP	_	_	2	dep	_	_none=|id=s1.u1.w2
+
+# sent_id = 1PF0455_2
+# text = ah de terre bon j' ai pas compris
+1	ah	ah	INTJ	_	_	8	discourse	_	_none=|id=s1.u2.w0
+2	de	de	ADP	_	_	3	case	_	_none=|id=s1.u2.w1
+3	terre	terre	NOUN	_	Gender=Fem|Number=Sing	8	obl:mod	_	_none=|id=s1.u2.w2
+4	bon	bon	INTJ	_	_	8	discourse	_	_none=|id=s1.u2.w3
+5	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_none=|id=s1.u2.w4
+6	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux:tense	_	_none=|id=s1.u2.w5
+7	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	_none=|id=s1.u2.w6
+8	compris	comprendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u2.w7
+
+# sent_id = 1PF0455_3
+# text = d' accord parce que je penserais
+1	d'	de	ADP	_	_	2	case	_	_none=|id=s1.u3.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u3.w1
+3	parce	parce	ADV	_	_	6	mark	_	_none=|id=s1.u3.w2
+4	que	que	SCONJ	_	_	3	fixed	_	id=s1.u3.w3
+5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_none=|id=s1.u3.w4
+6	penserais	penser	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl	_	_none=|id=s1.u3.w5
+
+# sent_id = 1PF0455_4
+# text = il y a des gens qui vivent en l' air aussi mais bon
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_none=|id=s1.u4.w0
+2	y	y	PRON	_	Person=3|PronType=Prs	3	expl:comp	_	id=s1.u4.w1
+3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w2
+4	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	det	_	id=s1.u4.w3
+5	gens	gens	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	id=s1.u4.w4
+6	qui	qui	PRON	_	PronType=Rel	7	nsubj	_	_none=|id=s1.u4.w5
+7	vivent	vivre	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	id=s1.u4.w6
+8	en	en	ADP	_	_	10	case	_	_none=|id=s1.u4.w7
+9	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	_none=|id=s1.u4.w8
+10	air	air	NOUN	_	Gender=Masc|Number=Sing	7	obl:mod	_	_none=|id=s1.u4.w9
+11	aussi	aussi	ADV	_	_	3	advmod	_	_none=|id=s1.u4.w10
+12	mais	mais	CCONJ	_	_	3	cc	_	_none=|id=s1.u4.w11
+13	bon	bon	INTJ	_	_	3	discourse	_	id=s1.u4.w12
+
+# sent_id = 1PF0455_5
+# text = ouais
+1	ouais	ouais	INTJ	_	_	0	root	_	_none=|id=s1.u5.w0
+
+# sent_id = 1PF0455_6
+# text = alors e de terre de poterie il faudrait regarder sur e le classeur clubs de sports e ateliers ah oui théâtre que ateliers oui c' est bien la dessus
+1	alors	alors	ADV	_	_	8	advmod	_	_none=|id=s1.u6.w0
+2	e	e	CCONJ	_	_	1	dep	_	_none=|id=s1.u6.w1
+3	de	de	ADP	_	_	4	case	_	_none=|id=s1.u6.w2
+4	terre	terre	NOUN	_	Gender=Fem|Number=Sing	8	obl:mod	_	_none=|id=s1.u6.w3
+5	de	de	ADP	_	_	6	case	_	_none=|id=s1.u6.w4
+6	poterie	poterie	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	id=s1.u6.w5
+7	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl:subj	_	_none=|id=s1.u6.w6
+8	faudrait	faudralloir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u6.w7
+9	regarder	regarder	VERB	_	VerbForm=Inf	8	ccomp	_	_none=|id=s1.u6.w8
+10	sur	sur	ADP	_	_	13	case	_	id=s1.u6.w9
+11	e	e	DET	_	_	13	det	_	id=s1.u6.w10
+12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_none=|id=s1.u6.w11
+13	classeur	classeur	NOUN	_	Gender=Masc|Number=Sing	9	obl:mod	_	_none=|id=s1.u6.w12
+14	clubs	club	NOUN	_	Gender=Masc|Number=Plur	13	appos	_	id=s1.u6.w13
+15	de	de	ADP	_	_	16	case	_	_none=|id=s1.u6.w14
+16	sports	sport	NOUN	_	Gender=Masc|Number=Plur	14	nmod	_	id=s1.u6.w15
+17	e	e	CCONJ	_	_	18	cc	_	_none=|id=s1.u6.w16
+18	ateliers	atelier	NOUN	_	Gender=Masc|Number=Plur	14	conj	_	id=s1.u6.w17
+19	ah	ah	INTJ	_	_	18	discourse	_	_none=|id=s1.u6.w18
+20	oui	oui	INTJ	_	_	19	fixed	_	_none=|id=s1.u6.w19
+21	théâtre	théâtre	NOUN	_	Gender=Masc|Number=Sing	14	conj	_	_none=|id=s1.u6.w20
+22	que	que	SCONJ	_	_	23	case	_	_none=|id=s1.u6.w21
+23	ateliers	atelier	NOUN	_	Gender=Masc|Number=Plur	21	conj	_	id=s1.u6.w22
+24	oui	oui	ADV	_	_	28	discourse	_	_none=|id=s1.u6.w23
+25	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	26	nsubj	_	id=s1.u6.w24
+26	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	id=s1.u6.w25
+27	bien	bien	ADV	_	_	26	advmod	_	_none=|id=s1.u6.w26
+28	la	le	PRON	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	dep:comp	_	id=s1.u6.w27
+29	dessus	dessus	ADV	_	_	26	advmod	_	_none=|id=s1.u6.w28
+
+# sent_id = 1PF0455_7
+# text = j' avais pas vu oui
+1	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u7.w0
+2	avais	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	aux:tense	_	_none=|id=s1.u7.w1
+3	pas	pas	ADV	_	_	4	advmod	_	_none=|id=s1.u7.w2
+4	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u7.w3
+5	oui	oui	ADV	_	_	4	obj	_	_none=|id=s1.u7.w4
+

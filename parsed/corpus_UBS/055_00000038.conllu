@@ -1,0 +1,80 @@
+# sent_id = 055_00000038_0
+# text = U B S bonjour
+1	U	U	PROPN	_	_	4	dep	_	_none=|id=s1.u0.w0
+2	B	B	PROPN	_	_	1	flat:name	_	_none=|id=s1.u0.w1
+3	S	S	PROPN	_	_	1	dep	_	_none=|id=s1.u0.w2
+4	bonjour	bonjour	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w3
+
+# sent_id = 055_00000038_1
+# text = bonjour madame madame Nom s' il vous plait
+1	bonjour	bonjour	NOUN	_	_	0	root	_	_none=|id=s1.u1.w0
+2	madame	madame	NOUN	_	Gender=Fem|Number=Sing	3	reparandum	_	id=s1.u1.w1
+3	madame	madame	NOUN	_	Gender=Fem|Number=Sing	8	dislocated	_	id=s1.u1.w2
+4	Nom	Nom	PROPN	_	_	3	nmod:appos	_	_none=|id=s1.u1.w3
+5	s'	se	SCONJ	_	_	8	mark	_	_none=|id=s1.u1.w4
+6	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl:subj	_	_none=|id=s1.u1.w5
+7	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	8	iobj	_	_none=|id=s1.u1.w6
+8	plait	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	discourse	_	id=s1.u1.w7
+
+# sent_id = 055_00000038_2
+# text = ah elle s' est absentée de son bureau
+1	ah	ah	INTJ	_	_	5	discourse	_	id=s1.u2.w0
+2	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	id=s1.u2.w1
+3	s'	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	5	expl:pv	_	id=s1.u2.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	id=s1.u2.w3
+5	absentée	absenter	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	id=s1.u2.w4
+6	de	de	ADP	_	_	8	case	_	_none=|id=s1.u2.w5
+7	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	8	det	_	id=s1.u2.w6
+8	bureau	bureau	NOUN	_	Gender=Masc|Number=Sing	5	obl:arg	_	_none=|id=s1.u2.w7
+
+# sent_id = 055_00000038_3
+# text = ah e e bon je peux la rappeler plus tard à ce moment là
+1	ah	ah	INTJ	_	_	6	discourse	_	_none=|id=s1.u3.w0
+2	e	e	INTJ	_	_	3	reparandum	_	_none=|id=s1.u3.w1
+3	e	e	INTJ	_	_	6	discourse	_	_none=|id=s1.u3.w2
+4	bon	bon	INTJ	_	_	6	discourse	_	_none=|id=s1.u3.w3
+5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_none=|id=s1.u3.w4
+6	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u3.w5
+7	la	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	id=s1.u3.w6
+8	rappeler	rappeler	VERB	_	VerbForm=Inf	6	xcomp	_	id=s1.u3.w7
+9	plus	plus	ADV	_	_	10	advmod	_	_none=|id=s1.u3.w8
+10	tard	tard	ADV	_	_	8	advmod	_	_none=|id=s1.u3.w9
+11	à	à	ADP	_	_	13	case	_	_none=|id=s1.u3.w10
+12	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	13	det	_	id=s1.u3.w11
+13	moment	moment	NOUN	_	Gender=Masc|Number=Sing	8	obl:mod	_	_none=|id=s1.u3.w12
+14	là	là	ADV	_	_	13	advmod	_	_none=|id=s1.u3.w13
+
+# sent_id = 055_00000038_4
+# text = oui oui oui rappelez parce qu' elle est là mais elle m' a dit qu' elle partait un petit peu donc e hein vous pouvez tout à l' heure au revoir
+1	oui	oui	INTJ	_	_	9	discourse	_	_none=|id=s1.u4.w0
+2	oui	oui	INTJ	_	_	1	conj	_	_none=|id=s1.u4.w1
+3	oui	oui	INTJ	_	_	9	discourse	_	_none=|id=s1.u4.w2
+4	rappelez	rappelre	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w3
+5	parce	parce	ADV	_	_	9	mark	_	_none=|id=s1.u4.w4
+6	qu'	que	SCONJ	_	_	5	fixed	_	id=s1.u4.w5
+7	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	id=s1.u4.w6
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_none=|id=s1.u4.w7
+9	là	là	ADV	_	_	4	advcl	_	_none=|id=s1.u4.w8
+10	mais	mais	CCONJ	_	_	14	cc	_	_none=|id=s1.u4.w9
+11	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	id=s1.u4.w10
+12	m'	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	14	iobj	_	_none=|id=s1.u4.w11
+13	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:tense	_	id=s1.u4.w12
+14	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	conj	_	_none=|id=s1.u4.w13
+15	qu'	que	SCONJ	_	_	17	mark	_	_none=|id=s1.u4.w14
+16	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	id=s1.u4.w15
+17	partait	partir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	ccomp	_	_none=|id=s1.u4.w16
+18	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_none=|id=s1.u4.w17
+19	petit	petit	ADJ	_	Gender=Masc|Number=Sing	20	amod	_	_none=|id=s1.u4.w18
+20	peu	peu	NOUN	_	Gender=Masc|Number=Sing	17	obl:mod	_	_none=|id=s1.u4.w19
+21	donc	donc	ADV	_	_	17	advmod	_	_none=|id=s1.u4.w20
+22	e	e	INTJ	_	_	23	dep	_	_none=|id=s1.u4.w21
+23	hein	hein	INTJ	_	_	25	discourse	_	id=s1.u4.w22
+24	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	25	nsubj	_	_none=|id=s1.u4.w23
+25	pouvez	pouvoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	14	ccomp	_	_none=|id=s1.u4.w24
+26	tout	tout	ADV	_	_	29	advmod	_	_none=|id=s1.u4.w25
+27	à	à	ADP	_	_	29	case	_	_none=|id=s1.u4.w26
+28	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	29	det	_	_none=|id=s1.u4.w27
+29	heure	heure	NOUN	_	Gender=Fem|Number=Sing	30	obl:mod	_	id=s1.u4.w28
+30	au	au	ADP	_	_	25	obj	_	_none=|id=s1.u4.w29
+31	revoir	revoir	VERB	_	VerbForm=Inf	30	fixed	_	id=s1.u4.w30
+

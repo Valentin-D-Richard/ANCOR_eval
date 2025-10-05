@@ -1,0 +1,60 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0182_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AP0182_1
+# text = bonjour je voudrais savoir si vous avez le plan des pistes cyclables
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	je	_	_	_	_	_	_	_	id=s1.u1.w1
+3	voudrais	_	_	_	_	_	_	_	id=s1.u1.w2
+4	savoir	_	_	_	_	_	_	_	id=s1.u1.w3
+5	si	_	_	_	_	_	_	_	id=s1.u1.w4
+6	vous	_	_	_	_	_	_	_	id=s1.u1.w5
+7	avez	_	_	_	_	_	_	_	id=s1.u1.w6
+8	le	_	_	_	_	_	_	_	id=s1.u1.w7
+9	plan	_	_	_	_	_	_	_	id=s1.u1.w8
+10	des	_	_	_	_	_	_	_	id=s1.u1.w9
+11	pistes	_	_	_	_	_	_	_	id=s1.u1.w10
+12	cyclables	_	_	_	_	_	_	_	id=s1.u1.w11
+
+# sent_id = 1AP0182_2
+# text = plus on l' aura pas avant un mois maintenant parce qu' il est en réédition
+1	plus	_	_	_	_	_	_	_	id=s1.u2.w0
+2	on	_	_	_	_	_	_	_	id=s1.u2.w1
+3	l'	_	_	_	_	_	_	_	id=s1.u2.w2
+4	aura	_	_	_	_	_	_	_	id=s1.u2.w3
+5	pas	_	_	_	_	_	_	_	id=s1.u2.w4
+6	avant	_	_	_	_	_	_	_	id=s1.u2.w5
+7	un	_	_	_	_	_	_	_	id=s1.u2.w6
+8	mois	_	_	_	_	_	_	_	id=s1.u2.w7
+9	maintenant	_	_	_	_	_	_	_	id=s1.u2.w8
+10	parce	_	_	_	_	_	_	_	id=s1.u2.w9
+11	qu'	_	_	_	_	_	_	_	id=s1.u2.w10
+12	il	_	_	_	_	_	_	_	id=s1.u2.w11
+13	est	_	_	_	_	_	_	_	id=s1.u2.w12
+14	en	_	_	_	_	_	_	_	id=s1.u2.w13
+15	réédition	_	_	_	_	_	_	_	id=s1.u2.w14
+
+# sent_id = 1AP0182_3
+# text = d' accord ben j' attendrai
+1	d'	_	_	_	_	_	_	_	id=s1.u3.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u3.w1
+3	ben	_	_	_	_	_	_	_	id=s1.u3.w2
+4	j'	_	_	_	_	_	_	_	id=s1.u3.w3
+5	attendrai	_	_	_	_	_	_	_	id=s1.u3.w4
+
+# sent_id = 1AP0182_4
+# text = très bien
+1	très	_	_	_	_	_	_	_	id=s1.u4.w0
+2	bien	_	_	_	_	_	_	_	id=s1.u4.w1
+
+# sent_id = 1AP0182_5
+# text = merci au revoir
+1	merci	_	_	_	_	_	_	_	id=s1.u5.w0
+2	au	_	_	_	_	_	_	_	id=s1.u5.w1
+3	revoir	_	_	_	_	_	_	_	id=s1.u5.w2
+
+# sent_id = 1AP0182_6
+# text = 
+

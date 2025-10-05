@@ -1,0 +1,63 @@
+# sent_id = 1PF0438_0
+# text = est ce que vous avez " le 38 " s' il vous plaît
+1	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	id=s1.u0.w0
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	id=s1.u0.w1
+3	que	que	SCONJ	_	PronType=Rel	5	obj	_	_none=|id=s1.u0.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_none=|id=s1.u0.w3
+5	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_none=|id=s1.u0.w4
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_none=|id=s1.u0.w6
+7	38	38	NOUN	_	Gender=Masc|Number=Sing	5	dislocated	_	_none=|id=s1.u0.w7
+8	s'	s'	SCONJ	_	_	11	mark	_	_none=|id=s1.u0.w9
+9	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl:subj	_	_none=|id=s1.u0.w10
+10	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	11	iobj	_	_none=|id=s1.u0.w11
+11	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_none=|id=s1.u0.w12
+
+# sent_id = 1PF0438_1
+# text = " le 38 "
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u1.w1
+2	38	38	X	_	_	0	root	_	_none=|id=s1.u1.w2
+
+# sent_id = 1PF0438_2
+# text = e pas vu j' avais pas vu qu' il était là hein
+1	e	e	AUX	_	_	3	expl:pv	_	_none=|id=s1.u2.w0
+2	pas	pas	ADV	_	_	3	advmod	_	_none=|id=s1.u2.w1
+3	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	reparandum	_	_none=|id=s1.u2.w2
+4	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_none=|id=s1.u2.w3
+5	avais	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	7	aux:tense	_	_none=|id=s1.u2.w4
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	_none=|id=s1.u2.w5
+7	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u2.w6
+8	qu'	que	SCONJ	_	_	11	mark	_	_none=|id=s1.u2.w7
+9	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	id=s1.u2.w8
+10	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	id=s1.u2.w9
+11	là	là	ADV	_	_	7	ccomp	_	id=s1.u2.w10
+12	hein	hein	INTJ	_	_	7	discourse	_	_none=|id=s1.u2.w11
+
+# sent_id = 1PF0438_3
+# text = monsieur
+1	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1PF0438_4
+# text = mais c' est pas grave hein
+1	mais	mais	CCONJ	_	_	5	cc	_	_none=|id=s1.u4.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_none=|id=s1.u4.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_none=|id=s1.u4.w2
+4	pas	pas	ADV	_	_	5	advmod	_	_none=|id=s1.u4.w3
+5	grave	grave	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u4.w4
+6	hein	hein	INTJ	_	_	5	discourse	_	_none=|id=s1.u4.w5
+
+# sent_id = 1PF0438_5
+# text = merci beaucoup je vous remercie merci beaucoup
+1	merci	merci	INTJ	_	_	5	reparandum	_	_none=|id=s1.u5.w0
+2	beaucoup	beaucoup	ADV	_	_	1	advmod	_	_none=|id=s1.u5.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	id=s1.u5.w2
+4	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	5	iobj	_	id=s1.u5.w3
+5	remercie	remercier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u5.w4
+6	merci	merci	INTJ	_	_	5	conj	_	_none=|id=s1.u5.w5
+7	beaucoup	beaucoup	ADV	_	_	6	advmod	_	_none=|id=s1.u5.w6
+
+# sent_id = 1PF0438_6
+# text = moi au revoir
+1	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	_	_none=|id=s1.u6.w0
+2	au	au	ADP	_	_	3	case	_	_none=|id=s1.u6.w1
+3	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_none=|id=s1.u6.w2
+

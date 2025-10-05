@@ -1,0 +1,51 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0157_0
+# text = je vous avais pas vu
+1	je	_	_	_	_	_	_	_	id=s1.u0.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u0.w1
+3	avais	_	_	_	_	_	_	_	id=s1.u0.w2
+4	pas	_	_	_	_	_	_	_	id=s1.u0.w3
+5	vu	_	_	_	_	_	_	_	id=s1.u0.w4
+
+# sent_id = 1AG0157_1
+# text = je voudrais le le guide de de restaurants 96 de Grenoble
+1	je	_	_	_	_	_	_	_	id=s1.u1.w0
+2	voudrais	_	_	_	_	_	_	_	id=s1.u1.w1
+3	le	_	_	_	_	_	_	_	id=s1.u1.w2
+4	le	_	_	_	_	_	_	_	id=s1.u1.w3
+5	guide	_	_	_	_	_	_	_	id=s1.u1.w4
+6	de	_	_	_	_	_	_	_	id=s1.u1.w5
+7	de	_	_	_	_	_	_	_	id=s1.u1.w6
+8	restaurants	_	_	_	_	_	_	_	id=s1.u1.w7
+9	96	_	_	_	_	_	_	_	id=s1.u1.w8
+10	de	_	_	_	_	_	_	_	id=s1.u1.w9
+11	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w10
+
+# sent_id = 1AG0157_2
+# text = j' ai rien là rien du tout
+1	j'	_	_	_	_	_	_	_	id=s1.u2.w0
+2	ai	_	_	_	_	_	_	_	id=s1.u2.w1
+3	rien	_	_	_	_	_	_	_	id=s1.u2.w2
+4	là	_	_	_	_	_	_	_	id=s1.u2.w3
+5	rien	_	_	_	_	_	_	_	id=s1.u2.w4
+6	du	_	_	_	_	_	_	_	id=s1.u2.w5
+7	tout	_	_	_	_	_	_	_	id=s1.u2.w6
+
+# sent_id = 1AG0157_3
+# text = tout à fait et en vous remerciant au revoir
+1	tout	_	_	_	_	_	_	_	id=s1.u3.w0
+2	à	_	_	_	_	_	_	_	id=s1.u3.w1
+3	fait	_	_	_	_	_	_	_	id=s1.u3.w2
+4	et	_	_	_	_	_	_	_	id=s1.u3.w3
+5	en	_	_	_	_	_	_	_	id=s1.u3.w4
+6	vous	_	_	_	_	_	_	_	id=s1.u3.w5
+7	remerciant	_	_	_	_	_	_	_	id=s1.u3.w6
+8	au	_	_	_	_	_	_	_	id=s1.u3.w7
+9	revoir	_	_	_	_	_	_	_	id=s1.u3.w8
+
+# sent_id = 1AG0157_4
+# text = je vous remercie
+1	je	_	_	_	_	_	_	_	id=s1.u4.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u4.w1
+3	remercie	_	_	_	_	_	_	_	id=s1.u4.w2
+

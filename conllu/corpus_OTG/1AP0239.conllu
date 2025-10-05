@@ -1,0 +1,61 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0239_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AP0239_1
+# text = bonjour c' est la dame non ah d' accord je suis devant est ce que vous avez un plan de Grenoble s' il vous plaît
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	c'	_	_	_	_	_	_	_	id=s1.u1.w1
+3	est	_	_	_	_	_	_	_	id=s1.u1.w2
+4	la	_	_	_	_	_	_	_	id=s1.u1.w3
+5	dame	_	_	_	_	_	_	_	id=s1.u1.w4
+6	non	_	_	_	_	_	_	_	id=s1.u1.w5
+7	ah	_	_	_	_	_	_	_	id=s1.u1.w6
+8	d'	_	_	_	_	_	_	_	id=s1.u1.w7
+9	accord	_	_	_	_	_	_	_	id=s1.u1.w8
+10	je	_	_	_	_	_	_	_	id=s1.u1.w9
+11	suis	_	_	_	_	_	_	_	id=s1.u1.w10
+12	devant	_	_	_	_	_	_	_	id=s1.u1.w11
+13	est	_	_	_	_	_	_	_	id=s1.u1.w12
+14	ce	_	_	_	_	_	_	_	id=s1.u1.w13
+15	que	_	_	_	_	_	_	_	id=s1.u1.w14
+16	vous	_	_	_	_	_	_	_	id=s1.u1.w15
+17	avez	_	_	_	_	_	_	_	id=s1.u1.w16
+18	un	_	_	_	_	_	_	_	id=s1.u1.w17
+19	plan	_	_	_	_	_	_	_	id=s1.u1.w18
+20	de	_	_	_	_	_	_	_	id=s1.u1.w19
+21	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w20
+22	s'	_	_	_	_	_	_	_	id=s1.u1.w21
+23	il	_	_	_	_	_	_	_	id=s1.u1.w22
+24	vous	_	_	_	_	_	_	_	id=s1.u1.w23
+25	plaît	_	_	_	_	_	_	_	id=s1.u1.w24
+
+# sent_id = 1AP0239_2
+# text = oui bien sûr on est là hein
+1	oui	_	_	_	_	_	_	_	id=s1.u2.w0
+2	bien	_	_	_	_	_	_	_	id=s1.u2.w1
+3	sûr	_	_	_	_	_	_	_	id=s1.u2.w2
+4	on	_	_	_	_	_	_	_	id=s1.u2.w3
+5	est	_	_	_	_	_	_	_	id=s1.u2.w4
+6	là	_	_	_	_	_	_	_	id=s1.u2.w5
+7	hein	_	_	_	_	_	_	_	id=s1.u2.w6
+
+# sent_id = 1AP0239_3
+# text = hum d' accord merci beaucoup
+1	hum	_	_	_	_	_	_	_	id=s1.u3.w0
+2	d'	_	_	_	_	_	_	_	id=s1.u3.w1
+3	accord	_	_	_	_	_	_	_	id=s1.u3.w2
+4	merci	_	_	_	_	_	_	_	id=s1.u3.w3
+5	beaucoup	_	_	_	_	_	_	_	id=s1.u3.w4
+
+# sent_id = 1AP0239_4
+# text = je vous en prie monsieur au revoir
+1	je	_	_	_	_	_	_	_	id=s1.u4.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u4.w1
+3	en	_	_	_	_	_	_	_	id=s1.u4.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u4.w3
+5	monsieur	_	_	_	_	_	_	_	id=s1.u4.w4
+6	au	_	_	_	_	_	_	_	id=s1.u4.w5
+7	revoir	_	_	_	_	_	_	_	id=s1.u4.w6
+

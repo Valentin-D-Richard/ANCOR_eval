@@ -1,0 +1,36 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0523_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AG0523_1
+# text = bonjour j' aurais voulu un " 38 " s' il vous en reste
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	j'	_	_	_	_	_	_	_	id=s1.u1.w1
+3	aurais	_	_	_	_	_	_	_	id=s1.u1.w2
+4	voulu	_	_	_	_	_	_	_	id=s1.u1.w3
+5	un	_	_	_	_	_	_	_	id=s1.u1.w4
+6	38	_	_	_	_	_	_	_	id=s1.u1.w6
+7	s'	_	_	_	_	_	_	_	id=s1.u1.w8
+8	il	_	_	_	_	_	_	_	id=s1.u1.w9
+9	vous	_	_	_	_	_	_	_	id=s1.u1.w10
+10	en	_	_	_	_	_	_	_	id=s1.u1.w11
+11	reste	_	_	_	_	_	_	_	id=s1.u1.w12
+
+# sent_id = 1AG0523_2
+# text = non deux rue Narvik
+1	non	_	_	_	_	_	_	_	id=s1.u2.w0
+2	deux	_	_	_	_	_	_	_	id=s1.u2.w1
+3	rue	_	_	_	_	_	_	_	id=s1.u2.w2
+4	Narvik	_	_	_	_	_	_	_	id=s1.u2.w3
+
+# sent_id = 1AG0523_3
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u3.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u3.w1
+
+# sent_id = 1AG0523_4
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u4.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u4.w1
+

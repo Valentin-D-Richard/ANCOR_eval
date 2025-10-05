@@ -1,0 +1,52 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0264_0
+# text = bon allez
+1	bon	_	_	_	_	_	_	_	id=s1.u0.w0
+2	allez	_	_	_	_	_	_	_	id=s1.u0.w1
+
+# sent_id = 1SB0264_1
+# text = dites moi qu' est ce qu' il y a à faire ce soir dans la ville
+1	dites	_	_	_	_	_	_	_	id=s1.u1.w0
+2	moi	_	_	_	_	_	_	_	id=s1.u1.w1
+3	qu'	_	_	_	_	_	_	_	id=s1.u1.w2
+4	est	_	_	_	_	_	_	_	id=s1.u1.w3
+5	ce	_	_	_	_	_	_	_	id=s1.u1.w4
+6	qu'	_	_	_	_	_	_	_	id=s1.u1.w5
+7	il	_	_	_	_	_	_	_	id=s1.u1.w6
+8	y	_	_	_	_	_	_	_	id=s1.u1.w7
+9	a	_	_	_	_	_	_	_	id=s1.u1.w8
+10	à	_	_	_	_	_	_	_	id=s1.u1.w9
+11	faire	_	_	_	_	_	_	_	id=s1.u1.w10
+12	ce	_	_	_	_	_	_	_	id=s1.u1.w11
+13	soir	_	_	_	_	_	_	_	id=s1.u1.w12
+14	dans	_	_	_	_	_	_	_	id=s1.u1.w13
+15	la	_	_	_	_	_	_	_	id=s1.u1.w14
+16	ville	_	_	_	_	_	_	_	id=s1.u1.w15
+
+# sent_id = 1SB0264_2
+# text = 
+
+# sent_id = 1SB0264_3
+# text = ce soir dans la ville faut regarder dans " le petit bulletin " monsieur ou e dans le " Grenoble contact "
+1	ce	_	_	_	_	_	_	_	id=s1.u3.w0
+2	soir	_	_	_	_	_	_	_	id=s1.u3.w1
+3	dans	_	_	_	_	_	_	_	id=s1.u3.w2
+4	la	_	_	_	_	_	_	_	id=s1.u3.w3
+5	ville	_	_	_	_	_	_	_	id=s1.u3.w4
+6	faut	_	_	_	_	_	_	_	id=s1.u3.w5
+7	regarder	_	_	_	_	_	_	_	id=s1.u3.w6
+8	dans	_	_	_	_	_	_	_	id=s1.u3.w7
+9	le	_	_	_	_	_	_	_	id=s1.u3.w9
+10	petit	_	_	_	_	_	_	_	id=s1.u3.w10
+11	bulletin	_	_	_	_	_	_	_	id=s1.u3.w11
+12	monsieur	_	_	_	_	_	_	_	id=s1.u3.w13
+13	ou	_	_	_	_	_	_	_	id=s1.u3.w14
+14	e	_	_	_	_	_	_	_	id=s1.u3.w15
+15	dans	_	_	_	_	_	_	_	id=s1.u3.w16
+16	le	_	_	_	_	_	_	_	id=s1.u3.w17
+17	Grenoble	_	_	_	_	_	_	_	id=s1.u3.w19
+18	contact	_	_	_	_	_	_	_	id=s1.u3.w20
+
+# sent_id = 1SB0264_4
+# text = 
+

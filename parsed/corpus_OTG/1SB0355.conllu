@@ -1,0 +1,68 @@
+# sent_id = 1SB0355_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1SB0355_1
+# text = est ce que je pourrais avoir e le plan de Grenoble avec les trams
+1	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	id=s1.u1.w0
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u1.w1
+3	que	que	PRON	_	PronType=Rel	6	obj	_	id=s1.u1.w2
+4	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u1.w3
+5	pourrais	pouvoir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	id=s1.u1.w4
+6	avoir	avoir	VERB	_	VerbForm=Inf	5	xcomp	_	_none=|id=s1.u1.w5
+7	e	e	INTJ	_	_	9	case	_	id=s1.u1.w6
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_none=|id=s1.u1.w7
+9	plan	plan	NOUN	_	Gender=Masc|Number=Sing	6	obl:mod	_	_none=|id=s1.u1.w8
+10	de	de	ADP	_	_	11	case	_	id=s1.u1.w9
+11	Grenoble	Grenoble	PROPN	_	_	9	nmod	_	id=s1.u1.w10
+12	avec	avec	ADP	_	_	14	case	_	_none=|id=s1.u1.w11
+13	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	14	det	_	id=s1.u1.w12
+14	trams	tram	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	id=s1.u1.w13
+
+# sent_id = 1SB0355_2
+# text = ah le plan des transports alors
+1	ah	ah	INTJ	_	_	3	discourse	_	id=s1.u2.w0
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_none=|id=s1.u2.w1
+3	plan	plan	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u2.w2
+4	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	det	_	id=s1.u2.w3
+5	transports	transport	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	id=s1.u2.w4
+6	alors	alors	ADV	_	_	3	discourse	_	_none=|id=s1.u2.w5
+
+# sent_id = 1SB0355_3
+# text = les transports oui e Grenoble il y a que les trams et
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	id=s1.u3.w0
+2	transports	transport	NOUN	_	Gender=Masc|Number=Plur	8	dislocated	_	_none=|id=s1.u3.w1
+3	oui	oui	INTJ	_	_	8	discourse	_	_none=|id=s1.u3.w2
+4	e	e	ADP	_	_	5	case	_	id=s1.u3.w3
+5	Grenoble	Grenoble	PROPN	_	_	8	obl:mod	_	_none=|id=s1.u3.w4
+6	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl:subj	_	_none=|id=s1.u3.w5
+7	y	y	PRON	_	Person=3|PronType=Prs	8	expl:comp	_	id=s1.u3.w6
+8	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u3.w7
+9	que	que	SCONJ	_	_	11	dep	_	id=s1.u3.w8
+10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	id=s1.u3.w9
+11	trams	tram	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	id=s1.u3.w10
+12	et	et	CCONJ	_	_	8	cc	_	_none=|id=s1.u3.w11
+
+# sent_id = 1SB0355_4
+# text = les bus et tout c' est la TAG
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	id=s1.u4.w0
+2	bus	bus	NOUN	_	Gender=Masc|Number=Plur	8	dislocated	_	_none=|id=s1.u4.w1
+3	et	et	CCONJ	_	_	2	conj	_	_none=|id=s1.u4.w2
+4	tout	tout	ADV	_	Gender=Masc|Number=Sing	3	fixed	_	id=s1.u4.w3
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	id=s1.u4.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	id=s1.u4.w5
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	id=s1.u4.w6
+8	TAG	Tag	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u4.w7
+
+# sent_id = 1SB0355_6
+# text = faut que je demande à
+1	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u6.w0
+2	que	que	SCONJ	_	_	4	mark	_	_none=|id=s1.u6.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	id=s1.u6.w2
+4	demande	demander	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	id=s1.u6.w3
+5	à	à	ADP	_	_	4	dep	_	_none=|id=s1.u6.w4
+
+# sent_id = 1SB0355_7
+# text = ouais
+1	ouais	ouais	INTJ	_	_	0	root	_	_none=|id=s1.u7.w0
+

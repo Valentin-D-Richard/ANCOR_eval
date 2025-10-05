@@ -1,0 +1,48 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0552_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AG0552_1
+# text = j' aurais voulu savoir si vous aviez des itinéraires de balades en montagne
+1	j'	_	_	_	_	_	_	_	id=s1.u1.w0
+2	aurais	_	_	_	_	_	_	_	id=s1.u1.w1
+3	voulu	_	_	_	_	_	_	_	id=s1.u1.w2
+4	savoir	_	_	_	_	_	_	_	id=s1.u1.w3
+5	si	_	_	_	_	_	_	_	id=s1.u1.w4
+6	vous	_	_	_	_	_	_	_	id=s1.u1.w5
+7	aviez	_	_	_	_	_	_	_	id=s1.u1.w6
+8	des	_	_	_	_	_	_	_	id=s1.u1.w7
+9	itinéraires	_	_	_	_	_	_	_	id=s1.u1.w8
+10	de	_	_	_	_	_	_	_	id=s1.u1.w9
+11	balades	_	_	_	_	_	_	_	id=s1.u1.w10
+12	en	_	_	_	_	_	_	_	id=s1.u1.w11
+13	montagne	_	_	_	_	_	_	_	id=s1.u1.w12
+
+# sent_id = 1AG0552_2
+# text = info de la montagne " info montagne "
+1	info	_	_	_	_	_	_	_	id=s1.u2.w0
+2	de	_	_	_	_	_	_	_	id=s1.u2.w1
+3	la	_	_	_	_	_	_	_	id=s1.u2.w2
+4	montagne	_	_	_	_	_	_	_	id=s1.u2.w3
+5	info	_	_	_	_	_	_	_	id=s1.u2.w5
+6	montagne	_	_	_	_	_	_	_	id=s1.u2.w6
+
+# sent_id = 1AG0552_3
+# text = au premier
+1	au	_	_	_	_	_	_	_	id=s1.u3.w0
+2	premier	_	_	_	_	_	_	_	id=s1.u3.w1
+
+# sent_id = 1AG0552_4
+# text = oui sur la gauche après la foule sur la gauche
+1	oui	_	_	_	_	_	_	_	id=s1.u4.w0
+2	sur	_	_	_	_	_	_	_	id=s1.u4.w1
+3	la	_	_	_	_	_	_	_	id=s1.u4.w2
+4	gauche	_	_	_	_	_	_	_	id=s1.u4.w3
+5	après	_	_	_	_	_	_	_	id=s1.u4.w4
+6	la	_	_	_	_	_	_	_	id=s1.u4.w5
+7	foule	_	_	_	_	_	_	_	id=s1.u4.w6
+8	sur	_	_	_	_	_	_	_	id=s1.u4.w7
+9	la	_	_	_	_	_	_	_	id=s1.u4.w8
+10	gauche	_	_	_	_	_	_	_	id=s1.u4.w9
+

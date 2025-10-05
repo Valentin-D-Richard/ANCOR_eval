@@ -1,0 +1,46 @@
+# sent_id = 1AG0502_0
+# text = bonjour est ce que je pourrais avoir un " 38 "
+1	bonjour	bonjour	NOUN	_	_	3	dislocated	_	_none=|id=s1.u0.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u0.w1
+3	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	id=s1.u0.w2
+4	que	que	PRON	_	PronType=Rel	7	obj	_	id=s1.u0.w3
+5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	id=s1.u0.w4
+6	pourrais	pouvoir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	advcl:cleft	_	id=s1.u0.w5
+7	avoir	avoir	VERB	_	VerbForm=Inf	6	xcomp	_	id=s1.u0.w6
+8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	obj	_	_none=|id=s1.u0.w7
+9	38	38	ADJ	_	_	3	nmod	_	_none=|id=s1.u0.w9
+
+# sent_id = 1AG0502_1
+# text = " 38 " il faut aller deux rue de Narvik sinon faut revenir lundi prochain
+1	38	38	X	_	_	3	dislocated	_	_none=|id=s1.u1.w1
+2	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_none=|id=s1.u1.w3
+3	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u1.w4
+4	aller	aller	VERB	_	VerbForm=Inf	3	ccomp	_	_none=|id=s1.u1.w5
+5	deux	deux	NUM	_	Number=Plur	6	nummod	_	_none=|id=s1.u1.w6
+6	rue	ru	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_none=|id=s1.u1.w7
+7	de	de	ADP	_	_	8	case	_	id=s1.u1.w8
+8	Narvik	Narvik	PROPN	_	_	6	nmod	_	_none=|id=s1.u1.w9
+9	sinon	sinon	ADV	_	_	10	cc	_	_none=|id=s1.u1.w10
+10	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	id=s1.u1.w11
+11	revenir	revenir	VERB	_	VerbForm=Inf	10	ccomp	_	_none=|id=s1.u1.w12
+12	lundi	lundi	ADV	_	Gender=Masc|Number=Sing	11	advmod	_	_none=|id=s1.u1.w13
+13	prochain	prochain	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_none=|id=s1.u1.w14
+
+# sent_id = 1AG0502_2
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u2.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u2.w1
+
+# sent_id = 1AG0502_3
+# text = voilà
+1	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1AG0502_4
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u4.w0
+
+# sent_id = 1AG0502_5
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u5.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u5.w1
+

@@ -1,0 +1,122 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0306_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1PF0306_1
+# text = oui bonjour
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u1.w0
+2	bonjour	bonjour	INTJ	_	_	1	fixed	_	_none=|id=s1.u1.w1
+
+# sent_id = 1PF0306_2
+# text = je vous écoute madame
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	id=s1.u2.w0
+2	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	3	obj	_	id=s1.u2.w1
+3	écoute	écouter	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w2
+4	madame	madame	NOUN	_	Gender=Fem|Number=Sing	3	vocative	_	id=s1.u2.w3
+
+# sent_id = 1PF0306_3
+# text = e j' étais venue chercher un plan de l' agglomération grenobloise on m' avait donné une photocopie parce que c' est pour refaire un plan de direction pour des gens qui viennent en réunion à Grenoble seulement je n' ai pas pu l' exploiter en photocopie parce que c' en était déjà une et là donc e
+1	e	e	SCONJ	_	_	4	mark	_	_none=|id=s1.u3.w0
+2	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u3.w1
+3	étais	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	aux:pass	_	id=s1.u3.w2
+4	venue	venir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	15	advcl	_	id=s1.u3.w3
+5	chercher	chercher	VERB	_	VerbForm=Inf	4	xcomp	_	_none=|id=s1.u3.w4
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_none=|id=s1.u3.w5
+7	plan	plan	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_none=|id=s1.u3.w6
+8	de	de	ADP	_	_	10	case	_	_none=|id=s1.u3.w7
+9	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	id=s1.u3.w8
+10	agglomération	agglomération	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	id=s1.u3.w9
+11	grenobloise	grenoblois	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	id=s1.u3.w10
+12	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	15	nsubj	_	_none=|id=s1.u3.w11
+13	m'	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	15	iobj	_	_none=|id=s1.u3.w12
+14	avait	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	aux:tense	_	_none=|id=s1.u3.w13
+15	donné	donner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u3.w14
+16	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	id=s1.u3.w15
+17	photocopie	photocopie	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	id=s1.u3.w16
+18	parce	parce	ADV	_	_	42	mark	_	_none=|id=s1.u3.w17
+19	que	que	SCONJ	_	_	18	fixed	_	id=s1.u3.w18
+20	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	21	nsubj	_	_none=|id=s1.u3.w19
+21	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_none=|id=s1.u3.w20
+22	pour	pour	ADP	_	_	23	mark	_	_none=|id=s1.u3.w21
+23	refaire	refaire	VERB	_	VerbForm=Inf	21	ccomp	_	_none=|id=s1.u3.w22
+24	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_none=|id=s1.u3.w23
+25	plan	plan	NOUN	_	Gender=Masc|Number=Sing	23	obj	_	_none=|id=s1.u3.w24
+26	de	de	ADP	_	_	27	case	_	id=s1.u3.w25
+27	direction	direction	NOUN	_	Gender=Fem|Number=Sing	25	nmod	_	id=s1.u3.w26
+28	pour	pour	ADP	_	_	30	case	_	_none=|id=s1.u3.w27
+29	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	30	det	_	id=s1.u3.w28
+30	gens	gens	NOUN	_	Gender=Masc|Number=Plur	53	obl:mod	_	_none=|id=s1.u3.w29
+31	qui	qui	PRON	_	PronType=Rel	32	nsubj	_	_none=|id=s1.u3.w30
+32	viennent	venir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	acl:relcl	_	_none=|id=s1.u3.w31
+33	en	en	ADP	_	_	34	case	_	id=s1.u3.w32
+34	réunion	réunion	NOUN	_	Gender=Fem|Number=Sing	32	obl:arg	_	id=s1.u3.w33
+35	à	à	ADP	_	_	36	case	_	_none=|id=s1.u3.w34
+36	Grenoble	Grenoble	PROPN	_	_	32	obl:mod	_	_none=|id=s1.u3.w35
+37	seulement	seulement	ADV	_	_	42	advmod	_	_none=|id=s1.u3.w36
+38	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	42	nsubj	_	_none=|id=s1.u3.w37
+39	n'	ne	ADV	_	Polarity=Neg	42	advmod	_	_none=|id=s1.u3.w38
+40	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	42	aux:tense	_	_none=|id=s1.u3.w39
+41	pas	pas	ADV	_	Polarity=Neg	42	advmod	_	_none=|id=s1.u3.w40
+42	pu	pouvoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	conj	_	_none=|id=s1.u3.w41
+43	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	44	obj	_	_none=|id=s1.u3.w42
+44	exploiter	exploiter	VERB	_	VerbForm=Inf	42	xcomp	_	id=s1.u3.w43
+45	en	en	ADP	_	_	46	case	_	id=s1.u3.w44
+46	photocopie	photocopie	NOUN	_	Gender=Fem|Number=Sing	44	obl:mod	_	id=s1.u3.w45
+47	parce	parce	ADV	_	_	53	mark	_	_none=|id=s1.u3.w46
+48	que	que	SCONJ	_	_	47	fixed	_	id=s1.u3.w47
+49	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	53	nsubj	_	id=s1.u3.w48
+50	en	en	PRON	_	Person=3|PronType=Prs	44	obj	_	id=s1.u3.w49
+51	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	53	cop	_	_none=|id=s1.u3.w50
+52	déjà	déjà	ADV	_	_	53	advmod	_	_none=|id=s1.u3.w51
+53	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	42	reparandum	_	id=s1.u3.w52
+54	et	et	CCONJ	_	_	55	cc	_	_none=|id=s1.u3.w53
+55	là	là	ADV	_	_	53	conj	_	_none=|id=s1.u3.w54
+56	donc	donc	ADV	_	_	42	advmod	_	_none=|id=s1.u3.w55
+57	e	e	PUNCT	_	_	15	punct	_	_none=|id=s1.u3.w56
+
+# sent_id = 1PF0306_6
+# text = ben ça c' est le plan actuel
+1	ben	ben	INTJ	_	_	6	discourse	_	_none=|id=s1.u6.w0
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	dislocated	_	id=s1.u6.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_none=|id=s1.u6.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	id=s1.u6.w3
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_none=|id=s1.u6.w4
+6	plan	plan	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u6.w5
+7	actuel	actuel	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_none=|id=s1.u6.w6
+
+# sent_id = 1PF0306_7
+# text = c' est le plan actuel bon je vous prends ça
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	id=s1.u7.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	id=s1.u7.w1
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_none=|id=s1.u7.w2
+4	plan	plan	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u7.w3
+5	actuel	actuel	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_none=|id=s1.u7.w4
+6	bon	bon	INTJ	_	_	9	discourse	_	_none=|id=s1.u7.w5
+7	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_none=|id=s1.u7.w6
+8	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	9	iobj	_	id=s1.u7.w7
+9	prends	prendre	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl:cleft	_	id=s1.u7.w8
+10	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	obj	_	id=s1.u7.w9
+
+# sent_id = 1PF0306_9
+# text = le plan qu' on vient de sortir là
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u9.w0
+2	plan	plan	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u9.w1
+3	qu'	que	PRON	_	PronType=Rel	7	obj	_	_none=|id=s1.u9.w2
+4	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj	_	_none=|id=s1.u9.w3
+5	vient	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	id=s1.u9.w4
+6	de	de	ADP	_	_	7	mark	_	_none=|id=s1.u9.w5
+7	sortir	sortir	VERB	_	VerbForm=Inf	5	xcomp	_	id=s1.u9.w6
+8	là	là	ADV	_	_	7	advmod	_	_none=|id=s1.u9.w7
+
+# sent_id = 1PF0306_10
+# text = ok merci beaucoup monsieur
+1	ok	ok	INTJ	_	_	2	discourse	_	_none=|id=s1.u10.w0
+2	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u10.w1
+3	beaucoup	beaucoup	ADV	_	_	2	advmod	_	_none=|id=s1.u10.w2
+4	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	_none=|id=s1.u10.w3
+
+# sent_id = 1PF0306_11
+# text = moi
+1	moi	lui	PRON	_	_	0	root	_	_none=|id=s1.u11.w0
+

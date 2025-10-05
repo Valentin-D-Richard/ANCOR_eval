@@ -1,0 +1,61 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0543_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AG0543_1
+# text = bonjour moi je voudrais savoir est ce que vous avez la liste des clubs de vélo sur Grenoble et aux alentours
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	moi	_	_	_	_	_	_	_	id=s1.u1.w1
+3	je	_	_	_	_	_	_	_	id=s1.u1.w2
+4	voudrais	_	_	_	_	_	_	_	id=s1.u1.w3
+5	savoir	_	_	_	_	_	_	_	id=s1.u1.w4
+6	est	_	_	_	_	_	_	_	id=s1.u1.w5
+7	ce	_	_	_	_	_	_	_	id=s1.u1.w6
+8	que	_	_	_	_	_	_	_	id=s1.u1.w7
+9	vous	_	_	_	_	_	_	_	id=s1.u1.w8
+10	avez	_	_	_	_	_	_	_	id=s1.u1.w9
+11	la	_	_	_	_	_	_	_	id=s1.u1.w10
+12	liste	_	_	_	_	_	_	_	id=s1.u1.w11
+13	des	_	_	_	_	_	_	_	id=s1.u1.w12
+14	clubs	_	_	_	_	_	_	_	id=s1.u1.w13
+15	de	_	_	_	_	_	_	_	id=s1.u1.w14
+16	vélo	_	_	_	_	_	_	_	id=s1.u1.w15
+17	sur	_	_	_	_	_	_	_	id=s1.u1.w16
+18	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w17
+19	et	_	_	_	_	_	_	_	id=s1.u1.w18
+20	aux	_	_	_	_	_	_	_	id=s1.u1.w19
+21	alentours	_	_	_	_	_	_	_	id=s1.u1.w20
+
+# sent_id = 1AG0543_2
+# text = e non j' ai peut être l' association qui s' occupe de voilà de clubs de vélo
+1	e	_	_	_	_	_	_	_	id=s1.u2.w0
+2	non	_	_	_	_	_	_	_	id=s1.u2.w1
+3	j'	_	_	_	_	_	_	_	id=s1.u2.w2
+4	ai	_	_	_	_	_	_	_	id=s1.u2.w3
+5	peut	_	_	_	_	_	_	_	id=s1.u2.w4
+6	être	_	_	_	_	_	_	_	id=s1.u2.w5
+7	l'	_	_	_	_	_	_	_	id=s1.u2.w6
+8	association	_	_	_	_	_	_	_	id=s1.u2.w7
+9	qui	_	_	_	_	_	_	_	id=s1.u2.w8
+10	s'	_	_	_	_	_	_	_	id=s1.u2.w9
+11	occupe	_	_	_	_	_	_	_	id=s1.u2.w10
+12	de	_	_	_	_	_	_	_	id=s1.u2.w11
+13	voilà	_	_	_	_	_	_	_	id=s1.u2.w12
+14	de	_	_	_	_	_	_	_	id=s1.u2.w13
+15	clubs	_	_	_	_	_	_	_	id=s1.u2.w14
+16	de	_	_	_	_	_	_	_	id=s1.u2.w15
+17	vélo	_	_	_	_	_	_	_	id=s1.u2.w16
+
+# sent_id = 1AG0543_3
+# text = je vous remercie
+1	je	_	_	_	_	_	_	_	id=s1.u3.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u3.w1
+3	remercie	_	_	_	_	_	_	_	id=s1.u3.w2
+
+# sent_id = 1AG0543_4
+# text = vous en prie
+1	vous	_	_	_	_	_	_	_	id=s1.u4.w0
+2	en	_	_	_	_	_	_	_	id=s1.u4.w1
+3	prie	_	_	_	_	_	_	_	id=s1.u4.w2
+

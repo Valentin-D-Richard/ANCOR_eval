@@ -1,0 +1,24 @@
+# sent_id = 1AP0171_1
+# text = est ce que vous avez un plan de Grenoble merci
+1	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	id=s1.u1.w0
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u1.w1
+3	que	que	SCONJ	_	_	5	mark	_	_none=|id=s1.u1.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_none=|id=s1.u1.w3
+5	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	_none=|id=s1.u1.w4
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	id=s1.u1.w5
+7	plan	plan	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	id=s1.u1.w6
+8	de	de	ADP	_	_	9	case	_	id=s1.u1.w7
+9	Grenoble	Grenoble	PROPN	_	_	7	nmod	_	id=s1.u1.w8
+10	merci	merci	INTJ	_	_	2	dislocated	_	_none=|id=s1.u1.w9
+
+# sent_id = 1AP0171_2
+# text = le voilà mais je vous en prie monsieur
+1	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_none=|id=s1.u2.w0
+2	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u2.w1
+3	mais	mais	CCONJ	_	_	7	cc	_	_none=|id=s1.u2.w2
+4	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_none=|id=s1.u2.w3
+5	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	7	iobj	_	id=s1.u2.w4
+6	en	en	PRON	_	Person=3|PronType=Prs	7	iobj	_	_none=|id=s1.u2.w5
+7	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	id=s1.u2.w6
+8	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	7	vocative	_	_none=|id=s1.u2.w7
+

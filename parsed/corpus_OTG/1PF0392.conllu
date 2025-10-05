@@ -1,0 +1,69 @@
+# sent_id = 1PF0392_1
+# text = e hé s' il vous plaît je voudrais un guide des hôtels de Grenoble
+1	e	e	CCONJ	_	_	8	discourse	_	_none=|id=s1.u1.w0
+2	hé	hé	INTJ	_	_	8	discourse	_	_none=|id=s1.u1.w1
+3	s'	se	SCONJ	_	_	6	mark	_	_none=|id=s1.u1.w2
+4	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	_none=|id=s1.u1.w3
+5	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	6	iobj	_	_none=|id=s1.u1.w4
+6	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	discourse	_	_none=|id=s1.u1.w5
+7	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_none=|id=s1.u1.w6
+8	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w7
+9	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	id=s1.u1.w8
+10	guide	guide	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_none=|id=s1.u1.w9
+11	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	12	det	_	id=s1.u1.w10
+12	hôtels	hôtel	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	id=s1.u1.w11
+13	de	de	ADP	_	_	14	case	_	id=s1.u1.w12
+14	Grenoble	Grenoble	PROPN	_	_	12	nmod	_	id=s1.u1.w13
+
+# sent_id = 1PF0392_2
+# text = oui voilà madame avec un plan
+1	oui	oui	INTJ	_	_	2	discourse	_	_none=|id=s1.u2.w0
+2	voilà	voilà	VERB	_	_	6	discourse	_	_none=|id=s1.u2.w1
+3	madame	madame	NOUN	_	Gender=Fem|Number=Sing	6	vocative	_	id=s1.u2.w2
+4	avec	avec	ADP	_	_	6	case	_	_none=|id=s1.u2.w3
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_none=|id=s1.u2.w4
+6	plan	plan	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u2.w5
+
+# sent_id = 1PF0392_3
+# text = merci monsieur
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+2	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	_none=|id=s1.u3.w1
+
+# sent_id = 1PF0392_4
+# text = prenez aussi le " Grenoble magazine " c' est une présentation de la ville hein
+1	prenez	prenoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w0
+2	aussi	aussi	ADV	_	_	1	advmod	_	_none=|id=s1.u4.w1
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	id=s1.u4.w2
+4	Grenoble	Grenoble	PROPN	_	_	5	appos	_	_none=|id=s1.u4.w4
+5	magazine	magazine	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	id=s1.u4.w5
+6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	id=s1.u4.w7
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	id=s1.u4.w8
+8	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	id=s1.u4.w9
+9	présentation	présentation	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	id=s1.u4.w10
+10	de	de	ADP	_	_	12	case	_	_none=|id=s1.u4.w11
+11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	id=s1.u4.w12
+12	ville	ville	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	id=s1.u4.w13
+13	hein	hein	INTJ	_	_	1	discourse	_	_none=|id=s1.u4.w14
+
+# sent_id = 1PF0392_5
+# text = ah d' accord merci beaucoup je vous dois
+1	ah	ah	INTJ	_	_	8	discourse	_	_none=|id=s1.u5.w0
+2	d'	de	ADP	_	_	3	case	_	_none=|id=s1.u5.w1
+3	accord	accord	NOUN	_	Gender=Masc|Number=Sing	8	discourse	_	id=s1.u5.w2
+4	merci	merci	ADV	_	_	8	obj	_	_none=|id=s1.u5.w3
+5	beaucoup	beaucoup	ADV	_	_	4	advmod	_	_none=|id=s1.u5.w4
+6	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	id=s1.u5.w5
+7	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	8	iobj	_	id=s1.u5.w6
+8	dois	devoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u5.w7
+
+# sent_id = 1PF0392_6
+# text = c' est gratuit
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_none=|id=s1.u6.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u6.w1
+3	gratuit	gratuit	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u6.w2
+
+# sent_id = 1PF0392_7
+# text = merci monsieur
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u7.w0
+2	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	_none=|id=s1.u7.w1
+

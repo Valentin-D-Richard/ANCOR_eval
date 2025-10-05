@@ -1,0 +1,34 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0227_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AP0227_1
+# text = bonjour je voudrais avoir les horaires des ouvertures de piscine
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	je	_	_	_	_	_	_	_	id=s1.u1.w1
+3	voudrais	_	_	_	_	_	_	_	id=s1.u1.w2
+4	avoir	_	_	_	_	_	_	_	id=s1.u1.w3
+5	les	_	_	_	_	_	_	_	id=s1.u1.w4
+6	horaires	_	_	_	_	_	_	_	id=s1.u1.w5
+7	des	_	_	_	_	_	_	_	id=s1.u1.w6
+8	ouvertures	_	_	_	_	_	_	_	id=s1.u1.w7
+9	de	_	_	_	_	_	_	_	id=s1.u1.w8
+10	piscine	_	_	_	_	_	_	_	id=s1.u1.w9
+
+# sent_id = 1AP0227_2
+# text = oui voilà jeune homme
+1	oui	_	_	_	_	_	_	_	id=s1.u2.w0
+2	voilà	_	_	_	_	_	_	_	id=s1.u2.w1
+3	jeune	_	_	_	_	_	_	_	id=s1.u2.w2
+4	homme	_	_	_	_	_	_	_	id=s1.u2.w3
+
+# sent_id = 1AP0227_3
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1AP0227_4
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u4.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u4.w1
+

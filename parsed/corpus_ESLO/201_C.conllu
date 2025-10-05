@@ -1,0 +1,180 @@
+# sent_id = 201_C_1
+# text = ah ils sont pas là hein ?
+1	ah	ah	INTJ	_	_	5	discourse	_	id=s1.u1.w0
+2	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	id=s1.u1.w1
+3	sont	être	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	id=s1.u1.w3
+5	là	là	ADV	_	_	3	obl:arg	_	_none=|id=s1.u1.w4
+6	hein	hein	INTJ	_	_	5	discourse	_	_none=|id=s1.u1.w5
+
+# sent_id = 201_C_2
+# text = ils sont pas là en ce moment
+1	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	id=s1.u2.w0
+2	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w1
+3	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	_none=|id=s1.u2.w2
+4	là	là	ADV	_	_	2	obl:arg	_	_none=|id=s1.u2.w3
+5	en	en	ADP	_	_	7	case	_	_none=|id=s1.u2.w4
+6	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_none=|id=s1.u2.w5
+7	moment	moment	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_none=|id=s1.u2.w6
+
+# sent_id = 201_C_3
+# text = ah bon ? ils sont repartis en vacances ou ?
+1	ah	ah	INTJ	_	_	5	discourse	_	_none=|id=s1.u3.w0
+2	bon	bon	INTJ	_	_	1	fixed	_	id=s1.u3.w1
+3	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_none=|id=s1.u3.w3
+4	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_none=|id=s1.u3.w4
+5	repartis	repartir	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	id=s1.u3.w5
+6	en	en	ADP	_	_	7	case	_	id=s1.u3.w6
+7	vacances	vacance	NOUN	_	Gender=Fem|Number=Plur	5	obl:arg	_	id=s1.u3.w7
+8	ou	ou	CCONJ	_	_	5	conj	_	_none=|id=s1.u3.w8
+
+# sent_id = 201_C_4
+# text = pour huit jours je crois hein ? ils reviendront que la semaine prochaine
+1	pour	pour	ADP	_	_	3	case	_	_none=|id=s1.u4.w0
+2	huit	huit	NUM	_	Number=Plur	3	nummod	_	_none=|id=s1.u4.w1
+3	jours	jour	NOUN	_	Gender=Masc|Number=Plur	5	obl:mod	_	_none=|id=s1.u4.w2
+4	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u4.w3
+5	crois	croire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w4
+6	hein	hein	INTJ	_	_	8	discourse	_	_none=|id=s1.u4.w5
+7	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_none=|id=s1.u4.w7
+8	reviendront	reviendror	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_none=|id=s1.u4.w8
+9	que	que	ADV	_	_	11	advmod	_	_none=|id=s1.u4.w9
+10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	id=s1.u4.w10
+11	semaine	semaine	NOUN	_	Gender=Fem|Number=Sing	8	obl:mod	_	_none=|id=s1.u4.w11
+12	prochaine	prochaer	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	id=s1.u4.w12
+
+# sent_id = 201_C_5
+# text = ah oui d' accord
+1	ah	ah	INTJ	_	_	4	discourse	_	_none=|id=s1.u5.w0
+2	oui	oui	INTJ	_	_	4	discourse	_	_none=|id=s1.u5.w1
+3	d'	de	ADP	_	_	4	case	_	_none=|id=s1.u5.w2
+4	accord	accord	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u5.w3
+
+# sent_id = 201_C_6
+# text = ah bon ?
+1	ah	ah	INTJ	_	_	0	root	_	_none=|id=s1.u6.w0
+2	bon	bon	INTJ	_	_	1	fixed	_	id=s1.u6.w1
+
+# sent_id = 201_C_7
+# text = y a juste à au salon de coiffure que vous pourriez aller voir
+1	y	y	PRON	_	Person=3|PronType=Prs	2	expl:comp	_	id=s1.u7.w0
+2	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u7.w1
+3	juste	juste	ADV	_	_	2	advmod	_	_none=|id=s1.u7.w2
+4	à	à	ADP	_	_	6	case	_	_none=|id=s1.u7.w3
+5	au	au	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_none=|id=s1.u7.w4
+6	salon	salon	NOUN	_	Gender=Masc|Number=Sing	2	obl:mod	_	_none=|id=s1.u7.w5
+7	de	de	ADP	_	_	8	case	_	id=s1.u7.w6
+8	coiffure	coiffure	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	id=s1.u7.w7
+9	que	que	PRON	_	PronType=Rel	12	obj	_	_none=|id=s1.u7.w8
+10	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	11	nsubj	_	_none=|id=s1.u7.w9
+11	pourriez	pourr	VERB	_	Mood=Cnd|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_none=|id=s1.u7.w10
+12	aller	aller	VERB	_	VerbForm=Inf	11	xcomp	_	id=s1.u7.w11
+13	voir	voir	VERB	_	VerbForm=Inf	12	xcomp	_	id=s1.u7.w12
+
+# sent_id = 201_C_8
+# text = ah oui c' est vrai oui ah oui d' accord eh ben dans huit jours i- ils devront
+1	ah	ah	INTJ	_	_	5	discourse	_	_none=|id=s1.u8.w0
+2	oui	oui	INTJ	_	_	5	discourse	_	_none=|id=s1.u8.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_none=|id=s1.u8.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u8.w3
+5	vrai	vrai	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u8.w4
+6	oui	oui	ADV	_	_	5	discourse	_	_none=|id=s1.u8.w5
+7	ah	ah	INTJ	_	_	6	conj	_	_none=|id=s1.u8.w6
+8	oui	oui	INTJ	_	_	6	conj	_	_none=|id=s1.u8.w7
+9	d'	de	ADP	_	_	10	case	_	_none=|id=s1.u8.w8
+10	accord	accord	NOUN	_	Gender=Masc|Number=Sing	18	discourse	_	id=s1.u8.w9
+11	eh	eh	INTJ	_	_	18	discourse	_	_none=|id=s1.u8.w10
+12	ben	ben	INTJ	_	_	9	fixed	_	id=s1.u8.w11
+13	dans	dans	ADP	_	_	15	case	_	_none=|id=s1.u8.w12
+14	huit	huit	NUM	_	Number=Plur	15	nummod	_	_none=|id=s1.u8.w13
+15	jours	jour	NOUN	_	Gender=Masc|Number=Plur	18	obl:mod	_	id=s1.u8.w14
+16	i-	i-	PRON	_	_	15	punct	_	_none=|id=s1.u8.w15
+17	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	id=s1.u8.w16
+18	devront	deoir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	5	conj	_	id=s1.u8.w17
+
+# sent_id = 201_C_9
+# text = ils seront r- de de retour
+1	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	id=s1.u9.w0
+2	seront	êre	AUX	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_none=|id=s1.u9.w1
+3	r-	r-	VERB	_	_	0	root	_	_none=|id=s1.u9.w2
+4	de	de	ADP	_	_	3	dep	_	_none=|id=s1.u9.w3
+5	de	de	ADP	_	_	6	case	_	_none=|id=s1.u9.w4
+6	retour	retour	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	id=s1.u9.w5
+
+# sent_id = 201_C_10
+# text = ben ils sont partis que pour les travaux alors vous pensez que
+1	ben	ben	INTJ	_	_	4	discourse	_	_none=|id=s1.u10.w0
+2	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_none=|id=s1.u10.w1
+3	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_none=|id=s1.u10.w2
+4	partis	partir	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	id=s1.u10.w3
+5	que	que	ADV	_	_	8	reparandum	_	_none=|id=s1.u10.w4
+6	pour	pour	ADP	_	_	8	case	_	_none=|id=s1.u10.w5
+7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	id=s1.u10.w6
+8	travaux	travau	NOUN	_	Gender=Masc|Number=Plur	4	obl:mod	_	_none=|id=s1.u10.w7
+9	alors	alors	ADV	_	_	11	cc	_	_none=|id=s1.u10.w8
+10	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	11	nsubj	_	_none=|id=s1.u10.w9
+11	pensez	penser	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	_none=|id=s1.u10.w10
+12	que	que	SCONJ	_	_	11	ccomp	_	id=s1.u10.w11
+
+# sent_id = 201_C_15
+# text = ben sans quoi vous pouvez aller voir le fils là euh
+1	ben	ben	INTJ	_	_	5	discourse	_	_none=|id=s1.u15.w0
+2	sans	sans	ADP	_	_	3	case	_	_none=|id=s1.u15.w1
+3	quoi	quoi	PRON	_	Person=3|PronType=Ind	5	obl:mod	_	_none=|id=s1.u15.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_none=|id=s1.u15.w3
+5	pouvez	pouvoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u15.w4
+6	aller	aller	VERB	_	VerbForm=Inf	5	xcomp	_	id=s1.u15.w5
+7	voir	voir	VERB	_	VerbForm=Inf	6	xcomp	_	id=s1.u15.w6
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	id=s1.u15.w7
+9	fils	fils	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_none=|id=s1.u15.w8
+10	là	là	ADV	_	_	9	discourse	_	_none=|id=s1.u15.w9
+11	euh	euh	INTJ	_	_	5	discourse	_	_none=|id=s1.u15.w10
+
+# sent_id = 201_C_16
+# text = oui oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u16.w0
+2	oui	oui	INTJ	_	_	1	conj	_	_none=|id=s1.u16.w1
+
+# sent_id = 201_C_17
+# text = ben il est coiffeuse euh
+1	ben	ben	INTJ	_	_	4	discourse	_	_none=|id=s1.u17.w0
+2	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_none=|id=s1.u17.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	id=s1.u17.w2
+4	coiffeuse	coiffeus	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u17.w3
+5	euh	euh	INTJ	_	_	4	discourse	_	_none=|id=s1.u17.w4
+
+# sent_id = 201_C_18
+# text = oui oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u18.w0
+2	oui	oui	INTJ	_	_	1	conj	_	_none=|id=s1.u18.w1
+
+# sent_id = 201_C_19
+# text = si vous voulez des des renseignements lui il pourra vous en donner
+1	si	si	SCONJ	_	_	3	mark	_	_none=|id=s1.u19.w0
+2	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_none=|id=s1.u19.w1
+3	voulez	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	_	_none=|id=s1.u19.w2
+4	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	reparandum	_	id=s1.u19.w3
+5	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	6	det	_	id=s1.u19.w4
+6	renseignements	renseignement	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	id=s1.u19.w5
+7	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	dislocated	_	_none=|id=s1.u19.w6
+8	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_none=|id=s1.u19.w7
+9	pourra	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_none=|id=s1.u19.w8
+10	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	12	iobj	_	id=s1.u19.w9
+11	en	en	PRON	_	Person=3|PronType=Prs	12	obj	_	id=s1.u19.w10
+12	donner	donner	VERB	_	VerbForm=Inf	9	xcomp	_	id=s1.u19.w11
+
+# sent_id = 201_C_21
+# text = merci monsieur
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u21.w0
+2	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	_none=|id=s1.u21.w1
+
+# sent_id = 201_C_22
+# text = merci beaucoup
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u22.w0
+2	beaucoup	beaucoup	ADV	_	_	1	advmod	_	_none=|id=s1.u22.w1
+
+# sent_id = 201_C_23
+# text = de rien
+1	de	de	ADP	_	_	2	case	_	_none=|id=s1.u23.w0
+2	rien	rien	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	0	root	_	_none=|id=s1.u23.w1
+

@@ -1,0 +1,30 @@
+# sent_id = 065_00000042_0
+# text = U B S bonjour
+1	U	U	PROPN	_	_	4	dep	_	_none=|id=s1.u0.w0
+2	B	B	PROPN	_	_	1	flat:name	_	_none=|id=s1.u0.w1
+3	S	S	PROPN	_	_	1	dep	_	_none=|id=s1.u0.w2
+4	bonjour	bonjour	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w3
+
+# sent_id = 065_00000042_1
+# text = bonjour ici Prénom nom est ce que je pourrais avoir Prénom2 Nom2 s' il vous plait
+1	bonjour	bonjour	INTJ	_	_	6	discourse	_	_none=|id=s1.u1.w0
+2	ici	ici	ADV	_	_	6	advmod	_	_none=|id=s1.u1.w1
+3	Prénom	Prénom	PROPN	_	_	6	nsubj	_	_none=|id=s1.u1.w2
+4	nom	nom	NOUN	_	Gender=Masc|Number=Sing	6	dislocated	_	_none=|id=s1.u1.w3
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	id=s1.u1.w4
+6	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u1.w5
+7	que	que	PRON	_	PronType=Rel	10	obj	_	id=s1.u1.w6
+8	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_none=|id=s1.u1.w7
+9	pourrais	pouvoir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_none=|id=s1.u1.w8
+10	avoir	avoir	VERB	_	VerbForm=Inf	9	xcomp	_	_none=|id=s1.u1.w9
+11	Prénom2	Prénom2	PROPN	_	_	6	dislocated	_	_none=|id=s1.u1.w10
+12	Nom2	Nom2	PROPN	_	_	11	conj	_	_none=|id=s1.u1.w11
+13	s'	s'	SCONJ	_	_	16	mark	_	_none=|id=s1.u1.w12
+14	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	expl:subj	_	_none=|id=s1.u1.w13
+15	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	16	iobj	_	_none=|id=s1.u1.w14
+16	plait	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	discourse	_	id=s1.u1.w15
+
+# sent_id = 065_00000042_2
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u2.w0
+

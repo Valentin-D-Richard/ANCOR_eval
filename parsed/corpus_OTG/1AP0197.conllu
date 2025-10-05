@@ -1,0 +1,35 @@
+# sent_id = 1AP0197_1
+# text = je veux un petit peu d' informations sur la ville
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u1.w1
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	obj	_	_none=|id=s1.u1.w2
+4	petit	petit	ADJ	_	Gender=Masc|Number=Sing	3	fixed	_	_none=|id=s1.u1.w3
+5	peu	peu	NOUN	_	_	3	fixed	_	_none=|id=s1.u1.w4
+6	d'	d'	ADP	_	_	7	case	_	_none=|id=s1.u1.w5
+7	informations	information	NOUN	_	Gender=Fem|Number=Plur	3	obl:arg	_	id=s1.u1.w6
+8	sur	sur	ADP	_	_	10	case	_	_none=|id=s1.u1.w7
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	id=s1.u1.w8
+10	ville	ville	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	id=s1.u1.w9
+
+# sent_id = 1AP0197_2
+# text = hum hum alors voilà tenez monsieur bonne journée
+1	hum	hum	INTJ	_	_	5	discourse	_	_none=|id=s1.u2.w0
+2	hum	hum	INTJ	_	_	5	discourse	_	_none=|id=s1.u2.w1
+3	alors	alors	ADV	_	_	5	advmod	_	_none=|id=s1.u2.w2
+4	voilà	voilà	VERB	_	_	5	discourse	_	_none=|id=s1.u2.w3
+5	tenez	teir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w4
+6	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	id=s1.u2.w5
+7	bonne	bon	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	id=s1.u2.w6
+8	journée	journée	NOUN	_	Gender=Fem|Number=Sing	5	obl:mod	_	id=s1.u2.w7
+
+# sent_id = 1AP0197_4
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u4.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u4.w1
+
+# sent_id = 1AP0197_5
+# text = merci au revoir
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u5.w0
+2	au	au	ADP	_	_	3	case	_	_none=|id=s1.u5.w1
+3	revoir	revoir	VERB	_	Gender=Masc|Number=Sing	1	advcl	_	_none=|id=s1.u5.w2
+

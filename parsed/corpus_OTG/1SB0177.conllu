@@ -1,0 +1,54 @@
+# sent_id = 1SB0177_0
+# text = monsieur bonjour
+1	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w0
+2	bonjour	bonjour	INTJ	_	_	1	discourse	_	_none=|id=s1.u0.w1
+
+# sent_id = 1SB0177_1
+# text = je voudrais savoir si vous avez des cartes de Grenoble
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	savoir	savoir	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u1.w2
+4	si	si	SCONJ	_	_	6	mark	_	_none=|id=s1.u1.w3
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_none=|id=s1.u1.w4
+6	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_none=|id=s1.u1.w5
+7	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	8	det	_	id=s1.u1.w6
+8	cartes	carte	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	id=s1.u1.w7
+9	de	de	ADP	_	_	10	case	_	id=s1.u1.w8
+10	Grenoble	Grenoble	PROPN	_	_	8	nmod	_	id=s1.u1.w9
+
+# sent_id = 1SB0177_2
+# text = des cartes oui il vous en faut une
+1	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	2	det	_	id=s1.u2.w0
+2	cartes	carte	NOUN	_	Gender=Fem|Number=Plur	0	root	_	id=s1.u2.w1
+3	oui	oui	ADV	_	_	7	discourse	_	_none=|id=s1.u2.w2
+4	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	_none=|id=s1.u2.w3
+5	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	7	iobj	_	id=s1.u2.w4
+6	en	en	PRON	_	Person=3|PronType=Prs	7	obj	_	id=s1.u2.w5
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	id=s1.u2.w6
+8	une	un	PRON	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	obj	_	id=s1.u2.w7
+
+# sent_id = 1SB0177_3
+# text = oh oui voilà merci bien
+1	oh	oh	INTJ	_	_	4	discourse	_	_none=|id=s1.u3.w0
+2	oui	oui	INTJ	_	_	3	discourse	_	_none=|id=s1.u3.w1
+3	voilà	voilà	VERB	_	_	4	discourse	_	id=s1.u3.w2
+4	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w3
+5	bien	bien	ADV	_	_	4	advmod	_	_none=|id=s1.u3.w4
+
+# sent_id = 1SB0177_5
+# text = je vous en prie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u5.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u5.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u5.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u5.w3
+
+# sent_id = 1SB0177_6
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u6.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u6.w1
+
+# sent_id = 1SB0177_7
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u7.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u7.w1
+

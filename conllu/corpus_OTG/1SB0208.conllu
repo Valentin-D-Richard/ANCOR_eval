@@ -1,0 +1,33 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0208_0
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1SB0208_1
+# text = est ce que vous avez les programmes de la cinémathèque
+1	est	_	_	_	_	_	_	_	id=s1.u1.w0
+2	ce	_	_	_	_	_	_	_	id=s1.u1.w1
+3	que	_	_	_	_	_	_	_	id=s1.u1.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u1.w3
+5	avez	_	_	_	_	_	_	_	id=s1.u1.w4
+6	les	_	_	_	_	_	_	_	id=s1.u1.w5
+7	programmes	_	_	_	_	_	_	_	id=s1.u1.w6
+8	de	_	_	_	_	_	_	_	id=s1.u1.w7
+9	la	_	_	_	_	_	_	_	id=s1.u1.w8
+10	cinémathèque	_	_	_	_	_	_	_	id=s1.u1.w9
+
+# sent_id = 1SB0208_2
+# text = voilà
+1	voilà	_	_	_	_	_	_	_	id=s1.u2.w0
+
+# sent_id = 1SB0208_3
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1SB0208_4
+# text = je vous en prie
+1	je	_	_	_	_	_	_	_	id=s1.u4.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u4.w1
+3	en	_	_	_	_	_	_	_	id=s1.u4.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u4.w3
+

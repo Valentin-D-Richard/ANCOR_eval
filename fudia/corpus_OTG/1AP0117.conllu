@@ -1,0 +1,68 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0117_1
+# text = que vous savez comment il faut faire pour aller au col du Barrioz est ce qu' il faut passer par Saint Pierre d' Allevard ou par Theys
+1	que	que	SCONJ	_	_	3	mark	_	_none=|id=s1.u1.w0
+2	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	savez	savoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	15	reparandum	_	_none=|id=s1.u1.w2
+4	comment	comment	ADV	_	PronType=Int	6|6	advmod|cue:wh	_	_none=|id=s1.u1.w3|PhraseType=Int
+5	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	_none=|id=s1.u1.w4
+6	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	ClauseType=Int|id=s1.u1.w5
+7	faire	faire	VERB	_	VerbForm=Inf	6	ccomp	_	_none=|id=s1.u1.w6
+8	pour	pour	ADP	_	_	9	mark	_	_none=|id=s1.u1.w7
+9	aller	aller	VERB	ETRE	VerbForm=Inf	6	advcl	_	_none=|id=s1.u1.w8
+10	au	au	ADP	_	_	11	case	_	_none=|id=s1.u1.w9
+11	col	col	NOUN	_	Gender=Masc|Number=Sing	7	obl:mod	_	_none=|id=s1.u1.w10
+12	du	du	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_none=|id=s1.u1.w11
+13	Barrioz	Barrioz	PROPN	_	_	6	dislocated	_	_none=|id=s1.u1.w12
+14	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	id=s1.u1.w13
+15	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	id=s1.u1.w14
+16	qu'	que	PRON	_	PronType=Rel	19	obj	_	id=s1.u1.w15
+17	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	expl:subj	_	_none=|id=s1.u1.w16
+18	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	id=s1.u1.w17
+19	passer	passer	VERB	_	VerbForm=Inf	18	ccomp	_	id=s1.u1.w18
+20	par	par	ADP	_	_	21	case	_	id=s1.u1.w19
+21	Saint	Saint	PROPN	_	_	19	obl:arg	_	id=s1.u1.w20
+22	Pierre	Pierre	PROPN	_	_	21	flat:name	_	id=s1.u1.w21
+23	d'	de	ADP	_	_	24	case	_	_none=|id=s1.u1.w22
+24	Allevard	Allevard	PROPN	_	_	21	nmod	_	_none=|id=s1.u1.w23
+25	ou	ou	CCONJ	_	_	27	cc	_	id=s1.u1.w24
+26	par	par	ADP	_	_	27	case	_	_none=|id=s1.u1.w25
+27	Theys	Theys	PROPN	_	_	21	conj	_	id=s1.u1.w26
+
+# sent_id = 1AP0117_2
+# text = ce que je vous conseille de faire c' est voir avec " info montagne " regardez ils sont juste au dessus SIM au premier étage il y a un ascenseur hein je vous en prie monsieur
+1	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	dislocated	_	_none=|id=s1.u2.w0
+2	que	que	PRON	_	PronType=Rel	5	obj	_	_none=|id=s1.u2.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u2.w2
+4	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	5	iobj	_	id=s1.u2.w3
+5	conseille	conseiller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w4
+6	de	de	ADP	_	_	7	mark	_	_none=|id=s1.u2.w5
+7	faire	faire	VERB	_	VerbForm=Inf	1	acl:relcl	_	_none=|id=s1.u2.w6
+8	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	id=s1.u2.w7
+9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	id=s1.u2.w8
+10	voir	voir	VERB	_	VerbForm=Inf	5	xcomp	_	id=s1.u2.w9
+11	avec	avec	ADP	_	_	12	case	_	id=s1.u2.w10
+12	info	info	NOUN	_	Gender=Fem|Number=Sing	10	obl:mod	_	id=s1.u2.w12
+13	montagne	montagne	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	id=s1.u2.w13
+14	regardez	regarir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	16	discourse	_	_none=|id=s1.u2.w15
+15	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	id=s1.u2.w16
+16	sont	être	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_none=|id=s1.u2.w17
+17	juste	juste	ADV	_	_	19	advmod	_	_none=|id=s1.u2.w18
+18	au	au	ADP	_	_	19	case	_	_none=|id=s1.u2.w19
+19	dessus	dessus	ADV	_	Gender=Masc|Number=Sing	16	obl:mod	_	_none=|id=s1.u2.w20
+20	SIM	SIM	ADJ	_	_	16	dislocated	_	_none=|id=s1.u2.w21
+21	au	au	DET	_	_	23	case	_	_none=|id=s1.u2.w22
+22	premier	premier	ADJ	_	Gender=Masc|Number=Sing	23	amod	_	_none=|id=s1.u2.w23
+23	étage	étage	NOUN	_	Gender=Masc|Number=Sing	26	obl:mod	_	_none=|id=s1.u2.w24
+24	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	expl:subj	_	_none=|id=s1.u2.w25
+25	y	y	PRON	_	Person=3|PronType=Prs	26	expl:comp	_	id=s1.u2.w26
+26	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	conj	_	id=s1.u2.w27
+27	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	id=s1.u2.w28
+28	ascenseur	ascenseur	NOUN	_	Gender=Masc|Number=Sing	26	obj	_	id=s1.u2.w29
+29	hein	hein	INTJ	_	_	26	discourse	_	_none=|id=s1.u2.w30
+30	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	33	nsubj	_	_none=|id=s1.u2.w31
+31	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	33	iobj	_	id=s1.u2.w32
+32	en	en	PRON	_	Person=3|PronType=Prs	33	obj	_	_none=|id=s1.u2.w33
+33	prie	prire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	conj	_	_none=|id=s1.u2.w34
+34	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	26	vocative	_	_none=|id=s1.u2.w35
+

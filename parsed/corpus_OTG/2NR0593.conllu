@@ -1,0 +1,124 @@
+# sent_id = 2NR0593_0
+# text = bon dites moi j' ai perdu l' adresse voyons e on m' a donné l' adresse de l' opéra de Lyon que je leur écrive pour avoir le programme et aussi e l' adresse de la basilique Saint-Jean à Lyon aussi
+1	bon	bon	INTJ	_	_	6	discourse	_	_none=|id=s1.u0.w0
+2	dites	dre	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	discourse	_	_none=|id=s1.u0.w1
+3	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	6	dislocated	_	_none=|id=s1.u0.w2
+4	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_none=|id=s1.u0.w3
+5	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_none=|id=s1.u0.w4
+6	perdu	perdre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u0.w5
+7	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	id=s1.u0.w6
+8	adresse	adresse	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	id=s1.u0.w7
+9	voyons	voyons	VERB	_	_	6	discourse	_	id=s1.u0.w8
+10	e	e	CCONJ	_	_	14	cc	_	_none=|id=s1.u0.w9
+11	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	_none=|id=s1.u0.w10
+12	m'	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	14	iobj	_	_none=|id=s1.u0.w11
+13	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:tense	_	_none=|id=s1.u0.w12
+14	donné	donner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_none=|id=s1.u0.w13
+15	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	16	det	_	id=s1.u0.w14
+16	adresse	adresse	NOUN	_	Gender=Fem|Number=Sing	14	obj	_	id=s1.u0.w15
+17	de	de	ADP	_	_	19	case	_	_none=|id=s1.u0.w16
+18	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	19	det	_	id=s1.u0.w17
+19	opéra	opéra	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	id=s1.u0.w18
+20	de	de	ADP	_	_	21	case	_	_none=|id=s1.u0.w19
+21	Lyon	Lyon	PROPN	_	_	19	nmod	_	_none=|id=s1.u0.w20
+22	que	que	PRON	_	PronType=Rel	25	obj	_	_none=|id=s1.u0.w21
+23	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	25	nsubj	_	_none=|id=s1.u0.w22
+24	leur	lui	PRON	_	Number=Plur|Person=3|PronType=Prs	25	iobj	_	_none=|id=s1.u0.w23
+25	écrive	écrivre	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	id=s1.u0.w24
+26	pour	pour	ADP	_	_	27	mark	_	_none=|id=s1.u0.w25
+27	avoir	avoir	VERB	_	VerbForm=Inf	25	advcl	_	_none=|id=s1.u0.w26
+28	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_none=|id=s1.u0.w27
+29	programme	programme	NOUN	_	Gender=Masc|Number=Sing	27	obj	_	_none=|id=s1.u0.w28
+30	et	et	CCONJ	_	_	34	cc	_	_none=|id=s1.u0.w29
+31	aussi	aussi	ADV	_	_	34	advmod	_	_none=|id=s1.u0.w30
+32	e	e	INTJ	_	_	34	cc	_	id=s1.u0.w31
+33	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	34	det	_	id=s1.u0.w32
+34	adresse	adresse	NOUN	_	Gender=Fem|Number=Sing	16	conj	_	id=s1.u0.w33
+35	de	de	ADP	_	_	37	case	_	id=s1.u0.w34
+36	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	37	det	_	id=s1.u0.w35
+37	basilique	basilique	NOUN	_	Gender=Fem|Number=Sing	34	nmod	_	id=s1.u0.w36
+38	Saint-Jean	Saint-jean	PROPN	_	_	37	nmod:appos	_	id=s1.u0.w37
+39	à	à	ADP	_	_	40	case	_	_none=|id=s1.u0.w38
+40	Lyon	Lyon	PROPN	_	_	37	nmod	_	_none=|id=s1.u0.w39
+41	aussi	aussi	ADV	_	_	14	advmod	_	_none=|id=s1.u0.w40
+
+# sent_id = 2NR0593_2
+# text = je vais vous faire grâce d' un timbre on a reçu le programme
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u2.w0
+2	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	2	iobj	_	id=s1.u2.w2
+4	faire	faire	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u2.w3
+5	grâce	grâce	ADV	_	_	4	obj	_	id=s1.u2.w4
+6	d'	de	ADP	_	_	8	case	_	_none=|id=s1.u2.w5
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_none=|id=s1.u2.w6
+8	timbre	timbre	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_none=|id=s1.u2.w7
+9	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	11	nsubj	_	_none=|id=s1.u2.w8
+10	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:tense	_	_none=|id=s1.u2.w9
+11	reçu	reçer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	_none=|id=s1.u2.w10
+12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	id=s1.u2.w11
+13	programme	programme	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	id=s1.u2.w12
+
+# sent_id = 2NR0593_3
+# text = ah ça va plus
+1	ah	ah	INTJ	_	_	3	discourse	_	id=s1.u3.w0
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_none=|id=s1.u3.w1
+3	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u3.w2
+4	plus	plus	ADV	_	_	3	advmod	_	_none=|id=s1.u3.w3
+
+# sent_id = 2NR0593_4
+# text = et je vous donne en
+1	et	et	CCONJ	_	_	4	cc	_	_none=|id=s1.u4.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u4.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u4.w2
+4	donne	donner	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w3
+5	en	en	ADP	_	_	4	dep	_	_none=|id=s1.u4.w4
+
+# sent_id = 2NR0593_5
+# text = il vous en reste en plus
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_none=|id=s1.u5.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u5.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	obj	_	id=s1.u5.w2
+4	reste	rester	VERB	ETRE	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u5.w3
+5	en	en	ADP	_	_	6	case	_	_none=|id=s1.u5.w4
+6	plus	plus	ADV	_	_	4	advmod	_	_none=|id=s1.u5.w5
+
+# sent_id = 2NR0593_6
+# text = non très peu et je vous donne en prime un plan de Lyon
+1	non	non	ADV	_	Polarity=Neg	7	discourse	_	_none=|id=s1.u6.w0
+2	très	très	ADV	_	_	3	advmod	_	_none=|id=s1.u6.w1
+3	peu	peu	ADV	_	_	1	conj	_	_none=|id=s1.u6.w2
+4	et	et	CCONJ	_	_	7	cc	_	_none=|id=s1.u6.w3
+5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	id=s1.u6.w4
+6	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	7	iobj	_	id=s1.u6.w5
+7	donne	donner	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u6.w6
+8	en	en	ADP	_	_	9	case	_	_none=|id=s1.u6.w7
+9	prime	prime	NOUN	_	Gender=Fem|Number=Sing	7	obl:mod	_	id=s1.u6.w8
+10	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	id=s1.u6.w9
+11	plan	plan	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	id=s1.u6.w10
+12	de	de	ADP	_	_	13	case	_	id=s1.u6.w11
+13	Lyon	Lyon	PROPN	_	_	11	nmod	_	id=s1.u6.w12
+
+# sent_id = 2NR0593_7
+# text = ah ça c' est gentil merci
+1	ah	ah	INTJ	_	_	5	discourse	_	_none=|id=s1.u7.w0
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	dislocated	_	id=s1.u7.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_none=|id=s1.u7.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u7.w3
+5	gentil	gentil	ADJ	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u7.w4
+6	merci	merci	INTJ	_	_	5	dislocated	_	_none=|id=s1.u7.w5
+
+# sent_id = 2NR0593_8
+# text = mais je vous en prie au revoir
+1	mais	mais	CCONJ	_	_	5	cc	_	_none=|id=s1.u8.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u8.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	5	iobj	_	_none=|id=s1.u8.w2
+4	en	en	PRON	_	Person=3|PronType=Prs	5	iobj	_	_none=|id=s1.u8.w3
+5	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u8.w4
+6	au	au	ADP	_	_	7	case	_	_none=|id=s1.u8.w5
+7	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	5	advcl	_	id=s1.u8.w6
+
+# sent_id = 2NR0593_9
+# text = bonne journée
+1	bonne	bon	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	id=s1.u9.w0
+2	journée	journée	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u9.w1
+

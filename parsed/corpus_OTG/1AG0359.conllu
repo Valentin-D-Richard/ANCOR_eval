@@ -1,0 +1,41 @@
+# sent_id = 1AG0359_1
+# text = je voudrais un plan des pistes cyclables s' il vous plaît
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_none=|id=s1.u1.w2
+4	plan	plan	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_none=|id=s1.u1.w3
+5	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	6	det	_	id=s1.u1.w4
+6	pistes	piste	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	id=s1.u1.w5
+7	cyclables	cyclable	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	id=s1.u1.w6
+8	s'	se	SCONJ	_	_	11	mark	_	_none=|id=s1.u1.w7
+9	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl:subj	_	_none=|id=s1.u1.w8
+10	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	11	iobj	_	_none=|id=s1.u1.w9
+11	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	discourse	_	_none=|id=s1.u1.w10
+
+# sent_id = 1AG0359_2
+# text = j' en ai plus il faut attendre 1 mois et demi ils sont en train de les rééditer
+1	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u2.w0
+2	en	en	PRON	_	Person=3|PronType=Prs	3	obj	_	_none=|id=s1.u2.w1
+3	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w2
+4	plus	plus	ADV	_	_	3	advmod	_	_none=|id=s1.u2.w3
+5	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	_none=|id=s1.u2.w4
+6	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	id=s1.u2.w5
+7	attendre	attendre	VERB	_	VerbForm=Inf	6	ccomp	_	_none=|id=s1.u2.w6
+8	1	1	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_none=|id=s1.u2.w7
+9	mois	mois	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_none=|id=s1.u2.w8
+10	et	et	CCONJ	_	_	11	cc	_	_none=|id=s1.u2.w9
+11	demi	demi	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	_none=|id=s1.u2.w10
+12	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	id=s1.u2.w11
+13	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	id=s1.u2.w12
+14	en	en	ADP	_	_	15	case	_	_none=|id=s1.u2.w13
+15	train	train	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	id=s1.u2.w14
+16	de	de	ADP	_	_	18	mark	_	id=s1.u2.w15
+17	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	18	obj	_	id=s1.u2.w16
+18	rééditer	rééditer	VERB	_	VerbForm=Inf	14	advcl	_	id=s1.u2.w17
+
+# sent_id = 1AG0359_3
+# text = d' accord merci
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u3.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u3.w1
+3	merci	merci	ADJ	_	_	1	fixed	_	_none=|id=s1.u3.w2
+

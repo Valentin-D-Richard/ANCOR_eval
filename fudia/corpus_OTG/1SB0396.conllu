@@ -1,0 +1,22 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0396_0
+# text = monsieur
+1	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1SB0396_1
+# text = vendez des cartes téléphoniques
+1	vendez	venre	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u1.w0
+2	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	3	det	_	id=s1.u1.w1
+3	cartes	carte	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	id=s1.u1.w2
+4	téléphoniques	téléphonique	ADJ	_	Gender=Fem|Number=Plur	3	amod	_	_none=|id=s1.u1.w3
+
+# sent_id = 1SB0396_2
+# text = e oui écoutez
+1	e	e	CCONJ	_	_	2	cc	_	_none=|id=s1.u2.w0
+2	oui	oui	INTJ	_	_	3	discourse	_	_none=|id=s1.u2.w1
+3	écoutez	écouter	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w2
+
+# sent_id = 1SB0396_3
+# text = bien
+1	bien	bien	ADV	_	_	0	root	_	_none=|id=s1.u3.w0
+

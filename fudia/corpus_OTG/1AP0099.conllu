@@ -1,0 +1,57 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0099_1
+# text = vous avez un magazine qui présente Grenoble un petit peu sous toutes ses
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	id=s1.u1.w0
+2	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	id=s1.u1.w2
+4	magazine	magazine	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_none=|id=s1.u1.w3
+5	qui	qui	PRON	_	PronType=Rel	6	nsubj	_	_none=|id=s1.u1.w4
+6	présente	présenter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	id=s1.u1.w5
+7	Grenoble	Grenoble	PROPN	_	_	6	obj	_	id=s1.u1.w6
+8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_none=|id=s1.u1.w7
+9	petit	petit	ADJ	_	Gender=Masc|Number=Sing	8	fixed	_	_none=|id=s1.u1.w8
+10	peu	peu	NOUN	_	Gender=Masc|Number=Sing	8	fixed	_	_none=|id=s1.u1.w9
+11	sous	sous	ADP	_	_	13	case	_	_none=|id=s1.u1.w10
+12	toutes	tout	ADJ	_	Gender=Fem|Number=Plur	13	amod	_	id=s1.u1.w11
+13	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|PronType=Prs	7	nmod	_	id=s1.u1.w12
+
+# sent_id = 1AP0099_3
+# text = " Grenoble magazine "
+1	Grenoble	Grenoble	PROPN	_	_	2	nmod:appos	_	_none=|id=s1.u3.w1
+2	magazine	magazine	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u3.w2
+
+# sent_id = 1AP0099_4
+# text = voilà ah ben c' est parfait
+1	voilà	voilà	VERB	_	_	6	discourse	_	_none=|id=s1.u4.w0
+2	ah	ah	INTJ	_	_	6	discourse	_	_none=|id=s1.u4.w1
+3	ben	ben	INTJ	_	_	2	fixed	_	id=s1.u4.w2
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_none=|id=s1.u4.w3
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	id=s1.u4.w4
+6	parfait	parfait	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u4.w5
+
+# sent_id = 1AP0099_5
+# text = eh ben c' est super
+1	eh	eh	INTJ	_	_	5	discourse	_	_none=|id=s1.u5.w0
+2	ben	ben	INTJ	_	_	5	discourse	_	id=s1.u5.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_none=|id=s1.u5.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u5.w3
+5	super	super	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u5.w4
+
+# sent_id = 1AP0099_6
+# text = oui j' adore
+1	oui	oui	INTJ	_	_	3	discourse	_	_none=|id=s1.u6.w0
+2	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u6.w1
+3	adore	adorer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u6.w2
+
+# sent_id = 1AP0099_7
+# text = merci bien au revoir
+1	merci	merci	ADV	_	_	0	root	_	_none=|id=s1.u7.w0
+2	bien	bien	ADV	_	_	1	advmod	_	_none=|id=s1.u7.w1
+3	au	au	ADP	_	_	4	case	_	_none=|id=s1.u7.w2
+4	revoir	revoir	VERB	_	Gender=Masc|Number=Sing	1	conj	_	id=s1.u7.w3
+
+# sent_id = 1AP0099_8
+# text = madame merci
+1	madame	madame	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u8.w0
+2	merci	merci	INTJ	_	_	1	amod	_	_none=|id=s1.u8.w1
+

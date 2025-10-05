@@ -1,0 +1,128 @@
+# sent_id = 1AP0248_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0248_1
+# text = madame est ce que vous avez une carte sur e du côté de Saint Pierre de Chartreuse e
+1	madame	madame	NOUN	_	Gender=Fem|Number=Sing	3	vocative	_	id=s1.u1.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u1.w1
+3	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u1.w2
+4	que	que	PRON	_	PronType=Rel	6	obj	_	_none=|id=s1.u1.w3
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	id=s1.u1.w4
+6	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_none=|id=s1.u1.w5
+7	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	id=s1.u1.w6
+8	carte	carte	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	id=s1.u1.w7
+9	sur	sur	ADP	_	_	12	reparandum	_	_none=|id=s1.u1.w8
+10	e	e	CCONJ	_	_	12	nmod	_	id=s1.u1.w9
+11	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_none=|id=s1.u1.w10
+12	côté	côté	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_none=|id=s1.u1.w11
+13	de	de	ADP	_	_	14	case	_	_none=|id=s1.u1.w12
+14	Saint	Saint	PROPN	_	_	12	nmod	_	id=s1.u1.w13
+15	Pierre	Pierre	PROPN	_	_	14	flat:name	_	id=s1.u1.w14
+16	de	de	ADP	_	_	17	case	_	id=s1.u1.w15
+17	Chartreuse	Chartreuse	PROPN	_	_	15	nmod	_	id=s1.u1.w16
+18	e	e	PUNCT	_	_	3	punct	_	_none=|id=s1.u1.w17
+
+# sent_id = 1AP0248_2
+# text = une carte de Saint-Pierre
+1	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	id=s1.u2.w0
+2	carte	carte	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u2.w1
+3	de	de	ADP	_	_	4	case	_	_none=|id=s1.u2.w2
+4	Saint-Pierre	Saint-pIerre	PROPN	_	_	2	nmod	_	_none=|id=s1.u2.w3
+
+# sent_id = 1AP0248_3
+# text = Saint-Pierre e j' ai pas besoin d' une carte e
+1	Saint-Pierre	Saint-pierre	PROPN	_	_	0	root	_	id=s1.u3.w0
+2	e	e	CCONJ	_	_	4	mark	_	_none=|id=s1.u3.w1
+3	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u3.w2
+4	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_none=|id=s1.u3.w3
+5	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	_none=|id=s1.u3.w4
+6	besoin	besoin	NOUN	_	Gender=Masc|Number=Sing	4	obj:lvc	_	_none=|id=s1.u3.w5
+7	d'	de	ADP	_	_	9	case	_	_none=|id=s1.u3.w6
+8	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	id=s1.u3.w7
+9	carte	carte	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	id=s1.u3.w8
+10	e	e	CCONJ	_	_	4	cc	_	_none=|id=s1.u3.w9
+
+# sent_id = 1AP0248_5
+# text = moi j' ai une carte du département uniquement oui ça vous va
+1	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	_none=|id=s1.u5.w0
+2	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u5.w1
+3	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u5.w2
+4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	id=s1.u5.w3
+5	carte	carte	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	id=s1.u5.w4
+6	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_none=|id=s1.u5.w5
+7	département	département	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	id=s1.u5.w6
+8	uniquement	uniquement	ADV	_	_	3	advmod	_	_none=|id=s1.u5.w7
+9	oui	oui	ADV	_	_	12	discourse	_	_none=|id=s1.u5.w8
+10	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	nsubj	_	_none=|id=s1.u5.w9
+11	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	12	iobj	_	id=s1.u5.w10
+12	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	id=s1.u5.w11
+
+# sent_id = 1AP0248_6
+# text = département oui
+1	département	département	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u6.w0
+2	oui	oui	INTJ	_	_	1	discourse	_	_none=|id=s1.u6.w1
+
+# sent_id = 1AP0248_7
+# text = oh oui
+1	oh	oh	INTJ	_	_	2	discourse	_	_none=|id=s1.u7.w0
+2	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u7.w1
+
+# sent_id = 1AP0248_8
+# text = voilà voilà c' est celle-ci donc il y a Saint-Pierre toute la Chartreuse elle est là
+1	voilà	voilà	VERB	_	_	9	discourse	_	_none=|id=s1.u8.w0
+2	voilà	voilà	VERB	_	_	9	discourse	_	_none=|id=s1.u8.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	id=s1.u8.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u8.w3
+5	celle-ci	celle-ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	id=s1.u8.w4
+6	donc	donc	ADV	_	_	9	advmod	_	_none=|id=s1.u8.w5
+7	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl:subj	_	_none=|id=s1.u8.w6
+8	y	y	PRON	_	Person=3|PronType=Prs	9	expl:comp	_	_none=|id=s1.u8.w7
+9	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	id=s1.u8.w8
+10	Saint-Pierre	Saint-pierre	PROPN	_	_	9	obj	_	id=s1.u8.w9
+11	toute	tout	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	id=s1.u8.w10
+12	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	id=s1.u8.w11
+13	Chartreuse	Chartreuse	PROPN	_	Gender=Fem|Number=Sing	10	conj	_	id=s1.u8.w12
+14	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	id=s1.u8.w13
+15	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	id=s1.u8.w14
+16	là	là	ADV	_	_	9	conj	_	id=s1.u8.w15
+
+# sent_id = 1AP0248_9
+# text = oh oui
+1	oh	oh	INTJ	_	_	2	discourse	_	_none=|id=s1.u9.w0
+2	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u9.w1
+
+# sent_id = 1AP0248_10
+# text = voilà
+1	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u10.w0
+
+# sent_id = 1AP0248_11
+# text = ça fait combien
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_none=|id=s1.u11.w0
+2	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u11.w1
+3	combien	combien	ADV	_	_	2	advmod	_	_none=|id=s1.u11.w2
+
+# sent_id = 1AP0248_12
+# text = rien du tout monsieur c' est gratuit bonne journée
+1	rien	rien	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	7	obj	_	_none=|id=s1.u12.w0
+2	du	du	DET	_	_	3	det	_	_none=|id=s1.u12.w1
+3	tout	tout	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_none=|id=s1.u12.w2
+4	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	7	vocative	_	_none=|id=s1.u12.w3
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	_none=|id=s1.u12.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	id=s1.u12.w5
+7	gratuit	gratuit	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u12.w6
+8	bonne	bon	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	id=s1.u12.w7
+9	journée	journée	NOUN	_	Gender=Fem|Number=Sing	7	obl:mod	_	id=s1.u12.w8
+
+# sent_id = 1AP0248_15
+# text = merci bien
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u15.w0
+2	bien	bien	ADV	_	_	1	advmod	_	_none=|id=s1.u15.w1
+
+# sent_id = 1AP0248_16
+# text = merci monsieur au revoir
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u16.w0
+2	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	_none=|id=s1.u16.w1
+3	au	au	ADP	_	_	4	case	_	_none=|id=s1.u16.w2
+4	revoir	revoir	VERB	_	Gender=Masc|Number=Sing	2	acl	_	_none=|id=s1.u16.w3
+

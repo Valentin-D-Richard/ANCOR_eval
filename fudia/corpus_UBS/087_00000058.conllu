@@ -1,0 +1,123 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 087_00000058_0
+# text = U B S bonjour
+1	U	U	PROPN	_	_	4	dep	_	_none=|id=s1.u0.w0
+2	B	B	PROPN	_	_	1	flat:name	_	_none=|id=s1.u0.w1
+3	S	S	PROPN	_	_	1	dep	_	_none=|id=s1.u0.w2
+4	bonjour	bonjour	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w3
+
+# sent_id = 087_00000058_1
+# text = oui bonjour madame j' aurais voulu parler à Prénom Nom s' il vous plait
+1	oui	oui	INTJ	_	_	6	discourse	_	_none=|id=s1.u1.w0
+2	bonjour	bonjour	INTJ	_	_	6	discourse	_	_none=|id=s1.u1.w1
+3	madame	madame	NOUN	_	Gender=Fem|Number=Sing	6	vocative	_	_none=|id=s1.u1.w2
+4	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_none=|id=s1.u1.w3
+5	aurais	avoir	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_none=|id=s1.u1.w4
+6	voulu	vouloir	VERB	DoubleAux	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u1.w5
+7	parler	parler	VERB	_	VerbForm=Inf	6	xcomp	_	id=s1.u1.w6
+8	à	à	ADP	_	_	9	case	_	id=s1.u1.w7
+9	Prénom	Prénom	PROPN	_	_	7	obl:arg	_	_none=|id=s1.u1.w8
+10	Nom	Nom	PROPN	_	_	9	flat:name	_	_none=|id=s1.u1.w9
+11	s'	s'	SCONJ	_	_	14	mark	_	_none=|id=s1.u1.w10
+12	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	expl:subj	_	_none=|id=s1.u1.w11
+13	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	14	iobj	_	_none=|id=s1.u1.w12
+14	plait	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	discourse	_	id=s1.u1.w13
+
+# sent_id = 087_00000058_2
+# text = alors Prénom Nom ah oui donc c' est ça retombe à l' accueil conservez je vais essayer de mon côté
+1	alors	alors	ADV	_	_	10	advmod	_	_none=|id=s1.u2.w0
+2	Prénom	Prénom	PROPN	_	_	10	nsubj	_	_none=|id=s1.u2.w1
+3	Nom	Nom	PROPN	_	_	2	conj	_	_none=|id=s1.u2.w2
+4	ah	ah	INTJ	_	_	8	discourse	_	_none=|id=s1.u2.w3
+5	oui	oui	ADV	_	_	8	discourse	_	_none=|id=s1.u2.w4
+6	donc	donc	ADV	_	_	8	advmod	_	_none=|id=s1.u2.w5
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	_none=|id=s1.u2.w6
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	reparandum	_	_none=|id=s1.u2.w7
+9	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	nsubj	_	id=s1.u2.w8
+10	retombe	retomber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w9
+11	à	à	ADP	_	_	13	case	_	_none=|id=s1.u2.w10
+12	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	13	det	_	id=s1.u2.w11
+13	accueil	accueil	NOUN	_	Gender=Masc|Number=Sing	10	obl:arg	_	_none=|id=s1.u2.w12
+14	conservez	conserver	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	discourse	_	_none=|id=s1.u2.w13
+15	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_none=|id=s1.u2.w14
+16	vais	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	conj	_	id=s1.u2.w15
+17	essayer	essayer	VERB	_	VerbForm=Inf	16	xcomp	_	id=s1.u2.w16
+18	de	de	ADP	_	_	20	case	_	_none=|id=s1.u2.w17
+19	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|PronType=Prs	20	det	_	_none=|id=s1.u2.w18
+20	côté	côté	NOUN	_	Gender=Masc|Number=Sing	17	obl:mod	_	_none=|id=s1.u2.w19
+
+# sent_id = 087_00000058_3
+# text = j' ai essayé de l' appeler tout à l' heure c' était occupé occupé et puis après là ben ça ne répond plus oui c' est pourquoi
+1	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u3.w0
+2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux:tense	_	id=s1.u3.w1
+3	essayé	essayer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u3.w2
+4	de	de	ADP	_	_	6	mark	_	_none=|id=s1.u3.w3
+5	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	6	obj	_	id=s1.u3.w4
+6	appeler	appeler	VERB	_	VerbForm=Inf	3	xcomp	_	id=s1.u3.w5
+7	tout	tout	ADV	_	_	10	advmod	_	_none=|id=s1.u3.w6
+8	à	à	ADP	_	_	10	case	_	_none=|id=s1.u3.w7
+9	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	_none=|id=s1.u3.w8
+10	heure	heure	NOUN	_	Gender=Fem|Number=Sing	13	obl:mod	_	id=s1.u3.w9
+11	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj	_	_none=|id=s1.u3.w10
+12	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	cop	_	_none=|id=s1.u3.w11
+13	occupé	occuper	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_none=|id=s1.u3.w12
+14	occupé	occuper	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_none=|id=s1.u3.w13
+15	et	et	CCONJ	_	_	22	cc	_	_none=|id=s1.u3.w14
+16	puis	puis	CCONJ	_	_	15	fixed	_	id=s1.u3.w15
+17	après	après	ADV	_	_	22	advmod	_	_none=|id=s1.u3.w16
+18	là	là	ADV	_	_	22	advmod	_	_none=|id=s1.u3.w17
+19	ben	ben	INTJ	_	_	18	fixed	_	_none=|id=s1.u3.w18
+20	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	22	nsubj	_	_none=|id=s1.u3.w19
+21	ne	ne	ADV	_	Polarity=Neg	22	advmod	_	id=s1.u3.w20
+22	répond	réponre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	id=s1.u3.w21
+23	plus	plus	ADV	_	Polarity=Neg	22	advmod	_	id=s1.u3.w22
+24	oui	oui	ADV	_	_	22	discourse	_	_none=|id=s1.u3.w23
+25	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	27	nsubj	_	id=s1.u3.w24
+26	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	id=s1.u3.w25
+27	pourquoi	pourquoi	ADV	_	_	22	advmod	_	_none=|id=s1.u3.w26
+
+# sent_id = 087_00000058_4
+# text = d' accord si tu veux
+1	d'	de	ADP	_	_	2	case	_	_none=|id=s1.u4.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u4.w1
+3	si	si	SCONJ	_	_	5	mark	_	_none=|id=s1.u4.w2
+4	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_none=|id=s1.u4.w3
+5	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	discourse	_	_none=|id=s1.u4.w4
+
+# sent_id = 087_00000058_5
+# text = elle a dû s' absenter de son bureau pour le moment
+1	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	id=s1.u5.w0
+2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	id=s1.u5.w1
+3	dû	devoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u5.w2
+4	s'	se	PRON	_	Person=3|PronType=Prs	5	expl:pv	_	id=s1.u5.w3
+5	absenter	absenter	VERB	_	VerbForm=Inf	3	xcomp	_	id=s1.u5.w4
+6	de	de	ADP	_	_	8	case	_	id=s1.u5.w5
+7	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	8	det	_	id=s1.u5.w6
+8	bureau	bureau	NOUN	_	Gender=Masc|Number=Sing	5	obl:arg	_	_none=|id=s1.u5.w7
+9	pour	pour	ADP	_	_	11	case	_	_none=|id=s1.u5.w8
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_none=|id=s1.u5.w9
+11	moment	moment	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_none=|id=s1.u5.w10
+
+# sent_id = 087_00000058_6
+# text = d' accord bon ben je réessaierai plus tard
+1	d'	de	ADP	_	_	2	case	_	_none=|id=s1.u6.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	6	discourse	_	id=s1.u6.w1
+3	bon	bon	INTJ	_	_	6	discourse	_	_none=|id=s1.u6.w2
+4	ben	ben	INTJ	_	_	6	discourse	_	_none=|id=s1.u6.w3
+5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	id=s1.u6.w4
+6	réessaierai	réessaie	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u6.w5
+7	plus	plus	ADV	_	_	8	advmod	_	_none=|id=s1.u6.w6
+8	tard	tard	ADV	_	_	6	advmod	_	_none=|id=s1.u6.w7
+
+# sent_id = 087_00000058_7
+# text = oui voilà oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u7.w0
+2	voilà	voilà	VERB	_	_	1	conj	_	id=s1.u7.w1
+3	oui	oui	INTJ	_	_	2	obj	_	_none=|id=s1.u7.w2
+
+# sent_id = 087_00000058_8
+# text = merci au revoir
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u8.w0
+2	au	au	ADP	_	_	3	case	_	_none=|id=s1.u8.w1
+3	revoir	revoir	VERB	_	Gender=Masc|Number=Sing	1	advcl	_	_none=|id=s1.u8.w2
+

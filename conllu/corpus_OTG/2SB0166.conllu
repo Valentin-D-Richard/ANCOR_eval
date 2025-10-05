@@ -1,0 +1,125 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2SB0166_0
+# text = bonjour juste pour avoir un plan de Grenoble
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+2	juste	_	_	_	_	_	_	_	id=s1.u0.w1
+3	pour	_	_	_	_	_	_	_	id=s1.u0.w2
+4	avoir	_	_	_	_	_	_	_	id=s1.u0.w3
+5	un	_	_	_	_	_	_	_	id=s1.u0.w4
+6	plan	_	_	_	_	_	_	_	id=s1.u0.w5
+7	de	_	_	_	_	_	_	_	id=s1.u0.w6
+8	Grenoble	_	_	_	_	_	_	_	id=s1.u0.w7
+
+# sent_id = 2SB0166_1
+# text = 
+
+# sent_id = 2SB0166_2
+# text = un plan de Grenoble le voilà
+1	un	_	_	_	_	_	_	_	id=s1.u2.w0
+2	plan	_	_	_	_	_	_	_	id=s1.u2.w1
+3	de	_	_	_	_	_	_	_	id=s1.u2.w2
+4	Grenoble	_	_	_	_	_	_	_	id=s1.u2.w3
+5	le	_	_	_	_	_	_	_	id=s1.u2.w4
+6	voilà	_	_	_	_	_	_	_	id=s1.u2.w5
+
+# sent_id = 2SB0166_3
+# text = sauriez vous où se trouve la place Louis Jouvet
+1	sauriez	_	_	_	_	_	_	_	id=s1.u3.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u3.w1
+3	où	_	_	_	_	_	_	_	id=s1.u3.w2
+4	se	_	_	_	_	_	_	_	id=s1.u3.w3
+5	trouve	_	_	_	_	_	_	_	id=s1.u3.w4
+6	la	_	_	_	_	_	_	_	id=s1.u3.w5
+7	place	_	_	_	_	_	_	_	id=s1.u3.w6
+8	Louis	_	_	_	_	_	_	_	id=s1.u3.w7
+9	Jouvet	_	_	_	_	_	_	_	id=s1.u3.w8
+
+# sent_id = 2SB0166_4
+# text = non
+1	non	_	_	_	_	_	_	_	id=s1.u4.w0
+
+# sent_id = 2SB0166_5
+# text = non
+1	non	_	_	_	_	_	_	_	id=s1.u5.w0
+
+# sent_id = 2SB0166_6
+# text = non mais on va regarder sur le plan plus détaillé place Louis Jouvet M dix-neuf place Louis Jouvet place avenue de Malherbe alors rue Malherbe avenue de Malherbe c' est ici c' est cette petite place là
+1	non	_	_	_	_	_	_	_	id=s1.u6.w0
+2	mais	_	_	_	_	_	_	_	id=s1.u6.w1
+3	on	_	_	_	_	_	_	_	id=s1.u6.w2
+4	va	_	_	_	_	_	_	_	id=s1.u6.w3
+5	regarder	_	_	_	_	_	_	_	id=s1.u6.w4
+6	sur	_	_	_	_	_	_	_	id=s1.u6.w5
+7	le	_	_	_	_	_	_	_	id=s1.u6.w6
+8	plan	_	_	_	_	_	_	_	id=s1.u6.w7
+9	plus	_	_	_	_	_	_	_	id=s1.u6.w8
+10	détaillé	_	_	_	_	_	_	_	id=s1.u6.w9
+11	place	_	_	_	_	_	_	_	id=s1.u6.w10
+12	Louis	_	_	_	_	_	_	_	id=s1.u6.w11
+13	Jouvet	_	_	_	_	_	_	_	id=s1.u6.w12
+14	M	_	_	_	_	_	_	_	id=s1.u6.w13
+15	dix-neuf	_	_	_	_	_	_	_	id=s1.u6.w14
+16	place	_	_	_	_	_	_	_	id=s1.u6.w15
+17	Louis	_	_	_	_	_	_	_	id=s1.u6.w16
+18	Jouvet	_	_	_	_	_	_	_	id=s1.u6.w17
+19	place	_	_	_	_	_	_	_	id=s1.u6.w18
+20	avenue	_	_	_	_	_	_	_	id=s1.u6.w19
+21	de	_	_	_	_	_	_	_	id=s1.u6.w20
+22	Malherbe	_	_	_	_	_	_	_	id=s1.u6.w21
+23	alors	_	_	_	_	_	_	_	id=s1.u6.w22
+24	rue	_	_	_	_	_	_	_	id=s1.u6.w23
+25	Malherbe	_	_	_	_	_	_	_	id=s1.u6.w24
+26	avenue	_	_	_	_	_	_	_	id=s1.u6.w25
+27	de	_	_	_	_	_	_	_	id=s1.u6.w26
+28	Malherbe	_	_	_	_	_	_	_	id=s1.u6.w27
+29	c'	_	_	_	_	_	_	_	id=s1.u6.w28
+30	est	_	_	_	_	_	_	_	id=s1.u6.w29
+31	ici	_	_	_	_	_	_	_	id=s1.u6.w30
+32	c'	_	_	_	_	_	_	_	id=s1.u6.w31
+33	est	_	_	_	_	_	_	_	id=s1.u6.w32
+34	cette	_	_	_	_	_	_	_	id=s1.u6.w33
+35	petite	_	_	_	_	_	_	_	id=s1.u6.w34
+36	place	_	_	_	_	_	_	_	id=s1.u6.w35
+37	là	_	_	_	_	_	_	_	id=s1.u6.w36
+
+# sent_id = 2SB0166_7
+# text = ça doit être ici
+1	ça	_	_	_	_	_	_	_	id=s1.u7.w0
+2	doit	_	_	_	_	_	_	_	id=s1.u7.w1
+3	être	_	_	_	_	_	_	_	id=s1.u7.w2
+4	ici	_	_	_	_	_	_	_	id=s1.u7.w3
+
+# sent_id = 2SB0166_8
+# text = hum d' accord
+1	hum	_	_	_	_	_	_	_	id=s1.u8.w0
+2	d'	_	_	_	_	_	_	_	id=s1.u8.w1
+3	accord	_	_	_	_	_	_	_	id=s1.u8.w2
+
+# sent_id = 2SB0166_9
+# text = où il y a l' église Saint Marc
+1	où	_	_	_	_	_	_	_	id=s1.u9.w0
+2	il	_	_	_	_	_	_	_	id=s1.u9.w1
+3	y	_	_	_	_	_	_	_	id=s1.u9.w2
+4	a	_	_	_	_	_	_	_	id=s1.u9.w3
+5	l'	_	_	_	_	_	_	_	id=s1.u9.w4
+6	église	_	_	_	_	_	_	_	id=s1.u9.w5
+7	Saint	_	_	_	_	_	_	_	id=s1.u9.w6
+8	Marc	_	_	_	_	_	_	_	id=s1.u9.w7
+
+# sent_id = 2SB0166_10
+# text = ok merci bien au revoir
+1	ok	_	_	_	_	_	_	_	id=s1.u10.w0
+2	merci	_	_	_	_	_	_	_	id=s1.u10.w1
+3	bien	_	_	_	_	_	_	_	id=s1.u10.w2
+4	au	_	_	_	_	_	_	_	id=s1.u10.w3
+5	revoir	_	_	_	_	_	_	_	id=s1.u10.w4
+
+# sent_id = 2SB0166_11
+# text = je vous en prie au revoir
+1	je	_	_	_	_	_	_	_	id=s1.u11.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u11.w1
+3	en	_	_	_	_	_	_	_	id=s1.u11.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u11.w3
+5	au	_	_	_	_	_	_	_	id=s1.u11.w4
+6	revoir	_	_	_	_	_	_	_	id=s1.u11.w5
+

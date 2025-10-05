@@ -1,0 +1,64 @@
+# sent_id = 1PF0048_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1PF0048_1
+# text = on s' occupe de vous non bonjour
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_none=|id=s1.u1.w0
+2	s'	se	PRON	_	Person=3|PronType=Prs	3	expl:comp	_	id=s1.u1.w1
+3	occupe	occuper	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u1.w2
+4	de	de	ADP	_	_	5	case	_	_none=|id=s1.u1.w3
+5	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	3	obl:arg	_	id=s1.u1.w4
+6	non	non	ADV	_	Polarity=Neg	5	discourse	_	_none=|id=s1.u1.w5
+7	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w6
+
+# sent_id = 1PF0048_2
+# text = e je voudrais rencontrer Prénom Nom pour avoir quelques renseignements sur les dépots-vente e possibles
+1	e	e	CCONJ	_	_	3	cc	_	_none=|id=s1.u2.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u2.w1
+3	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w2
+4	rencontrer	rencontrer	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u2.w3
+5	Prénom	Prénom	PROPN	_	_	4	obj	_	_none=|id=s1.u2.w4
+6	Nom	Nom	PROPN	_	_	5	flat:name	_	_none=|id=s1.u2.w5
+7	pour	pour	ADP	_	_	8	mark	_	_none=|id=s1.u2.w6
+8	avoir	avoir	VERB	_	VerbForm=Inf	4	advcl	_	id=s1.u2.w7
+9	quelques	quelque	DET	_	Number=Plur|PronType=Ind	10	det	_	id=s1.u2.w8
+10	renseignements	renseignement	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	id=s1.u2.w9
+11	sur	sur	ADP	_	_	13	case	_	id=s1.u2.w10
+12	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	13	det	_	id=s1.u2.w11
+13	dépots-vente	dépots-vente	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	id=s1.u2.w12
+14	e	e	CCONJ	_	_	15	cc	_	_none=|id=s1.u2.w13
+15	possibles	possible	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	id=s1.u2.w14
+
+# sent_id = 1PF0048_3
+# text = Prénom Nom c' est e la mademoiselle qui est là
+1	Prénom	Prénom	PROPN	_	_	7	dislocated	_	_none=|id=s1.u3.w0
+2	Nom	Nom	PROPN	_	_	7	dislocated	_	_none=|id=s1.u3.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	id=s1.u3.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	id=s1.u3.w3
+5	e	e	DET	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	id=s1.u3.w4
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	id=s1.u3.w5
+7	mademoiselle	mademoiselle	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u3.w6
+8	qui	qui	PRON	_	PronType=Rel	9	nsubj	_	id=s1.u3.w7
+9	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	id=s1.u3.w8
+10	là	là	ADV	_	_	7	acl:relcl	_	id=s1.u3.w9
+
+# sent_id = 1PF0048_4
+# text = d' accord et e voilà bon je vous remercie en même temps
+1	d'	de	ADP	_	_	9	dep	_	_none=|id=s1.u4.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u4.w1
+3	et	et	CCONJ	_	_	9	cc	_	_none=|id=s1.u4.w2
+4	e	e	PRON	_	_	5	expl:comp	_	_none=|id=s1.u4.w3
+5	voilà	voilà	VERB	_	_	9	discourse	_	id=s1.u4.w4
+6	bon	bon	INTJ	_	_	9	discourse	_	_none=|id=s1.u4.w5
+7	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_none=|id=s1.u4.w6
+8	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	9	obj	_	id=s1.u4.w7
+9	remercie	remercier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w8
+10	en	en	ADP	_	_	12	case	_	_none=|id=s1.u4.w9
+11	même	même	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_none=|id=s1.u4.w10
+12	temps	temps	NOUN	_	Gender=Masc|Number=Sing	9	obl:mod	_	_none=|id=s1.u4.w11
+
+# sent_id = 1PF0048_5
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u5.w0
+

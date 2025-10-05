@@ -1,0 +1,47 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2SB0016_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 2SB0016_1
+# text = bonjour ce serait pour avoir une carte de Grenoble
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	ce	_	_	_	_	_	_	_	id=s1.u1.w1
+3	serait	_	_	_	_	_	_	_	id=s1.u1.w2
+4	pour	_	_	_	_	_	_	_	id=s1.u1.w3
+5	avoir	_	_	_	_	_	_	_	id=s1.u1.w4
+6	une	_	_	_	_	_	_	_	id=s1.u1.w5
+7	carte	_	_	_	_	_	_	_	id=s1.u1.w6
+8	de	_	_	_	_	_	_	_	id=s1.u1.w7
+9	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w8
+
+# sent_id = 2SB0016_2
+# text = oui voilà
+1	oui	_	_	_	_	_	_	_	id=s1.u2.w0
+2	voilà	_	_	_	_	_	_	_	id=s1.u2.w1
+
+# sent_id = 2SB0016_3
+# text = et puis e une carte du réseau TAG
+1	et	_	_	_	_	_	_	_	id=s1.u3.w0
+2	puis	_	_	_	_	_	_	_	id=s1.u3.w1
+3	e	_	_	_	_	_	_	_	id=s1.u3.w2
+4	une	_	_	_	_	_	_	_	id=s1.u3.w3
+5	carte	_	_	_	_	_	_	_	id=s1.u3.w4
+6	du	_	_	_	_	_	_	_	id=s1.u3.w5
+7	réseau	_	_	_	_	_	_	_	id=s1.u3.w6
+8	TAG	_	_	_	_	_	_	_	id=s1.u3.w7
+
+# sent_id = 2SB0016_4
+# text = à la TAG
+1	à	_	_	_	_	_	_	_	id=s1.u4.w0
+2	la	_	_	_	_	_	_	_	id=s1.u4.w1
+3	TAG	_	_	_	_	_	_	_	id=s1.u4.w2
+
+# sent_id = 2SB0016_5
+# text = à la TAG d' accord
+1	à	_	_	_	_	_	_	_	id=s1.u5.w0
+2	la	_	_	_	_	_	_	_	id=s1.u5.w1
+3	TAG	_	_	_	_	_	_	_	id=s1.u5.w2
+4	d'	_	_	_	_	_	_	_	id=s1.u5.w3
+5	accord	_	_	_	_	_	_	_	id=s1.u5.w4
+

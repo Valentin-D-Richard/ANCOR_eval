@@ -1,0 +1,41 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0393_0
+# text = 
+
+# sent_id = 1PF0393_1
+# text = je cherche la rue du général Mangin
+1	je	_	_	_	_	_	_	_	id=s1.u1.w0
+2	cherche	_	_	_	_	_	_	_	id=s1.u1.w1
+3	la	_	_	_	_	_	_	_	id=s1.u1.w2
+4	rue	_	_	_	_	_	_	_	id=s1.u1.w3
+5	du	_	_	_	_	_	_	_	id=s1.u1.w4
+6	général	_	_	_	_	_	_	_	id=s1.u1.w5
+7	Mangin	_	_	_	_	_	_	_	id=s1.u1.w6
+
+# sent_id = 1PF0393_2
+# text = la rue du général Mangin
+1	la	_	_	_	_	_	_	_	id=s1.u2.w0
+2	rue	_	_	_	_	_	_	_	id=s1.u2.w1
+3	du	_	_	_	_	_	_	_	id=s1.u2.w2
+4	général	_	_	_	_	_	_	_	id=s1.u2.w3
+5	Mangin	_	_	_	_	_	_	_	id=s1.u2.w4
+
+# sent_id = 1PF0393_3
+# text = oui d' accord merci
+1	oui	_	_	_	_	_	_	_	id=s1.u3.w0
+2	d'	_	_	_	_	_	_	_	id=s1.u3.w1
+3	accord	_	_	_	_	_	_	_	id=s1.u3.w2
+4	merci	_	_	_	_	_	_	_	id=s1.u3.w3
+
+# sent_id = 1PF0393_4
+# text = c' est nous au revoir mademoiselle
+1	c'	_	_	_	_	_	_	_	id=s1.u4.w0
+2	est	_	_	_	_	_	_	_	id=s1.u4.w1
+3	nous	_	_	_	_	_	_	_	id=s1.u4.w2
+4	au	_	_	_	_	_	_	_	id=s1.u4.w3
+5	revoir	_	_	_	_	_	_	_	id=s1.u4.w4
+6	mademoiselle	_	_	_	_	_	_	_	id=s1.u4.w5
+
+# sent_id = 1PF0393_5
+# text = 
+

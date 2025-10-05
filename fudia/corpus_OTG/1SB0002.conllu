@@ -1,0 +1,72 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0002_1
+# text = j' aimerais savoir où se trouve la Maison des Jeunes Travailleurs
+1	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	aimerais	aimer	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	savoir	savoir	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u1.w2
+4	où	où	PRON	_	PronType=Rel	6	obl:mod	_	id=s1.u1.w3
+5	se	se	PRON	_	Person=3|PronType=Prs	6	expl:pass	_	id=s1.u1.w4
+6	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	id=s1.u1.w5
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	id=s1.u1.w6
+8	Maison	Maison	PROPN	_	Gender=Fem|Number=Sing	6	nsubj	_	id=s1.u1.w7
+9	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	10	det	_	id=s1.u1.w8
+10	Jeunes	jeune	PROPN	_	Gender=Masc|Number=Plur	8	nmod	_	id=s1.u1.w9
+11	Travailleurs	Travailleurs	PROPN	_	_	8	nmod	_	_none=|id=s1.u1.w10
+
+# sent_id = 1SB0002_2
+# text = la Maison des Jeunes Travailleurs
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	id=s1.u2.w0
+2	Maison	Maison	PROPN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u2.w1
+3	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	det	_	id=s1.u2.w2
+4	Jeunes	Jeunes	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	id=s1.u2.w3
+5	Travailleurs	Travailleurs	PROPN	_	Gender=Masc|Number=Plur	2	nmod	_	_none=|id=s1.u2.w4
+
+# sent_id = 1SB0002_3
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1SB0002_4
+# text = le foyer de jeunes travailleurs
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u4.w0
+2	foyer	foyer	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u4.w1
+3	de	de	ADP	_	_	5	case	_	_none=|id=s1.u4.w2
+4	jeunes	jeune	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	id=s1.u4.w3
+5	travailleurs	travailleur	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	id=s1.u4.w4
+
+# sent_id = 1SB0002_5
+# text = ben oui
+1	ben	ben	INTJ	_	_	0	root	_	_none=|id=s1.u5.w0
+2	oui	oui	INTJ	_	_	1	fixed	_	id=s1.u5.w1
+
+# sent_id = 1SB0002_6
+# text = oui rue des trois hein
+1	oui	oui	INTJ	_	_	2	discourse	_	_none=|id=s1.u6.w0
+2	rue	rue	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u6.w1
+3	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	4	det	_	_none=|id=s1.u6.w2
+4	trois	trois	NUM	_	Number=Plur	2	nmod	_	id=s1.u6.w3
+5	hein	hein	INTJ	_	_	2	discourse	_	_none=|id=s1.u6.w4
+
+# sent_id = 1SB0002_7
+# text = c' est super merci
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	id=s1.u7.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u7.w1
+3	super	super	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_none=|id=s1.u7.w2
+4	merci	merci	INTJ	_	_	2	xcomp	_	_none=|id=s1.u7.w3
+
+# sent_id = 1SB0002_8
+# text = je vous en prie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u8.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u8.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u8.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u8.w3
+
+# sent_id = 1SB0002_9
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u9.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u9.w1
+
+# sent_id = 1SB0002_10
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u10.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u10.w1
+

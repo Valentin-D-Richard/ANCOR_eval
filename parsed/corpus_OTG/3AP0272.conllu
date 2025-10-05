@@ -1,0 +1,188 @@
+# sent_id = 3AP0272_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 3AP0272_1
+# text = un dépliant sur les gîtes les hôtels les campings en Isère
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u1.w0
+2	dépliant	dépliant	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u1.w1
+3	sur	sur	ADP	_	_	5	case	_	_none=|id=s1.u1.w2
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	id=s1.u1.w3
+5	gîtes	gîte	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_none=|id=s1.u1.w4
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	id=s1.u1.w5
+7	hôtels	hôtel	NOUN	_	Gender=Masc|Number=Plur	5	conj	_	id=s1.u1.w6
+8	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	id=s1.u1.w7
+9	campings	camping	NOUN	_	Gender=Masc|Number=Plur	5	conj	_	id=s1.u1.w8
+10	en	en	ADP	_	_	11	case	_	_none=|id=s1.u1.w9
+11	Isère	Isère	PROPN	_	_	9	nmod	_	_none=|id=s1.u1.w10
+
+# sent_id = 3AP0272_2
+# text = alors les gîtes c' est un dépliant qui est en vente hein c' est un catalogue e qui coûte trente francs sur le département de l' Isère après on a les hôtels donc
+1	alors	alors	ADV	_	_	7	discourse	_	_none=|id=s1.u2.w0
+2	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	id=s1.u2.w1
+3	gîtes	gîte	NOUN	_	Gender=Masc|Number=Plur	7	dislocated	_	id=s1.u2.w2
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	_none=|id=s1.u2.w3
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	id=s1.u2.w4
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_none=|id=s1.u2.w5
+7	dépliant	dépliant	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u2.w6
+8	qui	qui	PRON	_	PronType=Rel	11	nsubj	_	_none=|id=s1.u2.w7
+9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	id=s1.u2.w8
+10	en	en	ADP	_	_	11	case	_	_none=|id=s1.u2.w9
+11	vente	vente	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	id=s1.u2.w10
+12	hein	hein	INTJ	_	_	11	discourse	_	_none=|id=s1.u2.w11
+13	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	16	nsubj	_	_none=|id=s1.u2.w12
+14	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	id=s1.u2.w13
+15	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	id=s1.u2.w14
+16	catalogue	catalogue	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	id=s1.u2.w15
+17	e	e	ADJ	_	_	16	dislocated	_	id=s1.u2.w16
+18	qui	qui	PRON	_	PronType=Rel	19	nsubj	_	_none=|id=s1.u2.w17
+19	coûte	coûter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	id=s1.u2.w18
+20	trente	trente	NUM	_	Number=Plur	21	nummod	_	_none=|id=s1.u2.w19
+21	francs	franc	ADJ	_	Gender=Masc|Number=Plur	19	obj	_	id=s1.u2.w20
+22	sur	sur	ADP	_	_	24	case	_	_none=|id=s1.u2.w21
+23	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_none=|id=s1.u2.w22
+24	département	département	NOUN	_	Gender=Masc|Number=Sing	19	obl:mod	_	_none=|id=s1.u2.w23
+25	de	de	ADP	_	_	27	case	_	_none=|id=s1.u2.w24
+26	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	27	det	_	id=s1.u2.w25
+27	Isère	Isère	PROPN	_	_	24	nmod	_	_none=|id=s1.u2.w26
+28	après	après	ADV	_	_	30	advmod	_	_none=|id=s1.u2.w27
+29	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	30	nsubj	_	_none=|id=s1.u2.w28
+30	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	conj	_	id=s1.u2.w29
+31	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	32	det	_	id=s1.u2.w30
+32	hôtels	hôtel	NOUN	_	Gender=Masc|Number=Plur	30	obj	_	id=s1.u2.w31
+33	donc	donc	ADV	_	_	30	advmod	_	_none=|id=s1.u2.w32
+
+# sent_id = 3AP0272_3
+# text = les campings alors
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	id=s1.u3.w0
+2	campings	camping	NOUN	_	Gender=Masc|Number=Plur	0	root	_	id=s1.u3.w1
+3	alors	alors	ADV	_	_	2	advmod	_	_none=|id=s1.u3.w2
+
+# sent_id = 3AP0272_4
+# text = les campings on a plus de guides merci on n' a plus de guides de camping je peux vous fournir que les hôtels
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	_none=|id=s1.u4.w0
+2	campings	camping	NOUN	_	Gender=Masc|Number=Plur	4	dislocated	_	_none=|id=s1.u4.w1
+3	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	_none=|id=s1.u4.w2
+4	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w3
+5	plus	plus	ADV	_	_	4	advmod	_	_none=|id=s1.u4.w4
+6	de	de	ADP	_	_	7	case	_	_none=|id=s1.u4.w5
+7	guides	guide	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	id=s1.u4.w6
+8	merci	merci	INTJ	_	_	11	discourse	_	_none=|id=s1.u4.w7
+9	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	11	nsubj	_	_none=|id=s1.u4.w8
+10	n'	ne	ADV	_	Polarity=Neg	11	advmod	_	id=s1.u4.w9
+11	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	id=s1.u4.w10
+12	plus	plus	ADV	_	Polarity=Neg	11	advmod	_	id=s1.u4.w11
+13	de	de	ADP	_	_	14	case	_	_none=|id=s1.u4.w12
+14	guides	guide	NOUN	_	Gender=Masc|Number=Plur	11	obj	_	id=s1.u4.w13
+15	de	de	ADP	_	_	16	case	_	_none=|id=s1.u4.w14
+16	camping	camping	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	id=s1.u4.w15
+17	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	18	nsubj	_	_none=|id=s1.u4.w16
+18	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	ccomp	_	_none=|id=s1.u4.w17
+19	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	20	iobj	_	id=s1.u4.w18
+20	fournir	fournir	VERB	_	VerbForm=Inf	18	xcomp	_	id=s1.u4.w19
+21	que	que	ADV	_	_	23	advmod	_	id=s1.u4.w20
+22	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	23	det	_	id=s1.u4.w21
+23	hôtels	hôtel	NOUN	_	Gender=Masc|Number=Plur	20	obj	_	id=s1.u4.w22
+
+# sent_id = 3AP0272_5
+# text = ça ça se paye aussi
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	reparandum	_	id=s1.u5.w0
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_none=|id=s1.u5.w1
+3	se	se	PRON	_	Person=3|PronType=Prs	4	expl:pass	_	_none=|id=s1.u5.w2
+4	paye	payer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u5.w3
+5	aussi	aussi	ADV	_	_	4	advmod	_	_none=|id=s1.u5.w4
+
+# sent_id = 3AP0272_6
+# text = non non non ça ça se paye pas et après les locations si vous voulez voilà
+1	non	non	ADV	_	_	7	discourse	_	_none=|id=s1.u6.w0
+2	non	non	ADV	_	_	7	discourse	_	_none=|id=s1.u6.w1
+3	non	non	ADV	_	_	7	discourse	_	_none=|id=s1.u6.w2
+4	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	reparandum	_	_none=|id=s1.u6.w3
+5	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	_none=|id=s1.u6.w4
+6	se	se	PRON	_	Person=3|PronType=Prs	7	expl:pass	_	_none=|id=s1.u6.w5
+7	paye	payer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u6.w6
+8	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	_none=|id=s1.u6.w7
+9	et	et	CCONJ	_	_	10	cc	_	_none=|id=s1.u6.w8
+10	après	après	ADP	_	_	7	advmod	_	id=s1.u6.w9
+11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	id=s1.u6.w10
+12	locations	location	NOUN	_	Gender=Fem|Number=Plur	10	obj	_	id=s1.u6.w11
+13	si	si	SCONJ	_	_	15	mark	_	_none=|id=s1.u6.w12
+14	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	15	nsubj	_	_none=|id=s1.u6.w13
+15	voulez	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	12	discourse	_	_none=|id=s1.u6.w14
+16	voilà	voilà	VERB	_	_	7	discourse	_	_none=|id=s1.u6.w15
+
+# sent_id = 3AP0272_7
+# text = ah les locations ah ben voilà c' est ça que je voulais sur les campings vous l' aurez quand
+1	ah	ah	INTJ	_	_	9	discourse	_	id=s1.u7.w0
+2	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	id=s1.u7.w1
+3	locations	location	NOUN	_	Gender=Fem|Number=Plur	9	dislocated	_	id=s1.u7.w2
+4	ah	ah	INTJ	_	_	9	discourse	_	_none=|id=s1.u7.w3
+5	ben	ben	INTJ	_	_	9	discourse	_	_none=|id=s1.u7.w4
+6	voilà	voilà	VERB	_	_	9	discourse	_	_none=|id=s1.u7.w5
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	expl:subj	_	id=s1.u7.w6
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	id=s1.u7.w7
+9	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	id=s1.u7.w8
+10	que	que	PRON	_	PronType=Rel	12	obj	_	_none=|id=s1.u7.w9
+11	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_none=|id=s1.u7.w10
+12	voulais	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	9	advcl:cleft	_	_none=|id=s1.u7.w11
+13	sur	sur	ADP	_	_	15	case	_	id=s1.u7.w12
+14	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	15	det	_	id=s1.u7.w13
+15	campings	camping	NOUN	_	Gender=Masc|Number=Plur	12	obl:mod	_	id=s1.u7.w14
+16	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	18	nsubj	_	_none=|id=s1.u7.w15
+17	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	18	obj	_	_none=|id=s1.u7.w16
+18	aurez	auroir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	12	advcl	_	_none=|id=s1.u7.w17
+19	quand	quand	SCONJ	_	_	18	advmod	_	_none=|id=s1.u7.w18
+
+# sent_id = 3AP0272_8
+# text = oh je c' est c' est des nous donnent ça et apparemment ils sont tombés en rupture de stock
+1	oh	oh	INTJ	_	_	4	discourse	_	_none=|id=s1.u8.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	dislocated	_	_none=|id=s1.u8.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_none=|id=s1.u8.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	reparandum	_	id=s1.u8.w3
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	id=s1.u8.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	reparandum	_	id=s1.u8.w5
+7	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	6	dep	_	id=s1.u8.w6
+8	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	9	nsubj	_	id=s1.u8.w7
+9	donnent	donner	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u8.w8
+10	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	obj	_	id=s1.u8.w9
+11	et	et	CCONJ	_	_	15	cc	_	_none=|id=s1.u8.w10
+12	apparemment	apparemment	ADV	_	_	15	advmod	_	_none=|id=s1.u8.w11
+13	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	id=s1.u8.w12
+14	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux:pass	_	_none=|id=s1.u8.w13
+15	tombés	tomber	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	conj	_	id=s1.u8.w14
+16	en	en	ADP	_	_	17	case	_	id=s1.u8.w15
+17	rupture	rupture	NOUN	_	Gender=Fem|Number=Sing	15	obl:mod	_	id=s1.u8.w16
+18	de	de	ADP	_	_	19	case	_	_none=|id=s1.u8.w17
+19	stock	stock	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	id=s1.u8.w18
+
+# sent_id = 3AP0272_9
+# text = bon merci vous n' avez que l' Isère hein
+1	bon	bon	INTJ	_	_	5	discourse	_	_none=|id=s1.u9.w0
+2	merci	merci	INTJ	_	_	5	discourse	_	_none=|id=s1.u9.w1
+3	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	id=s1.u9.w2
+4	n'	ne	ADV	_	Polarity=Neg	5	advmod	_	_none=|id=s1.u9.w3
+5	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u9.w4
+6	que	que	SCONJ	_	_	8	dep	_	id=s1.u9.w5
+7	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	id=s1.u9.w6
+8	Isère	Isère	PROPN	_	_	5	obj	_	id=s1.u9.w7
+9	hein	hein	INTJ	_	_	5	discourse	_	_none=|id=s1.u9.w8
+
+# sent_id = 3AP0272_10
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u10.w0
+
+# sent_id = 3AP0272_11
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u11.w0
+
+# sent_id = 3AP0272_12
+# text = là c' est Rhône-Alpes hein au revoir madame
+1	là	là	ADV	_	_	4	advmod	_	_none=|id=s1.u12.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_none=|id=s1.u12.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_none=|id=s1.u12.w2
+4	Rhône-Alpes	Rhône-alpes	PROPN	_	_	0	root	_	_none=|id=s1.u12.w3
+5	hein	hein	INTJ	_	_	4	discourse	_	_none=|id=s1.u12.w4
+6	au	au	ADP	_	_	4	dep	_	_none=|id=s1.u12.w5
+7	revoir	revoir	VERB	_	VerbForm=Inf	6	fixed	_	id=s1.u12.w6
+8	madame	madame	NOUN	_	Gender=Fem|Number=Sing	6	vocative	_	id=s1.u12.w7
+

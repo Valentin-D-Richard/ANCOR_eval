@@ -1,0 +1,55 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 074_0000004b_0
+# text = U B S bonjour
+1	U	_	_	_	_	_	_	_	id=s1.u0.w0
+2	B	_	_	_	_	_	_	_	id=s1.u0.w1
+3	S	_	_	_	_	_	_	_	id=s1.u0.w2
+4	bonjour	_	_	_	_	_	_	_	id=s1.u0.w3
+
+# sent_id = 074_0000004b_1
+# text = boujour madame madame Nom s' il vous plait
+1	boujour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	madame	_	_	_	_	_	_	_	id=s1.u1.w1
+3	madame	_	_	_	_	_	_	_	id=s1.u1.w2
+4	Nom	_	_	_	_	_	_	_	id=s1.u1.w3
+5	s'	_	_	_	_	_	_	_	id=s1.u1.w4
+6	il	_	_	_	_	_	_	_	id=s1.u1.w5
+7	vous	_	_	_	_	_	_	_	id=s1.u1.w6
+8	plait	_	_	_	_	_	_	_	id=s1.u1.w7
+
+# sent_id = 074_0000004b_2
+# text = Prénom Nom
+1	Prénom	_	_	_	_	_	_	_	id=s1.u2.w0
+2	Nom	_	_	_	_	_	_	_	id=s1.u2.w1
+
+# sent_id = 074_0000004b_3
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 074_0000004b_4
+# text = oui conservez je vais vous la passer
+1	oui	_	_	_	_	_	_	_	id=s1.u4.w0
+2	conservez	_	_	_	_	_	_	_	id=s1.u4.w1
+3	je	_	_	_	_	_	_	_	id=s1.u4.w2
+4	vais	_	_	_	_	_	_	_	id=s1.u4.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u4.w4
+6	la	_	_	_	_	_	_	_	id=s1.u4.w5
+7	passer	_	_	_	_	_	_	_	id=s1.u4.w6
+
+# sent_id = 074_0000004b_5
+# text = oui allo
+1	oui	_	_	_	_	_	_	_	id=s1.u5.w0
+2	allo	_	_	_	_	_	_	_	id=s1.u5.w1
+
+# sent_id = 074_0000004b_6
+# text = c' est pour toi Prénom
+1	c'	_	_	_	_	_	_	_	id=s1.u6.w0
+2	est	_	_	_	_	_	_	_	id=s1.u6.w1
+3	pour	_	_	_	_	_	_	_	id=s1.u6.w2
+4	toi	_	_	_	_	_	_	_	id=s1.u6.w3
+5	Prénom	_	_	_	_	_	_	_	id=s1.u6.w4
+
+# sent_id = 074_0000004b_7
+# text = ouais
+1	ouais	_	_	_	_	_	_	_	id=s1.u7.w0
+

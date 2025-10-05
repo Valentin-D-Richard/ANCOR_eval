@@ -1,0 +1,65 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0317_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AP0317_1
+# text = bonjour est ce que vous avez une liste des M J C e
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	est	_	_	_	_	_	_	_	id=s1.u1.w1
+3	ce	_	_	_	_	_	_	_	id=s1.u1.w2
+4	que	_	_	_	_	_	_	_	id=s1.u1.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u1.w4
+6	avez	_	_	_	_	_	_	_	id=s1.u1.w5
+7	une	_	_	_	_	_	_	_	id=s1.u1.w6
+8	liste	_	_	_	_	_	_	_	id=s1.u1.w7
+9	des	_	_	_	_	_	_	_	id=s1.u1.w8
+10	M	_	_	_	_	_	_	_	id=s1.u1.w9
+11	J	_	_	_	_	_	_	_	id=s1.u1.w10
+12	C	_	_	_	_	_	_	_	id=s1.u1.w11
+13	e	_	_	_	_	_	_	_	id=s1.u1.w12
+
+# sent_id = 1AP0317_2
+# text = oui ah donc là vous avez les listes des M J C avec leurs coordonnées et les ateliers qu' elles proposent hein
+1	oui	_	_	_	_	_	_	_	id=s1.u2.w0
+2	ah	_	_	_	_	_	_	_	id=s1.u2.w1
+3	donc	_	_	_	_	_	_	_	id=s1.u2.w2
+4	là	_	_	_	_	_	_	_	id=s1.u2.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u2.w4
+6	avez	_	_	_	_	_	_	_	id=s1.u2.w5
+7	les	_	_	_	_	_	_	_	id=s1.u2.w6
+8	listes	_	_	_	_	_	_	_	id=s1.u2.w7
+9	des	_	_	_	_	_	_	_	id=s1.u2.w8
+10	M	_	_	_	_	_	_	_	id=s1.u2.w9
+11	J	_	_	_	_	_	_	_	id=s1.u2.w10
+12	C	_	_	_	_	_	_	_	id=s1.u2.w11
+13	avec	_	_	_	_	_	_	_	id=s1.u2.w12
+14	leurs	_	_	_	_	_	_	_	id=s1.u2.w13
+15	coordonnées	_	_	_	_	_	_	_	id=s1.u2.w14
+16	et	_	_	_	_	_	_	_	id=s1.u2.w15
+17	les	_	_	_	_	_	_	_	id=s1.u2.w16
+18	ateliers	_	_	_	_	_	_	_	id=s1.u2.w17
+19	qu'	_	_	_	_	_	_	_	id=s1.u2.w18
+20	elles	_	_	_	_	_	_	_	id=s1.u2.w19
+21	proposent	_	_	_	_	_	_	_	id=s1.u2.w20
+22	hein	_	_	_	_	_	_	_	id=s1.u2.w21
+
+# sent_id = 1AP0317_3
+# text = d' accord merci beaucoup
+1	d'	_	_	_	_	_	_	_	id=s1.u3.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u3.w1
+3	merci	_	_	_	_	_	_	_	id=s1.u3.w2
+4	beaucoup	_	_	_	_	_	_	_	id=s1.u3.w3
+
+# sent_id = 1AP0317_4
+# text = je vous en prie au revoir
+1	je	_	_	_	_	_	_	_	id=s1.u4.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u4.w1
+3	en	_	_	_	_	_	_	_	id=s1.u4.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u4.w3
+5	au	_	_	_	_	_	_	_	id=s1.u4.w4
+6	revoir	_	_	_	_	_	_	_	id=s1.u4.w5
+
+# sent_id = 1AP0317_5
+# text = 
+

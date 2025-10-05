@@ -1,0 +1,32 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0558_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AG0558_1
+# text = bonjour e j' ai vu un prospectus sur la carte " tabou "
+1	bonjour	bonjour	NOUN	_	_	5	discourse	_	_none=|id=s1.u1.w0
+2	e	e	CCONJ	_	_	5	cc	_	_none=|id=s1.u1.w1
+3	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u1.w2
+4	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_none=|id=s1.u1.w3
+5	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	id=s1.u1.w4
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	id=s1.u1.w5
+7	prospectus	prospectus	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	id=s1.u1.w6
+8	sur	sur	ADP	_	_	10	case	_	id=s1.u1.w7
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	id=s1.u1.w8
+10	carte	carte	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	id=s1.u1.w9
+11	tabou	tabou	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_none=|id=s1.u1.w11
+
+# sent_id = 1AG0558_2
+# text = à côté à la billetterie c' est avec cette personne
+1	à	à	ADP	_	_	2	case	_	_none=|id=s1.u2.w0
+2	côté	côté	NOUN	_	Gender=Masc|Number=Sing	7	obl:mod	_	_none=|id=s1.u2.w1
+3	à	à	ADP	_	_	5	case	_	_none=|id=s1.u2.w2
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	id=s1.u2.w3
+5	billetterie	billetterie	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	id=s1.u2.w4
+6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	_none=|id=s1.u2.w5
+7	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w6
+8	avec	avec	ADP	_	_	10	case	_	_none=|id=s1.u2.w7
+9	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	id=s1.u2.w8
+10	personne	personne	NOUN	_	Gender=Fem|Number=Sing	7	xcomp	_	id=s1.u2.w9
+

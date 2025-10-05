@@ -1,0 +1,115 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0639_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1PF0639_1
+# text = bonjour je j' irais des des plaquettes sur e les locations aux Deux-Alpes
+1	bonjour	bonjour	INTJ	_	_	4	discourse	_	_none=|id=s1.u1.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	reparandum	_	_none=|id=s1.u1.w1
+3	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u1.w2
+4	irais	ire	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w3
+5	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	6	reparandum	_	id=s1.u1.w4
+6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	id=s1.u1.w5
+7	plaquettes	plaquette	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	id=s1.u1.w6
+8	sur	sur	ADP	_	_	11	case	_	_none=|id=s1.u1.w7
+9	e	e	DET	_	Number=Plur	11	det	_	id=s1.u1.w8
+10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	id=s1.u1.w9
+11	locations	location	NOUN	_	Gender=Fem|Number=Plur	4	obl:mod	_	id=s1.u1.w10
+12	aux	xon	ADP	_	_	13	case	_	id=s1.u1.w11
+13	Deux-Alpes	Deux-alpes	PROPN	_	_	11	nmod	_	_none=|id=s1.u1.w12
+
+# sent_id = 1PF0639_2
+# text = aux Deux-Alpes
+1	aux	au	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	id=s1.u2.w0
+2	Deux-Alpes	Deux-alpes	PROPN	_	_	0	root	_	_none=|id=s1.u2.w1
+
+# sent_id = 1PF0639_3
+# text = ouais
+1	ouais	ouais	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1PF0639_4
+# text = été hiver voilà donc c' est la bonne plaquette c' est celle de cette année
+1	été	été	NOUN	_	Gender=Masc|Number=Sing	9	dislocated	_	_none=|id=s1.u4.w0
+2	hiver	hiver	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	_none=|id=s1.u4.w1
+3	voilà	voilà	VERB	_	_	9	discourse	_	_none=|id=s1.u4.w2
+4	donc	donc	ADV	_	_	9	advmod	_	_none=|id=s1.u4.w3
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	_none=|id=s1.u4.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	id=s1.u4.w5
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	id=s1.u4.w6
+8	bonne	bon	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	id=s1.u4.w7
+9	plaquette	plaquette	NOUN	_	Gender=Fem|Number=Sing	12	reparandum	_	id=s1.u4.w8
+10	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	nsubj	_	id=s1.u4.w9
+11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	id=s1.u4.w10
+12	celle	celle	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	id=s1.u4.w11
+13	de	de	ADP	_	_	15	case	_	_none=|id=s1.u4.w12
+14	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	15	det	_	id=s1.u4.w13
+15	année	année	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	id=s1.u4.w14
+
+# sent_id = 1PF0639_5
+# text = il y en a qu' une
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	_none=|id=s1.u5.w0
+2	y	y	PRON	_	Person=3|PronType=Prs	4	expl:comp	_	_none=|id=s1.u5.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	6	nmod	_	id=s1.u5.w2
+4	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u5.w3
+5	qu'	que	SCONJ	_	_	6	advmod	_	id=s1.u5.w4
+6	une	un	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Ind	4	obj	_	id=s1.u5.w5
+
+# sent_id = 1PF0639_6
+# text = ouais pourquoi vous en qu' est ce que vous vouliez exactement
+1	ouais	ouais	INTJ	_	_	5	discourse	_	_none=|id=s1.u6.w0
+2	pourquoi	pourquoi	ADV	_	PronType=Int	5|5	advmod|cue:wh	_	_none=|id=s1.u6.w1|PhraseType=Int
+3	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	dislocated	_	_none=|id=s1.u6.w2
+4	en	en	ADP	_	_	5	dep	_	_none=|id=s1.u6.w3
+5	qu'	que	PRON	_	Person=3|PronType=Int	0	root	_	ClauseType=Int|id=s1.u6.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	id=s1.u6.w5
+7	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	conj	_	_none=|id=s1.u6.w6
+8	que	que	PRON	_	PronType=Rel	10	obj	_	_none=|id=s1.u6.w7
+9	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	10	nsubj	_	_none=|id=s1.u6.w8
+10	vouliez	voulir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	7	acl:relcl	_	_none=|id=s1.u6.w9
+11	exactement	exactement	ADV	_	_	10	advmod	_	_none=|id=s1.u6.w10
+
+# sent_id = 1PF0639_7
+# text = ben les locations e pour
+1	ben	ben	INTJ	_	_	3	discourse	_	_none=|id=s1.u7.w0
+2	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	id=s1.u7.w1
+3	locations	location	NOUN	_	Gender=Fem|Number=Plur	4	nsubj	_	id=s1.u7.w2
+4	e	e	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u7.w3
+5	pour	pour	ADP	_	_	4	obl:arg	_	_none=|id=s1.u7.w4
+
+# sent_id = 1PF0639_8
+# text = ah non si c' est la plaquette de zone vous avez tout dessus jeune homme hein
+1	ah	ah	INTJ	_	_	7	discourse	_	_none=|id=s1.u8.w0
+2	non	non	ADV	_	_	7	discourse	_	_none=|id=s1.u8.w1
+3	si	si	SCONJ	_	_	7	mark	_	_none=|id=s1.u8.w2
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	_none=|id=s1.u8.w3
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	id=s1.u8.w4
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	id=s1.u8.w5
+7	plaquette	plaquette	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u8.w6
+8	de	de	ADP	_	_	9	case	_	_none=|id=s1.u8.w7
+9	zone	zone	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	id=s1.u8.w8
+10	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	11	nsubj	_	id=s1.u8.w9
+11	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	conj	_	_none=|id=s1.u8.w10
+12	tout	tout	PRON	_	_	13	advmod	_	_none=|id=s1.u8.w11
+13	dessus	dessus	ADV	_	Gender=Masc|Number=Sing	11	obj	_	id=s1.u8.w12
+14	jeune	jeune	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	_none=|id=s1.u8.w13
+15	homme	homme	NOUN	_	Gender=Masc|Number=Sing	11	dislocated	_	_none=|id=s1.u8.w14
+16	hein	hein	INTJ	_	_	11	discourse	_	_none=|id=s1.u8.w15
+
+# sent_id = 1PF0639_9
+# text = ok ben merci au revoir bonne journée
+1	ok	ok	INTJ	_	_	3	discourse	_	_none=|id=s1.u9.w0
+2	ben	ben	INTJ	_	_	3	discourse	_	_none=|id=s1.u9.w1
+3	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u9.w2
+4	au	au	ADP	_	_	5	case	_	_none=|id=s1.u9.w3
+5	revoir	revoir	VERB	_	Gender=Masc|Number=Sing	3	advcl	_	id=s1.u9.w4
+6	bonne	bon	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	id=s1.u9.w5
+7	journée	journée	NOUN	_	Gender=Fem|Number=Sing	3	obl:mod	_	id=s1.u9.w6
+
+# sent_id = 1PF0639_10
+# text = je vous en prie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u10.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u10.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u10.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u10.w3
+

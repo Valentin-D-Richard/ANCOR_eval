@@ -1,0 +1,198 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2AG0535_0
+# text = monsieur
+1	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 2AG0535_1
+# text = vous n' avez pas d' informations vous sur les V F D ou
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	id=s1.u1.w0
+2	n'	ne	ADV	_	Polarity=Neg	3	advmod	_	_none=|id=s1.u1.w1
+3	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_none=|id=s1.u1.w3
+5	d'	de	ADP	_	_	6	case	_	_none=|id=s1.u1.w4
+6	informations	information	NOUN	_	Gender=Fem|Number=Plur	3	obl:arg	_	id=s1.u1.w5
+7	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nmod	_	id=s1.u1.w6
+8	sur	sur	ADP	_	_	10	case	_	id=s1.u1.w7
+9	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	id=s1.u1.w8
+10	V	V	PROPN	_	_	6	nmod	_	_none=|id=s1.u1.w9
+11	F	F	PROPN	_	_	10	flat:name	_	_none=|id=s1.u1.w10
+12	D	D	PROPN	_	_	10	flat:name	_	_none=|id=s1.u1.w11
+13	ou	ou	CCONJ	_	_	3	cc	_	_none=|id=s1.u1.w12
+
+# sent_id = 2AG0535_2
+# text = e ça dépend pour quelles destinations
+1	e	e	CCONJ	_	_	3	cc	_	_none=|id=s1.u2.w0
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	id=s1.u2.w1
+3	dépend	dépendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w2
+4	pour	pour	ADP	_	_	6	case	_	_none=|id=s1.u2.w3
+5	quelles	quell	DET	_	Gender=Fem|Number=Plur	6	det	_	id=s1.u2.w4
+6	destinations	destination	NOUN	_	Gender=Fem|Number=Plur	3	obl:mod	_	id=s1.u2.w5
+
+# sent_id = 2AG0535_3
+# text = pas l' extérieur de Grenoble e
+1	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_none=|id=s1.u3.w0
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	_none=|id=s1.u3.w1
+3	extérieur	extérieur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u3.w2
+4	de	de	ADP	_	_	5	case	_	_none=|id=s1.u3.w3
+5	Grenoble	Grenoble	PROPN	_	_	3	nmod	_	_none=|id=s1.u3.w4
+6	e	e	CCONJ	_	_	3	cc	_	id=s1.u3.w5
+
+# sent_id = 2AG0535_4
+# text = les extérieurs de Grenoble
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	id=s1.u4.w0
+2	extérieurs	extérieur	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_none=|id=s1.u4.w1
+3	de	de	ADP	_	_	4	case	_	_none=|id=s1.u4.w2
+4	Grenoble	Grenoble	PROPN	_	_	2	nmod	_	_none=|id=s1.u4.w3
+
+# sent_id = 2AG0535_5
+# text = ouais il y a il y a pas un horaire des V F D e complet non
+1	ouais	ouais	ADV	_	_	4	discourse	_	_none=|id=s1.u5.w0
+2	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	_none=|id=s1.u5.w1
+3	y	y	PRON	_	Person=3|PronType=Prs	4	expl:comp	_	_none=|id=s1.u5.w2
+4	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	reparandum	_	id=s1.u5.w3
+5	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	_none=|id=s1.u5.w4
+6	y	y	PRON	_	Person=3|PronType=Prs	7	expl:comp	_	id=s1.u5.w5
+7	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u5.w6
+8	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	id=s1.u5.w7
+9	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_none=|id=s1.u5.w8
+10	horaire	horaire	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	id=s1.u5.w9
+11	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	12	det	_	id=s1.u5.w10
+12	V	V	PROPN	_	_	10	nmod	_	_none=|id=s1.u5.w11
+13	F	F	PROPN	_	_	12	flat:name	_	_none=|id=s1.u5.w12
+14	D	D	PROPN	_	_	16	nsubj	_	_none=|id=s1.u5.w13
+15	e	e	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	id=s1.u5.w14
+16	complet	complet	ADJ	_	Gender=Masc|Number=Sing	7	advcl	_	_none=|id=s1.u5.w15
+17	non	non	ADV	_	Polarity=Neg	16	advmod	_	id=s1.u5.w16
+
+# sent_id = 2AG0535_6
+# text = si ils le donnent pas nous on l' a à consulter mais e voilà autocars ou gares hôtelières donc voilà vous avez e pour toutes ces destinations je vous laisse regarder
+1	si	si	SCONJ	_	_	4	mark	_	_none=|id=s1.u6.w0
+2	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_none=|id=s1.u6.w1
+3	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_none=|id=s1.u6.w2
+4	donnent	donner	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_none=|id=s1.u6.w3
+5	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	_none=|id=s1.u6.w4
+6	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	4	dislocated	_	id=s1.u6.w5
+7	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	9	nsubj	_	_none=|id=s1.u6.w6
+8	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	9	obj	_	_none=|id=s1.u6.w7
+9	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u6.w8
+10	à	à	ADP	_	_	11	mark	_	_none=|id=s1.u6.w9
+11	consulter	consulter	VERB	_	VerbForm=Inf	9	ccomp	_	id=s1.u6.w10
+12	mais	mais	CCONJ	_	_	14	cc	_	_none=|id=s1.u6.w11
+13	e	e	PRON	_	_	14	nsubj	_	_none=|id=s1.u6.w12
+14	voilà	voilà	VERB	_	_	15	conj	_	id=s1.u6.w13
+15	autocars	autocar	NOUN	_	Gender=Masc|Number=Plur	11	obj	_	id=s1.u6.w14
+16	ou	ou	CCONJ	_	_	17	cc	_	id=s1.u6.w15
+17	gares	gare	NOUN	_	Gender=Fem|Number=Plur	15	conj	_	id=s1.u6.w16
+18	hôtelières	hôtelière	ADJ	_	Gender=Fem|Number=Plur	17	amod	_	id=s1.u6.w17
+19	donc	donc	ADV	_	_	30	cc	_	_none=|id=s1.u6.w18
+20	voilà	voilà	VERB	_	_	23	discourse	_	_none=|id=s1.u6.w19
+21	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	23	nsubj	_	_none=|id=s1.u6.w20
+22	avez	avoir	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	23	aux:tense	_	_none=|id=s1.u6.w21
+23	e	avoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	_none=|id=s1.u6.w22
+24	pour	pour	ADP	_	_	27	case	_	_none=|id=s1.u6.w23
+25	toutes	tout	ADJ	_	Gender=Fem|Number=Plur	27	amod	_	id=s1.u6.w24
+26	ces	ce	DET	_	Number=Plur|Person=3|PronType=Dem	27	det	_	id=s1.u6.w25
+27	destinations	destination	NOUN	_	Gender=Fem|Number=Plur	23	obl:mod	_	id=s1.u6.w26
+28	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	30	nsubj	_	id=s1.u6.w27
+29	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	30	iobj	_	id=s1.u6.w28
+30	laisse	laisser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	conj	_	id=s1.u6.w29
+31	regarder	regarder	VERB	_	VerbForm=Inf	30	xcomp	_	id=s1.u6.w30
+
+# sent_id = 2AG0535_7
+# text = et pour les V F D e pour les le TAG vous n' avez de
+1	et	et	CCONJ	_	_	14	cc	_	_none=|id=s1.u7.w0
+2	pour	pour	ADP	_	_	4	case	_	_none=|id=s1.u7.w1
+3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	id=s1.u7.w2
+4	V	V	PROPN	_	_	14	obl:mod	_	_none=|id=s1.u7.w3
+5	F	F	PROPN	_	_	4	flat:name	_	_none=|id=s1.u7.w4
+6	D	D	PROPN	_	_	11	reparandum	_	_none=|id=s1.u7.w5
+7	e	e	PRON	_	_	9	discourse	_	_none=|id=s1.u7.w6
+8	pour	pour	ADP	_	_	11	case	_	_none=|id=s1.u7.w7
+9	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	id=s1.u7.w8
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_none=|id=s1.u7.w9
+11	TAG	TAG	NOUN	_	Gender=Masc|Number=Sing	14	obl:mod	_	_none=|id=s1.u7.w10
+12	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	14	nsubj	_	id=s1.u7.w11
+13	n'	ne	ADV	_	Polarity=Neg	14	advmod	_	_none=|id=s1.u7.w12
+14	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u7.w13
+15	de	de	ADP	_	_	14	obj	_	_none=|id=s1.u7.w14
+
+# sent_id = 2AG0535_8
+# text = passez au TAG qu' il faut aller voir là bas
+1	passez	passer	VERB	ETRE	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u8.w0
+2	au	au	DET	_	_	3	det	_	_none=|id=s1.u8.w1
+3	TAG	TAG	PROPN	_	Gender=Masc|Number=Sing	1	obl:arg	_	_none=|id=s1.u8.w2
+4	qu'	que	PRON	_	PronType=Rel	7	dep:comp	_	_none=|id=s1.u8.w3
+5	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	_none=|id=s1.u8.w4
+6	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	id=s1.u8.w5
+7	aller	aller	VERB	_	VerbForm=Inf	6	ccomp	_	_none=|id=s1.u8.w6
+8	voir	voir	VERB	_	VerbForm=Inf	7	xcomp	_	id=s1.u8.w7
+9	là	là	ADV	_	_	8	advmod	_	_none=|id=s1.u8.w8
+10	bas	bas	ADJ	_	Gender=Masc|Number=Sing	9	fixed	_	id=s1.u8.w9
+
+# sent_id = 2AG0535_9
+# text = ah c' est au TAG qu' il faut aller voir oui m' enfin e ils ont bien des fiches mais il manque e le cinq vous savez ce que c' est que le cinq
+1	ah	ah	INTJ	_	_	5	discourse	_	id=s1.u9.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	expl:subj	_	id=s1.u9.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u9.w2
+4	au	au	DET	_	_	5	det	_	_none=|id=s1.u9.w3
+5	TAG	TAG	PROPN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u9.w4
+6	qu'	que	SCONJ	_	PronType=Rel	8	dep:comp	_	_none=|id=s1.u9.w5
+7	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl:subj	_	_none=|id=s1.u9.w6
+8	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	id=s1.u9.w7
+9	aller	aller	VERB	_	VerbForm=Inf	16	advcl	_	_none=|id=s1.u9.w8
+10	voir	voir	VERB	_	VerbForm=Inf	9	xcomp	_	_none=|id=s1.u9.w9
+11	oui	oui	ADV	_	_	10	discourse	_	_none=|id=s1.u9.w10
+12	m'	me	PRON	_	_	13	dep	_	_none=|id=s1.u9.w11
+13	enfin	enfin	ADV	_	_	16	discourse	_	_none=|id=s1.u9.w12
+14	e	e	SCONJ	_	_	16	mark	_	_none=|id=s1.u9.w13
+15	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	_none=|id=s1.u9.w14
+16	ont	avoir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	advcl:cleft	_	_none=|id=s1.u9.w15
+17	bien	bien	ADV	_	_	16	advmod	_	_none=|id=s1.u9.w16
+18	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	19	det	_	id=s1.u9.w17
+19	fiches	fiche	NOUN	_	Gender=Fem|Number=Plur	9	obj	_	id=s1.u9.w18
+20	mais	mais	CCONJ	_	_	22	cc	_	_none=|id=s1.u9.w19
+21	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	_none=|id=s1.u9.w20
+22	manque	manque	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	conj	_	id=s1.u9.w21
+23	e	e	CCONJ	_	_	27	cc	_	_none=|id=s1.u9.w22
+24	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_none=|id=s1.u9.w23
+25	cinq	cinq	NOUN	_	Gender=Masc|Number=Sing	22	dislocated	_	_none=|id=s1.u9.w24
+26	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	27	nsubj	_	_none=|id=s1.u9.w25
+27	savez	savoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	16	conj	_	id=s1.u9.w26
+28	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	27	obj	_	id=s1.u9.w27
+29	que	que	PRON	_	PronType=Rel	28	acl:relcl	_	id=s1.u9.w28
+30	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	29	nsubj	_	id=s1.u9.w29
+31	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cop	_	id=s1.u9.w30
+32	que	que	SCONJ	_	_	34	case	_	_none=|id=s1.u9.w31
+33	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_none=|id=s1.u9.w32
+34	cinq	cinq	NOUN	_	Gender=Masc|Number=Sing	29	nmod	_	_none=|id=s1.u9.w33
+
+# sent_id = 2AG0535_10
+# text = pas du tout monsieur
+1	pas	pas	ADV	_	Polarity=Neg	0	root	_	_none=|id=s1.u10.w0
+2	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_none=|id=s1.u10.w1
+3	tout	tout	NOUN	_	Gender=Masc|Number=Sing	1	obl:mod	_	id=s1.u10.w2
+4	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	_none=|id=s1.u10.w3
+
+# sent_id = 2AG0535_11
+# text = pas du tout bon ben alors je vous rends ça
+1	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	_none=|id=s1.u11.w0
+2	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_none=|id=s1.u11.w1
+3	tout	tout	NOUN	_	Gender=Masc|Number=Sing	1	obl:mod	_	id=s1.u11.w2
+4	bon	bon	INTJ	_	_	9	discourse	_	_none=|id=s1.u11.w3
+5	ben	ben	INTJ	_	_	9	discourse	_	_none=|id=s1.u11.w4
+6	alors	alors	ADV	_	_	9	advmod	_	_none=|id=s1.u11.w5
+7	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_none=|id=s1.u11.w6
+8	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	9	iobj	_	id=s1.u11.w7
+9	rends	rendre	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u11.w8
+10	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	obj	_	id=s1.u11.w9
+
+# sent_id = 2AG0535_12
+# text = merci beaucoup
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u12.w0
+2	beaucoup	beaucoup	ADV	_	_	1	advmod	_	_none=|id=s1.u12.w1
+
+# sent_id = 2AG0535_13
+# text = merci bien
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u13.w0
+2	bien	bien	ADV	_	_	1	advmod	_	_none=|id=s1.u13.w1
+

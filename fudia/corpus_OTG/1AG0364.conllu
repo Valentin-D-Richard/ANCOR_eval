@@ -1,0 +1,63 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0364_1
+# text = dites est ce que vous avez un des informations chez des expositions qui sont à la bibliothèque actuellement il y a quelque chose sur la Salette et les horaires j' ai vu ça sur un journal c' est pas forcément tous les jours
+1	dites	dre	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	vocative	_	_none=|id=s1.u1.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u1.w1
+3	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u1.w2
+4	que	que	SCONJ	_	_	6	mark	_	_none=|id=s1.u1.w3
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_none=|id=s1.u1.w4
+6	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_none=|id=s1.u1.w5
+7	un	un	DET	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	9	reparandum	_	_none=|id=s1.u1.w6
+8	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	9	det	_	_none=|id=s1.u1.w7
+9	informations	information	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	id=s1.u1.w8
+10	chez	chez	ADP	_	_	12	case	_	_none=|id=s1.u1.w9
+11	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	12	det	_	id=s1.u1.w10
+12	expositions	exposition	NOUN	_	Gender=Fem|Number=Plur	21	obl:mod	_	id=s1.u1.w11
+13	qui	qui	PRON	_	PronType=Rel	14	nsubj	_	_none=|id=s1.u1.w12
+14	sont	être	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_none=|id=s1.u1.w13
+15	à	à	ADP	_	_	17	case	_	_none=|id=s1.u1.w14
+16	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	id=s1.u1.w15
+17	bibliothèque	bibliothèque	NOUN	_	Gender=Fem|Number=Sing	14	obl:arg	_	_none=|id=s1.u1.w16
+18	actuellement	actuellement	ADV	_	_	21	advmod	_	_none=|id=s1.u1.w17
+19	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	expl:subj	_	_none=|id=s1.u1.w18
+20	y	y	PRON	_	Person=3|PronType=Prs	21	expl:comp	_	id=s1.u1.w19
+21	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	id=s1.u1.w20
+22	quelque	quelque	DET	_	Number=Sing|Person=3|PronType=Ind	23	det	_	id=s1.u1.w21
+23	chose	chose	NOUN	_	Gender=Fem|Number=Sing	21	obj	_	id=s1.u1.w22
+24	sur	sur	ADP	_	_	26	case	_	id=s1.u1.w23
+25	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	id=s1.u1.w24
+26	Salette	Salette	PROPN	_	Gender=Fem|Number=Sing	23	nmod	_	id=s1.u1.w25
+27	et	et	CCONJ	_	_	29	cc	_	id=s1.u1.w26
+28	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	29	det	_	id=s1.u1.w27
+29	horaires	horaire	NOUN	_	Gender=Masc|Number=Plur	26	conj	_	id=s1.u1.w28
+30	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	32	nsubj	_	_none=|id=s1.u1.w29
+31	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	32	aux:tense	_	_none=|id=s1.u1.w30
+32	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	conj	_	_none=|id=s1.u1.w31
+33	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	32	obj	_	id=s1.u1.w32
+34	sur	sur	ADP	_	_	36	case	_	_none=|id=s1.u1.w33
+35	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_none=|id=s1.u1.w34
+36	journal	journal	NOUN	_	Gender=Masc|Number=Sing	32	obl:mod	_	_none=|id=s1.u1.w35
+37	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	38	nsubj	_	id=s1.u1.w36
+38	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	conj	_	id=s1.u1.w37
+39	pas	pas	ADV	_	Polarity=Neg	38	advmod	_	_none=|id=s1.u1.w38
+40	forcément	forcément	ADV	_	_	38	advmod	_	_none=|id=s1.u1.w39
+41	tous	tout	ADJ	_	Gender=Masc|Number=Plur	43	amod	_	_none=|id=s1.u1.w40
+42	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	43	det	_	id=s1.u1.w41
+43	jours	jour	NOUN	_	Gender=Masc|Number=Plur	38	obl:mod	_	id=s1.u1.w42
+
+# sent_id = 1AG0364_2
+# text = voilà vous l' avez là dedans
+1	voilà	voilà	VERB	_	_	4	discourse	_	id=s1.u2.w0
+2	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_none=|id=s1.u2.w1
+3	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obj	_	id=s1.u2.w2
+4	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w3
+5	là	là	ADV	_	_	4	advmod	_	_none=|id=s1.u2.w4
+6	dedans	dedans	ADV	_	_	4	advmod	_	_none=|id=s1.u2.w5
+
+# sent_id = 1AG0364_3
+# text = là dessus ouais merci
+1	là	là	ADV	_	_	2	advmod	_	_none=|id=s1.u3.w0
+2	dessus	dessus	ADV	_	_	4	advmod	_	_none=|id=s1.u3.w1
+3	ouais	ouais	INTJ	_	_	2	discourse	_	_none=|id=s1.u3.w2
+4	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w3
+

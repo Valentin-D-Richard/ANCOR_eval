@@ -1,0 +1,49 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0576_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AG0576_1
+# text = bonjour j' aurais voulu savoir ce qu' il y avait à visiter sur Grenoble avoir des documents
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	j'	_	_	_	_	_	_	_	id=s1.u1.w1
+3	aurais	_	_	_	_	_	_	_	id=s1.u1.w2
+4	voulu	_	_	_	_	_	_	_	id=s1.u1.w3
+5	savoir	_	_	_	_	_	_	_	id=s1.u1.w4
+6	ce	_	_	_	_	_	_	_	id=s1.u1.w5
+7	qu'	_	_	_	_	_	_	_	id=s1.u1.w6
+8	il	_	_	_	_	_	_	_	id=s1.u1.w7
+9	y	_	_	_	_	_	_	_	id=s1.u1.w8
+10	avait	_	_	_	_	_	_	_	id=s1.u1.w9
+11	à	_	_	_	_	_	_	_	id=s1.u1.w10
+12	visiter	_	_	_	_	_	_	_	id=s1.u1.w11
+13	sur	_	_	_	_	_	_	_	id=s1.u1.w12
+14	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w13
+15	avoir	_	_	_	_	_	_	_	id=s1.u1.w14
+16	des	_	_	_	_	_	_	_	id=s1.u1.w15
+17	documents	_	_	_	_	_	_	_	id=s1.u1.w16
+
+# sent_id = 1AG0576_2
+# text = oui là vous avez tout ce qu' il faut voir sur Grenoble et un plan voilà de rien
+1	oui	_	_	_	_	_	_	_	id=s1.u2.w0
+2	là	_	_	_	_	_	_	_	id=s1.u2.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u2.w2
+4	avez	_	_	_	_	_	_	_	id=s1.u2.w3
+5	tout	_	_	_	_	_	_	_	id=s1.u2.w4
+6	ce	_	_	_	_	_	_	_	id=s1.u2.w5
+7	qu'	_	_	_	_	_	_	_	id=s1.u2.w6
+8	il	_	_	_	_	_	_	_	id=s1.u2.w7
+9	faut	_	_	_	_	_	_	_	id=s1.u2.w8
+10	voir	_	_	_	_	_	_	_	id=s1.u2.w9
+11	sur	_	_	_	_	_	_	_	id=s1.u2.w10
+12	Grenoble	_	_	_	_	_	_	_	id=s1.u2.w11
+13	et	_	_	_	_	_	_	_	id=s1.u2.w12
+14	un	_	_	_	_	_	_	_	id=s1.u2.w13
+15	plan	_	_	_	_	_	_	_	id=s1.u2.w14
+16	voilà	_	_	_	_	_	_	_	id=s1.u2.w15
+17	de	_	_	_	_	_	_	_	id=s1.u2.w16
+18	rien	_	_	_	_	_	_	_	id=s1.u2.w17
+
+# sent_id = 1AG0576_3
+# text = 
+

@@ -1,0 +1,38 @@
+# sent_id = 1NR0592_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1NR0592_1
+# text = je voulais savoir s' il existe un plan des pistes cyclables de Grenoble
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	voulais	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	savoir	savoir	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u1.w2
+4	s'	si	SCONJ	_	_	6	mark	_	_none=|id=s1.u1.w3
+5	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	_none=|id=s1.u1.w4
+6	existe	exister	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	id=s1.u1.w5
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_none=|id=s1.u1.w6
+8	plan	plan	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_none=|id=s1.u1.w7
+9	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	10	det	_	id=s1.u1.w8
+10	pistes	piste	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	id=s1.u1.w9
+11	cyclables	cyclable	ADJ	_	Gender=Fem|Number=Plur	10	amod	_	id=s1.u1.w10
+12	de	de	ADP	_	_	13	case	_	_none=|id=s1.u1.w11
+13	Grenoble	Grenoble	PROPN	_	_	10	nmod	_	_none=|id=s1.u1.w12
+
+# sent_id = 1NR0592_2
+# text = bien sûr ouais
+1	bien	bien	ADV	_	_	0	root	_	_none=|id=s1.u2.w0
+2	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u2.w1
+3	ouais	ouais	INTJ	_	_	1	discourse	_	_none=|id=s1.u2.w2
+
+# sent_id = 1NR0592_3
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1NR0592_4
+# text = mais je vous en prie
+1	mais	mais	CCONJ	_	_	5	cc	_	_none=|id=s1.u4.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u4.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	5	iobj	_	_none=|id=s1.u4.w2
+4	en	en	PRON	_	Person=3|PronType=Prs	5	iobj	_	_none=|id=s1.u4.w3
+5	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w4
+

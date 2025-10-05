@@ -1,0 +1,257 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2SB0008_0
+# text = 
+
+# sent_id = 2SB0008_1
+# text = société T D S on vous propose des consultations gratuites d' ouvrages donc actuellement c' est une encyclopédie ainsi qu' un dictionnaire des synonymes et des citations
+1	société	_	_	_	_	_	_	_	id=s1.u1.w0
+2	T	_	_	_	_	_	_	_	id=s1.u1.w1
+3	D	_	_	_	_	_	_	_	id=s1.u1.w2
+4	S	_	_	_	_	_	_	_	id=s1.u1.w3
+5	on	_	_	_	_	_	_	_	id=s1.u1.w4
+6	vous	_	_	_	_	_	_	_	id=s1.u1.w5
+7	propose	_	_	_	_	_	_	_	id=s1.u1.w6
+8	des	_	_	_	_	_	_	_	id=s1.u1.w7
+9	consultations	_	_	_	_	_	_	_	id=s1.u1.w8
+10	gratuites	_	_	_	_	_	_	_	id=s1.u1.w9
+11	d'	_	_	_	_	_	_	_	id=s1.u1.w10
+12	ouvrages	_	_	_	_	_	_	_	id=s1.u1.w11
+13	donc	_	_	_	_	_	_	_	id=s1.u1.w12
+14	actuellement	_	_	_	_	_	_	_	id=s1.u1.w13
+15	c'	_	_	_	_	_	_	_	id=s1.u1.w14
+16	est	_	_	_	_	_	_	_	id=s1.u1.w15
+17	une	_	_	_	_	_	_	_	id=s1.u1.w16
+18	encyclopédie	_	_	_	_	_	_	_	id=s1.u1.w17
+19	ainsi	_	_	_	_	_	_	_	id=s1.u1.w18
+20	qu'	_	_	_	_	_	_	_	id=s1.u1.w19
+21	un	_	_	_	_	_	_	_	id=s1.u1.w20
+22	dictionnaire	_	_	_	_	_	_	_	id=s1.u1.w21
+23	des	_	_	_	_	_	_	_	id=s1.u1.w22
+24	synonymes	_	_	_	_	_	_	_	id=s1.u1.w23
+25	et	_	_	_	_	_	_	_	id=s1.u1.w24
+26	des	_	_	_	_	_	_	_	id=s1.u1.w25
+27	citations	_	_	_	_	_	_	_	id=s1.u1.w26
+
+# sent_id = 2SB0008_2
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u2.w0
+
+# sent_id = 2SB0008_3
+# text = commercialisés six cents francs on le vend deux cent cinquante francs
+1	commercialisés	_	_	_	_	_	_	_	id=s1.u3.w0
+2	six	_	_	_	_	_	_	_	id=s1.u3.w1
+3	cents	_	_	_	_	_	_	_	id=s1.u3.w2
+4	francs	_	_	_	_	_	_	_	id=s1.u3.w3
+5	on	_	_	_	_	_	_	_	id=s1.u3.w4
+6	le	_	_	_	_	_	_	_	id=s1.u3.w5
+7	vend	_	_	_	_	_	_	_	id=s1.u3.w6
+8	deux	_	_	_	_	_	_	_	id=s1.u3.w7
+9	cent	_	_	_	_	_	_	_	id=s1.u3.w8
+10	cinquante	_	_	_	_	_	_	_	id=s1.u3.w9
+11	francs	_	_	_	_	_	_	_	id=s1.u3.w10
+
+# sent_id = 2SB0008_4
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u4.w0
+
+# sent_id = 2SB0008_5
+# text = ainsi qu' un livre de cuisine avec des recettes simples pour la personne qui a pas le temps de cuisiner avec l' apport calorique de chaque recette
+1	ainsi	_	_	_	_	_	_	_	id=s1.u5.w0
+2	qu'	_	_	_	_	_	_	_	id=s1.u5.w1
+3	un	_	_	_	_	_	_	_	id=s1.u5.w2
+4	livre	_	_	_	_	_	_	_	id=s1.u5.w3
+5	de	_	_	_	_	_	_	_	id=s1.u5.w4
+6	cuisine	_	_	_	_	_	_	_	id=s1.u5.w5
+7	avec	_	_	_	_	_	_	_	id=s1.u5.w6
+8	des	_	_	_	_	_	_	_	id=s1.u5.w7
+9	recettes	_	_	_	_	_	_	_	id=s1.u5.w8
+10	simples	_	_	_	_	_	_	_	id=s1.u5.w9
+11	pour	_	_	_	_	_	_	_	id=s1.u5.w10
+12	la	_	_	_	_	_	_	_	id=s1.u5.w11
+13	personne	_	_	_	_	_	_	_	id=s1.u5.w12
+14	qui	_	_	_	_	_	_	_	id=s1.u5.w13
+15	a	_	_	_	_	_	_	_	id=s1.u5.w14
+16	pas	_	_	_	_	_	_	_	id=s1.u5.w15
+17	le	_	_	_	_	_	_	_	id=s1.u5.w16
+18	temps	_	_	_	_	_	_	_	id=s1.u5.w17
+19	de	_	_	_	_	_	_	_	id=s1.u5.w18
+20	cuisiner	_	_	_	_	_	_	_	id=s1.u5.w19
+21	avec	_	_	_	_	_	_	_	id=s1.u5.w20
+22	l'	_	_	_	_	_	_	_	id=s1.u5.w21
+23	apport	_	_	_	_	_	_	_	id=s1.u5.w22
+24	calorique	_	_	_	_	_	_	_	id=s1.u5.w23
+25	de	_	_	_	_	_	_	_	id=s1.u5.w24
+26	chaque	_	_	_	_	_	_	_	id=s1.u5.w25
+27	recette	_	_	_	_	_	_	_	id=s1.u5.w26
+
+# sent_id = 2SB0008_6
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u6.w0
+
+# sent_id = 2SB0008_7
+# text = si vous faites attention à votre ligne
+1	si	_	_	_	_	_	_	_	id=s1.u7.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u7.w1
+3	faites	_	_	_	_	_	_	_	id=s1.u7.w2
+4	attention	_	_	_	_	_	_	_	id=s1.u7.w3
+5	à	_	_	_	_	_	_	_	id=s1.u7.w4
+6	votre	_	_	_	_	_	_	_	id=s1.u7.w5
+7	ligne	_	_	_	_	_	_	_	id=s1.u7.w6
+
+# sent_id = 2SB0008_8
+# text = pas du tout
+1	pas	_	_	_	_	_	_	_	id=s1.u8.w0
+2	du	_	_	_	_	_	_	_	id=s1.u8.w1
+3	tout	_	_	_	_	_	_	_	id=s1.u8.w2
+
+# sent_id = 2SB0008_9
+# text = pas du tout
+1	pas	_	_	_	_	_	_	_	id=s1.u9.w0
+2	du	_	_	_	_	_	_	_	id=s1.u9.w1
+3	tout	_	_	_	_	_	_	_	id=s1.u9.w2
+
+# sent_id = 2SB0008_10
+# text = non
+1	non	_	_	_	_	_	_	_	id=s1.u10.w0
+
+# sent_id = 2SB0008_11
+# text = ça tombe mal mais bon ça peut toujours servir
+1	ça	_	_	_	_	_	_	_	id=s1.u11.w0
+2	tombe	_	_	_	_	_	_	_	id=s1.u11.w1
+3	mal	_	_	_	_	_	_	_	id=s1.u11.w2
+4	mais	_	_	_	_	_	_	_	id=s1.u11.w3
+5	bon	_	_	_	_	_	_	_	id=s1.u11.w4
+6	ça	_	_	_	_	_	_	_	id=s1.u11.w5
+7	peut	_	_	_	_	_	_	_	id=s1.u11.w6
+8	toujours	_	_	_	_	_	_	_	id=s1.u11.w7
+9	servir	_	_	_	_	_	_	_	id=s1.u11.w8
+
+# sent_id = 2SB0008_12
+# text = 
+
+# sent_id = 2SB0008_13
+# text = j' ai des collègues là j' ai il y en a qui font attention
+1	j'	_	_	_	_	_	_	_	id=s1.u13.w0
+2	ai	_	_	_	_	_	_	_	id=s1.u13.w1
+3	des	_	_	_	_	_	_	_	id=s1.u13.w2
+4	collègues	_	_	_	_	_	_	_	id=s1.u13.w3
+5	là	_	_	_	_	_	_	_	id=s1.u13.w4
+6	j'	_	_	_	_	_	_	_	id=s1.u13.w5
+7	ai	_	_	_	_	_	_	_	id=s1.u13.w6
+8	il	_	_	_	_	_	_	_	id=s1.u13.w7
+9	y	_	_	_	_	_	_	_	id=s1.u13.w8
+10	en	_	_	_	_	_	_	_	id=s1.u13.w9
+11	a	_	_	_	_	_	_	_	id=s1.u13.w10
+12	qui	_	_	_	_	_	_	_	id=s1.u13.w11
+13	font	_	_	_	_	_	_	_	id=s1.u13.w12
+14	attention	_	_	_	_	_	_	_	id=s1.u13.w13
+
+# sent_id = 2SB0008_14
+# text = je vous laisse le bon de commande avec les prix et le numéro de téléphone
+1	je	_	_	_	_	_	_	_	id=s1.u14.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u14.w1
+3	laisse	_	_	_	_	_	_	_	id=s1.u14.w2
+4	le	_	_	_	_	_	_	_	id=s1.u14.w3
+5	bon	_	_	_	_	_	_	_	id=s1.u14.w4
+6	de	_	_	_	_	_	_	_	id=s1.u14.w5
+7	commande	_	_	_	_	_	_	_	id=s1.u14.w6
+8	avec	_	_	_	_	_	_	_	id=s1.u14.w7
+9	les	_	_	_	_	_	_	_	id=s1.u14.w8
+10	prix	_	_	_	_	_	_	_	id=s1.u14.w9
+11	et	_	_	_	_	_	_	_	id=s1.u14.w10
+12	le	_	_	_	_	_	_	_	id=s1.u14.w11
+13	numéro	_	_	_	_	_	_	_	id=s1.u14.w12
+14	de	_	_	_	_	_	_	_	id=s1.u14.w13
+15	téléphone	_	_	_	_	_	_	_	id=s1.u14.w14
+
+# sent_id = 2SB0008_15
+# text = 
+
+# sent_id = 2SB0008_16
+# text = vous repassez quand
+1	vous	_	_	_	_	_	_	_	id=s1.u16.w0
+2	repassez	_	_	_	_	_	_	_	id=s1.u16.w1
+3	quand	_	_	_	_	_	_	_	id=s1.u16.w2
+
+# sent_id = 2SB0008_17
+# text = je repasse mercredi prochain dans une semaine
+1	je	_	_	_	_	_	_	_	id=s1.u17.w0
+2	repasse	_	_	_	_	_	_	_	id=s1.u17.w1
+3	mercredi	_	_	_	_	_	_	_	id=s1.u17.w2
+4	prochain	_	_	_	_	_	_	_	id=s1.u17.w3
+5	dans	_	_	_	_	_	_	_	id=s1.u17.w4
+6	une	_	_	_	_	_	_	_	id=s1.u17.w5
+7	semaine	_	_	_	_	_	_	_	id=s1.u17.w6
+
+# sent_id = 2SB0008_18
+# text = mercredi prochain
+1	mercredi	_	_	_	_	_	_	_	id=s1.u18.w0
+2	prochain	_	_	_	_	_	_	_	id=s1.u18.w1
+
+# sent_id = 2SB0008_19
+# text = voilà je vous je vous demande juste un petit tampon pour me rappeler que je suis passé chez vous
+1	voilà	_	_	_	_	_	_	_	id=s1.u19.w0
+2	je	_	_	_	_	_	_	_	id=s1.u19.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u19.w2
+4	je	_	_	_	_	_	_	_	id=s1.u19.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u19.w4
+6	demande	_	_	_	_	_	_	_	id=s1.u19.w5
+7	juste	_	_	_	_	_	_	_	id=s1.u19.w6
+8	un	_	_	_	_	_	_	_	id=s1.u19.w7
+9	petit	_	_	_	_	_	_	_	id=s1.u19.w8
+10	tampon	_	_	_	_	_	_	_	id=s1.u19.w9
+11	pour	_	_	_	_	_	_	_	id=s1.u19.w10
+12	me	_	_	_	_	_	_	_	id=s1.u19.w11
+13	rappeler	_	_	_	_	_	_	_	id=s1.u19.w12
+14	que	_	_	_	_	_	_	_	id=s1.u19.w13
+15	je	_	_	_	_	_	_	_	id=s1.u19.w14
+16	suis	_	_	_	_	_	_	_	id=s1.u19.w15
+17	passé	_	_	_	_	_	_	_	id=s1.u19.w16
+18	chez	_	_	_	_	_	_	_	id=s1.u19.w17
+19	vous	_	_	_	_	_	_	_	id=s1.u19.w18
+
+# sent_id = 2SB0008_20
+# text = 
+
+# sent_id = 2SB0008_21
+# text = un petit coup de tampon et je le tamponne
+1	un	_	_	_	_	_	_	_	id=s1.u21.w0
+2	petit	_	_	_	_	_	_	_	id=s1.u21.w1
+3	coup	_	_	_	_	_	_	_	id=s1.u21.w2
+4	de	_	_	_	_	_	_	_	id=s1.u21.w3
+5	tampon	_	_	_	_	_	_	_	id=s1.u21.w4
+6	et	_	_	_	_	_	_	_	id=s1.u21.w5
+7	je	_	_	_	_	_	_	_	id=s1.u21.w6
+8	le	_	_	_	_	_	_	_	id=s1.u21.w7
+9	tamponne	_	_	_	_	_	_	_	id=s1.u21.w8
+
+# sent_id = 2SB0008_22
+# text = ici s' il vous plaît
+1	ici	_	_	_	_	_	_	_	id=s1.u22.w0
+2	s'	_	_	_	_	_	_	_	id=s1.u22.w1
+3	il	_	_	_	_	_	_	_	id=s1.u22.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u22.w3
+5	plaît	_	_	_	_	_	_	_	id=s1.u22.w4
+
+# sent_id = 2SB0008_23
+# text = attention voilà
+1	attention	_	_	_	_	_	_	_	id=s1.u23.w0
+2	voilà	_	_	_	_	_	_	_	id=s1.u23.w1
+
+# sent_id = 2SB0008_24
+# text = merci bien passez une bonne journée à mercredi prochain au revoir
+1	merci	_	_	_	_	_	_	_	id=s1.u24.w0
+2	bien	_	_	_	_	_	_	_	id=s1.u24.w1
+3	passez	_	_	_	_	_	_	_	id=s1.u24.w2
+4	une	_	_	_	_	_	_	_	id=s1.u24.w3
+5	bonne	_	_	_	_	_	_	_	id=s1.u24.w4
+6	journée	_	_	_	_	_	_	_	id=s1.u24.w5
+7	à	_	_	_	_	_	_	_	id=s1.u24.w6
+8	mercredi	_	_	_	_	_	_	_	id=s1.u24.w7
+9	prochain	_	_	_	_	_	_	_	id=s1.u24.w8
+10	au	_	_	_	_	_	_	_	id=s1.u24.w9
+11	revoir	_	_	_	_	_	_	_	id=s1.u24.w10
+
+# sent_id = 2SB0008_25
+# text = 
+

@@ -1,0 +1,104 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0060_0
+# text = 
+
+# sent_id = 1AP0060_1
+# text = je cherche e l' E N S G I l' école de groupement I N P G ça ça doit être une école du centre ville mais e
+1	je	_	_	_	_	_	_	_	id=s1.u1.w0
+2	cherche	_	_	_	_	_	_	_	id=s1.u1.w1
+3	e	_	_	_	_	_	_	_	id=s1.u1.w2
+4	l'	_	_	_	_	_	_	_	id=s1.u1.w3
+5	E	_	_	_	_	_	_	_	id=s1.u1.w4
+6	N	_	_	_	_	_	_	_	id=s1.u1.w5
+7	S	_	_	_	_	_	_	_	id=s1.u1.w6
+8	G	_	_	_	_	_	_	_	id=s1.u1.w7
+9	I	_	_	_	_	_	_	_	id=s1.u1.w8
+10	l'	_	_	_	_	_	_	_	id=s1.u1.w9
+11	école	_	_	_	_	_	_	_	id=s1.u1.w10
+12	de	_	_	_	_	_	_	_	id=s1.u1.w11
+13	groupement	_	_	_	_	_	_	_	id=s1.u1.w12
+14	I	_	_	_	_	_	_	_	id=s1.u1.w13
+15	N	_	_	_	_	_	_	_	id=s1.u1.w14
+16	P	_	_	_	_	_	_	_	id=s1.u1.w15
+17	G	_	_	_	_	_	_	_	id=s1.u1.w16
+18	ça	_	_	_	_	_	_	_	id=s1.u1.w17
+19	ça	_	_	_	_	_	_	_	id=s1.u1.w18
+20	doit	_	_	_	_	_	_	_	id=s1.u1.w19
+21	être	_	_	_	_	_	_	_	id=s1.u1.w20
+22	une	_	_	_	_	_	_	_	id=s1.u1.w21
+23	école	_	_	_	_	_	_	_	id=s1.u1.w22
+24	du	_	_	_	_	_	_	_	id=s1.u1.w23
+25	centre	_	_	_	_	_	_	_	id=s1.u1.w24
+26	ville	_	_	_	_	_	_	_	id=s1.u1.w25
+27	mais	_	_	_	_	_	_	_	id=s1.u1.w26
+28	e	_	_	_	_	_	_	_	id=s1.u1.w27
+
+# sent_id = 1AP0060_2
+# text = alors on est là
+1	alors	_	_	_	_	_	_	_	id=s1.u2.w0
+2	on	_	_	_	_	_	_	_	id=s1.u2.w1
+3	est	_	_	_	_	_	_	_	id=s1.u2.w2
+4	là	_	_	_	_	_	_	_	id=s1.u2.w3
+
+# sent_id = 1AP0060_3
+# text = hum hum
+1	hum	_	_	_	_	_	_	_	id=s1.u3.w0
+2	hum	_	_	_	_	_	_	_	id=s1.u3.w1
+
+# sent_id = 1AP0060_4
+# text = et c' est l' avenue Felix Viallet elle est ici c' est celle qui mène sur la gare au numéro quarante-sept à peu près par là
+1	et	_	_	_	_	_	_	_	id=s1.u4.w0
+2	c'	_	_	_	_	_	_	_	id=s1.u4.w1
+3	est	_	_	_	_	_	_	_	id=s1.u4.w2
+4	l'	_	_	_	_	_	_	_	id=s1.u4.w3
+5	avenue	_	_	_	_	_	_	_	id=s1.u4.w4
+6	Felix	_	_	_	_	_	_	_	id=s1.u4.w5
+7	Viallet	_	_	_	_	_	_	_	id=s1.u4.w6
+8	elle	_	_	_	_	_	_	_	id=s1.u4.w7
+9	est	_	_	_	_	_	_	_	id=s1.u4.w8
+10	ici	_	_	_	_	_	_	_	id=s1.u4.w9
+11	c'	_	_	_	_	_	_	_	id=s1.u4.w10
+12	est	_	_	_	_	_	_	_	id=s1.u4.w11
+13	celle	_	_	_	_	_	_	_	id=s1.u4.w12
+14	qui	_	_	_	_	_	_	_	id=s1.u4.w13
+15	mène	_	_	_	_	_	_	_	id=s1.u4.w14
+16	sur	_	_	_	_	_	_	_	id=s1.u4.w15
+17	la	_	_	_	_	_	_	_	id=s1.u4.w16
+18	gare	_	_	_	_	_	_	_	id=s1.u4.w17
+19	au	_	_	_	_	_	_	_	id=s1.u4.w18
+20	numéro	_	_	_	_	_	_	_	id=s1.u4.w19
+21	quarante-sept	_	_	_	_	_	_	_	id=s1.u4.w20
+22	à	_	_	_	_	_	_	_	id=s1.u4.w21
+23	peu	_	_	_	_	_	_	_	id=s1.u4.w22
+24	près	_	_	_	_	_	_	_	id=s1.u4.w23
+25	par	_	_	_	_	_	_	_	id=s1.u4.w24
+26	là	_	_	_	_	_	_	_	id=s1.u4.w25
+
+# sent_id = 1AP0060_5
+# text = d' accord
+1	d'	_	_	_	_	_	_	_	id=s1.u5.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u5.w1
+
+# sent_id = 1AP0060_6
+# text = hop
+1	hop	_	_	_	_	_	_	_	id=s1.u6.w0
+
+# sent_id = 1AP0060_7
+# text = ça marche merci
+1	ça	_	_	_	_	_	_	_	id=s1.u7.w0
+2	marche	_	_	_	_	_	_	_	id=s1.u7.w1
+3	merci	_	_	_	_	_	_	_	id=s1.u7.w2
+
+# sent_id = 1AP0060_8
+# text = bonne journée monsieur merci bonjour au revoir
+1	bonne	_	_	_	_	_	_	_	id=s1.u8.w0
+2	journée	_	_	_	_	_	_	_	id=s1.u8.w1
+3	monsieur	_	_	_	_	_	_	_	id=s1.u8.w2
+4	merci	_	_	_	_	_	_	_	id=s1.u8.w3
+5	bonjour	_	_	_	_	_	_	_	id=s1.u8.w4
+6	au	_	_	_	_	_	_	_	id=s1.u8.w5
+7	revoir	_	_	_	_	_	_	_	id=s1.u8.w6
+
+# sent_id = 1AP0060_9
+# text = 
+

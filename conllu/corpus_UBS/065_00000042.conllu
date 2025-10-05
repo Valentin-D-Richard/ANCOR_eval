@@ -1,0 +1,31 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 065_00000042_0
+# text = U B S bonjour
+1	U	_	_	_	_	_	_	_	id=s1.u0.w0
+2	B	_	_	_	_	_	_	_	id=s1.u0.w1
+3	S	_	_	_	_	_	_	_	id=s1.u0.w2
+4	bonjour	_	_	_	_	_	_	_	id=s1.u0.w3
+
+# sent_id = 065_00000042_1
+# text = bonjour ici Prénom nom est ce que je pourrais avoir Prénom2 Nom2 s' il vous plait
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	ici	_	_	_	_	_	_	_	id=s1.u1.w1
+3	Prénom	_	_	_	_	_	_	_	id=s1.u1.w2
+4	nom	_	_	_	_	_	_	_	id=s1.u1.w3
+5	est	_	_	_	_	_	_	_	id=s1.u1.w4
+6	ce	_	_	_	_	_	_	_	id=s1.u1.w5
+7	que	_	_	_	_	_	_	_	id=s1.u1.w6
+8	je	_	_	_	_	_	_	_	id=s1.u1.w7
+9	pourrais	_	_	_	_	_	_	_	id=s1.u1.w8
+10	avoir	_	_	_	_	_	_	_	id=s1.u1.w9
+11	Prénom2	_	_	_	_	_	_	_	id=s1.u1.w10
+12	Nom2	_	_	_	_	_	_	_	id=s1.u1.w11
+13	s'	_	_	_	_	_	_	_	id=s1.u1.w12
+14	il	_	_	_	_	_	_	_	id=s1.u1.w13
+15	vous	_	_	_	_	_	_	_	id=s1.u1.w14
+16	plait	_	_	_	_	_	_	_	id=s1.u1.w15
+
+# sent_id = 065_00000042_2
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u2.w0
+

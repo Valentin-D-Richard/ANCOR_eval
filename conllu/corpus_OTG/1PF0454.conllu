@@ -1,0 +1,51 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0454_0
+# text = bonjour mademoiselle
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+2	mademoiselle	_	_	_	_	_	_	_	id=s1.u0.w1
+
+# sent_id = 1PF0454_1
+# text = pour les étudiants on nous a dit de venir là pour récupérer un plan de vélo de la ville
+1	pour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	les	_	_	_	_	_	_	_	id=s1.u1.w1
+3	étudiants	_	_	_	_	_	_	_	id=s1.u1.w2
+4	on	_	_	_	_	_	_	_	id=s1.u1.w3
+5	nous	_	_	_	_	_	_	_	id=s1.u1.w4
+6	a	_	_	_	_	_	_	_	id=s1.u1.w5
+7	dit	_	_	_	_	_	_	_	id=s1.u1.w6
+8	de	_	_	_	_	_	_	_	id=s1.u1.w7
+9	venir	_	_	_	_	_	_	_	id=s1.u1.w8
+10	là	_	_	_	_	_	_	_	id=s1.u1.w9
+11	pour	_	_	_	_	_	_	_	id=s1.u1.w10
+12	récupérer	_	_	_	_	_	_	_	id=s1.u1.w11
+13	un	_	_	_	_	_	_	_	id=s1.u1.w12
+14	plan	_	_	_	_	_	_	_	id=s1.u1.w13
+15	de	_	_	_	_	_	_	_	id=s1.u1.w14
+16	vélo	_	_	_	_	_	_	_	id=s1.u1.w15
+17	de	_	_	_	_	_	_	_	id=s1.u1.w16
+18	la	_	_	_	_	_	_	_	id=s1.u1.w17
+19	ville	_	_	_	_	_	_	_	id=s1.u1.w18
+
+# sent_id = 1PF0454_2
+# text = c' est pas e pour les étudiants spécialement c' est pour tout le monde hein
+1	c'	_	_	_	_	_	_	_	id=s1.u2.w0
+2	est	_	_	_	_	_	_	_	id=s1.u2.w1
+3	pas	_	_	_	_	_	_	_	id=s1.u2.w2
+4	e	_	_	_	_	_	_	_	id=s1.u2.w3
+5	pour	_	_	_	_	_	_	_	id=s1.u2.w4
+6	les	_	_	_	_	_	_	_	id=s1.u2.w5
+7	étudiants	_	_	_	_	_	_	_	id=s1.u2.w6
+8	spécialement	_	_	_	_	_	_	_	id=s1.u2.w7
+9	c'	_	_	_	_	_	_	_	id=s1.u2.w8
+10	est	_	_	_	_	_	_	_	id=s1.u2.w9
+11	pour	_	_	_	_	_	_	_	id=s1.u2.w10
+12	tout	_	_	_	_	_	_	_	id=s1.u2.w11
+13	le	_	_	_	_	_	_	_	id=s1.u2.w12
+14	monde	_	_	_	_	_	_	_	id=s1.u2.w13
+15	hein	_	_	_	_	_	_	_	id=s1.u2.w14
+
+# sent_id = 1PF0454_3
+# text = ouais merci
+1	ouais	_	_	_	_	_	_	_	id=s1.u3.w0
+2	merci	_	_	_	_	_	_	_	id=s1.u3.w1
+

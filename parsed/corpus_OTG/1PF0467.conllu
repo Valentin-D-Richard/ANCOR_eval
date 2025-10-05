@@ -1,0 +1,224 @@
+# sent_id = 1PF0467_1
+# text = e je suis nouvel arrivant
+1	e	e	CCONJ	_	_	5	cc	_	_none=|id=s1.u1.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u1.w1
+3	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u1.w2
+4	nouvel	nouvel	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_none=|id=s1.u1.w3
+5	arrivant	arrivant	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u1.w4
+
+# sent_id = 1PF0467_2
+# text = ouais
+1	ouais	ouais	INTJ	_	_	0	root	_	_none=|id=s1.u2.w0
+
+# sent_id = 1PF0467_3
+# text = j' aurais voulu avoir des documents un peu sur toutes les activités sportives e c' est possible
+1	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u3.w0
+2	aurais	avoir	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_none=|id=s1.u3.w1
+3	voulu	vouloir	VERB	DoubleAux	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u3.w2
+4	avoir	avoir	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u3.w3
+5	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	6	det	_	id=s1.u3.w4
+6	documents	document	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	id=s1.u3.w5
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	advmod	_	_none=|id=s1.u3.w6
+8	peu	peu	NOUN	_	Gender=Masc|Number=Sing	7	fixed	_	_none=|id=s1.u3.w7
+9	sur	sur	ADP	_	_	12	case	_	id=s1.u3.w8
+10	toutes	tout	ADJ	_	Gender=Fem|Number=Plur	12	amod	_	id=s1.u3.w9
+11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	id=s1.u3.w10
+12	activités	activité	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	id=s1.u3.w11
+13	sportives	sportiv	ADJ	_	Gender=Fem|Number=Plur	12	amod	_	id=s1.u3.w12
+14	e	e	SCONJ	_	_	17	mark	_	_none=|id=s1.u3.w13
+15	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	17	nsubj	_	_none=|id=s1.u3.w14
+16	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	id=s1.u3.w15
+17	possible	possible	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	id=s1.u3.w16
+
+# sent_id = 1PF0467_4
+# text = sportives c' est pas nous c' est l' OMS l' Office Municipal des sports ils sont trois passage du palais de justice ils sont indépendants eux
+1	sportives	sportive	ADJ	_	Gender=Fem|Number=Plur	5	dislocated	_	id=s1.u4.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_none=|id=s1.u4.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u4.w2
+4	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	_none=|id=s1.u4.w3
+5	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	0	root	_	_none=|id=s1.u4.w4
+6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	17	nsubj	_	_none=|id=s1.u4.w5
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	id=s1.u4.w6
+8	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	_none=|id=s1.u4.w7
+9	OMS	OMS	PROPN	_	_	17	reparandum	_	_none=|id=s1.u4.w8
+10	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	11	det	_	id=s1.u4.w9
+11	Office	Office	PROPN	_	_	5	conj	_	_none=|id=s1.u4.w10
+12	Municipal	Municipal	PROPN	_	_	11	amod	_	_none=|id=s1.u4.w11
+13	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	14	det	_	id=s1.u4.w12
+14	sports	sport	NOUN	_	Gender=Fem|Number=Plur	11	nmod	_	id=s1.u4.w13
+15	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	id=s1.u4.w14
+16	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_none=|id=s1.u4.w15
+17	trois	trois	NUM	_	Number=Plur	5	conj	_	id=s1.u4.w16
+18	passage	passage	NOUN	_	Gender=Masc|Number=Sing	17	dislocated	_	id=s1.u4.w17
+19	du	du	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_none=|id=s1.u4.w18
+20	palais	palais	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	id=s1.u4.w19
+21	de	de	ADP	_	_	22	case	_	id=s1.u4.w20
+22	justice	justice	NOUN	_	Gender=Fem|Number=Sing	20	nmod	_	id=s1.u4.w21
+23	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	25	nsubj	_	id=s1.u4.w22
+24	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	id=s1.u4.w23
+25	indépendants	indépendant	ADJ	_	Gender=Masc|Number=Plur	17	conj	_	id=s1.u4.w24
+26	eux	lui	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	25	dislocated	_	id=s1.u4.w25
+
+# sent_id = 1PF0467_5
+# text = hum hum
+1	hum	hum	INTJ	_	_	0	root	_	_none=|id=s1.u5.w0
+2	hum	hum	INTJ	_	_	1	fixed	_	_none=|id=s1.u5.w1
+
+# sent_id = 1PF0467_6
+# text = c' est deux cent soixante-sept associations sur Grenoble sportives donc vous comprenez c' est pas la même association
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	id=s1.u6.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	id=s1.u6.w1
+3	deux	deux	NUM	_	Number=Plur	6	nummod	_	_none=|id=s1.u6.w2
+4	cent	cent	NUM	_	Number=Plur	3	flat	_	_none=|id=s1.u6.w3
+5	soixante-sept	soixante-sept	NUM	_	Number=Plur	3	flat	_	_none=|id=s1.u6.w4
+6	associations	association	NOUN	_	Gender=Fem|Number=Plur	0	root	_	id=s1.u6.w5
+7	sur	sur	ADP	_	_	8	case	_	_none=|id=s1.u6.w6
+8	Grenoble	Grenoble	PROPN	_	_	6	nmod	_	id=s1.u6.w7
+9	sportives	sportive	ADJ	_	Gender=Fem|Number=Plur	8	amod	_	id=s1.u6.w8
+10	donc	donc	ADV	_	_	12	cc	_	_none=|id=s1.u6.w9
+11	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	12	nsubj	_	_none=|id=s1.u6.w10
+12	comprenez	compreir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	discourse	_	_none=|id=s1.u6.w11
+13	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	18	nsubj	_	id=s1.u6.w12
+14	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	id=s1.u6.w13
+15	pas	pas	ADV	_	Polarity=Neg	18	advmod	_	id=s1.u6.w14
+16	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	id=s1.u6.w15
+17	même	même	ADJ	_	Gender=Fem|Number=Sing	18	amod	_	id=s1.u6.w16
+18	association	association	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	id=s1.u6.w17
+
+# sent_id = 1PF0467_8
+# text = hum hum
+1	hum	hum	INTJ	_	_	0	root	_	_none=|id=s1.u8.w0
+2	hum	hum	INTJ	_	_	1	fixed	_	_none=|id=s1.u8.w1
+
+# sent_id = 1PF0467_9
+# text = une grosse association l' OMS et dessus vous avez toutes les fédérations vous voulez faire du taekwondo du rafting du canyonning
+1	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	id=s1.u9.w0
+2	grosse	gross	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	id=s1.u9.w1
+3	association	association	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u9.w2
+4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	id=s1.u9.w3
+5	OMS	OMS	PROPN	_	_	3	appos	_	_none=|id=s1.u9.w4
+6	et	et	CCONJ	_	_	9	cc	_	_none=|id=s1.u9.w5
+7	dessus	dessus	ADV	_	_	9	advmod	_	_none=|id=s1.u9.w6
+8	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	9	nsubj	_	_none=|id=s1.u9.w7
+9	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_none=|id=s1.u9.w8
+10	toutes	tout	ADJ	_	Gender=Fem|Number=Plur	12	amod	_	id=s1.u9.w9
+11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	id=s1.u9.w10
+12	fédérations	fédération	NOUN	_	Gender=Fem|Number=Plur	9	obj	_	id=s1.u9.w11
+13	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	14	nsubj	_	_none=|id=s1.u9.w12
+14	voulez	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	_	_none=|id=s1.u9.w13
+15	faire	faire	VERB	_	VerbForm=Inf	14	xcomp	_	_none=|id=s1.u9.w14
+16	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_none=|id=s1.u9.w15
+17	taekwondo	taekwondo	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	_none=|id=s1.u9.w16
+18	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_none=|id=s1.u9.w17
+19	rafting	rafting	NOUN	_	Gender=Masc|Number=Sing	17	conj	_	id=s1.u9.w18
+20	du	du	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_none=|id=s1.u9.w19
+21	canyonning	canyonning	NOUN	_	Gender=Masc|Number=Sing	17	conj	_	id=s1.u9.w20
+
+# sent_id = 1PF0467_10
+# text = hum
+1	hum	hum	INTJ	_	_	0	root	_	_none=|id=s1.u10.w0
+
+# sent_id = 1PF0467_11
+# text = du rameur du saut en élastique
+1	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u11.w0
+2	rameur	rameur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u11.w1
+3	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_none=|id=s1.u11.w2
+4	saut	saut	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	id=s1.u11.w3
+5	en	en	ADP	_	_	6	case	_	_none=|id=s1.u11.w4
+6	élastique	élastique	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	id=s1.u11.w5
+
+# sent_id = 1PF0467_12
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u12.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u12.w1
+
+# sent_id = 1PF0467_13
+# text = vous avez toutes les possibilités de vous vous tuer en peu de temps
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	id=s1.u13.w0
+2	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u13.w1
+3	toutes	tout	ADJ	_	Gender=Fem|Number=Plur	5	amod	_	id=s1.u13.w2
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	id=s1.u13.w3
+5	possibilités	possibilité	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	id=s1.u13.w4
+6	de	de	ADP	_	_	9	mark	_	_none=|id=s1.u13.w5
+7	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	9	iobj	_	id=s1.u13.w6
+8	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	9	obj	_	id=s1.u13.w7
+9	tuer	tuer	VERB	_	VerbForm=Inf	5	acl	_	id=s1.u13.w8
+10	en	en	ADP	_	_	11	case	_	_none=|id=s1.u13.w9
+11	peu	peu	ADV	_	Gender=Masc|Number=Sing	9	obl:mod	_	_none=|id=s1.u13.w10
+12	de	de	ADP	_	_	13	case	_	_none=|id=s1.u13.w11
+13	temps	temps	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	id=s1.u13.w12
+
+# sent_id = 1PF0467_14
+# text = d' accord merci au revoir
+1	d'	de	ADP	_	_	3	case	_	_none=|id=s1.u14.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u14.w1
+3	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u14.w2
+4	au	au	ADP	_	_	5	case	_	_none=|id=s1.u14.w3
+5	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	3	advcl	_	_none=|id=s1.u14.w4
+
+# sent_id = 1PF0467_15
+# text = bon courage je vous ai oublié de vous dire à quinze heures le lundi quinze heures tous les jours hein jamais le matin hein
+1	bon	bon	INTJ	_	_	6	discourse	_	_none=|id=s1.u15.w0
+2	courage	courage	NOUN	_	Gender=Masc|Number=Sing	6	discourse	_	id=s1.u15.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_none=|id=s1.u15.w2
+4	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	6	iobj	_	id=s1.u15.w3
+5	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux:tense	_	id=s1.u15.w4
+6	oublié	oublier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u15.w5
+7	de	de	ADP	_	_	9	mark	_	_none=|id=s1.u15.w6
+8	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	9	iobj	_	id=s1.u15.w7
+9	dire	dire	VERB	_	VerbForm=Inf	6	xcomp	_	id=s1.u15.w8
+10	à	à	ADP	_	_	12	case	_	_none=|id=s1.u15.w9
+11	quinze	quinze	NUM	_	Number=Plur	12	nummod	_	id=s1.u15.w10
+12	heures	heure	NOUN	_	Gender=Fem|Number=Plur	9	obl:mod	_	id=s1.u15.w11
+13	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_none=|id=s1.u15.w12
+14	lundi	lundi	NOUN	_	Gender=Masc|Number=Sing	12	conj	_	_none=|id=s1.u15.w13
+15	quinze	quinze	NUM	_	Number=Plur	16	nummod	_	id=s1.u15.w14
+16	heures	heure	NOUN	_	Gender=Fem|Number=Plur	12	conj	_	id=s1.u15.w15
+17	tous	tout	ADJ	_	Gender=Masc|Number=Plur	19	amod	_	id=s1.u15.w16
+18	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	19	det	_	id=s1.u15.w17
+19	jours	jour	NOUN	_	Gender=Masc|Number=Plur	16	nmod	_	_none=|id=s1.u15.w18
+20	hein	hein	INTJ	_	_	19	discourse	_	_none=|id=s1.u15.w19
+21	jamais	jamais	ADV	_	PronType=Neg	23	advmod	_	id=s1.u15.w20
+22	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_none=|id=s1.u15.w21
+23	matin	matin	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	_none=|id=s1.u15.w22
+24	hein	hein	INTJ	_	_	23	discourse	_	_none=|id=s1.u15.w23
+
+# sent_id = 1PF0467_16
+# text = ouais
+1	ouais	ouais	INTJ	_	_	0	root	_	_none=|id=s1.u16.w0
+
+# sent_id = 1PF0467_17
+# text = donc si vous attendez ils ouvrent que l' après midi à quinze heures
+1	donc	donc	ADV	_	_	6	advmod	_	_none=|id=s1.u17.w0
+2	si	si	SCONJ	_	_	4	mark	_	_none=|id=s1.u17.w1
+3	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_none=|id=s1.u17.w2
+4	attendez	attendre	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	discourse	_	_none=|id=s1.u17.w3
+5	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	id=s1.u17.w4
+6	ouvrent	ouvrer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u17.w5
+7	que	que	ADV	_	_	9	advmod	_	_none=|id=s1.u17.w6
+8	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	_none=|id=s1.u17.w7
+9	après	après	NOUN	_	Gender=Masc|Number=Sing	6	obl:mod	_	_none=|id=s1.u17.w8
+10	midi	midi	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	id=s1.u17.w9
+11	à	à	ADP	_	_	13	case	_	_none=|id=s1.u17.w10
+12	quinze	quinze	NUM	_	Number=Plur	13	nummod	_	id=s1.u17.w11
+13	heures	heure	NOUN	_	Gender=Fem|Number=Plur	9	nmod	_	id=s1.u17.w12
+
+# sent_id = 1PF0467_18
+# text = ah d' accord
+1	ah	ah	INTJ	_	_	3	discourse	_	_none=|id=s1.u18.w0
+2	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u18.w1
+3	accord	accord	NOUN	_	Gender=Masc|Number=Sing	2	fixed	_	id=s1.u18.w2
+
+# sent_id = 1PF0467_19
+# text = ouais
+1	ouais	ouais	INTJ	_	_	0	root	_	_none=|id=s1.u19.w0
+
+# sent_id = 1PF0467_20
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u20.w0
+
+# sent_id = 1PF0467_21
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u21.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u21.w1
+

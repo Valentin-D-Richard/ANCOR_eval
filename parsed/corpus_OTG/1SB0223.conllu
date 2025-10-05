@@ -1,0 +1,25 @@
+# sent_id = 1SB0223_0
+# text = la rue Stendhal s' il vous plaît
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	id=s1.u0.w0
+2	rue	rue	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u0.w1
+3	Stendhal	Stendhal	PROPN	_	_	2	nmod:appos	_	_none=|id=s1.u0.w2
+4	s'	se	SCONJ	_	_	7	mark	_	_none=|id=s1.u0.w3
+5	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	_none=|id=s1.u0.w4
+6	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	7	iobj	_	_none=|id=s1.u0.w5
+7	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	discourse	_	id=s1.u0.w6
+
+# sent_id = 1SB0223_1
+# text = e la rue Beyle Stendhal elle est derrière
+1	e	e	CCONJ	_	_	3	case	_	_none=|id=s1.u1.w0
+2	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	id=s1.u1.w1
+3	rue	rue	NOUN	_	Gender=Fem|Number=Sing	8	dislocated	_	id=s1.u1.w2
+4	Beyle	Beyle	PROPN	_	_	3	nmod:appos	_	_none=|id=s1.u1.w3
+5	Stendhal	Stendhal	PROPN	_	_	4	flat:name	_	id=s1.u1.w4
+6	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	id=s1.u1.w5
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	id=s1.u1.w6
+8	derrière	derrière	ADP	_	_	0	root	_	_none=|id=s1.u1.w7
+
+# sent_id = 1SB0223_2
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u2.w0
+

@@ -1,0 +1,74 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0243_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0243_1
+# text = je dois livrer ça à l' office du tourisme
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	dois	devoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	livrer	livrer	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u1.w2
+4	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	obj	_	id=s1.u1.w3
+5	à	à	ADP	_	_	7	case	_	_none=|id=s1.u1.w4
+6	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	_none=|id=s1.u1.w5
+7	office	office	NOUN	_	Gender=Masc|Number=Sing	3	obl:arg	_	_none=|id=s1.u1.w6
+8	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_none=|id=s1.u1.w7
+9	tourisme	tourisme	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_none=|id=s1.u1.w8
+
+# sent_id = 1AP0243_2
+# text = faut il une pièce d' identité alors
+1	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ClauseType=Int|id=s1.u2.w0
+2	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1|1	cue:mark|expl:subj	_	_none=|id=s1.u2.w1
+3	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	id=s1.u2.w2
+4	pièce	pièce	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	id=s1.u2.w3
+5	d'	de	ADP	_	_	6	case	_	_none=|id=s1.u2.w4
+6	identité	identité	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	id=s1.u2.w5
+7	alors	alors	ADV	_	_	1	advmod	_	_none=|id=s1.u2.w6
+
+# sent_id = 1AP0243_3
+# text = Prénom Nom
+1	Prénom	Prénom	PROPN	_	_	0	root	_	_none=|id=s1.u3.w0
+2	Nom	Nom	PROPN	_	_	1	flat:name	_	_none=|id=s1.u3.w1
+
+# sent_id = 1AP0243_4
+# text = d' accord qu' est ce que je fais je signe
+1	d'	de	ADP	_	_	2	case	_	_none=|id=s1.u4.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	id=s1.u4.w1
+3	qu'	que	PRON	_	ExtPos=PRON|Person=3|PronType=Int	0	root	_	ClauseType=Int|id=s1.u4.w2|PhraseType=Int
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	fixed	_	id=s1.u4.w3
+5	ce	ce	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	3	fixed	_	_none=|id=s1.u4.w4
+6	que	que	PRON	_	PronType=Rel	3	fixed	_	_none=|id=s1.u4.w5
+7	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_none=|id=s1.u4.w6
+8	fais	faire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	id=s1.u4.w7
+9	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	id=s1.u4.w8
+10	signe	signer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	id=s1.u4.w9
+
+# sent_id = 1AP0243_5
+# text = pas une signature un tampon non
+1	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_none=|id=s1.u5.w0
+2	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	id=s1.u5.w1
+3	signature	signature	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u5.w2
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_none=|id=s1.u5.w3
+5	tampon	tampon	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_none=|id=s1.u5.w4
+6	non	non	ADV	_	Polarity=Neg	3	discourse	_	_none=|id=s1.u5.w5
+
+# sent_id = 1AP0243_6
+# text = tampon merci c' est là hein voilà merci merci
+1	tampon	tampon	NOUN	_	Gender=Masc|Number=Sing	5	dislocated	_	_none=|id=s1.u6.w0
+2	merci	merci	NOUN	_	_	1	dislocated	_	_none=|id=s1.u6.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_none=|id=s1.u6.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u6.w3
+5	là	là	ADV	_	_	0	root	_	_none=|id=s1.u6.w4
+6	hein	hein	INTJ	_	_	5	discourse	_	_none=|id=s1.u6.w5
+7	voilà	voilà	VERB	_	_	5	discourse	_	id=s1.u6.w6
+8	merci	merci	INTJ	_	_	7	obj	_	_none=|id=s1.u6.w7
+9	merci	merci	INTJ	_	_	7	conj	_	_none=|id=s1.u6.w8
+
+# sent_id = 1AP0243_7
+# text = je vous remercie au revoir
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	id=s1.u7.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	3	iobj	_	id=s1.u7.w1
+3	remercie	remercier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u7.w2
+4	au	au	ADP	_	_	5	case	_	_none=|id=s1.u7.w3
+5	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	3	advcl	_	_none=|id=s1.u7.w4
+

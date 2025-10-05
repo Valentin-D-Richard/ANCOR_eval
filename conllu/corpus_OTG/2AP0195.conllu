@@ -1,0 +1,95 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2AP0195_0
+# text = excusez moi j' aurais voulu bien voulu un plan comme ça s' il vous plaît vous savez aussi si je peux trouver " le 38 " dans la maison
+1	excusez	_	_	_	_	_	_	_	id=s1.u0.w0
+2	moi	_	_	_	_	_	_	_	id=s1.u0.w1
+3	j'	_	_	_	_	_	_	_	id=s1.u0.w2
+4	aurais	_	_	_	_	_	_	_	id=s1.u0.w3
+5	voulu	_	_	_	_	_	_	_	id=s1.u0.w4
+6	bien	_	_	_	_	_	_	_	id=s1.u0.w5
+7	voulu	_	_	_	_	_	_	_	id=s1.u0.w6
+8	un	_	_	_	_	_	_	_	id=s1.u0.w7
+9	plan	_	_	_	_	_	_	_	id=s1.u0.w8
+10	comme	_	_	_	_	_	_	_	id=s1.u0.w9
+11	ça	_	_	_	_	_	_	_	id=s1.u0.w10
+12	s'	_	_	_	_	_	_	_	id=s1.u0.w11
+13	il	_	_	_	_	_	_	_	id=s1.u0.w12
+14	vous	_	_	_	_	_	_	_	id=s1.u0.w13
+15	plaît	_	_	_	_	_	_	_	id=s1.u0.w14
+16	vous	_	_	_	_	_	_	_	id=s1.u0.w15
+17	savez	_	_	_	_	_	_	_	id=s1.u0.w16
+18	aussi	_	_	_	_	_	_	_	id=s1.u0.w17
+19	si	_	_	_	_	_	_	_	id=s1.u0.w18
+20	je	_	_	_	_	_	_	_	id=s1.u0.w19
+21	peux	_	_	_	_	_	_	_	id=s1.u0.w20
+22	trouver	_	_	_	_	_	_	_	id=s1.u0.w21
+23	le	_	_	_	_	_	_	_	id=s1.u0.w23
+24	38	_	_	_	_	_	_	_	id=s1.u0.w24
+25	dans	_	_	_	_	_	_	_	id=s1.u0.w26
+26	la	_	_	_	_	_	_	_	id=s1.u0.w27
+27	maison	_	_	_	_	_	_	_	id=s1.u0.w28
+
+# sent_id = 2AP0195_1
+# text = 
+
+# sent_id = 2AP0195_2
+# text = houla le jeudi " le 38 " vous aurez du mal ah oui il parait le lundi et et
+1	houla	_	_	_	_	_	_	_	id=s1.u2.w0
+2	le	_	_	_	_	_	_	_	id=s1.u2.w1
+3	jeudi	_	_	_	_	_	_	_	id=s1.u2.w2
+4	le	_	_	_	_	_	_	_	id=s1.u2.w4
+5	38	_	_	_	_	_	_	_	id=s1.u2.w5
+6	vous	_	_	_	_	_	_	_	id=s1.u2.w7
+7	aurez	_	_	_	_	_	_	_	id=s1.u2.w8
+8	du	_	_	_	_	_	_	_	id=s1.u2.w9
+9	mal	_	_	_	_	_	_	_	id=s1.u2.w10
+10	ah	_	_	_	_	_	_	_	id=s1.u2.w11
+11	oui	_	_	_	_	_	_	_	id=s1.u2.w12
+12	il	_	_	_	_	_	_	_	id=s1.u2.w13
+13	parait	_	_	_	_	_	_	_	id=s1.u2.w14
+14	le	_	_	_	_	_	_	_	id=s1.u2.w15
+15	lundi	_	_	_	_	_	_	_	id=s1.u2.w16
+16	et	_	_	_	_	_	_	_	id=s1.u2.w17
+17	et	_	_	_	_	_	_	_	id=s1.u2.w18
+
+# sent_id = 2AP0195_3
+# text = c' est fini c' est ça
+1	c'	_	_	_	_	_	_	_	id=s1.u3.w0
+2	est	_	_	_	_	_	_	_	id=s1.u3.w1
+3	fini	_	_	_	_	_	_	_	id=s1.u3.w2
+4	c'	_	_	_	_	_	_	_	id=s1.u3.w3
+5	est	_	_	_	_	_	_	_	id=s1.u3.w4
+6	ça	_	_	_	_	_	_	_	id=s1.u3.w5
+
+# sent_id = 2AP0195_4
+# text = je sais oui
+1	je	_	_	_	_	_	_	_	id=s1.u4.w0
+2	sais	_	_	_	_	_	_	_	id=s1.u4.w1
+3	oui	_	_	_	_	_	_	_	id=s1.u4.w2
+
+# sent_id = 2AP0195_5
+# text = ça va très vite e nous on en a plus hein
+1	ça	_	_	_	_	_	_	_	id=s1.u5.w0
+2	va	_	_	_	_	_	_	_	id=s1.u5.w1
+3	très	_	_	_	_	_	_	_	id=s1.u5.w2
+4	vite	_	_	_	_	_	_	_	id=s1.u5.w3
+5	e	_	_	_	_	_	_	_	id=s1.u5.w4
+6	nous	_	_	_	_	_	_	_	id=s1.u5.w5
+7	on	_	_	_	_	_	_	_	id=s1.u5.w6
+8	en	_	_	_	_	_	_	_	id=s1.u5.w7
+9	a	_	_	_	_	_	_	_	id=s1.u5.w8
+10	plus	_	_	_	_	_	_	_	id=s1.u5.w9
+11	hein	_	_	_	_	_	_	_	id=s1.u5.w10
+
+# sent_id = 2AP0195_6
+# text = entendu merci beaucoup
+1	entendu	_	_	_	_	_	_	_	id=s1.u6.w0
+2	merci	_	_	_	_	_	_	_	id=s1.u6.w1
+3	beaucoup	_	_	_	_	_	_	_	id=s1.u6.w2
+
+# sent_id = 2AP0195_7
+# text = au revoir monsieur
+1	au	_	_	_	_	_	_	_	id=s1.u7.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u7.w1
+3	monsieur	_	_	_	_	_	_	_	id=s1.u7.w2
+

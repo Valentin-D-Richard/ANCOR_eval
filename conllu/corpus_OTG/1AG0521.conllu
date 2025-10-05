@@ -1,0 +1,38 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0521_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AG0521_1
+# text = bonjour je voudrais l' adresse de clubs de montagne qui organisent des randonnées e en montagne
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	je	_	_	_	_	_	_	_	id=s1.u1.w1
+3	voudrais	_	_	_	_	_	_	_	id=s1.u1.w2
+4	l'	_	_	_	_	_	_	_	id=s1.u1.w3
+5	adresse	_	_	_	_	_	_	_	id=s1.u1.w4
+6	de	_	_	_	_	_	_	_	id=s1.u1.w5
+7	clubs	_	_	_	_	_	_	_	id=s1.u1.w6
+8	de	_	_	_	_	_	_	_	id=s1.u1.w7
+9	montagne	_	_	_	_	_	_	_	id=s1.u1.w8
+10	qui	_	_	_	_	_	_	_	id=s1.u1.w9
+11	organisent	_	_	_	_	_	_	_	id=s1.u1.w10
+12	des	_	_	_	_	_	_	_	id=s1.u1.w11
+13	randonnées	_	_	_	_	_	_	_	id=s1.u1.w12
+14	e	_	_	_	_	_	_	_	id=s1.u1.w13
+15	en	_	_	_	_	_	_	_	id=s1.u1.w14
+16	montagne	_	_	_	_	_	_	_	id=s1.u1.w15
+
+# sent_id = 1AG0521_2
+# text = " info montagne " au premier étage
+1	info	_	_	_	_	_	_	_	id=s1.u2.w1
+2	montagne	_	_	_	_	_	_	_	id=s1.u2.w2
+3	au	_	_	_	_	_	_	_	id=s1.u2.w4
+4	premier	_	_	_	_	_	_	_	id=s1.u2.w5
+5	étage	_	_	_	_	_	_	_	id=s1.u2.w6
+
+# sent_id = 1AG0521_3
+# text = d' accord merci
+1	d'	_	_	_	_	_	_	_	id=s1.u3.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u3.w1
+3	merci	_	_	_	_	_	_	_	id=s1.u3.w2
+

@@ -1,0 +1,175 @@
+# sent_id = 3AP0249_0
+# text = vous pouvez me dire si le château du Touvet on peut le visiter dimanche c' est encore visitable
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	id=s1.u0.w0
+2	pouvez	pouvoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u0.w1
+3	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	4	iobj	_	_none=|id=s1.u0.w2
+4	dire	dire	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u0.w3
+5	si	si	SCONJ	_	_	11	mark	_	_none=|id=s1.u0.w4
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	id=s1.u0.w5
+7	château	château	NOUN	_	Gender=Masc|Number=Sing	11	dislocated	_	_none=|id=s1.u0.w6
+8	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_none=|id=s1.u0.w7
+9	Touvet	Touvet	PROPN	_	_	7	nmod	_	_none=|id=s1.u0.w8
+10	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	11	nsubj	_	_none=|id=s1.u0.w9
+11	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_none=|id=s1.u0.w10
+12	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_none=|id=s1.u0.w11
+13	visiter	visiter	VERB	_	VerbForm=Inf	11	xcomp	_	id=s1.u0.w12
+14	dimanche	dimanche	NOUN	_	Gender=Masc|Number=Sing	13	obl:mod	_	_none=|id=s1.u0.w13
+15	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	18	nsubj	_	id=s1.u0.w14
+16	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	id=s1.u0.w15
+17	encore	encore	ADV	_	_	18	advmod	_	_none=|id=s1.u0.w16
+18	visitable	visitabler	ADJ	_	Number=Sing	4	ccomp	_	id=s1.u0.w17
+
+# sent_id = 3AP0249_1
+# text = je vais vous donner la plaquette
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u1.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u1.w2
+4	donner	donner	VERB	_	VerbForm=Inf	2	xcomp	_	id=s1.u1.w3
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	id=s1.u1.w4
+6	plaquette	plaquette	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	id=s1.u1.w5
+
+# sent_id = 3AP0249_2
+# text = ah oui est ce que vous avez aussi l' abbaye de Saint-Chef
+1	ah	ah	INTJ	_	_	4	discourse	_	_none=|id=s1.u2.w0
+2	oui	oui	ADV	_	_	4	discourse	_	_none=|id=s1.u2.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	id=s1.u2.w2
+4	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u2.w3
+5	que	que	SCONJ	_	_	7	mark	_	_none=|id=s1.u2.w4
+6	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_none=|id=s1.u2.w5
+7	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_none=|id=s1.u2.w6
+8	aussi	aussi	ADV	_	_	7	advmod	_	_none=|id=s1.u2.w7
+9	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	id=s1.u2.w8
+10	abbaye	abbaye	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	id=s1.u2.w9
+11	de	de	ADP	_	_	12	case	_	_none=|id=s1.u2.w10
+12	Saint-Chef	Sainterino	PROPN	_	_	10	nmod	_	id=s1.u2.w11
+
+# sent_id = 3AP0249_3
+# text = je crois pas qu' on aie quelque chose sur l' abbaye de Saint non e non
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u3.w0
+2	crois	croire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u3.w1
+3	pas	pas	ADV	_	Polarity=Neg	2	advmod	_	_none=|id=s1.u3.w2
+4	qu'	que	SCONJ	_	_	6	mark	_	_none=|id=s1.u3.w3
+5	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	nsubj	_	_none=|id=s1.u3.w4
+6	aie	aievoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	id=s1.u3.w5
+7	quelque	quelque	DET	_	Number=Sing	8	det	_	_none=|id=s1.u3.w6
+8	chose	chose	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	id=s1.u3.w7
+9	sur	sur	ADP	_	_	11	case	_	_none=|id=s1.u3.w8
+10	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	11	det	_	id=s1.u3.w9
+11	abbaye	abbaye	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	id=s1.u3.w10
+12	de	de	ADP	_	_	13	case	_	_none=|id=s1.u3.w11
+13	Saint	Saint	PROPN	_	_	11	nmod	_	id=s1.u3.w12
+14	non	non	ADV	_	Polarity=Neg	13	discourse	_	_none=|id=s1.u3.w13
+15	e	e	CCONJ	_	_	16	cc	_	_none=|id=s1.u3.w14
+16	non	non	ADV	_	Polarity=Neg	13	discourse	_	id=s1.u3.w15
+
+# sent_id = 3AP0249_4
+# text = vous avez pas Saint-Chef
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	id=s1.u4.w0
+2	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w1
+3	pas	pas	ADV	_	Polarity=Neg	2	advmod	_	_none=|id=s1.u4.w2
+4	Saint-Chef	Saint-chef	PROPN	_	_	2	obj	_	_none=|id=s1.u4.w3
+
+# sent_id = 3AP0249_5
+# text = merci comme autre château je sais que Sassenage Béranger on peut pas le visiter e à l' intérieur ça se visite pas le château de Vizille donnez moi e Longpra c' est fait Virieu c' est fait qu' est ce qui a comme autres e châteaux
+1	merci	merci	INTJ	_	_	6	discourse	_	_none=|id=s1.u5.w0
+2	comme	comme	ADP	_	_	4	case	_	_none=|id=s1.u5.w1
+3	autre	autre	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_none=|id=s1.u5.w2
+4	château	château	NOUN	_	Gender=Masc|Number=Sing	6	obl:mod	_	_none=|id=s1.u5.w3
+5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_none=|id=s1.u5.w4
+6	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u5.w5
+7	que	que	SCONJ	_	_	21	mark	_	_none=|id=s1.u5.w6
+8	Sassenage	Sassenage	PROPN	_	_	21	dislocated	_	_none=|id=s1.u5.w7
+9	Béranger	Béranger	PROPN	_	_	8	flat:name	_	_none=|id=s1.u5.w8
+10	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	11	nsubj	_	_none=|id=s1.u5.w9
+11	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_none=|id=s1.u5.w10
+12	pas	pas	ADV	_	Polarity=Neg	11	advmod	_	_none=|id=s1.u5.w11
+13	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_none=|id=s1.u5.w12
+14	visiter	visiter	VERB	_	VerbForm=Inf	11	xcomp	_	_none=|id=s1.u5.w13
+15	e	e	CCONJ	_	_	18	cc	_	_none=|id=s1.u5.w14
+16	à	à	ADP	_	_	18	case	_	_none=|id=s1.u5.w15
+17	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	18	det	_	_none=|id=s1.u5.w16
+18	intérieur	intérieur	NOUN	_	Gender=Masc|Number=Sing	11	obl:mod	_	_none=|id=s1.u5.w17
+19	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	21	nsubj	_	id=s1.u5.w18
+20	se	se	PRON	_	Person=3|PronType=Prs	21	expl:pass	_	id=s1.u5.w19
+21	visite	visiter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	id=s1.u5.w20
+22	pas	pas	ADV	_	Polarity=Neg	21	advmod	_	id=s1.u5.w21
+23	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	id=s1.u5.w22
+24	château	château	NOUN	_	Gender=Masc|Number=Sing	21	dislocated	_	_none=|id=s1.u5.w23
+25	de	de	ADP	_	_	26	case	_	id=s1.u5.w24
+26	Vizille	Vizille	PROPN	_	_	24	nmod	_	id=s1.u5.w25
+27	donnez	donir	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	discourse	_	_none=|id=s1.u5.w26
+28	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	14	dislocated	_	_none=|id=s1.u5.w27
+29	e	e	CCONJ	_	_	37	cc	_	_none=|id=s1.u5.w28
+30	Longpra	Longpra	PROPN	_	_	21	dislocated	_	_none=|id=s1.u5.w29
+31	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	33	nsubj	_	_none=|id=s1.u5.w30
+32	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	aux:pass	_	_none=|id=s1.u5.w31
+33	fait	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	40	acl:relcl	_	_none=|id=s1.u5.w32
+34	Virieu	Virieu	PROPN	_	_	40	dislocated	_	_none=|id=s1.u5.w33
+35	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	37	nsubj	_	id=s1.u5.w34
+36	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	aux:pass	_	id=s1.u5.w35
+37	fait	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	conj	_	_none=|id=s1.u5.w36
+38	qu'	que	PRON	_	Person=3|PronType=Int	40	acl:relcl	_	id=s1.u5.w37
+39	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	cop	_	id=s1.u5.w38
+40	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	21	dislocated	_	id=s1.u5.w39
+41	qui	qui	PRON	_	PronType=Rel	42	nsubj	_	_none=|id=s1.u5.w40
+42	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	acl:relcl	_	id=s1.u5.w41
+43	comme	comme	ADP	_	_	44	case	_	_none=|id=s1.u5.w42
+44	autres	autre	PRON	_	Gender=Masc|Number=Plur	42	obl:mod	_	id=s1.u5.w43
+45	e	e	DET	_	_	46	cc	_	id=s1.u5.w44
+46	châteaux	château	NOUN	_	Gender=Masc|Number=Plur	42	obj	_	id=s1.u5.w45
+
+# sent_id = 3AP0249_7
+# text = je vais vous laisser le " l' échappée belle " ils y sont tous
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u7.w0
+2	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u7.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u7.w2
+4	laisser	laisser	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u7.w3
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	id=s1.u7.w4
+6	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	_none=|id=s1.u7.w6
+7	échappée	échappé	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	id=s1.u7.w7
+8	belle	bel	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_none=|id=s1.u7.w8
+9	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	id=s1.u7.w10
+10	y	y	PRON	_	Person=3|PronType=Prs	11	iobj	_	id=s1.u7.w11
+11	sont	être	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	id=s1.u7.w12
+12	tous	tout	PRON	_	Gender=Masc|Number=Plur	11	obl:mod	_	id=s1.u7.w13
+
+# sent_id = 3AP0249_8
+# text = ah bon très bien très bien
+1	ah	ah	INTJ	_	_	4	discourse	_	_none=|id=s1.u8.w0
+2	bon	bon	INTJ	_	_	1	fixed	_	id=s1.u8.w1
+3	très	très	ADV	_	_	4	advmod	_	_none=|id=s1.u8.w2
+4	bien	bien	ADV	_	_	6	advmod	_	_none=|id=s1.u8.w3
+5	très	très	ADV	_	_	6	advmod	_	_none=|id=s1.u8.w4
+6	bien	bien	ADV	_	_	0	root	_	_none=|id=s1.u8.w5
+
+# sent_id = 3AP0249_10
+# text = alors voyez le Sassenage Béranger tenez ça et puis ça voilà
+1	alors	alors	ADV	_	_	2	advmod	_	_none=|id=s1.u10.w0
+2	voyez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	discourse	_	_none=|id=s1.u10.w1
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_none=|id=s1.u10.w2
+4	Sassenage	Sassenage	PROPN	_	Gender=Masc|Number=Sing	6	dislocated	_	_none=|id=s1.u10.w3
+5	Béranger	Béranger	PROPN	_	_	4	flat:name	_	_none=|id=s1.u10.w4
+6	tenez	tere	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u10.w5
+7	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	obj	_	id=s1.u10.w6
+8	et	et	CCONJ	_	_	6	conj	_	_none=|id=s1.u10.w7
+9	puis	puis	CCONJ	_	_	8	fixed	_	id=s1.u10.w8
+10	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	id=s1.u10.w9
+11	voilà	voilà	VERB	_	_	6	conj	_	id=s1.u10.w10
+
+# sent_id = 3AP0249_13
+# text = ah merci bien madame
+1	ah	ah	INTJ	_	_	2	discourse	_	_none=|id=s1.u13.w0
+2	merci	merci	ADV	_	_	0	root	_	_none=|id=s1.u13.w1
+3	bien	bien	ADV	_	_	2	advmod	_	_none=|id=s1.u13.w2
+4	madame	madame	NOUN	_	Gender=Fem|Number=Sing	2	vocative	_	id=s1.u13.w3
+
+# sent_id = 3AP0249_14
+# text = je vous en prie madame au revoir
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u14.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u14.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u14.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u14.w3
+5	madame	madame	NOUN	_	Gender=Fem|Number=Sing	4	vocative	_	id=s1.u14.w4
+6	au	au	ADP	_	_	7	case	_	_none=|id=s1.u14.w5
+7	revoir	revoir	VERB	_	VerbForm=Inf	5	acl	_	id=s1.u14.w6
+

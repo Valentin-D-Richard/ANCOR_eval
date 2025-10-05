@@ -1,0 +1,323 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0499_1
+# text = est ce que vous savez où ça se trouve la rue Jay de Grenoble
+1	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	id=s1.u1.w0
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u1.w1
+3	que	que	SCONJ	_	_	5	mark	_	_none=|id=s1.u1.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_none=|id=s1.u1.w3
+5	savez	savoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_none=|id=s1.u1.w4
+6	où	où	PRON	_	PronType=Rel	9	obl:mod	_	_none=|id=s1.u1.w5
+7	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	_none=|id=s1.u1.w6
+8	se	se	PRON	_	Person=3|PronType=Prs	9	expl:pass	_	id=s1.u1.w7
+9	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	id=s1.u1.w8
+10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	id=s1.u1.w9
+11	rue	rue	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	id=s1.u1.w10
+12	Jay	Jay	PROPN	_	_	11	nmod:appos	_	id=s1.u1.w11
+13	de	de	ADP	_	_	14	case	_	id=s1.u1.w12
+14	Grenoble	Grenoble	PROPN	_	_	12	nmod	_	id=s1.u1.w13
+
+# sent_id = 1AG0499_2
+# text = Jay
+1	Jay	Jay	PROPN	_	_	0	root	_	_none=|id=s1.u2.w0
+
+# sent_id = 1AG0499_3
+# text = J A Y
+1	J	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u3.w0
+2	A	A	PROPN	_	_	0	root	_	_none=|id=s1.u3.w1
+3	Y	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	dep	_	id=s1.u3.w2
+
+# sent_id = 1AG0499_4
+# text = je la connais mais je vois plus du tout où elle est là voilà rue du docteur Jay alors e hum vous connaissez un peu Grenoble
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	id=s1.u4.w0
+2	la	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	id=s1.u4.w1
+3	connais	connaître	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w2
+4	mais	mais	CCONJ	_	_	6	cc	_	_none=|id=s1.u4.w3
+5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_none=|id=s1.u4.w4
+6	vois	voir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	id=s1.u4.w5
+7	plus	plus	ADV	_	_	6	advmod	_	_none=|id=s1.u4.w6
+8	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_none=|id=s1.u4.w7
+9	tout	tout	NOUN	_	Gender=Masc|Number=Sing	24	fixed	_	_none=|id=s1.u4.w8
+10	où	où	PRON	_	PronType=Rel	6	obl:mod	_	_none=|id=s1.u4.w9
+11	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	id=s1.u4.w10
+12	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	id=s1.u4.w11
+13	là	là	ADV	_	_	10	advmod	_	_none=|id=s1.u4.w12
+14	voilà	voilà	VERB	_	_	15	discourse	_	id=s1.u4.w13
+15	rue	rue	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	id=s1.u4.w14
+16	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_none=|id=s1.u4.w15
+17	docteur	docteur	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_none=|id=s1.u4.w16
+18	Jay	Jay	PROPN	_	_	17	nmod	_	id=s1.u4.w17
+19	alors	alors	ADV	_	_	23	discourse	_	_none=|id=s1.u4.w18
+20	e	e	PRON	_	_	19	dep	_	id=s1.u4.w19
+21	hum	hum	INTJ	_	_	23	discourse	_	_none=|id=s1.u4.w20
+22	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	23	nsubj	_	_none=|id=s1.u4.w21
+23	connaissez	connaître	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	conj	_	id=s1.u4.w22
+24	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	advmod	_	_none=|id=s1.u4.w23
+25	peu	peu	NOUN	_	Gender=Masc|Number=Sing	24	fixed	_	id=s1.u4.w24
+26	Grenoble	Grenoble	PROPN	_	_	23	obj	_	id=s1.u4.w25
+
+# sent_id = 1AG0499_5
+# text = un petit peu ouais
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_none=|id=s1.u5.w0
+2	petit	petit	ADJ	_	Gender=Masc|Number=Sing	1	fixed	_	_none=|id=s1.u5.w1
+3	peu	peu	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_none=|id=s1.u5.w2
+4	ouais	ouais	INTJ	_	_	0	root	_	id=s1.u5.w3
+
+# sent_id = 1AG0499_6
+# text = e vous voyez mais je me la suis marquée sur un plan vous voyez l' avenue Alsace Lorraine
+1	e	e	SCONJ	_	_	3	mark	_	_none=|id=s1.u6.w0
+2	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_none=|id=s1.u6.w1
+3	voyez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	discourse	_	_none=|id=s1.u6.w2
+4	mais	mais	CCONJ	_	_	9	cc	_	_none=|id=s1.u6.w3
+5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	id=s1.u6.w4
+6	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	9	iobj	_	id=s1.u6.w5
+7	la	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	id=s1.u6.w6
+8	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux:tense	_	id=s1.u6.w7
+9	marquée	marquer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	id=s1.u6.w8
+10	sur	sur	ADP	_	_	12	case	_	_none=|id=s1.u6.w9
+11	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_none=|id=s1.u6.w10
+12	plan	plan	NOUN	_	Gender=Masc|Number=Sing	9	obl:mod	_	_none=|id=s1.u6.w11
+13	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	14	nsubj	_	_none=|id=s1.u6.w12
+14	voyez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	discourse	_	id=s1.u6.w13
+15	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	16	det	_	id=s1.u6.w14
+16	avenue	avenue	NOUN	_	Gender=Fem|Number=Sing	14	obj	_	id=s1.u6.w15
+17	Alsace	Alsace	PROPN	_	_	16	nmod:appos	_	id=s1.u6.w16
+18	Lorraine	Lorraine	PROPN	_	_	16	nmod:appos	_	id=s1.u6.w17
+
+# sent_id = 1AG0499_7
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u7.w0
+
+# sent_id = 1AG0499_8
+# text = voilà donc là vous avez l' avenue Alsace Lorraine cours Jean Jacques rue Jay pas facile elle est très simple à trouver qu' est ce qu' il y a comme e ici il y a une école
+1	voilà	voilà	VERB	_	_	5	discourse	_	_none=|id=s1.u8.w0
+2	donc	donc	ADV	_	_	5	advmod	_	_none=|id=s1.u8.w1
+3	là	là	ADV	_	_	5	advmod	_	_none=|id=s1.u8.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	id=s1.u8.w3
+5	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u8.w4
+6	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	id=s1.u8.w5
+7	avenue	avenue	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	id=s1.u8.w6
+8	Alsace	Alsace	PROPN	_	_	7	nmod:appos	_	id=s1.u8.w7
+9	Lorraine	Lorraine	PROPN	_	_	13	nmod:appos	_	id=s1.u8.w8
+10	cours	cours	NOUN	_	Gender=Masc|Number=Plur	13	conj	_	id=s1.u8.w9
+11	Jean	Jean	PROPN	_	_	13	nmod:appos	_	_none=|id=s1.u8.w10
+12	Jacques	Jacques	PROPN	_	_	13	nmod:appos	_	id=s1.u8.w11
+13	rue	rue	NOUN	_	Gender=Fem|Number=Sing	20	conj	_	id=s1.u8.w12
+14	Jay	Jay	PROPN	_	_	13	nmod:appos	_	id=s1.u8.w13
+15	pas	pas	ADV	_	Polarity=Neg	16	advmod	_	_none=|id=s1.u8.w14
+16	facile	facile	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	_none=|id=s1.u8.w15
+17	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	id=s1.u8.w16
+18	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	id=s1.u8.w17
+19	très	très	ADV	_	_	20	advmod	_	_none=|id=s1.u8.w18
+20	simple	simple	ADJ	_	Gender=Fem|Number=Sing	7	acl:relcl	_	id=s1.u8.w19
+21	à	à	ADP	_	_	22	mark	_	_none=|id=s1.u8.w20
+22	trouver	trouver	VERB	_	VerbForm=Inf	20	advcl	_	_none=|id=s1.u8.w21
+23	qu'	que	PRON	_	ExtPos=PRON|Person=3|PronType=Int	20	acl:relcl	_	id=s1.u8.w22
+24	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	fixed	_	id=s1.u8.w23
+25	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	23	fixed	_	id=s1.u8.w24
+26	qu'	que	PRON	_	PronType=Rel	23	fixed	_	id=s1.u8.w25
+27	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	expl:subj	_	_none=|id=s1.u8.w26
+28	y	y	PRON	_	Person=3|PronType=Prs	29	expl:comp	_	id=s1.u8.w27
+29	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	id=s1.u8.w28
+30	comme	comme	ADP	_	_	29	mark	_	_none=|id=s1.u8.w29
+31	e	e	PRON	_	_	35	reparandum	_	id=s1.u8.w30
+32	ici	ici	ADV	_	_	35	advmod	_	_none=|id=s1.u8.w31
+33	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	expl:subj	_	_none=|id=s1.u8.w32
+34	y	y	PRON	_	Person=3|PronType=Prs	35	expl:comp	_	id=s1.u8.w33
+35	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	id=s1.u8.w34
+36	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	37	det	_	id=s1.u8.w35
+37	école	école	NOUN	_	Gender=Fem|Number=Sing	35	obj	_	id=s1.u8.w36
+
+# sent_id = 1AG0499_9
+# text = Alsace Lorraine c' est à côté de rue Thiers non
+1	Alsace	Alsace	PROPN	_	_	4	dislocated	_	_none=|id=s1.u9.w0
+2	Lorraine	Lorraine	PROPN	_	_	1	flat:name	_	_none=|id=s1.u9.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	id=s1.u9.w2
+4	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u9.w3
+5	à	à	ADP	_	_	6	case	_	_none=|id=s1.u9.w4
+6	côté	côté	NOUN	_	Gender=Masc|Number=Sing	4	obl:arg	_	_none=|id=s1.u9.w5
+7	de	de	ADP	_	_	8	case	_	_none=|id=s1.u9.w6
+8	rue	rue	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	id=s1.u9.w7
+9	Thiers	Thiers	PROPN	_	_	8	nmod:appos	_	_none=|id=s1.u9.w8
+10	non	non	ADV	_	Polarity=Neg	8	discourse	_	id=s1.u9.w9
+
+# sent_id = 1AG0499_10
+# text = e oui la rue Thiers est là voilà voyez vous êtes en voiture là
+1	e	e	CCONJ	_	_	7	cc	_	_none=|id=s1.u10.w0
+2	oui	oui	INTJ	_	_	7	discourse	_	_none=|id=s1.u10.w1
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	id=s1.u10.w2
+4	rue	rue	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	id=s1.u10.w3
+5	Thiers	Thiers	PROPN	_	_	4	nmod:appos	_	_none=|id=s1.u10.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_none=|id=s1.u10.w5
+7	là	là	ADV	_	_	0	root	_	_none=|id=s1.u10.w6
+8	voilà	voilà	VERB	_	_	11	discourse	_	_none=|id=s1.u10.w7
+9	voyez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	discourse	_	id=s1.u10.w8
+10	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	11	nsubj	_	_none=|id=s1.u10.w9
+11	êtes	être	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	advcl	_	_none=|id=s1.u10.w10
+12	en	en	ADP	_	_	13	case	_	_none=|id=s1.u10.w11
+13	voiture	voiture	NOUN	_	Gender=Fem|Number=Sing	11	obl:arg	_	id=s1.u10.w12
+14	là	là	ADV	_	_	11	advmod	_	_none=|id=s1.u10.w13
+
+# sent_id = 1AG0499_11
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u11.w0
+
+# sent_id = 1AG0499_12
+# text = bon vous allez faire ça rue de la République donc ici vous descendez vous prenez la rue place Grenette rue Montorge
+1	bon	bon	INTJ	_	_	3	discourse	_	_none=|id=s1.u12.w0
+2	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	id=s1.u12.w1
+3	allez	aller	VERB	ETRE	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u12.w2
+4	faire	faire	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u12.w3
+5	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	obj	_	_none=|id=s1.u12.w4
+6	rue	rue	NOUN	_	Gender=Fem|Number=Sing	3	obl:mod	_	_none=|id=s1.u12.w5
+7	de	de	ADP	_	_	9	case	_	_none=|id=s1.u12.w6
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	id=s1.u12.w7
+9	République	République	PROPN	_	_	6	nmod	_	_none=|id=s1.u12.w8
+10	donc	donc	ADV	_	_	13	cc	_	_none=|id=s1.u12.w9
+11	ici	ici	ADV	_	_	13	advmod	_	_none=|id=s1.u12.w10
+12	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	13	nsubj	_	_none=|id=s1.u12.w11
+13	descendez	descenir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	15	reparandum	_	_none=|id=s1.u12.w12
+14	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	15	nsubj	_	id=s1.u12.w13
+15	prenez	preir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	ccomp	_	id=s1.u12.w14
+16	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	id=s1.u12.w15
+17	rue	rue	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	id=s1.u12.w16
+18	place	place	NOUN	_	Gender=Fem|Number=Sing	17	appos	_	id=s1.u12.w17
+19	Grenette	Grenette	PROPN	_	_	18	nmod:appos	_	id=s1.u12.w18
+20	rue	rue	NOUN	_	Gender=Fem|Number=Sing	15	conj	_	id=s1.u12.w19
+21	Montorge	Montorge	PROPN	_	_	20	nmod:appos	_	id=s1.u12.w20
+
+# sent_id = 1AG0499_13
+# text = ouais après Félix Viallet là
+1	ouais	ouais	INTJ	_	_	3	discourse	_	_none=|id=s1.u13.w0
+2	après	après	ADP	_	_	3	case	_	_none=|id=s1.u13.w1
+3	Félix	Félix	PROPN	_	_	0	root	_	_none=|id=s1.u13.w2
+4	Viallet	Viallet	PROPN	_	_	3	flat:name	_	_none=|id=s1.u13.w3
+5	là	là	ADV	_	_	3	discourse	_	_none=|id=s1.u13.w4
+
+# sent_id = 1AG0499_14
+# text = Félix Viallet hop hop hop
+1	Félix	Félix	PROPN	_	_	0	root	_	_none=|id=s1.u14.w0
+2	Viallet	Viallet	PROPN	_	_	1	flat:name	_	_none=|id=s1.u14.w1
+3	hop	hop	INTJ	_	Gender=Masc|Number=Sing	1	acl:relcl	_	_none=|id=s1.u14.w2
+4	hop	hop	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_none=|id=s1.u14.w3
+5	hop	hop	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_none=|id=s1.u14.w4
+
+# sent_id = 1AG0499_16
+# text = après Alsace e Gambetta non non
+1	après	après	ADP	_	_	2	case	_	_none=|id=s1.u16.w0
+2	Alsace	Alsace	PROPN	_	_	0	root	_	_none=|id=s1.u16.w1
+3	e	e	CCONJ	_	_	4	cc	_	id=s1.u16.w2
+4	Gambetta	Gambetta	PROPN	_	_	2	conj	_	id=s1.u16.w3
+5	non	non	ADV	_	Polarity=Neg	2	discourse	_	_none=|id=s1.u16.w4
+6	non	non	ADV	_	Polarity=Neg	5	conj	_	id=s1.u16.w5
+
+# sent_id = 1AG0499_17
+# text = non cours Jean Jaurès
+1	non	non	ADV	_	Polarity=Neg	2	advmod	_	_none=|id=s1.u17.w0
+2	cours	cours	NOUN	_	Gender=Masc	0	root	_	id=s1.u17.w1
+3	Jean	Jean	PROPN	_	_	2	dislocated	_	_none=|id=s1.u17.w2
+4	Jaurès	Jaurès	PROPN	_	_	3	flat:name	_	id=s1.u17.w3
+
+# sent_id = 1AG0499_18
+# text = cours Jean Jaurès
+1	cours	cours	NOUN	_	Gender=Masc	0	root	_	id=s1.u18.w0
+2	Jean	Jean	PROPN	_	_	1	nmod:appos	_	_none=|id=s1.u18.w1
+3	Jaurès	Jaurès	PROPN	_	_	2	flat:name	_	id=s1.u18.w2
+
+# sent_id = 1AG0499_19
+# text = dans le sens
+1	dans	dans	ADP	_	_	3	case	_	_none=|id=s1.u19.w0
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_none=|id=s1.u19.w1
+3	sens	sens	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u19.w2
+
+# sent_id = 1AG0499_20
+# text = hum hum
+1	hum	hum	INTJ	_	_	0	root	_	_none=|id=s1.u20.w0
+2	hum	hum	INTJ	_	_	1	fixed	_	_none=|id=s1.u20.w1
+
+# sent_id = 1AG0499_21
+# text = e non houlala prenez rue Billerey et là vous arrivez sur et à droite
+1	e	e	PRON	_	_	2	nsubj	_	_none=|id=s1.u21.w0
+2	non	non	ADV	_	_	4	discourse	_	_none=|id=s1.u21.w1
+3	houlala	houlala	INTJ	_	_	4	discourse	_	_none=|id=s1.u21.w2
+4	prenez	prenoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u21.w3
+5	rue	rue	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	id=s1.u21.w4
+6	Billerey	Billerey	PROPN	_	_	5	nmod:appos	_	id=s1.u21.w5
+7	et	et	CCONJ	_	_	10	cc	_	_none=|id=s1.u21.w6
+8	là	là	ADV	_	_	10	advmod	_	_none=|id=s1.u21.w7
+9	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	10	nsubj	_	id=s1.u21.w8
+10	arrivez	arriver	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	id=s1.u21.w9
+11	sur	sur	ADP	_	_	14	case	_	_none=|id=s1.u21.w10
+12	et	et	CCONJ	_	_	14	cc	_	id=s1.u21.w11
+13	à	à	ADP	_	_	14	case	_	id=s1.u21.w12
+14	droite	droite	NOUN	_	Gender=Fem|Number=Sing	10	obl:mod	_	id=s1.u21.w13
+
+# sent_id = 1AG0499_22
+# text = la rue Jay c' est sur la droite parce que et c' est dans le coin Jean Jaurès de toute façon
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	id=s1.u22.w0
+2	rue	rue	NOUN	_	Gender=Fem|Number=Sing	5	dislocated	_	id=s1.u22.w1
+3	Jay	Jay	PROPN	_	_	2	nmod:appos	_	id=s1.u22.w2
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_none=|id=s1.u22.w3
+5	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u22.w4
+6	sur	sur	ADP	_	_	8	case	_	_none=|id=s1.u22.w5
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	id=s1.u22.w6
+8	droite	droite	NOUN	_	Gender=Fem|Number=Sing	5	obl:arg	_	id=s1.u22.w7
+9	parce	parce	ADV	_	_	13	mark	_	_none=|id=s1.u22.w8
+10	que	que	SCONJ	_	_	9	fixed	_	id=s1.u22.w9
+11	et	et	CCONJ	_	_	13	cc	_	_none=|id=s1.u22.w10
+12	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj	_	_none=|id=s1.u22.w11
+13	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_none=|id=s1.u22.w12
+14	dans	dans	ADP	_	_	16	case	_	_none=|id=s1.u22.w13
+15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_none=|id=s1.u22.w14
+16	coin	coin	NOUN	_	Gender=Masc|Number=Sing	13	obl:arg	_	_none=|id=s1.u22.w15
+17	Jean	Jean	PROPN	_	_	16	nmod:appos	_	_none=|id=s1.u22.w16
+18	Jaurès	Jaurès	PROPN	_	_	17	flat:name	_	id=s1.u22.w17
+19	de	de	ADP	_	_	21	case	_	_none=|id=s1.u22.w18
+20	toute	tout	DET	_	Gender=Fem|Number=Sing|PronType=Ind	21	det	_	id=s1.u22.w19
+21	façon	façon	NOUN	_	Gender=Fem|Number=Sing	13	obl:mod	_	id=s1.u22.w20
+
+# sent_id = 1AG0499_23
+# text = cours Jean Jaurès sur la gauche cours Jean sur la gauche vous prenez la rue Billerey Billerey
+1	cours	cours	NOUN	_	_	7	reparandum	_	_none=|id=s1.u23.w0
+2	Jean	Jean	PROPN	_	_	1	appos	_	_none=|id=s1.u23.w1
+3	Jaurès	Jaurès	PROPN	_	_	8	flat:name	_	_none=|id=s1.u23.w2
+4	sur	sur	ADP	_	_	6	case	_	_none=|id=s1.u23.w3
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	id=s1.u23.w4
+6	gauche	gauche	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	id=s1.u23.w5
+7	cours	cours	NOUN	_	Gender=Masc	13	dislocated	_	id=s1.u23.w6
+8	Jean	Jean	PROPN	_	_	7	nmod:appos	_	_none=|id=s1.u23.w7
+9	sur	sur	ADP	_	_	11	case	_	_none=|id=s1.u23.w8
+10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	id=s1.u23.w9
+11	gauche	gauche	NOUN	_	Gender=Fem|Number=Sing	13	obl:mod	_	id=s1.u23.w10
+12	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	13	nsubj	_	id=s1.u23.w11
+13	prenez	prenoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u23.w12
+14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	id=s1.u23.w13
+15	rue	rue	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	id=s1.u23.w14
+16	Billerey	Billerey	PROPN	_	_	15	discourse	_	id=s1.u23.w15
+17	Billerey	Billerey	PROPN	_	_	15	nmod:appos	_	id=s1.u23.w16
+
+# sent_id = 1AG0499_24
+# text = ah bon c' est bon je vois j' y vais quoi c' est bon merci bien au revoir
+1	ah	ah	INTJ	_	_	5	discourse	_	_none=|id=s1.u24.w0
+2	bon	bon	INTJ	_	_	1	fixed	_	id=s1.u24.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	expl:subj	_	_none=|id=s1.u24.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u24.w3
+5	bon	bon	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u24.w4
+6	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_none=|id=s1.u24.w5
+7	vois	voir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	reparandum	_	id=s1.u24.w6
+8	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	id=s1.u24.w7
+9	y	y	PRON	_	Person=3|PronType=Prs	10	iobj	_	id=s1.u24.w8
+10	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	advcl	_	ClauseType=Int|id=s1.u24.w9
+11	quoi	quoi	PRON	_	PronType=Int	10|10	cue:wh|obj	_	id=s1.u24.w10|PhraseType=Int
+12	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	_none=|id=s1.u24.w11
+13	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	id=s1.u24.w12
+14	bon	bon	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	_none=|id=s1.u24.w13
+15	merci	merci	ADV	_	_	5	conj	_	_none=|id=s1.u24.w14
+16	bien	bien	ADV	_	_	15	advmod	_	_none=|id=s1.u24.w15
+17	au	au	ADP	_	_	18	case	_	_none=|id=s1.u24.w16
+18	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	15	advcl	_	id=s1.u24.w17
+
+# sent_id = 1AG0499_25
+# text = de rien
+1	de	de	ADP	_	_	2	case	_	_none=|id=s1.u25.w0
+2	rien	rien	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	0	root	_	_none=|id=s1.u25.w1
+

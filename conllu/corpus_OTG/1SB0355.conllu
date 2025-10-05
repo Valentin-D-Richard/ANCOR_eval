@@ -1,0 +1,72 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0355_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1SB0355_1
+# text = est ce que je pourrais avoir e le plan de Grenoble avec les trams
+1	est	_	_	_	_	_	_	_	id=s1.u1.w0
+2	ce	_	_	_	_	_	_	_	id=s1.u1.w1
+3	que	_	_	_	_	_	_	_	id=s1.u1.w2
+4	je	_	_	_	_	_	_	_	id=s1.u1.w3
+5	pourrais	_	_	_	_	_	_	_	id=s1.u1.w4
+6	avoir	_	_	_	_	_	_	_	id=s1.u1.w5
+7	e	_	_	_	_	_	_	_	id=s1.u1.w6
+8	le	_	_	_	_	_	_	_	id=s1.u1.w7
+9	plan	_	_	_	_	_	_	_	id=s1.u1.w8
+10	de	_	_	_	_	_	_	_	id=s1.u1.w9
+11	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w10
+12	avec	_	_	_	_	_	_	_	id=s1.u1.w11
+13	les	_	_	_	_	_	_	_	id=s1.u1.w12
+14	trams	_	_	_	_	_	_	_	id=s1.u1.w13
+
+# sent_id = 1SB0355_2
+# text = ah le plan des transports alors
+1	ah	_	_	_	_	_	_	_	id=s1.u2.w0
+2	le	_	_	_	_	_	_	_	id=s1.u2.w1
+3	plan	_	_	_	_	_	_	_	id=s1.u2.w2
+4	des	_	_	_	_	_	_	_	id=s1.u2.w3
+5	transports	_	_	_	_	_	_	_	id=s1.u2.w4
+6	alors	_	_	_	_	_	_	_	id=s1.u2.w5
+
+# sent_id = 1SB0355_3
+# text = les transports oui e Grenoble il y a que les trams et
+1	les	_	_	_	_	_	_	_	id=s1.u3.w0
+2	transports	_	_	_	_	_	_	_	id=s1.u3.w1
+3	oui	_	_	_	_	_	_	_	id=s1.u3.w2
+4	e	_	_	_	_	_	_	_	id=s1.u3.w3
+5	Grenoble	_	_	_	_	_	_	_	id=s1.u3.w4
+6	il	_	_	_	_	_	_	_	id=s1.u3.w5
+7	y	_	_	_	_	_	_	_	id=s1.u3.w6
+8	a	_	_	_	_	_	_	_	id=s1.u3.w7
+9	que	_	_	_	_	_	_	_	id=s1.u3.w8
+10	les	_	_	_	_	_	_	_	id=s1.u3.w9
+11	trams	_	_	_	_	_	_	_	id=s1.u3.w10
+12	et	_	_	_	_	_	_	_	id=s1.u3.w11
+
+# sent_id = 1SB0355_4
+# text = les bus et tout c' est la TAG
+1	les	_	_	_	_	_	_	_	id=s1.u4.w0
+2	bus	_	_	_	_	_	_	_	id=s1.u4.w1
+3	et	_	_	_	_	_	_	_	id=s1.u4.w2
+4	tout	_	_	_	_	_	_	_	id=s1.u4.w3
+5	c'	_	_	_	_	_	_	_	id=s1.u4.w4
+6	est	_	_	_	_	_	_	_	id=s1.u4.w5
+7	la	_	_	_	_	_	_	_	id=s1.u4.w6
+8	TAG	_	_	_	_	_	_	_	id=s1.u4.w7
+
+# sent_id = 1SB0355_5
+# text = 
+
+# sent_id = 1SB0355_6
+# text = faut que je demande à
+1	faut	_	_	_	_	_	_	_	id=s1.u6.w0
+2	que	_	_	_	_	_	_	_	id=s1.u6.w1
+3	je	_	_	_	_	_	_	_	id=s1.u6.w2
+4	demande	_	_	_	_	_	_	_	id=s1.u6.w3
+5	à	_	_	_	_	_	_	_	id=s1.u6.w4
+
+# sent_id = 1SB0355_7
+# text = ouais
+1	ouais	_	_	_	_	_	_	_	id=s1.u7.w0
+

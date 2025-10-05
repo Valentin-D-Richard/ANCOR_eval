@@ -1,0 +1,33 @@
+# sent_id = 1SB0124_0
+# text = bonjour je voudrais un plan de Grenoble s' il vous plaît
+1	bonjour	bonjour	NOUN	_	Gender=Masc|Number=Sing	3	discourse	_	_none=|id=s1.u0.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u0.w1
+3	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u0.w2
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	id=s1.u0.w3
+5	plan	plan	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_none=|id=s1.u0.w4
+6	de	de	ADP	_	_	7	case	_	id=s1.u0.w5
+7	Grenoble	Grenoble	PROPN	_	_	5	nmod	_	id=s1.u0.w6
+8	s'	s'	SCONJ	_	_	11	mark	_	_none=|id=s1.u0.w7
+9	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl:subj	_	_none=|id=s1.u0.w8
+10	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	11	iobj	_	_none=|id=s1.u0.w9
+11	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	discourse	_	_none=|id=s1.u0.w10
+
+# sent_id = 1SB0124_2
+# text = oui voilà
+1	oui	oui	INTJ	_	_	2	discourse	_	_none=|id=s1.u2.w0
+2	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u2.w1
+
+# sent_id = 1SB0124_3
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1SB0124_4
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u4.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u4.w1
+
+# sent_id = 1SB0124_5
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u5.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u5.w1
+

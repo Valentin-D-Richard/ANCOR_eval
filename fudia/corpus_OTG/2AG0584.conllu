@@ -1,0 +1,138 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2AG0584_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 2AG0584_1
+# text = bonjour je voudrais savoir si vous donnez des plans des pistes cyclables de Grenoble merci et e une autre chose mais je sais pas si c' est si ça concerne l' Office du Tourisme
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	savoir	savoir	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u1.w3
+5	si	si	SCONJ	_	_	7|7	cue:mark|mark	_	_none=|id=s1.u1.w4
+6	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_none=|id=s1.u1.w5
+7	donnez	donre	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	ccomp	_	_none=|id=s1.u1.w6|ClauseType=Int
+8	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	9	det	_	id=s1.u1.w7
+9	plans	plan	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	id=s1.u1.w8
+10	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	11	det	_	id=s1.u1.w9
+11	pistes	piste	NOUN	_	Gender=Fem|Number=Plur	9	nmod	_	id=s1.u1.w10
+12	cyclables	cyclable	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	id=s1.u1.w11
+13	de	de	ADP	_	_	14	case	_	_none=|id=s1.u1.w12
+14	Grenoble	Grenoble	PROPN	_	_	11	nmod	_	_none=|id=s1.u1.w13
+15	merci	merci	INTJ	_	_	7	discourse	_	_none=|id=s1.u1.w14
+16	et	et	CCONJ	_	_	20	cc	_	_none=|id=s1.u1.w15
+17	e	e	ADP	_	_	20	case	_	_none=|id=s1.u1.w16
+18	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	id=s1.u1.w17
+19	autre	autre	ADJ	_	Gender=Fem|Number=Sing	20	amod	_	_none=|id=s1.u1.w18
+20	chose	chose	NOUN	_	Gender=Fem|Number=Sing	7	obl:mod	_	id=s1.u1.w19
+21	mais	mais	CCONJ	_	_	23	cc	_	_none=|id=s1.u1.w20
+22	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	23	nsubj	_	_none=|id=s1.u1.w21
+23	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	id=s1.u1.w22
+24	pas	pas	ADV	_	Polarity=Neg	23	advmod	_	_none=|id=s1.u1.w23
+25	si	si	SCONJ	_	_	30	mark	_	_none=|id=s1.u1.w24
+26	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	27	nsubj	_	_none=|id=s1.u1.w25
+27	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	ccomp	_	id=s1.u1.w26
+28	si	si	SCONJ	_	_	30	mark	_	_none=|id=s1.u1.w27
+29	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	30	nsubj	_	id=s1.u1.w28
+30	concerne	concerner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	advcl	_	id=s1.u1.w29
+31	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	32	det	_	id=s1.u1.w30
+32	Office	Office	PROPN	_	_	30	obj	_	_none=|id=s1.u1.w31
+33	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	34	det	_	id=s1.u1.w32
+34	Tourisme	Tourisme	PROPN	_	_	32	nmod	_	id=s1.u1.w33
+
+# sent_id = 2AG0584_3
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 2AG0584_4
+# text = j' ai e trois amies anglaises qui voudraient venir e passer une année en France
+1	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	id=s1.u4.w0
+2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux:tense	_	id=s1.u4.w1
+3	e	er	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u4.w2
+4	trois	trois	NUM	_	Number=Plur	5	nummod	_	_none=|id=s1.u4.w3
+5	amies	amie	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	id=s1.u4.w4
+6	anglaises	anglaise	ADJ	_	Gender=Fem|Number=Plur	5	amod	_	_none=|id=s1.u4.w5
+7	qui	qui	PRON	_	PronType=Rel	8	nsubj	_	_none=|id=s1.u4.w6
+8	voudraient	voudroir	VERB	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_none=|id=s1.u4.w7
+9	venir	venir	VERB	_	VerbForm=Inf	8	xcomp	_	_none=|id=s1.u4.w8
+10	e	e	ADP	_	_	11	mark	_	_none=|id=s1.u4.w9
+11	passer	passer	VERB	_	VerbForm=Inf	9	conj	_	id=s1.u4.w10
+12	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	id=s1.u4.w11
+13	année	année	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	id=s1.u4.w12
+14	en	en	ADP	_	_	15	case	_	id=s1.u4.w13
+15	France	France	PROPN	_	_	11	obl:mod	_	id=s1.u4.w14
+
+# sent_id = 2AG0584_5
+# text = hum
+1	hum	hum	INTJ	_	_	0	root	_	_none=|id=s1.u5.w0
+
+# sent_id = 2AG0584_6
+# text = donc dans la région peut être mais qui voudraient trouver un travail elles sont
+1	donc	donc	ADV	_	_	5	advmod	_	_none=|id=s1.u6.w0
+2	dans	dans	ADP	_	_	4	case	_	_none=|id=s1.u6.w1
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_none=|id=s1.u6.w2
+4	région	région	NOUN	_	Gender=Fem|Number=Sing	5	obl:mod	_	_none=|id=s1.u6.w3
+5	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u6.w4
+6	être	être	VERB	_	VerbForm=Inf	5	xcomp	_	_none=|id=s1.u6.w5
+7	mais	mais	CCONJ	_	_	9	cc	_	_none=|id=s1.u6.w6
+8	qui	qui	PRON	_	PronType=Rel	9	nsubj	_	_none=|id=s1.u6.w7
+9	voudraient	voudrloir	VERB	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_none=|id=s1.u6.w8
+10	trouver	trouver	VERB	_	VerbForm=Inf	9	xcomp	_	id=s1.u6.w9
+11	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	id=s1.u6.w10
+12	travail	travail	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	id=s1.u6.w11
+13	elles	il	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	id=s1.u6.w12
+14	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	id=s1.u6.w13
+
+# sent_id = 2AG0584_8
+# text = elles sont e étudiantes
+1	elles	il	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	id=s1.u8.w0
+2	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_none=|id=s1.u8.w1
+3	e	e	DET	_	_	4	det	_	id=s1.u8.w2
+4	étudiantes	étudiante	ADJ	_	Gender=Fem|Number=Plur	0	root	_	id=s1.u8.w3
+
+# sent_id = 2AG0584_9
+# text = elles sont étudiantes
+1	elles	il	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	id=s1.u9.w0
+2	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_none=|id=s1.u9.w1
+3	étudiantes	étudiante	ADJ	_	Gender=Fem|Number=Plur	0	root	_	id=s1.u9.w2
+
+# sent_id = 2AG0584_10
+# text = faut voir au CRIJ vous descendez rue Voltaire au huit C R I J CRIJ oui c' est là entre les deux immeubles il y a une rue qui descend
+1	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u10.w0
+2	voir	voir	VERB	_	VerbForm=Inf	1	ccomp	_	_none=|id=s1.u10.w1
+3	au	au	ADP	_	_	4	case	_	_none=|id=s1.u10.w2
+4	CRIJ	CRIJ	PROPN	_	_	6	obl:mod	_	_none=|id=s1.u10.w3
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	id=s1.u10.w4
+6	descendez	descender	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	19	ccomp	_	id=s1.u10.w5
+7	rue	rue	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	id=s1.u10.w6
+8	Voltaire	Voltaire	PROPN	_	_	7	nmod:appos	_	id=s1.u10.w7
+9	au	au	ADP	_	_	10	case	_	_none=|id=s1.u10.w8
+10	huit	huit	NUM	_	Number=Plur	4	nmod	_	_none=|id=s1.u10.w9
+11	C	C	PROPN	_	_	4	conj	_	_none=|id=s1.u10.w10
+12	R	R	PROPN	_	_	11	flat:name	_	_none=|id=s1.u10.w11
+13	I	I	PROPN	_	_	11	flat:name	_	_none=|id=s1.u10.w12
+14	J	J	PROPN	_	_	15	flat:name	_	_none=|id=s1.u10.w13
+15	CRIJ	CRIJ	PROPN	_	_	4	appos	_	_none=|id=s1.u10.w14
+16	oui	oui	ADV	_	_	19	discourse	_	_none=|id=s1.u10.w15
+17	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	18	nsubj	_	_none=|id=s1.u10.w16
+18	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	id=s1.u10.w17
+19	là	là	ADV	_	_	1	advmod	_	_none=|id=s1.u10.w18
+20	entre	entre	ADP	_	_	23	case	_	_none=|id=s1.u10.w19
+21	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	23	det	_	id=s1.u10.w20
+22	deux	deux	NUM	_	Number=Plur	23	nummod	_	_none=|id=s1.u10.w21
+23	immeubles	immeuble	NOUN	_	Gender=Masc|Number=Plur	6	obl:mod	_	_none=|id=s1.u10.w22
+24	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	expl:subj	_	_none=|id=s1.u10.w23
+25	y	y	PRON	_	Person=3|PronType=Prs	26	expl:comp	_	id=s1.u10.w24
+26	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	id=s1.u10.w25
+27	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	28	det	_	id=s1.u10.w26
+28	rue	rue	NOUN	_	Gender=Fem|Number=Sing	26	obj	_	id=s1.u10.w27
+29	qui	qui	PRON	_	PronType=Rel	30	nsubj	_	id=s1.u10.w28
+30	descend	descendre	VERB	ETRE	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	acl:relcl	_	id=s1.u10.w29
+
+# sent_id = 2AG0584_12
+# text = CRIJ d' accord merci
+1	CRIJ	CRIJ	PROPN	_	_	0	root	_	_none=|id=s1.u12.w0
+2	d'	de	ADP	_	_	3	case	_	_none=|id=s1.u12.w1
+3	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	id=s1.u12.w2
+4	merci	merci	INTJ	_	Number=Sing	1	amod	_	_none=|id=s1.u12.w3
+

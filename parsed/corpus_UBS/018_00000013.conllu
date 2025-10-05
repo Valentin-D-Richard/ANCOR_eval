@@ -1,0 +1,78 @@
+# sent_id = 018_00000013_0
+# text = U B S bonjour
+1	U	U	PROPN	_	_	4	dep	_	_none=|id=s1.u0.w0
+2	B	B	PROPN	_	_	1	flat:name	_	_none=|id=s1.u0.w1
+3	S	S	PROPN	_	_	1	dep	_	_none=|id=s1.u0.w2
+4	bonjour	bonjour	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w3
+
+# sent_id = 018_00000013_1
+# text = oui bonjour ce serait pour savoir comment obtenir e un dossier de candidature pour le D E S S e droit des affaires droit des P M E
+1	oui	oui	INTJ	_	_	4	discourse	_	_none=|id=s1.u1.w0
+2	bonjour	bonjour	INTJ	_	_	4	discourse	_	_none=|id=s1.u1.w1
+3	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	id=s1.u1.w2
+4	serait	être	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w3
+5	pour	pour	ADP	_	_	6	mark	_	_none=|id=s1.u1.w4
+6	savoir	savoir	VERB	_	VerbForm=Inf	4	advcl	_	_none=|id=s1.u1.w5
+7	comment	comment	ADV	_	_	8	advmod	_	_none=|id=s1.u1.w6
+8	obtenir	obtenir	VERB	_	VerbForm=Inf	6	ccomp	_	_none=|id=s1.u1.w7
+9	e	e	DET	_	_	11	det	_	id=s1.u1.w8
+10	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	id=s1.u1.w9
+11	dossier	dossier	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_none=|id=s1.u1.w10
+12	de	de	ADP	_	_	13	case	_	id=s1.u1.w11
+13	candidature	candidature	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	id=s1.u1.w12
+14	pour	pour	ADP	_	_	16	case	_	_none=|id=s1.u1.w13
+15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	id=s1.u1.w14
+16	D	D	PROPN	_	_	11	nmod	_	_none=|id=s1.u1.w15
+17	E	E	PROPN	_	_	19	reparandum	_	_none=|id=s1.u1.w16
+18	S	S	PROPN	_	_	16	reparandum	_	_none=|id=s1.u1.w17
+19	S	S	PROPN	_	_	16	reparandum	_	_none=|id=s1.u1.w18
+20	e	e	NOUN	_	Gender=Masc|Number=Sing	16	flat	_	_none=|id=s1.u1.w19
+21	droit	droit	NOUN	_	Gender=Masc|Number=Sing	16	appos	_	_none=|id=s1.u1.w20
+22	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	23	det	_	id=s1.u1.w21
+23	affaires	affaire	NOUN	_	Gender=Fem|Number=Plur	21	conj	_	id=s1.u1.w22
+24	droit	droit	NOUN	_	Gender=Masc|Number=Sing	21	conj	_	_none=|id=s1.u1.w23
+25	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	26	det	_	id=s1.u1.w24
+26	P	P	PROPN	_	_	24	conj	_	_none=|id=s1.u1.w25
+27	M	M	PROPN	_	_	26	flat:name	_	_none=|id=s1.u1.w26
+28	E	E	PROPN	_	_	26	flat:name	_	_none=|id=s1.u1.w27
+
+# sent_id = 018_00000013_2
+# text = e oui je vais vous passer le secr� tariat
+1	e	e	CCONJ	_	_	4	cc	_	_none=|id=s1.u2.w0
+2	oui	oui	INTJ	_	_	4	discourse	_	id=s1.u2.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u2.w2
+4	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w3
+5	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	6	iobj	_	id=s1.u2.w4
+6	passer	passer	VERB	_	VerbForm=Inf	4	xcomp	_	_none=|id=s1.u2.w5
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	id=s1.u2.w6
+8	secr�	secr�	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_none=|id=s1.u2.w7
+9	tariat	tariat	NOUN	_	Gender=Masc|Number=Sing	8	compound	_	id=s1.u2.w8
+
+# sent_id = 018_00000013_3
+# text = d' accord merci
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u3.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u3.w1
+3	merci	merci	ADJ	_	_	1	fixed	_	_none=|id=s1.u3.w2
+
+# sent_id = 018_00000013_4
+# text = Prenom oui un dossier e D E S S droit des P M E
+1	Prenom	Prenom	PROPN	_	_	0	root	_	_none=|id=s1.u4.w0
+2	oui	oui	ADV	_	_	1	discourse	_	_none=|id=s1.u4.w1
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_none=|id=s1.u4.w2
+4	dossier	dossier	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	_none=|id=s1.u4.w3
+5	e	e	CCONJ	_	_	6	case	_	_none=|id=s1.u4.w4
+6	D	e	PROPN	_	_	4	nmod:appos	_	_none=|id=s1.u4.w5
+7	E	E	PRON	_	_	6	reparandum	_	_none=|id=s1.u4.w6
+8	S	S	PROPN	_	_	6	reparandum	_	_none=|id=s1.u4.w7
+9	S	S	PROPN	_	_	6	fixed	_	_none=|id=s1.u4.w8
+10	droit	droit	NOUN	_	Gender=Masc|Number=Sing	4	amod	_	_none=|id=s1.u4.w9
+11	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	12	det	_	id=s1.u4.w10
+12	P	P	PROPN	_	_	10	nmod	_	_none=|id=s1.u4.w11
+13	M	M	PROPN	_	_	12	flat:name	_	_none=|id=s1.u4.w12
+14	E	E	PROPN	_	_	12	flat:name	_	_none=|id=s1.u4.w13
+
+# sent_id = 018_00000013_6
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u6.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u6.w1
+

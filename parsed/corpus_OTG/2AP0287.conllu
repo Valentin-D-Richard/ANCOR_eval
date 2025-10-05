@@ -1,0 +1,230 @@
+# sent_id = 2AP0287_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 2AP0287_1
+# text = bonjour ce serait pour un renseignement savoir si vous avez de la documentation pour réserver des salles pour faire une fête l' année prochaine pour le départ pour le mariage de mes parents
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_none=|id=s1.u1.w1
+3	serait	être	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	pour	pour	ADP	_	_	6	case	_	_none=|id=s1.u1.w3
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_none=|id=s1.u1.w4
+6	renseignement	renseignement	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_none=|id=s1.u1.w5
+7	savoir	savoir	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u1.w6
+8	si	si	SCONJ	_	_	10	mark	_	_none=|id=s1.u1.w7
+9	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	10	nsubj	_	_none=|id=s1.u1.w8
+10	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	ccomp	_	_none=|id=s1.u1.w9
+11	de	de	ADP	_	_	13	det	_	id=s1.u1.w10
+12	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	fixed	_	id=s1.u1.w11
+13	documentation	documentation	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	id=s1.u1.w12
+14	pour	pour	ADP	_	_	15	mark	_	_none=|id=s1.u1.w13
+15	réserver	réserver	VERB	_	VerbForm=Inf	7	advcl	_	id=s1.u1.w14
+16	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	17	det	_	id=s1.u1.w15
+17	salles	salle	NOUN	_	Gender=Fem|Number=Plur	15	obj	_	id=s1.u1.w16
+18	pour	pour	ADP	_	_	19	mark	_	_none=|id=s1.u1.w17
+19	faire	faire	VERB	_	VerbForm=Inf	15	conj	_	id=s1.u1.w18
+20	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	id=s1.u1.w19
+21	fête	fête	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	id=s1.u1.w20
+22	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	23	det	_	_none=|id=s1.u1.w21
+23	année	année	NOUN	_	Gender=Fem|Number=Sing	19	obl:mod	_	_none=|id=s1.u1.w22
+24	prochaine	prochaer	ADJ	_	Gender=Fem|Number=Sing	23	amod	_	id=s1.u1.w23
+25	pour	pour	ADP	_	_	27	case	_	_none=|id=s1.u1.w24
+26	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_none=|id=s1.u1.w25
+27	départ	départ	NOUN	_	Gender=Masc|Number=Sing	19	obl:mod	_	_none=|id=s1.u1.w26
+28	pour	pour	ADP	_	_	30	case	_	_none=|id=s1.u1.w27
+29	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_none=|id=s1.u1.w28
+30	mariage	mariage	NOUN	_	Gender=Masc|Number=Sing	19	obl:mod	_	_none=|id=s1.u1.w29
+31	de	de	ADP	_	_	33	case	_	_none=|id=s1.u1.w30
+32	mes	son	DET	_	Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=1|PronType=Prs	33	det	_	id=s1.u1.w31
+33	parents	parent	NOUN	_	Gender=Masc|Number=Plur	30	nmod	_	id=s1.u1.w32
+
+# sent_id = 2AP0287_2
+# text = très peu hein
+1	très	très	ADV	_	_	2	advmod	_	_none=|id=s1.u2.w0
+2	peu	peu	ADV	_	_	0	root	_	_none=|id=s1.u2.w1
+3	hein	hein	INTJ	_	_	2	discourse	_	_none=|id=s1.u2.w2
+
+# sent_id = 2AP0287_3
+# text = sur Grenoble et sur les environs
+1	sur	sur	ADP	_	_	2	case	_	_none=|id=s1.u3.w0
+2	Grenoble	Grenoble	PROPN	_	_	0	root	_	_none=|id=s1.u3.w1
+3	et	et	CCONJ	_	_	6	cc	_	id=s1.u3.w2
+4	sur	sur	ADP	_	_	6	case	_	id=s1.u3.w3
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	id=s1.u3.w4
+6	environs	environ	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	id=s1.u3.w5
+
+# sent_id = 2AP0287_4
+# text = très très peu donc là vous trouverez ça ce sont les domaines après ce sont les salles soit dans des bibliothèques soit dans des hôtels soit dans des salles indépendantes des salles indépendantes les restaurants aussi donc là ce sera au début hein
+1	très	très	ADV	_	_	3	advmod	_	_none=|id=s1.u4.w0
+2	très	très	ADV	_	_	1	conj	_	_none=|id=s1.u4.w1
+3	peu	peu	ADV	_	_	7	advmod	_	_none=|id=s1.u4.w2
+4	donc	donc	ADV	_	_	7	advmod	_	_none=|id=s1.u4.w3
+5	là	là	ADV	_	_	7	advmod	_	_none=|id=s1.u4.w4
+6	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_none=|id=s1.u4.w5
+7	trouverez	trouveroir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	12	advcl	_	_none=|id=s1.u4.w6
+8	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	dislocated	_	id=s1.u4.w7
+9	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	nsubj	_	id=s1.u4.w8
+10	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	id=s1.u4.w9
+11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	id=s1.u4.w10
+12	domaines	domaine	NOUN	_	Gender=Masc|Number=Plur	17	reparandum	_	id=s1.u4.w11
+13	après	après	ADV	_	_	17	discourse	_	_none=|id=s1.u4.w12
+14	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	17	nsubj	_	id=s1.u4.w13
+15	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	id=s1.u4.w14
+16	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	17	det	_	id=s1.u4.w15
+17	salles	salle	NOUN	_	Gender=Fem|Number=Plur	0	root	_	id=s1.u4.w16
+18	soit	soit	CCONJ	_	_	21	cc	_	_none=|id=s1.u4.w17
+19	dans	dans	ADP	_	_	21	case	_	_none=|id=s1.u4.w18
+20	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	21	det	_	id=s1.u4.w19
+21	bibliothèques	bibliothèque	NOUN	_	Gender=Fem|Number=Plur	17	nmod	_	_none=|id=s1.u4.w20
+22	soit	soit	CCONJ	_	_	25	cc	_	_none=|id=s1.u4.w21
+23	dans	dans	ADP	_	_	25	case	_	_none=|id=s1.u4.w22
+24	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	25	det	_	id=s1.u4.w23
+25	hôtels	hôtel	NOUN	_	Gender=Masc|Number=Plur	21	conj	_	id=s1.u4.w24
+26	soit	soit	CCONJ	_	_	32	cc	_	_none=|id=s1.u4.w25
+27	dans	dans	ADP	_	_	32	case	_	_none=|id=s1.u4.w26
+28	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	29	det	_	id=s1.u4.w27
+29	salles	salle	NOUN	_	Gender=Fem|Number=Plur	32	conj	_	id=s1.u4.w28
+30	indépendantes	indépendante	ADJ	_	Gender=Fem|Number=Plur	29	amod	_	id=s1.u4.w29
+31	des	un	DET	de	Definite=Ind|Number=Plur|PronType=Art	32	det	_	id=s1.u4.w30
+32	salles	salle	NOUN	_	Gender=Fem|Number=Plur	21	conj	_	id=s1.u4.w31
+33	indépendantes	indépendante	ADJ	_	Gender=Fem|Number=Plur	32	amod	_	id=s1.u4.w32
+34	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	35	det	_	id=s1.u4.w33
+35	restaurants	restaurant	NOUN	_	Gender=Masc|Number=Plur	17	conj	_	id=s1.u4.w34
+36	aussi	aussi	ADV	_	_	35	advmod	_	_none=|id=s1.u4.w35
+37	donc	donc	ADV	_	_	40	advmod	_	_none=|id=s1.u4.w36
+38	là	là	ADV	_	_	40	advmod	_	_none=|id=s1.u4.w37
+39	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	40	nsubj	_	_none=|id=s1.u4.w38
+40	sera	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	17	acl:relcl	_	_none=|id=s1.u4.w39
+41	au	au	ADP	_	_	42	case	_	_none=|id=s1.u4.w40
+42	début	début	NOUN	_	Gender=Masc|Number=Sing	40	xcomp	_	_none=|id=s1.u4.w41
+43	hein	hein	INTJ	_	_	40	discourse	_	_none=|id=s1.u4.w42
+
+# sent_id = 2AP0287_5
+# text = des restaurants bien sûr
+1	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	2	det	_	id=s1.u5.w0
+2	restaurants	restaurant	NOUN	_	Gender=Masc|Number=Plur	0	root	_	id=s1.u5.w1
+3	bien	bien	ADV	_	_	2	advmod	_	_none=|id=s1.u5.w2
+4	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	3	fixed	_	_none=|id=s1.u5.w3
+
+# sent_id = 2AP0287_7
+# text = et en ce qui concerne les disc-jockeys on pourrait trouver ça où votre documentation est beaucoup plus e
+1	et	et	CCONJ	_	_	9	cc	_	_none=|id=s1.u7.w0
+2	en	en	ADP	_	_	3	case	_	_none=|id=s1.u7.w1
+3	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	obl:mod	_	_none=|id=s1.u7.w2
+4	qui	qui	PRON	_	PronType=Rel	5	nsubj	_	_none=|id=s1.u7.w3
+5	concerne	concerner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	id=s1.u7.w4
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	id=s1.u7.w5
+7	disc-jockeys	grandockey	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_none=|id=s1.u7.w6
+8	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	9	nsubj	_	_none=|id=s1.u7.w7
+9	pourrait	pouvoir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u7.w8
+10	trouver	trouver	VERB	_	VerbForm=Inf	9	xcomp	_	_none=|id=s1.u7.w9
+11	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	obj	_	id=s1.u7.w10
+12	où	où	PRON	_	PronType=Rel	17	obl:mod	_	_none=|id=s1.u7.w11
+13	votre	son	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=2|PronType=Prs	14	det	_	id=s1.u7.w12
+14	documentation	documentation	NOUN	_	Gender=Fem|Number=Sing	17	nsubj	_	id=s1.u7.w13
+15	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	id=s1.u7.w14
+16	beaucoup	beaucoup	ADV	_	_	17	advmod	_	_none=|id=s1.u7.w15
+17	plus	plus	ADV	_	_	18	advmod	_	_none=|id=s1.u7.w16
+18	e	e	ADJ	_	Number=Sing	11	acl:relcl	_	id=s1.u7.w17
+
+# sent_id = 2AP0287_8
+# text = hum je sais pas si j' ai les nouvelles adresses je vais regarder j' ai pas trouvé de disc-jockeys malheureusement par contre il y a un service animation à la mairie essayez de leur demander et puis essayez d' avoir aussi parce que j' ai pas leurs coordonnées les coordonnées de " prestige show "
+1	hum	hum	INTJ	_	_	3	discourse	_	_none=|id=s1.u8.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u8.w1
+3	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u8.w2
+4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_none=|id=s1.u8.w3
+5	si	si	SCONJ	_	_	7	mark	_	_none=|id=s1.u8.w4
+6	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_none=|id=s1.u8.w5
+7	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	id=s1.u8.w6
+8	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	id=s1.u8.w7
+9	nouvelles	nouvell	ADJ	_	Gender=Fem|Number=Plur	10	amod	_	id=s1.u8.w8
+10	adresses	adresse	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	id=s1.u8.w9
+11	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_none=|id=s1.u8.w10
+12	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	id=s1.u8.w11
+13	regarder	regarder	VERB	_	VerbForm=Inf	12	xcomp	_	_none=|id=s1.u8.w12
+14	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	id=s1.u8.w13
+15	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	aux:tense	_	id=s1.u8.w14
+16	pas	pas	ADV	_	_	17	advmod	_	_none=|id=s1.u8.w15
+17	trouvé	trouver	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	_none=|id=s1.u8.w16
+18	de	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	19	det	_	id=s1.u8.w17
+19	disc-jockeys	disc-jockey	NOUN	_	Gender=Masc|Number=Plur	17	obj	_	id=s1.u8.w18
+20	malheureusement	malheureusement	ADV	_	_	25	advmod	_	_none=|id=s1.u8.w19
+21	par	par	ADP	_	_	25	advmod	_	_none=|id=s1.u8.w20
+22	contre	contre	NOUN	_	Gender=Masc|Number=Sing	21	fixed	_	_none=|id=s1.u8.w21
+23	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	expl:subj	_	_none=|id=s1.u8.w22
+24	y	y	PRON	_	Person=3|PronType=Prs	25	expl:comp	_	_none=|id=s1.u8.w23
+25	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	advcl	_	_none=|id=s1.u8.w24
+26	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_none=|id=s1.u8.w25
+27	service	service	NOUN	_	Gender=Masc|Number=Sing	25	obj	_	_none=|id=s1.u8.w26
+28	animation	animation	NOUN	_	Gender=Fem|Number=Sing	27	compound	_	id=s1.u8.w27
+29	à	à	ADP	_	_	31	case	_	_none=|id=s1.u8.w28
+30	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	id=s1.u8.w29
+31	mairie	mairie	NOUN	_	Gender=Fem|Number=Sing	25	obl:mod	_	_none=|id=s1.u8.w30
+32	essayez	essare	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	17	advcl	_	_none=|id=s1.u8.w31
+33	de	de	ADP	_	_	35	mark	_	_none=|id=s1.u8.w32
+34	leur	lui	PRON	_	Number=Plur|Person=3|PronType=Prs	35	iobj	_	_none=|id=s1.u8.w33
+35	demander	demander	VERB	_	VerbForm=Inf	17	advcl	_	_none=|id=s1.u8.w34
+36	et	et	CCONJ	_	_	38	cc	_	_none=|id=s1.u8.w35
+37	puis	puis	CCONJ	_	_	36	fixed	_	id=s1.u8.w36
+38	essayez	essayer	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	32	conj	_	id=s1.u8.w37
+39	d'	de	ADP	_	_	40	mark	_	_none=|id=s1.u8.w38
+40	avoir	avoir	VERB	_	VerbForm=Inf	38	ccomp	_	id=s1.u8.w39
+41	aussi	aussi	ADV	_	_	38	advmod	_	_none=|id=s1.u8.w40
+42	parce	parce	ADV	_	_	45	mark	_	_none=|id=s1.u8.w41
+43	que	que	SCONJ	_	_	42	fixed	_	id=s1.u8.w42
+44	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	45	nsubj	_	_none=|id=s1.u8.w43
+45	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	40	advcl	_	_none=|id=s1.u8.w44
+46	pas	pas	ADV	_	Polarity=Neg	45	advmod	_	_none=|id=s1.u8.w45
+47	leurs	son	DET	_	Number=Plur|Number[psor]=Plur|Person[psor]=3|PronType=Prs	48	det	_	_none=|id=s1.u8.w46
+48	coordonnées	coordonnée	NOUN	_	Gender=Fem|Number=Plur	45	obj	_	id=s1.u8.w47
+49	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	50	det	_	id=s1.u8.w48
+50	coordonnées	coordonnée	NOUN	_	Gender=Fem|Number=Plur	40	obj	_	id=s1.u8.w49
+51	de	de	ADP	_	_	52	case	_	_none=|id=s1.u8.w50
+52	prestige	prestige	NOUN	_	Gender=Masc|Number=Sing	50	nmod	_	id=s1.u8.w52
+53	show	show	NOUN	_	Gender=Masc|Number=Sing	50	discourse	_	id=s1.u8.w53
+
+# sent_id = 2AP0287_12
+# text = ben
+1	ben	ben	INTJ	_	_	0	root	_	_none=|id=s1.u12.w0
+
+# sent_id = 2AP0287_13
+# text = c' est ils font disc-jockey aussi ce sont deux deux animateurs
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_none=|id=s1.u13.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	reparandum	_	id=s1.u13.w1
+3	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	id=s1.u13.w2
+4	font	avfoir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u13.w3
+5	disc-jockey	disc-jockey	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	id=s1.u13.w4
+6	aussi	aussi	ADV	_	_	4	advmod	_	_none=|id=s1.u13.w5
+7	ce	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	11	nsubj	_	id=s1.u13.w6
+8	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	id=s1.u13.w7
+9	deux	deux	NUM	_	Number=Plur	11	nummod	_	_none=|id=s1.u13.w8
+10	deux	deux	NUM	_	Number=Plur	9	conj	_	_none=|id=s1.u13.w9
+11	animateurs	animateur	NOUN	_	Gender=Masc|Number=Plur	4	conj	_	id=s1.u13.w10
+
+# sent_id = 2AP0287_15
+# text = ok merci beaucoup
+1	ok	ok	INTJ	_	_	2	discourse	_	_none=|id=s1.u15.w0
+2	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u15.w1
+3	beaucoup	beaucoup	ADV	_	_	2	advmod	_	_none=|id=s1.u15.w2
+
+# sent_id = 2AP0287_16
+# text = je vous en prie madame
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u16.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u16.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u16.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u16.w3
+5	madame	madame	NOUN	_	Gender=Fem|Number=Sing	4	vocative	_	id=s1.u16.w4
+
+# sent_id = 2AP0287_17
+# text = bonne journée
+1	bonne	bon	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	id=s1.u17.w0
+2	journée	journée	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u17.w1
+
+# sent_id = 2AP0287_18
+# text = bonne journée merci au revoir
+1	bonne	bon	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	id=s1.u18.w0
+2	journée	journée	NOUN	_	Gender=Fem|Number=Sing	3	dislocated	_	id=s1.u18.w1
+3	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u18.w2
+4	au	au	ADP	_	_	5	mark	_	_none=|id=s1.u18.w3
+5	revoir	revoir	VERB	_	VerbForm=Inf	3	advcl	_	_none=|id=s1.u18.w4
+

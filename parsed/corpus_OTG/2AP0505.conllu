@@ -1,0 +1,233 @@
+# sent_id = 2AP0505_0
+# text = je vous en prie bonjour
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u0.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u0.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u0.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u0.w3
+5	bonjour	bonjour	NOUN	_	Gender=Masc|Number=Sing	4	discourse	_	_none=|id=s1.u0.w4
+
+# sent_id = 2AP0505_1
+# text = je voudrais connaître la liste des gîtes ruraux en Isère
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	connaître	connaître	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u1.w2
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	id=s1.u1.w3
+5	liste	liste	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	id=s1.u1.w4
+6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	id=s1.u1.w5
+7	gîtes	gîte	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	id=s1.u1.w6
+8	ruraux	rurau	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	id=s1.u1.w7
+9	en	en	ADP	_	_	10	case	_	_none=|id=s1.u1.w8
+10	Isère	Isère	PROPN	_	_	2	obl:mod	_	_none=|id=s1.u1.w9
+
+# sent_id = 2AP0505_2
+# text = alors ça c' est le guide que vous voyez derrière moi mais qui est en vente hein
+1	alors	alors	ADV	_	_	6	advmod	_	_none=|id=s1.u2.w0
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	dislocated	_	id=s1.u2.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_none=|id=s1.u2.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	id=s1.u2.w3
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_none=|id=s1.u2.w4
+6	guide	guide	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u2.w5
+7	que	que	PRON	_	PronType=Rel	9	obj	_	_none=|id=s1.u2.w6
+8	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	9	nsubj	_	_none=|id=s1.u2.w7
+9	voyez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	id=s1.u2.w8
+10	derrière	derrière	ADP	_	_	11	case	_	_none=|id=s1.u2.w9
+11	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	9	obl:mod	_	_none=|id=s1.u2.w10
+12	mais	mais	CCONJ	_	_	16	cc	_	_none=|id=s1.u2.w11
+13	qui	qui	PRON	_	PronType=Rel	16	nsubj	_	id=s1.u2.w12
+14	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	id=s1.u2.w13
+15	en	en	ADP	_	_	16	case	_	_none=|id=s1.u2.w14
+16	vente	vente	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	id=s1.u2.w15
+17	hein	hein	INTJ	_	_	6	discourse	_	_none=|id=s1.u2.w16
+
+# sent_id = 2AP0505_3
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 2AP0505_4
+# text = il coûte trente francs s' il vous plaît bien sûr
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_none=|id=s1.u4.w0
+2	coûte	coûter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w1
+3	trente	trente	NUM	_	Number=Plur	4	nummod	_	_none=|id=s1.u4.w2
+4	francs	franc	ADJ	_	Gender=Masc|Number=Plur	2	obj	_	_none=|id=s1.u4.w3
+5	s'	se	SCONJ	_	_	8	mark	_	_none=|id=s1.u4.w4
+6	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl:subj	_	_none=|id=s1.u4.w5
+7	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	8	iobj	_	_none=|id=s1.u4.w6
+8	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	id=s1.u4.w7
+9	bien	bien	ADV	_	_	8	advmod	_	_none=|id=s1.u4.w8
+10	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	9	fixed	_	_none=|id=s1.u4.w9
+
+# sent_id = 2AP0505_5
+# text = je préfère que vous regardez si ça correspond à ce que je cherche parce que sinon je connais également le système Cléconfort
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u5.w0
+2	préfère	préfèrer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u5.w1
+3	que	que	SCONJ	_	_	5	mark	_	_none=|id=s1.u5.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	id=s1.u5.w3
+5	regardez	regarre	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	id=s1.u5.w4
+6	si	si	SCONJ	_	_	8	mark	_	id=s1.u5.w5
+7	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	id=s1.u5.w6
+8	correspond	correspondre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	id=s1.u5.w7
+9	à	à	ADP	_	_	10	case	_	id=s1.u5.w8
+10	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	obl:mod	_	id=s1.u5.w9
+11	que	que	PRON	_	PronType=Rel	13	obj	_	_none=|id=s1.u5.w10
+12	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_none=|id=s1.u5.w11
+13	cherche	chercher	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_none=|id=s1.u5.w12
+14	parce	parce	ADV	_	_	18	mark	_	_none=|id=s1.u5.w13
+15	que	que	SCONJ	_	_	14	fixed	_	id=s1.u5.w14
+16	sinon	sinon	ADV	_	_	18	advmod	_	_none=|id=s1.u5.w15
+17	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	18	nsubj	_	_none=|id=s1.u5.w16
+18	connais	connaître	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	advcl	_	id=s1.u5.w17
+19	également	également	ADV	_	_	18	advmod	_	_none=|id=s1.u5.w18
+20	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	id=s1.u5.w19
+21	système	système	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	id=s1.u5.w20
+22	Cléconfort	Cléconfort	PROPN	_	_	21	nmod:appos	_	id=s1.u5.w21
+
+# sent_id = 2AP0505_7
+# text = ah oui c' est une association à c' est plutôt des meublés des chalets des choses comme ça hein e la nouvelle parution qui se forme n' est pas encore ici hein on l' aura on l' aura je pense ça dépend du C D T puisque ce sont eux qui s' en occupent et je pense qu' il faut attendre la première dizaine d' octobre hein
+1	ah	ah	INTJ	_	_	6	discourse	_	_none=|id=s1.u7.w0
+2	oui	oui	INTJ	_	_	6	discourse	_	_none=|id=s1.u7.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	id=s1.u7.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	id=s1.u7.w3
+5	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	id=s1.u7.w4
+6	association	association	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u7.w5
+7	à	à	ADP	_	_	12	dep	_	_none=|id=s1.u7.w6
+8	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	_none=|id=s1.u7.w7
+9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_none=|id=s1.u7.w8
+10	plutôt	plutôt	ADV	_	_	12	advmod	_	_none=|id=s1.u7.w9
+11	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	12	det	_	_none=|id=s1.u7.w10
+12	meublés	meublé	NOUN	_	Gender=Masc|Number=Plur	6	conj	_	_none=|id=s1.u7.w11
+13	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	14	det	_	id=s1.u7.w12
+14	chalets	chalet	NOUN	_	Gender=Masc|Number=Plur	12	conj	_	id=s1.u7.w13
+15	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	16	det	_	id=s1.u7.w14
+16	choses	chose	NOUN	_	Gender=Fem|Number=Plur	12	conj	_	id=s1.u7.w15
+17	comme	comme	ADP	_	_	18	case	_	_none=|id=s1.u7.w16
+18	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	16	nmod	_	id=s1.u7.w17
+19	hein	hein	INTJ	_	_	12	discourse	_	_none=|id=s1.u7.w18
+20	e	e	CCONJ	_	_	42	cc	_	id=s1.u7.w19
+21	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	id=s1.u7.w20
+22	nouvelle	nouveau	ADJ	_	Gender=Fem|Number=Sing	23	amod	_	id=s1.u7.w21
+23	parution	parution	NOUN	_	Gender=Fem|Number=Sing	42	nsubj	_	id=s1.u7.w22
+24	qui	qui	PRON	_	PronType=Rel	26	nsubj	_	_none=|id=s1.u7.w23
+25	se	se	PRON	_	Person=3|PronType=Prs	26	expl:pass	_	id=s1.u7.w24
+26	forme	former	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	id=s1.u7.w25
+27	n'	ne	ADV	_	Polarity=Neg	42	advmod	_	id=s1.u7.w26
+28	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	advcl	_	id=s1.u7.w27
+29	pas	pas	ADV	_	Polarity=Neg	28	advmod	_	id=s1.u7.w28
+30	encore	encore	ADV	_	_	28	advmod	_	_none=|id=s1.u7.w29
+31	ici	ici	ADV	_	_	28	advmod	_	_none=|id=s1.u7.w30
+32	hein	hein	INTJ	_	_	38	discourse	_	_none=|id=s1.u7.w31
+33	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	35	nsubj	_	_none=|id=s1.u7.w32
+34	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	35	obj	_	id=s1.u7.w33
+35	aura	auravoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	50	reparandum	_	_none=|id=s1.u7.w34
+36	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	38	nsubj	_	_none=|id=s1.u7.w35
+37	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	38	obj	_	id=s1.u7.w36
+38	aura	auravoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_none=|id=s1.u7.w37
+39	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	40	nsubj	_	id=s1.u7.w38
+40	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	42	discourse	_	id=s1.u7.w39
+41	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	42	nsubj	_	id=s1.u7.w40
+42	dépend	dépendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	id=s1.u7.w41
+43	du	du	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	id=s1.u7.w42
+44	C	C	PROPN	_	_	42	obj	_	id=s1.u7.w43
+45	D	D	PROPN	_	_	16	nmod:appos	_	_none=|id=s1.u7.w44
+46	T	T	PROPN	_	_	16	nmod	_	_none=|id=s1.u7.w45
+47	puisque	puisque	SCONJ	_	_	50	mark	_	_none=|id=s1.u7.w46
+48	ce	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	50	expl:subj	_	_none=|id=s1.u7.w47
+49	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	50	cop	_	_none=|id=s1.u7.w48
+50	eux	lui	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	28	dislocated	_	id=s1.u7.w49
+51	qui	qui	PRON	_	PronType=Rel	54	nsubj	_	_none=|id=s1.u7.w50
+52	s'	se	PRON	_	Person=3|PronType=Prs	54	expl:comp	_	id=s1.u7.w51
+53	en	en	PRON	_	Person=3|PronType=Prs	54	obj	_	id=s1.u7.w52
+54	occupent	occuper	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	50	acl:relcl	_	id=s1.u7.w53
+55	et	et	CCONJ	_	_	57	cc	_	_none=|id=s1.u7.w54
+56	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	57	nsubj	_	id=s1.u7.w55
+57	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	42	conj	_	id=s1.u7.w56
+58	qu'	que	SCONJ	_	_	60	mark	_	_none=|id=s1.u7.w57
+59	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	60	expl:subj	_	_none=|id=s1.u7.w58
+60	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	57	ccomp	_	id=s1.u7.w59
+61	attendre	attendre	VERB	_	VerbForm=Inf	60	xcomp	_	id=s1.u7.w60
+62	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	64	det	_	id=s1.u7.w61
+63	première	premier	ADJ	_	Gender=Fem|Number=Sing	64	amod	_	id=s1.u7.w62
+64	dizaine	dizaine	NOUN	_	Gender=Fem|Number=Sing	61	obj	_	id=s1.u7.w63
+65	d'	de	ADP	_	_	66	case	_	_none=|id=s1.u7.w64
+66	octobre	octobre	NOUN	_	Gender=Masc|Number=Sing	64	nmod	_	_none=|id=s1.u7.w65
+67	hein	hein	INTJ	_	_	57	discourse	_	_none=|id=s1.u7.w66
+
+# sent_id = 2AP0505_9
+# text = hum hum d' accord et on n' a pas d' anciens
+1	hum	hum	INTJ	_	_	4	discourse	_	_none=|id=s1.u9.w0
+2	hum	hum	INTJ	_	_	4	discourse	_	_none=|id=s1.u9.w1
+3	d'	de	ADP	_	_	4	case	_	_none=|id=s1.u9.w2
+4	accord	accord	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u9.w3
+5	et	et	CCONJ	_	_	8	cc	_	_none=|id=s1.u9.w4
+6	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	8	nsubj	_	_none=|id=s1.u9.w5
+7	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	id=s1.u9.w6
+8	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	id=s1.u9.w7
+9	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	id=s1.u9.w8
+10	d'	de	ADP	_	_	11	case	_	id=s1.u9.w9
+11	anciens	ancien	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	id=s1.u9.w10
+
+# sent_id = 2AP0505_11
+# text = non
+1	non	non	ADV	_	Polarity=Neg	0	root	_	_none=|id=s1.u11.w0
+
+# sent_id = 2AP0505_12
+# text = non
+1	non	non	ADV	_	Polarity=Neg	0	root	_	_none=|id=s1.u12.w0
+
+# sent_id = 2AP0505_13
+# text = plus
+1	plus	plus	ADV	_	_	0	root	_	_none=|id=s1.u13.w0
+
+# sent_id = 2AP0505_14
+# text = il est épuisé et il y a pas encore la nouvelle parution
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_none=|id=s1.u14.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_none=|id=s1.u14.w1
+3	épuisé	épuiser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u14.w2
+4	et	et	CCONJ	_	_	7	cc	_	_none=|id=s1.u14.w3
+5	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	_none=|id=s1.u14.w4
+6	y	y	PRON	_	Person=3|PronType=Prs	7	expl:comp	_	id=s1.u14.w5
+7	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	id=s1.u14.w6
+8	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	_none=|id=s1.u14.w7
+9	encore	encore	ADV	_	_	7	advmod	_	_none=|id=s1.u14.w8
+10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	id=s1.u14.w9
+11	nouvelle	nouveau	ADJ	_	Gender=Fem|Number=Sing	12	amod	_	id=s1.u14.w10
+12	parution	parution	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	id=s1.u14.w11
+
+# sent_id = 2AP0505_15
+# text = les ils ils sont dessus
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	reparandum	_	_none=|id=s1.u15.w0
+2	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	dislocated	_	id=s1.u15.w1
+3	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	id=s1.u15.w2
+4	sont	être	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u15.w3
+5	dessus	dessus	ADV	_	_	4	obl:arg	_	id=s1.u15.w4
+
+# sent_id = 2AP0505_16
+# text = hum d' accord je vais regarder si c' est ça peut fonctionner hein
+1	hum	hum	INTJ	_	_	5	discourse	_	_none=|id=s1.u16.w0
+2	d'	de	ADP	_	_	5	dep	_	_none=|id=s1.u16.w1
+3	accord	accord	NOUN	_	Gender=Masc|Number=Sing	2	fixed	_	id=s1.u16.w2
+4	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u16.w3
+5	vais	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u16.w4
+6	regarder	regarder	VERB	_	VerbForm=Inf	5	xcomp	_	_none=|id=s1.u16.w5
+7	si	si	SCONJ	_	_	9	mark	_	_none=|id=s1.u16.w6
+8	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	_none=|id=s1.u16.w7
+9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	reparandum	_	id=s1.u16.w8
+10	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	id=s1.u16.w9
+11	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	id=s1.u16.w10
+12	fonctionner	fonctionner	VERB	_	VerbForm=Inf	11	xcomp	_	id=s1.u16.w11
+13	hein	hein	INTJ	_	_	5	discourse	_	_none=|id=s1.u16.w12
+
+# sent_id = 2AP0505_17
+# text = ça va pas tarder oui
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	id=s1.u17.w0
+2	va	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u17.w1
+3	pas	pas	ADV	_	Polarity=Neg	2	advmod	_	_none=|id=s1.u17.w2
+4	tarder	tarder	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u17.w3
+5	oui	oui	ADV	_	_	4	discourse	_	_none=|id=s1.u17.w4
+
+# sent_id = 2AP0505_18
+# text = je vous en prie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u18.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u18.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u18.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u18.w3
+

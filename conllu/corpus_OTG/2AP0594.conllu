@@ -1,0 +1,46 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2AP0594_0
+# text = c' est à qui
+1	c'	_	_	_	_	_	_	_	id=s1.u0.w0
+2	est	_	_	_	_	_	_	_	id=s1.u0.w1
+3	à	_	_	_	_	_	_	_	id=s1.u0.w2
+4	qui	_	_	_	_	_	_	_	id=s1.u0.w3
+
+# sent_id = 2AP0594_1
+# text = bonjour est ce que vous pouvez me donner un plan de Grenoble et de Lyon s' il vous plaît
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	est	_	_	_	_	_	_	_	id=s1.u1.w1
+3	ce	_	_	_	_	_	_	_	id=s1.u1.w2
+4	que	_	_	_	_	_	_	_	id=s1.u1.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u1.w4
+6	pouvez	_	_	_	_	_	_	_	id=s1.u1.w5
+7	me	_	_	_	_	_	_	_	id=s1.u1.w6
+8	donner	_	_	_	_	_	_	_	id=s1.u1.w7
+9	un	_	_	_	_	_	_	_	id=s1.u1.w8
+10	plan	_	_	_	_	_	_	_	id=s1.u1.w9
+11	de	_	_	_	_	_	_	_	id=s1.u1.w10
+12	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w11
+13	et	_	_	_	_	_	_	_	id=s1.u1.w12
+14	de	_	_	_	_	_	_	_	id=s1.u1.w13
+15	Lyon	_	_	_	_	_	_	_	id=s1.u1.w14
+16	s'	_	_	_	_	_	_	_	id=s1.u1.w15
+17	il	_	_	_	_	_	_	_	id=s1.u1.w16
+18	vous	_	_	_	_	_	_	_	id=s1.u1.w17
+19	plaît	_	_	_	_	_	_	_	id=s1.u1.w18
+
+# sent_id = 2AP0594_2
+# text = voilà Grenoble voilà Lyon
+1	voilà	_	_	_	_	_	_	_	id=s1.u2.w0
+2	Grenoble	_	_	_	_	_	_	_	id=s1.u2.w1
+3	voilà	_	_	_	_	_	_	_	id=s1.u2.w2
+4	Lyon	_	_	_	_	_	_	_	id=s1.u2.w3
+
+# sent_id = 2AP0594_3
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 2AP0594_4
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u4.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u4.w1
+

@@ -1,0 +1,150 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2AP0180_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 2AP0180_1
+# text = bonjour je dois prendre le tram de la ligne A j' avais e je
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	je	_	_	_	_	_	_	_	id=s1.u1.w1
+3	dois	_	_	_	_	_	_	_	id=s1.u1.w2
+4	prendre	_	_	_	_	_	_	_	id=s1.u1.w3
+5	le	_	_	_	_	_	_	_	id=s1.u1.w4
+6	tram	_	_	_	_	_	_	_	id=s1.u1.w5
+7	de	_	_	_	_	_	_	_	id=s1.u1.w6
+8	la	_	_	_	_	_	_	_	id=s1.u1.w7
+9	ligne	_	_	_	_	_	_	_	id=s1.u1.w8
+10	A	_	_	_	_	_	_	_	id=s1.u1.w9
+11	j'	_	_	_	_	_	_	_	id=s1.u1.w10
+12	avais	_	_	_	_	_	_	_	id=s1.u1.w11
+13	e	_	_	_	_	_	_	_	id=s1.u1.w12
+14	je	_	_	_	_	_	_	_	id=s1.u1.w13
+
+# sent_id = 2AP0180_2
+# text = 
+
+# sent_id = 2AP0180_3
+# text = Prisunic
+1	Prisunic	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 2AP0180_4
+# text = devant le Prisunic
+1	devant	_	_	_	_	_	_	_	id=s1.u4.w0
+2	le	_	_	_	_	_	_	_	id=s1.u4.w1
+3	Prisunic	_	_	_	_	_	_	_	id=s1.u4.w2
+
+# sent_id = 2AP0180_5
+# text = Prisunic le magasin il y a l' arrêt de tramway juste en face
+1	Prisunic	_	_	_	_	_	_	_	id=s1.u5.w0
+2	le	_	_	_	_	_	_	_	id=s1.u5.w1
+3	magasin	_	_	_	_	_	_	_	id=s1.u5.w2
+4	il	_	_	_	_	_	_	_	id=s1.u5.w3
+5	y	_	_	_	_	_	_	_	id=s1.u5.w4
+6	a	_	_	_	_	_	_	_	id=s1.u5.w5
+7	l'	_	_	_	_	_	_	_	id=s1.u5.w6
+8	arrêt	_	_	_	_	_	_	_	id=s1.u5.w7
+9	de	_	_	_	_	_	_	_	id=s1.u5.w8
+10	tramway	_	_	_	_	_	_	_	id=s1.u5.w9
+11	juste	_	_	_	_	_	_	_	id=s1.u5.w10
+12	en	_	_	_	_	_	_	_	id=s1.u5.w11
+13	face	_	_	_	_	_	_	_	id=s1.u5.w12
+
+# sent_id = 2AP0180_6
+# text = 
+
+# sent_id = 2AP0180_7
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u7.w0
+
+# sent_id = 2AP0180_8
+# text = je vous en prie
+1	je	_	_	_	_	_	_	_	id=s1.u8.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u8.w1
+3	en	_	_	_	_	_	_	_	id=s1.u8.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u8.w3
+
+# sent_id = 2AP0180_9
+# text = [pi] +[langue=anglais]
+
+# sent_id = 2AP0180_10
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u10.w0
+
+# sent_id = 2AP0180_11
+# text = le billet c' est e il est toujours bon si j' arrive de des universités sur la ligne B
+1	le	_	_	_	_	_	_	_	id=s1.u11.w0
+2	billet	_	_	_	_	_	_	_	id=s1.u11.w1
+3	c'	_	_	_	_	_	_	_	id=s1.u11.w2
+4	est	_	_	_	_	_	_	_	id=s1.u11.w3
+5	e	_	_	_	_	_	_	_	id=s1.u11.w4
+6	il	_	_	_	_	_	_	_	id=s1.u11.w5
+7	est	_	_	_	_	_	_	_	id=s1.u11.w6
+8	toujours	_	_	_	_	_	_	_	id=s1.u11.w7
+9	bon	_	_	_	_	_	_	_	id=s1.u11.w8
+10	si	_	_	_	_	_	_	_	id=s1.u11.w9
+11	j'	_	_	_	_	_	_	_	id=s1.u11.w10
+12	arrive	_	_	_	_	_	_	_	id=s1.u11.w11
+13	de	_	_	_	_	_	_	_	id=s1.u11.w12
+14	des	_	_	_	_	_	_	_	id=s1.u11.w13
+15	universités	_	_	_	_	_	_	_	id=s1.u11.w14
+16	sur	_	_	_	_	_	_	_	id=s1.u11.w15
+17	la	_	_	_	_	_	_	_	id=s1.u11.w16
+18	ligne	_	_	_	_	_	_	_	id=s1.u11.w17
+19	B	_	_	_	_	_	_	_	id=s1.u11.w18
+
+# sent_id = 2AP0180_12
+# text = ah ben sans problème
+1	ah	_	_	_	_	_	_	_	id=s1.u12.w0
+2	ben	_	_	_	_	_	_	_	id=s1.u12.w1
+3	sans	_	_	_	_	_	_	_	id=s1.u12.w2
+4	problème	_	_	_	_	_	_	_	id=s1.u12.w3
+
+# sent_id = 2AP0180_13
+# text = je peux utiliser le même
+1	je	_	_	_	_	_	_	_	id=s1.u13.w0
+2	peux	_	_	_	_	_	_	_	id=s1.u13.w1
+3	utiliser	_	_	_	_	_	_	_	id=s1.u13.w2
+4	le	_	_	_	_	_	_	_	id=s1.u13.w3
+5	même	_	_	_	_	_	_	_	id=s1.u13.w4
+
+# sent_id = 2AP0180_14
+# text = valable une heure valable une heure donc pas sur la même ligne donc vu que vous avez pris la B maintenant la A sans problème hein
+1	valable	_	_	_	_	_	_	_	id=s1.u14.w0
+2	une	_	_	_	_	_	_	_	id=s1.u14.w1
+3	heure	_	_	_	_	_	_	_	id=s1.u14.w2
+4	valable	_	_	_	_	_	_	_	id=s1.u14.w3
+5	une	_	_	_	_	_	_	_	id=s1.u14.w4
+6	heure	_	_	_	_	_	_	_	id=s1.u14.w5
+7	donc	_	_	_	_	_	_	_	id=s1.u14.w6
+8	pas	_	_	_	_	_	_	_	id=s1.u14.w7
+9	sur	_	_	_	_	_	_	_	id=s1.u14.w8
+10	la	_	_	_	_	_	_	_	id=s1.u14.w9
+11	même	_	_	_	_	_	_	_	id=s1.u14.w10
+12	ligne	_	_	_	_	_	_	_	id=s1.u14.w11
+13	donc	_	_	_	_	_	_	_	id=s1.u14.w12
+14	vu	_	_	_	_	_	_	_	id=s1.u14.w13
+15	que	_	_	_	_	_	_	_	id=s1.u14.w14
+16	vous	_	_	_	_	_	_	_	id=s1.u14.w15
+17	avez	_	_	_	_	_	_	_	id=s1.u14.w16
+18	pris	_	_	_	_	_	_	_	id=s1.u14.w17
+19	la	_	_	_	_	_	_	_	id=s1.u14.w18
+20	B	_	_	_	_	_	_	_	id=s1.u14.w19
+21	maintenant	_	_	_	_	_	_	_	id=s1.u14.w20
+22	la	_	_	_	_	_	_	_	id=s1.u14.w21
+23	A	_	_	_	_	_	_	_	id=s1.u14.w22
+24	sans	_	_	_	_	_	_	_	id=s1.u14.w23
+25	problème	_	_	_	_	_	_	_	id=s1.u14.w24
+26	hein	_	_	_	_	_	_	_	id=s1.u14.w25
+
+# sent_id = 2AP0180_15
+# text = ok merci
+1	ok	_	_	_	_	_	_	_	id=s1.u15.w0
+2	merci	_	_	_	_	_	_	_	id=s1.u15.w1
+
+# sent_id = 2AP0180_16
+# text = je vous en prie
+1	je	_	_	_	_	_	_	_	id=s1.u16.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u16.w1
+3	en	_	_	_	_	_	_	_	id=s1.u16.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u16.w3
+

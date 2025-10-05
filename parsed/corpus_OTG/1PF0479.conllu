@@ -1,0 +1,39 @@
+# sent_id = 1PF0479_0
+# text = monsieur bonjour
+1	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w0
+2	bonjour	bonjour	INTJ	_	_	1	discourse	_	_none=|id=s1.u0.w1
+
+# sent_id = 1PF0479_1
+# text = moi je cherche le le coin Cargo
+1	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	_none=|id=s1.u1.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	cherche	chercher	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u1.w2
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	reparandum	_	_none=|id=s1.u1.w3
+5	le	le	DET	_	Gender=Masc|Number=Sing	6	det	_	_none=|id=s1.u1.w4
+6	coin	coin	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	id=s1.u1.w5
+7	Cargo	Cargo	PROPN	_	_	6	nmod:appos	_	id=s1.u1.w6
+
+# sent_id = 1PF0479_2
+# text = le Cargo il est là là où il y a la la la demoiselle ou la dame là voyez au revoir
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u2.w0
+2	Cargo	Cargo	PROPN	_	_	5	dislocated	_	_none=|id=s1.u2.w1
+3	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_none=|id=s1.u2.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_none=|id=s1.u2.w3
+5	là	là	ADV	_	_	0	root	_	_none=|id=s1.u2.w4
+6	là	là	ADV	_	_	5	dep	_	_none=|id=s1.u2.w5
+7	où	où	PRON	_	PronType=Rel	10	obl:mod	_	_none=|id=s1.u2.w6
+8	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_none=|id=s1.u2.w7
+9	y	y	PRON	_	Person=3|PronType=Prs	10	expl:comp	_	id=s1.u2.w8
+10	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	id=s1.u2.w9
+11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	reparandum	_	_none=|id=s1.u2.w10
+12	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	reparandum	_	_none=|id=s1.u2.w11
+13	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_none=|id=s1.u2.w12
+14	demoiselle	demoiselle	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	id=s1.u2.w13
+15	ou	ou	CCONJ	_	_	17	cc	_	id=s1.u2.w14
+16	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	id=s1.u2.w15
+17	dame	dame	NOUN	_	Gender=Fem|Number=Sing	14	conj	_	id=s1.u2.w16
+18	là	là	ADV	_	_	10	advmod	_	_none=|id=s1.u2.w17
+19	voyez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	14	discourse	_	_none=|id=s1.u2.w18
+20	au	au	ADP	_	_	19	advmod	_	_none=|id=s1.u2.w19
+21	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	19	obl:mod	_	id=s1.u2.w20
+

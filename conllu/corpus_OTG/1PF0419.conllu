@@ -1,0 +1,43 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0419_0
+# text = bonjour madame
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+2	madame	_	_	_	_	_	_	_	id=s1.u0.w1
+
+# sent_id = 1PF0419_1
+# text = bonjour les tarifs S N C F e Grenoble Paris
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	les	_	_	_	_	_	_	_	id=s1.u1.w1
+3	tarifs	_	_	_	_	_	_	_	id=s1.u1.w2
+4	S	_	_	_	_	_	_	_	id=s1.u1.w3
+5	N	_	_	_	_	_	_	_	id=s1.u1.w4
+6	C	_	_	_	_	_	_	_	id=s1.u1.w5
+7	F	_	_	_	_	_	_	_	id=s1.u1.w6
+8	e	_	_	_	_	_	_	_	id=s1.u1.w7
+9	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w8
+10	Paris	_	_	_	_	_	_	_	id=s1.u1.w9
+
+# sent_id = 1PF0419_2
+# text = alors il faut aller au bout madame sur la gauche c' est la S N C F
+1	alors	_	_	_	_	_	_	_	id=s1.u2.w0
+2	il	_	_	_	_	_	_	_	id=s1.u2.w1
+3	faut	_	_	_	_	_	_	_	id=s1.u2.w2
+4	aller	_	_	_	_	_	_	_	id=s1.u2.w3
+5	au	_	_	_	_	_	_	_	id=s1.u2.w4
+6	bout	_	_	_	_	_	_	_	id=s1.u2.w5
+7	madame	_	_	_	_	_	_	_	id=s1.u2.w6
+8	sur	_	_	_	_	_	_	_	id=s1.u2.w7
+9	la	_	_	_	_	_	_	_	id=s1.u2.w8
+10	gauche	_	_	_	_	_	_	_	id=s1.u2.w9
+11	c'	_	_	_	_	_	_	_	id=s1.u2.w10
+12	est	_	_	_	_	_	_	_	id=s1.u2.w11
+13	la	_	_	_	_	_	_	_	id=s1.u2.w12
+14	S	_	_	_	_	_	_	_	id=s1.u2.w13
+15	N	_	_	_	_	_	_	_	id=s1.u2.w14
+16	C	_	_	_	_	_	_	_	id=s1.u2.w15
+17	F	_	_	_	_	_	_	_	id=s1.u2.w16
+
+# sent_id = 1PF0419_3
+# text = désolé
+1	désolé	_	_	_	_	_	_	_	id=s1.u3.w0
+

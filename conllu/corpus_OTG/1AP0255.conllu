@@ -1,0 +1,43 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0255_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AP0255_1
+# text = bonjour pour avoir des places s' il vous plaît pour e " montagnes en fêtes " à Fontaine
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	pour	_	_	_	_	_	_	_	id=s1.u1.w1
+3	avoir	_	_	_	_	_	_	_	id=s1.u1.w2
+4	des	_	_	_	_	_	_	_	id=s1.u1.w3
+5	places	_	_	_	_	_	_	_	id=s1.u1.w4
+6	s'	_	_	_	_	_	_	_	id=s1.u1.w5
+7	il	_	_	_	_	_	_	_	id=s1.u1.w6
+8	vous	_	_	_	_	_	_	_	id=s1.u1.w7
+9	plaît	_	_	_	_	_	_	_	id=s1.u1.w8
+10	pour	_	_	_	_	_	_	_	id=s1.u1.w9
+11	e	_	_	_	_	_	_	_	id=s1.u1.w10
+12	montagnes	_	_	_	_	_	_	_	id=s1.u1.w12
+13	en	_	_	_	_	_	_	_	id=s1.u1.w13
+14	fêtes	_	_	_	_	_	_	_	id=s1.u1.w14
+15	à	_	_	_	_	_	_	_	id=s1.u1.w16
+16	Fontaine	_	_	_	_	_	_	_	id=s1.u1.w17
+
+# sent_id = 1AP0255_2
+# text = à côté la billetterie là
+1	à	_	_	_	_	_	_	_	id=s1.u2.w0
+2	côté	_	_	_	_	_	_	_	id=s1.u2.w1
+3	la	_	_	_	_	_	_	_	id=s1.u2.w2
+4	billetterie	_	_	_	_	_	_	_	id=s1.u2.w3
+5	là	_	_	_	_	_	_	_	id=s1.u2.w4
+
+# sent_id = 1AP0255_3
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1AP0255_4
+# text = je vous en prie
+1	je	_	_	_	_	_	_	_	id=s1.u4.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u4.w1
+3	en	_	_	_	_	_	_	_	id=s1.u4.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u4.w3
+

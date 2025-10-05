@@ -1,0 +1,87 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SO0612_0
+# text = e est ce que vous avez me le l' adresse de des différentes M J C c' est pour prendre des cours de d' italien de e
+1	e	_	_	_	_	_	_	_	id=s1.u0.w0
+2	est	_	_	_	_	_	_	_	id=s1.u0.w1
+3	ce	_	_	_	_	_	_	_	id=s1.u0.w2
+4	que	_	_	_	_	_	_	_	id=s1.u0.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u0.w4
+6	avez	_	_	_	_	_	_	_	id=s1.u0.w5
+7	me	_	_	_	_	_	_	_	id=s1.u0.w6
+8	le	_	_	_	_	_	_	_	id=s1.u0.w7
+9	l'	_	_	_	_	_	_	_	id=s1.u0.w8
+10	adresse	_	_	_	_	_	_	_	id=s1.u0.w9
+11	de	_	_	_	_	_	_	_	id=s1.u0.w10
+12	des	_	_	_	_	_	_	_	id=s1.u0.w11
+13	différentes	_	_	_	_	_	_	_	id=s1.u0.w12
+14	M	_	_	_	_	_	_	_	id=s1.u0.w13
+15	J	_	_	_	_	_	_	_	id=s1.u0.w14
+16	C	_	_	_	_	_	_	_	id=s1.u0.w15
+17	c'	_	_	_	_	_	_	_	id=s1.u0.w16
+18	est	_	_	_	_	_	_	_	id=s1.u0.w17
+19	pour	_	_	_	_	_	_	_	id=s1.u0.w18
+20	prendre	_	_	_	_	_	_	_	id=s1.u0.w19
+21	des	_	_	_	_	_	_	_	id=s1.u0.w20
+22	cours	_	_	_	_	_	_	_	id=s1.u0.w21
+23	de	_	_	_	_	_	_	_	id=s1.u0.w22
+24	d'	_	_	_	_	_	_	_	id=s1.u0.w23
+25	italien	_	_	_	_	_	_	_	id=s1.u0.w24
+26	de	_	_	_	_	_	_	_	id=s1.u0.w25
+27	e	_	_	_	_	_	_	_	id=s1.u0.w26
+
+# sent_id = 1SO0612_1
+# text = 
+
+# sent_id = 1SO0612_2
+# text = voilà
+1	voilà	_	_	_	_	_	_	_	id=s1.u2.w0
+
+# sent_id = 1SO0612_3
+# text = il y a les les neuf M J C dedans
+1	il	_	_	_	_	_	_	_	id=s1.u3.w0
+2	y	_	_	_	_	_	_	_	id=s1.u3.w1
+3	a	_	_	_	_	_	_	_	id=s1.u3.w2
+4	les	_	_	_	_	_	_	_	id=s1.u3.w3
+5	les	_	_	_	_	_	_	_	id=s1.u3.w4
+6	neuf	_	_	_	_	_	_	_	id=s1.u3.w5
+7	M	_	_	_	_	_	_	_	id=s1.u3.w6
+8	J	_	_	_	_	_	_	_	id=s1.u3.w7
+9	C	_	_	_	_	_	_	_	id=s1.u3.w8
+10	dedans	_	_	_	_	_	_	_	id=s1.u3.w9
+
+# sent_id = 1SO0612_4
+# text = regardez
+1	regardez	_	_	_	_	_	_	_	id=s1.u4.w0
+
+# sent_id = 1SO0612_5
+# text = oh oui je vais regarder
+1	oh	_	_	_	_	_	_	_	id=s1.u5.w0
+2	oui	_	_	_	_	_	_	_	id=s1.u5.w1
+3	je	_	_	_	_	_	_	_	id=s1.u5.w2
+4	vais	_	_	_	_	_	_	_	id=s1.u5.w3
+5	regarder	_	_	_	_	_	_	_	id=s1.u5.w4
+
+# sent_id = 1SO0612_6
+# text = vous avez là et vous avez toutes les activités ici
+1	vous	_	_	_	_	_	_	_	id=s1.u6.w0
+2	avez	_	_	_	_	_	_	_	id=s1.u6.w1
+3	là	_	_	_	_	_	_	_	id=s1.u6.w2
+4	et	_	_	_	_	_	_	_	id=s1.u6.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u6.w4
+6	avez	_	_	_	_	_	_	_	id=s1.u6.w5
+7	toutes	_	_	_	_	_	_	_	id=s1.u6.w6
+8	les	_	_	_	_	_	_	_	id=s1.u6.w7
+9	activités	_	_	_	_	_	_	_	id=s1.u6.w8
+10	ici	_	_	_	_	_	_	_	id=s1.u6.w9
+
+# sent_id = 1SO0612_7
+# text = excellent merci beaucoup
+1	excellent	_	_	_	_	_	_	_	id=s1.u7.w0
+2	merci	_	_	_	_	_	_	_	id=s1.u7.w1
+3	beaucoup	_	_	_	_	_	_	_	id=s1.u7.w2
+
+# sent_id = 1SO0612_8
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u8.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u8.w1
+

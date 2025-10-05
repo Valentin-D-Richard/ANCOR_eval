@@ -1,0 +1,49 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0168_0
+# text = 
+
+# sent_id = 1AP0168_1
+# text = est ce que vous avez un plan de la piste cyclable
+1	est	_	_	_	_	_	_	_	id=s1.u1.w0
+2	ce	_	_	_	_	_	_	_	id=s1.u1.w1
+3	que	_	_	_	_	_	_	_	id=s1.u1.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u1.w3
+5	avez	_	_	_	_	_	_	_	id=s1.u1.w4
+6	un	_	_	_	_	_	_	_	id=s1.u1.w5
+7	plan	_	_	_	_	_	_	_	id=s1.u1.w6
+8	de	_	_	_	_	_	_	_	id=s1.u1.w7
+9	la	_	_	_	_	_	_	_	id=s1.u1.w8
+10	piste	_	_	_	_	_	_	_	id=s1.u1.w9
+11	cyclable	_	_	_	_	_	_	_	id=s1.u1.w10
+
+# sent_id = 1AP0168_2
+# text = non on n' en aura pas avant un mois maintenant
+1	non	_	_	_	_	_	_	_	id=s1.u2.w0
+2	on	_	_	_	_	_	_	_	id=s1.u2.w1
+3	n'	_	_	_	_	_	_	_	id=s1.u2.w2
+4	en	_	_	_	_	_	_	_	id=s1.u2.w3
+5	aura	_	_	_	_	_	_	_	id=s1.u2.w4
+6	pas	_	_	_	_	_	_	_	id=s1.u2.w5
+7	avant	_	_	_	_	_	_	_	id=s1.u2.w6
+8	un	_	_	_	_	_	_	_	id=s1.u2.w7
+9	mois	_	_	_	_	_	_	_	id=s1.u2.w8
+10	maintenant	_	_	_	_	_	_	_	id=s1.u2.w9
+
+# sent_id = 1AP0168_3
+# text = je reviendrai je vous remercie au revoir
+1	je	_	_	_	_	_	_	_	id=s1.u3.w0
+2	reviendrai	_	_	_	_	_	_	_	id=s1.u3.w1
+3	je	_	_	_	_	_	_	_	id=s1.u3.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u3.w3
+5	remercie	_	_	_	_	_	_	_	id=s1.u3.w4
+6	au	_	_	_	_	_	_	_	id=s1.u3.w5
+7	revoir	_	_	_	_	_	_	_	id=s1.u3.w6
+
+# sent_id = 1AP0168_4
+# text = 
+
+# sent_id = 1AP0168_5
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u5.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u5.w1
+

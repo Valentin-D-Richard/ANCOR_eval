@@ -1,0 +1,21 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0545_1
+# text = vous avez un plan de la ville
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	id=s1.u1.w0
+2	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_none=|id=s1.u1.w2
+4	plan	plan	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_none=|id=s1.u1.w3
+5	de	de	ADP	_	_	7	case	_	_none=|id=s1.u1.w4
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	id=s1.u1.w5
+7	ville	ville	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	id=s1.u1.w6
+
+# sent_id = 1AG0545_2
+# text = bien sûr voilà
+1	bien	bien	ADV	_	_	3	advmod	_	_none=|id=s1.u2.w0
+2	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u2.w1
+3	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u2.w2
+
+# sent_id = 1AG0545_3
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+

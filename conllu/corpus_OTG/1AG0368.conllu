@@ -1,0 +1,27 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0368_0
+# text = je voudrais des listes d' hôtels s' il vous plaît de Grenoble
+1	je	_	_	_	_	_	_	_	id=s1.u0.w0
+2	voudrais	_	_	_	_	_	_	_	id=s1.u0.w1
+3	des	_	_	_	_	_	_	_	id=s1.u0.w2
+4	listes	_	_	_	_	_	_	_	id=s1.u0.w3
+5	d'	_	_	_	_	_	_	_	id=s1.u0.w4
+6	hôtels	_	_	_	_	_	_	_	id=s1.u0.w5
+7	s'	_	_	_	_	_	_	_	id=s1.u0.w6
+8	il	_	_	_	_	_	_	_	id=s1.u0.w7
+9	vous	_	_	_	_	_	_	_	id=s1.u0.w8
+10	plaît	_	_	_	_	_	_	_	id=s1.u0.w9
+11	de	_	_	_	_	_	_	_	id=s1.u0.w10
+12	Grenoble	_	_	_	_	_	_	_	id=s1.u0.w11
+
+# sent_id = 1AG0368_1
+# text = 
+
+# sent_id = 1AG0368_2
+# text = voilà
+1	voilà	_	_	_	_	_	_	_	id=s1.u2.w0
+
+# sent_id = 1AG0368_3
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u3.w0
+

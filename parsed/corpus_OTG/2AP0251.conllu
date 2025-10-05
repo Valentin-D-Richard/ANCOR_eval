@@ -1,0 +1,191 @@
+# sent_id = 2AP0251_1
+# text = e je veux passer la journée à Grenoble et puis je veux aller me balader du côté de la Bastille
+1	e	e	SCONJ	_	_	3	cc	_	_none=|id=s1.u1.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	passer	passer	VERB	_	VerbForm=Inf	3	xcomp	_	id=s1.u1.w3
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	id=s1.u1.w4
+6	journée	journée	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	id=s1.u1.w5
+7	à	à	ADP	_	_	8	case	_	id=s1.u1.w6
+8	Grenoble	Grenoble	PROPN	_	_	4	obl:arg	_	_none=|id=s1.u1.w7
+9	et	et	CCONJ	_	_	12	cc	_	_none=|id=s1.u1.w8
+10	puis	puis	CCONJ	_	_	9	fixed	_	id=s1.u1.w9
+11	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_none=|id=s1.u1.w10
+12	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	id=s1.u1.w11
+13	aller	aller	VERB	_	VerbForm=Inf	12	advcl	_	_none=|id=s1.u1.w12
+14	me	le	PRON	_	Number=Sing|Person=1|PronType=Prs	15	obj	_	id=s1.u1.w13
+15	balader	balader	VERB	_	VerbForm=Inf	13	xcomp	_	id=s1.u1.w14
+16	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_none=|id=s1.u1.w15
+17	côté	côté	NOUN	_	Gender=Masc|Number=Sing	15	obl:mod	_	id=s1.u1.w16
+18	de	de	ADP	_	_	20	case	_	id=s1.u1.w17
+19	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	id=s1.u1.w18
+20	Bastille	Bastille	PROPN	_	_	17	nmod	_	id=s1.u1.w19
+
+# sent_id = 2AP0251_2
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u2.w0
+
+# sent_id = 2AP0251_3
+# text = alors e si vous pouvez me renseigner et puis un plan et et pour les chemins parce que on dit qu' il y a des chemins de randonnée là haut
+1	alors	alors	ADV	_	_	5	discourse	_	_none=|id=s1.u3.w0
+2	e	e	CCONJ	_	_	1	fixed	_	id=s1.u3.w1
+3	si	si	SCONJ	_	_	5	mark	_	_none=|id=s1.u3.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_none=|id=s1.u3.w3
+5	pouvez	pouvoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u3.w4
+6	me	le	PRON	_	Number=Sing|Person=1|PronType=Prs	7	obj	_	_none=|id=s1.u3.w5
+7	renseigner	renseigner	VERB	_	VerbForm=Inf	5	xcomp	_	_none=|id=s1.u3.w6
+8	et	et	CCONJ	_	_	11	cc	_	_none=|id=s1.u3.w7
+9	puis	puis	CCONJ	_	_	8	fixed	_	id=s1.u3.w8
+10	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_none=|id=s1.u3.w9
+11	plan	plan	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_none=|id=s1.u3.w10
+12	et	et	CCONJ	_	_	13	reparandum	_	_none=|id=s1.u3.w11
+13	et	et	CCONJ	_	_	16	cc	_	id=s1.u3.w12
+14	pour	pour	ADP	_	_	16	case	_	_none=|id=s1.u3.w13
+15	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	16	det	_	id=s1.u3.w14
+16	chemins	chemin	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	id=s1.u3.w15
+17	parce	parce	ADV	_	_	20	mark	_	_none=|id=s1.u3.w16
+18	que	que	SCONJ	_	_	17	fixed	_	id=s1.u3.w17
+19	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	20	nsubj	_	_none=|id=s1.u3.w18
+20	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_none=|id=s1.u3.w19
+21	qu'	que	SCONJ	_	_	24	mark	_	_none=|id=s1.u3.w20
+22	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	expl:subj	_	_none=|id=s1.u3.w21
+23	y	y	PRON	_	Person=3|PronType=Prs	24	expl:comp	_	id=s1.u3.w22
+24	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	ccomp	_	id=s1.u3.w23
+25	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	26	det	_	id=s1.u3.w24
+26	chemins	chemin	NOUN	_	Gender=Masc|Number=Plur	24	obj	_	id=s1.u3.w25
+27	de	de	ADP	_	_	28	case	_	id=s1.u3.w26
+28	randonnée	randonnée	NOUN	_	Gender=Fem|Number=Sing	26	nmod	_	id=s1.u3.w27
+29	là	là	ADV	_	_	24	advmod	_	_none=|id=s1.u3.w28
+30	haut	haut	ADV	_	_	29	fixed	_	id=s1.u3.w29
+
+# sent_id = 2AP0251_4
+# text = je vais vous laisser un petit plan
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u4.w0
+2	vais	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u4.w2
+4	laisser	laisser	VERB	_	VerbForm=Inf	2	xcomp	_	id=s1.u4.w3
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_none=|id=s1.u4.w4
+6	petit	petit	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_none=|id=s1.u4.w5
+7	plan	plan	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_none=|id=s1.u4.w6
+
+# sent_id = 2AP0251_5
+# text = ce qu' il faudrait faire c' est que vous alliez voir " info montagne " à la maison de la randonnée ils sont au premier donc eux ils vont vous e
+1	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u5.w0
+2	qu'	que	PRON	_	PronType=Rel	5	obj	_	_none=|id=s1.u5.w1
+3	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	_none=|id=s1.u5.w2
+4	faudrait	fauloir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_none=|id=s1.u5.w3
+5	faire	faire	VERB	_	VerbForm=Inf	4	xcomp	_	_none=|id=s1.u5.w4
+6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	nsubj	_	_none=|id=s1.u5.w5
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	id=s1.u5.w6
+8	que	que	SCONJ	_	_	10	mark	_	_none=|id=s1.u5.w7
+9	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	10	nsubj	_	_none=|id=s1.u5.w8
+10	alliez	allier	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	21	reparandum	_	_none=|id=s1.u5.w9
+11	voir	voir	VERB	_	VerbForm=Inf	10	xcomp	_	_none=|id=s1.u5.w10
+12	info	info	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	id=s1.u5.w12
+13	montagne	montagne	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	id=s1.u5.w13
+14	à	à	ADP	_	_	16	case	_	_none=|id=s1.u5.w15
+15	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	id=s1.u5.w16
+16	maison	maison	NOUN	_	Gender=Fem|Number=Sing	23	nmod	_	id=s1.u5.w17
+17	de	de	ADP	_	_	19	case	_	_none=|id=s1.u5.w18
+18	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	id=s1.u5.w19
+19	randonnée	randonnée	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	id=s1.u5.w20
+20	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	id=s1.u5.w21
+21	sont	être	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	id=s1.u5.w22
+22	au	au	DET	_	_	23	det	_	_none=|id=s1.u5.w23
+23	premier	premier	ADJ	_	Gender=Masc|Number=Sing	21	xcomp	_	_none=|id=s1.u5.w24
+24	donc	donc	ADV	_	_	27	cc	_	_none=|id=s1.u5.w25
+25	eux	lui	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	27	dislocated	_	id=s1.u5.w26
+26	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	27	nsubj	_	id=s1.u5.w27
+27	vont	aller	VERB	ETRE	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	conj	_	id=s1.u5.w28
+28	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	27	obj	_	id=s1.u5.w29
+29	e	e	INTJ	_	_	27	dep	_	id=s1.u5.w30
+
+# sent_id = 2AP0251_6
+# text = ça m' entraînera pour monter déjà
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	id=s1.u6.w0
+2	m'	le	PRON	_	Number=Sing|Person=1|PronType=Prs	3	iobj	_	_none=|id=s1.u6.w1
+3	entraînera	entraîner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u6.w2
+4	pour	pour	ADP	_	_	5	mark	_	_none=|id=s1.u6.w3
+5	monter	monter	VERB	_	VerbForm=Inf	3	advcl	_	id=s1.u6.w4
+6	déjà	déjà	ADV	_	_	5	advmod	_	_none=|id=s1.u6.w5
+
+# sent_id = 2AP0251_7
+# text = voilà déjà ils vont vous orienter vous donner ce qui faut parce que moi c' est surtout des documents touristiques pour les téléphériques les horaires et caetera et caetera
+1	voilà	voilà	VERB	_	_	4	discourse	_	_none=|id=s1.u7.w0
+2	déjà	déjà	ADV	_	_	4	advmod	_	_none=|id=s1.u7.w1
+3	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_none=|id=s1.u7.w2
+4	vont	aller	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u7.w3
+5	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	6	iobj	_	id=s1.u7.w4
+6	orienter	orienter	VERB	_	VerbForm=Inf	4	xcomp	_	_none=|id=s1.u7.w5
+7	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	8	iobj	_	id=s1.u7.w6
+8	donner	donner	VERB	_	VerbForm=Inf	6	conj	_	id=s1.u7.w7
+9	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	obj	_	id=s1.u7.w8
+10	qui	qui	PRON	_	PronType=Rel	11	nsubj	_	id=s1.u7.w9
+11	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	id=s1.u7.w10
+12	parce	parce	ADV	_	_	19	mark	_	_none=|id=s1.u7.w11
+13	que	que	SCONJ	_	_	12	fixed	_	id=s1.u7.w12
+14	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	19	dislocated	_	_none=|id=s1.u7.w13
+15	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	19	nsubj	_	_none=|id=s1.u7.w14
+16	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	id=s1.u7.w15
+17	surtout	surtout	ADV	_	_	19	advmod	_	_none=|id=s1.u7.w16
+18	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	19	det	_	id=s1.u7.w17
+19	documents	document	NOUN	_	Gender=Masc|Number=Plur	8	advcl	_	id=s1.u7.w18
+20	touristiques	touristique	ADJ	_	Gender=Masc|Number=Plur	19	amod	_	_none=|id=s1.u7.w19
+21	pour	pour	ADP	_	_	23	case	_	_none=|id=s1.u7.w20
+22	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	23	det	_	id=s1.u7.w21
+23	téléphériques	téléphérique	NOUN	_	Gender=Fem|Number=Plur	19	obl:mod	_	id=s1.u7.w22
+24	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	25	det	_	id=s1.u7.w23
+25	horaires	horaire	NOUN	_	Gender=Masc|Number=Plur	19	conj	_	id=s1.u7.w24
+26	et	et	CCONJ	_	_	25	cc	_	_none=|id=s1.u7.w25
+27	caetera	caetera	ADV	_	_	26	fixed	_	id=s1.u7.w26
+28	et	et	CCONJ	_	_	19	conj	_	id=s1.u7.w27
+29	caetera	caetera	ADV	_	_	28	fixed	_	id=s1.u7.w28
+
+# sent_id = 2AP0251_8
+# text = d' accord déjà oui
+1	d'	de	ADP	_	_	2	case	_	_none=|id=s1.u8.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u8.w1
+3	déjà	déjà	ADV	_	_	2	advmod	_	_none=|id=s1.u8.w2
+4	oui	oui	ADV	_	_	2	discourse	_	_none=|id=s1.u8.w3
+
+# sent_id = 2AP0251_9
+# text = on en parle on parle un peu de ce qu' on trouve au dessus mais enfin ils auront beaucoup mieux
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_none=|id=s1.u9.w0
+2	en	en	PRON	_	Person=3|PronType=Prs	3	obj	_	_none=|id=s1.u9.w1
+3	parle	parler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	reparandum	_	id=s1.u9.w2
+4	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj	_	_none=|id=s1.u9.w3
+5	parle	parler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u9.w4
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	advmod	_	_none=|id=s1.u9.w5
+7	peu	peu	NOUN	_	Gender=Masc|Number=Sing	6	fixed	_	id=s1.u9.w6
+8	de	de	ADP	_	_	9	case	_	_none=|id=s1.u9.w7
+9	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	obl:arg	_	id=s1.u9.w8
+10	qu'	que	PRON	_	PronType=Rel	12	obj	_	id=s1.u9.w9
+11	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	12	nsubj	_	id=s1.u9.w10
+12	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	id=s1.u9.w11
+13	au	au	ADP	_	_	14	case	_	_none=|id=s1.u9.w12
+14	dessus	dessus	ADV	_	Gender=Masc|Number=Sing	12	obl:mod	_	_none=|id=s1.u9.w13
+15	mais	mais	CCONJ	_	_	18	cc	_	_none=|id=s1.u9.w14
+16	enfin	enfin	ADV	_	_	18	discourse	_	id=s1.u9.w15
+17	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	id=s1.u9.w16
+18	auront	aoir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_none=|id=s1.u9.w17
+19	beaucoup	beaucoup	ADV	_	_	20	advmod	_	_none=|id=s1.u9.w18
+20	mieux	mieux	ADV	_	_	18	advmod	_	_none=|id=s1.u9.w19
+
+# sent_id = 2AP0251_10
+# text = d' accord je vous remercie bonne journée
+1	d'	de	ADP	_	_	5	mark	_	_none=|id=s1.u10.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u10.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u10.w2
+4	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	5	iobj	_	id=s1.u10.w3
+5	remercie	remercier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u10.w4
+6	bonne	bon	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	id=s1.u10.w5
+7	journée	journée	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	id=s1.u10.w6
+
+# sent_id = 2AP0251_11
+# text = je vous en prie monsieur
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u11.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u11.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u11.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u11.w3
+5	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	4	vocative	_	_none=|id=s1.u11.w4
+

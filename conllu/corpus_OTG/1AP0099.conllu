@@ -1,0 +1,63 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0099_0
+# text = 
+
+# sent_id = 1AP0099_1
+# text = vous avez un magazine qui présente Grenoble un petit peu sous toutes ses
+1	vous	_	_	_	_	_	_	_	id=s1.u1.w0
+2	avez	_	_	_	_	_	_	_	id=s1.u1.w1
+3	un	_	_	_	_	_	_	_	id=s1.u1.w2
+4	magazine	_	_	_	_	_	_	_	id=s1.u1.w3
+5	qui	_	_	_	_	_	_	_	id=s1.u1.w4
+6	présente	_	_	_	_	_	_	_	id=s1.u1.w5
+7	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w6
+8	un	_	_	_	_	_	_	_	id=s1.u1.w7
+9	petit	_	_	_	_	_	_	_	id=s1.u1.w8
+10	peu	_	_	_	_	_	_	_	id=s1.u1.w9
+11	sous	_	_	_	_	_	_	_	id=s1.u1.w10
+12	toutes	_	_	_	_	_	_	_	id=s1.u1.w11
+13	ses	_	_	_	_	_	_	_	id=s1.u1.w12
+
+# sent_id = 1AP0099_2
+# text = 
+
+# sent_id = 1AP0099_3
+# text = " Grenoble magazine "
+1	Grenoble	_	_	_	_	_	_	_	id=s1.u3.w1
+2	magazine	_	_	_	_	_	_	_	id=s1.u3.w2
+
+# sent_id = 1AP0099_4
+# text = voilà ah ben c' est parfait
+1	voilà	_	_	_	_	_	_	_	id=s1.u4.w0
+2	ah	_	_	_	_	_	_	_	id=s1.u4.w1
+3	ben	_	_	_	_	_	_	_	id=s1.u4.w2
+4	c'	_	_	_	_	_	_	_	id=s1.u4.w3
+5	est	_	_	_	_	_	_	_	id=s1.u4.w4
+6	parfait	_	_	_	_	_	_	_	id=s1.u4.w5
+
+# sent_id = 1AP0099_5
+# text = eh ben c' est super
+1	eh	_	_	_	_	_	_	_	id=s1.u5.w0
+2	ben	_	_	_	_	_	_	_	id=s1.u5.w1
+3	c'	_	_	_	_	_	_	_	id=s1.u5.w2
+4	est	_	_	_	_	_	_	_	id=s1.u5.w3
+5	super	_	_	_	_	_	_	_	id=s1.u5.w4
+
+# sent_id = 1AP0099_6
+# text = oui j' adore
+1	oui	_	_	_	_	_	_	_	id=s1.u6.w0
+2	j'	_	_	_	_	_	_	_	id=s1.u6.w1
+3	adore	_	_	_	_	_	_	_	id=s1.u6.w2
+
+# sent_id = 1AP0099_7
+# text = merci bien au revoir
+1	merci	_	_	_	_	_	_	_	id=s1.u7.w0
+2	bien	_	_	_	_	_	_	_	id=s1.u7.w1
+3	au	_	_	_	_	_	_	_	id=s1.u7.w2
+4	revoir	_	_	_	_	_	_	_	id=s1.u7.w3
+
+# sent_id = 1AP0099_8
+# text = madame merci
+1	madame	_	_	_	_	_	_	_	id=s1.u8.w0
+2	merci	_	_	_	_	_	_	_	id=s1.u8.w1
+

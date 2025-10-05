@@ -1,0 +1,85 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0219_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0219_1
+# text = bonjour est ce que vous avez la liste des foires et brocantes de l' Isère
+1	bonjour	bonjour	NOUN	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u1.w1
+3	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u1.w2
+4	que	que	SCONJ	_	_	6	mark	_	_none=|id=s1.u1.w3
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_none=|id=s1.u1.w4
+6	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_none=|id=s1.u1.w5
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	id=s1.u1.w6
+8	liste	liste	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	id=s1.u1.w7
+9	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	10	det	_	id=s1.u1.w8
+10	foires	foire	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	id=s1.u1.w9
+11	et	et	CCONJ	_	_	12	cc	_	id=s1.u1.w10
+12	brocantes	brocante	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	id=s1.u1.w11
+13	de	de	ADP	_	_	15	case	_	_none=|id=s1.u1.w12
+14	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	15	det	_	id=s1.u1.w13
+15	Isère	Isère	PROPN	_	_	10	nmod	_	_none=|id=s1.u1.w14
+
+# sent_id = 1AP0219_2
+# text = de l' Isère non ce sera Grenoble et le le grand Grenoble c' est tout
+1	de	de	ADP	_	_	3	case	_	_none=|id=s1.u2.w0
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	id=s1.u2.w1
+3	Isère	Isère	PROPN	_	_	7	obl:mod	_	_none=|id=s1.u2.w2
+4	non	non	ADV	_	Polarity=Neg	3	discourse	_	_none=|id=s1.u2.w3
+5	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	_none=|id=s1.u2.w4
+6	sera	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	cop	_	_none=|id=s1.u2.w5
+7	Grenoble	Grenoble	PROPN	_	_	0	root	_	id=s1.u2.w6
+8	et	et	CCONJ	_	_	12	cc	_	id=s1.u2.w7
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	reparandum	_	_none=|id=s1.u2.w8
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_none=|id=s1.u2.w9
+11	grand	grand	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_none=|id=s1.u2.w10
+12	Grenoble	Grenoble	PROPN	_	_	7	conj	_	id=s1.u2.w11
+13	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	nsubj	_	_none=|id=s1.u2.w12
+14	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	id=s1.u2.w13
+15	tout	tout	PRON	_	Gender=Masc|Number=Sing	7	conj	_	_none=|id=s1.u2.w14
+
+# sent_id = 1AP0219_3
+# text = bon ben Grenoble le grand ohlala
+1	bon	bon	INTJ	_	_	3	discourse	_	_none=|id=s1.u3.w0
+2	ben	ben	INTJ	_	_	3	discourse	_	id=s1.u3.w1
+3	Grenoble	Grenoble	PROPN	_	_	0	root	_	_none=|id=s1.u3.w2
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_none=|id=s1.u3.w3
+5	grand	grand	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_none=|id=s1.u3.w4
+6	ohlala	ohlala	VERB	_	_	5	discourse	_	_none=|id=s1.u3.w5
+
+# sent_id = 1AP0219_4
+# text = et puis voir avec la Chambre de Commerce et d' Industrie de Grenoble qui pourra peut être vous fournir le reste voilà
+1	et	et	CCONJ	_	_	3	cc	_	_none=|id=s1.u4.w0
+2	puis	puis	CCONJ	_	_	1	fixed	_	id=s1.u4.w1
+3	voir	voir	VERB	_	VerbForm=Inf	0	root	_	_none=|id=s1.u4.w2
+4	avec	avec	ADP	_	_	6	case	_	id=s1.u4.w3
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	id=s1.u4.w4
+6	Chambre	Chambre	PROPN	_	_	3	obl:arg	_	_none=|id=s1.u4.w5
+7	de	de	ADP	_	_	8	case	_	_none=|id=s1.u4.w6
+8	Commerce	Commerce	PROPN	_	_	6	nmod	_	_none=|id=s1.u4.w7
+9	et	et	CCONJ	_	_	11	cc	_	id=s1.u4.w8
+10	d'	de	ADP	_	_	11	case	_	_none=|id=s1.u4.w9
+11	Industrie	Industrie	PROPN	_	_	8	conj	_	id=s1.u4.w10
+12	de	de	ADP	_	_	13	case	_	_none=|id=s1.u4.w11
+13	Grenoble	Grenoble	PROPN	_	_	6	nmod	_	_none=|id=s1.u4.w12
+14	qui	qui	PRON	_	PronType=Rel	15	nsubj	_	id=s1.u4.w13
+15	pourra	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	acl:relcl	_	_none=|id=s1.u4.w14
+16	peut	peut	DET	_	_	15	advmod	_	_none=|id=s1.u4.w15
+17	être	être	ADV	_	VerbForm=Inf	16	fixed	_	id=s1.u4.w16
+18	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	19	iobj	_	id=s1.u4.w17
+19	fournir	fournir	VERB	_	VerbForm=Inf	15	xcomp	_	id=s1.u4.w18
+20	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	id=s1.u4.w19
+21	reste	reste	NOUN	_	Gender=Masc|Number=Sing	19	obj	_	id=s1.u4.w20
+22	voilà	voilà	VERB	_	_	3	discourse	_	_none=|id=s1.u4.w21
+
+# sent_id = 1AP0219_6
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u6.w0
+
+# sent_id = 1AP0219_7
+# text = bonne journée madame
+1	bonne	bon	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	id=s1.u7.w0
+2	journée	journée	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u7.w1
+3	madame	madame	NOUN	_	Gender=Fem|Number=Sing	2	vocative	_	id=s1.u7.w2
+

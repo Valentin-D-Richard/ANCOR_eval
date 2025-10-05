@@ -1,0 +1,96 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0024_0
+# text = oh et puis je vais recevoir e oh réserver
+1	oh	oh	INTJ	_	_	5	discourse	_	_none=|id=s1.u0.w0
+2	et	et	CCONJ	_	_	5	cc	_	_none=|id=s1.u0.w1
+3	puis	puis	CCONJ	_	_	2	fixed	_	id=s1.u0.w2
+4	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u0.w3
+5	vais	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u0.w4
+6	recevoir	recevoir	VERB	_	VerbForm=Inf	9	reparandum	_	_none=|id=s1.u0.w5
+7	e	e	DET	_	_	6	obj	_	_none=|id=s1.u0.w6
+8	oh	oh	INTJ	_	_	9	discourse	_	_none=|id=s1.u0.w7
+9	réserver	réserver	VERB	_	VerbForm=Inf	5	xcomp	_	id=s1.u0.w8
+
+# sent_id = 1SB0024_1
+# text = des billets d' avion
+1	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	2	det	_	id=s1.u1.w0
+2	billets	billet	NOUN	_	Gender=Masc|Number=Plur	0	root	_	id=s1.u1.w1
+3	d'	de	ADP	_	_	4	case	_	_none=|id=s1.u1.w2
+4	avion	avion	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_none=|id=s1.u1.w3
+
+# sent_id = 1SB0024_2
+# text = e en agence de voyages e
+1	e	e	CCONJ	_	_	3	cc	_	_none=|id=s1.u2.w0
+2	en	en	ADP	_	_	3	case	_	_none=|id=s1.u2.w1
+3	agence	agence	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u2.w2
+4	de	de	ADP	_	_	5	case	_	_none=|id=s1.u2.w3
+5	voyages	voyage	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	id=s1.u2.w4
+6	e	e	CCONJ	_	_	3	cc	_	_none=|id=s1.u2.w5
+
+# sent_id = 1SB0024_3
+# text = oui non mais il y a il y a un site Air Inter ici tout droit à Air Inter voilà vous allez me donner l' adresse c' est le numéro e
+1	oui	oui	ADV	_	_	6	discourse	_	_none=|id=s1.u3.w0
+2	non	non	ADV	_	_	6	discourse	_	_none=|id=s1.u3.w1
+3	mais	mais	CCONJ	_	_	6	cc	_	_none=|id=s1.u3.w2
+4	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	_none=|id=s1.u3.w3
+5	y	y	PRON	_	Person=3|PronType=Prs	6	expl:comp	_	_none=|id=s1.u3.w4
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	reparandum	_	id=s1.u3.w5
+7	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl:subj	_	_none=|id=s1.u3.w6
+8	y	y	PRON	_	Person=3|PronType=Prs	9	expl:comp	_	id=s1.u3.w7
+9	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u3.w8
+10	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	id=s1.u3.w9
+11	site	site	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_none=|id=s1.u3.w10
+12	Air	Air	PROPN	_	_	11	nmod:appos	_	_none=|id=s1.u3.w11
+13	Inter	Inter	PROPN	_	_	12	flat:name	_	_none=|id=s1.u3.w12
+14	ici	ici	ADV	_	_	9	advmod	_	_none=|id=s1.u3.w13
+15	tout	tout	ADV	_	_	16	advmod	_	_none=|id=s1.u3.w14
+16	droit	droit	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_none=|id=s1.u3.w15
+17	à	à	ADP	_	_	18	case	_	_none=|id=s1.u3.w16
+18	Air	Air	PROPN	_	_	11	nmod	_	_none=|id=s1.u3.w17
+19	Inter	Inter	PROPN	_	_	18	flat:name	_	_none=|id=s1.u3.w18
+20	voilà	voilà	VERB	_	_	22	discourse	_	id=s1.u3.w19
+21	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	22	nsubj	_	_none=|id=s1.u3.w20
+22	allez	aller	VERB	ETRE	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	_	id=s1.u3.w21
+23	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	24	iobj	_	_none=|id=s1.u3.w22
+24	donner	donner	VERB	_	VerbForm=Inf	22	xcomp	_	id=s1.u3.w23
+25	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	26	det	_	id=s1.u3.w24
+26	adresse	adresse	NOUN	_	Gender=Fem|Number=Sing	24	obj	_	id=s1.u3.w25
+27	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	30	nsubj	_	id=s1.u3.w26
+28	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	id=s1.u3.w27
+29	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	id=s1.u3.w28
+30	numéro	numéro	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	id=s1.u3.w29
+31	e	e	PRON	_	Number=Sing	30	conj	_	id=s1.u3.w30
+
+# sent_id = 1SB0024_4
+# text = cours Jean Jaurès
+1	cours	cours	NOUN	_	Gender=Masc	0	root	_	id=s1.u4.w0
+2	Jean	Jean	PROPN	_	_	1	nmod:appos	_	_none=|id=s1.u4.w1
+3	Jaurès	Jaurès	PROPN	_	_	2	flat:name	_	id=s1.u4.w2
+
+# sent_id = 1SB0024_5
+# text = e Air Inter c' est le numéro quarante-deux
+1	e	e	CCONJ	_	_	7	cc	_	_none=|id=s1.u5.w0
+2	Air	Air	PROPN	_	_	7	dislocated	_	_none=|id=s1.u5.w1
+3	Inter	Inter	PROPN	_	_	2	flat:name	_	_none=|id=s1.u5.w2
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	id=s1.u5.w3
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	id=s1.u5.w4
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_none=|id=s1.u5.w5
+7	numéro	numéro	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u5.w6
+8	quarante-deux	quarante-deux	NUM	_	Number=Plur	7	nmod	_	_none=|id=s1.u5.w7
+
+# sent_id = 1SB0024_6
+# text = c' est marqué très bien merci au revoir
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_none=|id=s1.u6.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	id=s1.u6.w1
+3	marqué	marquer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u6.w2
+4	très	très	ADV	_	_	5	advmod	_	_none=|id=s1.u6.w3
+5	bien	bien	ADV	_	_	3	advmod	_	_none=|id=s1.u6.w4
+6	merci	merci	INTJ	_	_	3	conj	_	_none=|id=s1.u6.w5
+7	au	au	ADP	_	_	8	case	_	_none=|id=s1.u6.w6
+8	revoir	revoir	VERB	_	Gender=Masc|Number=Sing	6	advcl	_	id=s1.u6.w7
+
+# sent_id = 1SB0024_7
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u7.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u7.w1
+

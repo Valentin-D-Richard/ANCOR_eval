@@ -1,0 +1,29 @@
+# sent_id = 1AP0606_1
+# text = vous avez " le 38 " s' il vous plaît
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	id=s1.u1.w0
+2	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u1.w1
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	id=s1.u1.w3
+4	38	38	X	_	_	2	obj	_	_none=|id=s1.u1.w4
+5	s'	se	SCONJ	_	_	8	mark	_	_none=|id=s1.u1.w6
+6	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl:subj	_	_none=|id=s1.u1.w7
+7	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	8	iobj	_	_none=|id=s1.u1.w8
+8	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	discourse	_	id=s1.u1.w9
+
+# sent_id = 1AP0606_2
+# text = non plus monsieur
+1	non	non	ADV	_	Polarity=Neg	3	advmod	_	_none=|id=s1.u2.w0
+2	plus	plus	ADV	_	_	1	advmod	_	id=s1.u2.w1
+3	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u2.w2
+
+# sent_id = 1AP0606_3
+# text = plus
+1	plus	plus	ADV	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1AP0606_4
+# text = on en a plus désolé
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj	_	_none=|id=s1.u4.w0
+2	en	en	PRON	_	Person=3|PronType=Prs	5	obj	_	id=s1.u4.w1
+3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w2
+4	plus	plus	ADV	_	_	5	advmod	_	_none=|id=s1.u4.w3
+5	désolé	désoler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_none=|id=s1.u4.w4
+

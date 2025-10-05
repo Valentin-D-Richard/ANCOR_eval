@@ -1,0 +1,65 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0421_0
+# text = e les cartes c' est là bas la carte e TAG
+1	e	_	_	_	_	_	_	_	id=s1.u0.w0
+2	les	_	_	_	_	_	_	_	id=s1.u0.w1
+3	cartes	_	_	_	_	_	_	_	id=s1.u0.w2
+4	c'	_	_	_	_	_	_	_	id=s1.u0.w3
+5	est	_	_	_	_	_	_	_	id=s1.u0.w4
+6	là	_	_	_	_	_	_	_	id=s1.u0.w5
+7	bas	_	_	_	_	_	_	_	id=s1.u0.w6
+8	la	_	_	_	_	_	_	_	id=s1.u0.w7
+9	carte	_	_	_	_	_	_	_	id=s1.u0.w8
+10	e	_	_	_	_	_	_	_	id=s1.u0.w9
+11	TAG	_	_	_	_	_	_	_	id=s1.u0.w10
+
+# sent_id = 1PF0421_1
+# text = oui bien sûr madame c' est là bas
+1	oui	_	_	_	_	_	_	_	id=s1.u1.w0
+2	bien	_	_	_	_	_	_	_	id=s1.u1.w1
+3	sûr	_	_	_	_	_	_	_	id=s1.u1.w2
+4	madame	_	_	_	_	_	_	_	id=s1.u1.w3
+5	c'	_	_	_	_	_	_	_	id=s1.u1.w4
+6	est	_	_	_	_	_	_	_	id=s1.u1.w5
+7	là	_	_	_	_	_	_	_	id=s1.u1.w6
+8	bas	_	_	_	_	_	_	_	id=s1.u1.w7
+
+# sent_id = 1PF0421_2
+# text = on peut les prendre avant le premier hein ça a pas d' importance à quelle pas du tout
+1	on	_	_	_	_	_	_	_	id=s1.u2.w0
+2	peut	_	_	_	_	_	_	_	id=s1.u2.w1
+3	les	_	_	_	_	_	_	_	id=s1.u2.w2
+4	prendre	_	_	_	_	_	_	_	id=s1.u2.w3
+5	avant	_	_	_	_	_	_	_	id=s1.u2.w4
+6	le	_	_	_	_	_	_	_	id=s1.u2.w5
+7	premier	_	_	_	_	_	_	_	id=s1.u2.w6
+8	hein	_	_	_	_	_	_	_	id=s1.u2.w7
+9	ça	_	_	_	_	_	_	_	id=s1.u2.w8
+10	a	_	_	_	_	_	_	_	id=s1.u2.w9
+11	pas	_	_	_	_	_	_	_	id=s1.u2.w10
+12	d'	_	_	_	_	_	_	_	id=s1.u2.w11
+13	importance	_	_	_	_	_	_	_	id=s1.u2.w12
+14	à	_	_	_	_	_	_	_	id=s1.u2.w13
+15	quelle	_	_	_	_	_	_	_	id=s1.u2.w14
+16	pas	_	_	_	_	_	_	_	id=s1.u2.w15
+17	du	_	_	_	_	_	_	_	id=s1.u2.w16
+18	tout	_	_	_	_	_	_	_	id=s1.u2.w17
+
+# sent_id = 1PF0421_3
+# text = je sais pas
+1	je	_	_	_	_	_	_	_	id=s1.u3.w0
+2	sais	_	_	_	_	_	_	_	id=s1.u3.w1
+3	pas	_	_	_	_	_	_	_	id=s1.u3.w2
+
+# sent_id = 1PF0421_4
+# text = toutes leurs leurs activités c' est bien différent maintenant
+1	toutes	_	_	_	_	_	_	_	id=s1.u4.w0
+2	leurs	_	_	_	_	_	_	_	id=s1.u4.w1
+3	leurs	_	_	_	_	_	_	_	id=s1.u4.w2
+4	activités	_	_	_	_	_	_	_	id=s1.u4.w3
+5	c'	_	_	_	_	_	_	_	id=s1.u4.w4
+6	est	_	_	_	_	_	_	_	id=s1.u4.w5
+7	bien	_	_	_	_	_	_	_	id=s1.u4.w6
+8	différent	_	_	_	_	_	_	_	id=s1.u4.w7
+9	maintenant	_	_	_	_	_	_	_	id=s1.u4.w8
+

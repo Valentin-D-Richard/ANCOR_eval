@@ -1,0 +1,51 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0217_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AP0217_1
+# text = bonjour c' était pour savoir e si vous savez quel bus s' arrête aux Véoux
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	c'	_	_	_	_	_	_	_	id=s1.u1.w1
+3	était	_	_	_	_	_	_	_	id=s1.u1.w2
+4	pour	_	_	_	_	_	_	_	id=s1.u1.w3
+5	savoir	_	_	_	_	_	_	_	id=s1.u1.w4
+6	e	_	_	_	_	_	_	_	id=s1.u1.w5
+7	si	_	_	_	_	_	_	_	id=s1.u1.w6
+8	vous	_	_	_	_	_	_	_	id=s1.u1.w7
+9	savez	_	_	_	_	_	_	_	id=s1.u1.w8
+10	quel	_	_	_	_	_	_	_	id=s1.u1.w9
+11	bus	_	_	_	_	_	_	_	id=s1.u1.w10
+12	s'	_	_	_	_	_	_	_	id=s1.u1.w11
+13	arrête	_	_	_	_	_	_	_	id=s1.u1.w12
+14	aux	_	_	_	_	_	_	_	id=s1.u1.w13
+15	Véoux	_	_	_	_	_	_	_	id=s1.u1.w14
+
+# sent_id = 1AP0217_2
+# text = non il faut voir avec la TAG ça hein s' occupe du réseau bus et tramway
+1	non	_	_	_	_	_	_	_	id=s1.u2.w0
+2	il	_	_	_	_	_	_	_	id=s1.u2.w1
+3	faut	_	_	_	_	_	_	_	id=s1.u2.w2
+4	voir	_	_	_	_	_	_	_	id=s1.u2.w3
+5	avec	_	_	_	_	_	_	_	id=s1.u2.w4
+6	la	_	_	_	_	_	_	_	id=s1.u2.w5
+7	TAG	_	_	_	_	_	_	_	id=s1.u2.w6
+8	ça	_	_	_	_	_	_	_	id=s1.u2.w7
+9	hein	_	_	_	_	_	_	_	id=s1.u2.w8
+10	s'	_	_	_	_	_	_	_	id=s1.u2.w9
+11	occupe	_	_	_	_	_	_	_	id=s1.u2.w10
+12	du	_	_	_	_	_	_	_	id=s1.u2.w11
+13	réseau	_	_	_	_	_	_	_	id=s1.u2.w12
+14	bus	_	_	_	_	_	_	_	id=s1.u2.w13
+15	et	_	_	_	_	_	_	_	id=s1.u2.w14
+16	tramway	_	_	_	_	_	_	_	id=s1.u2.w15
+
+# sent_id = 1AP0217_3
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1AP0217_4
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u4.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u4.w1
+

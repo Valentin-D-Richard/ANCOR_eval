@@ -1,0 +1,57 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0074_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0074_1
+# text = oui bonjour je voudrais un plan de Grenoble
+1	oui	oui	INTJ	_	_	4	discourse	_	_none=|id=s1.u1.w0
+2	bonjour	bonjour	INTJ	_	_	1	discourse	_	_none=|id=s1.u1.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u1.w2
+4	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w3
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	id=s1.u1.w4
+6	plan	plan	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_none=|id=s1.u1.w5
+7	de	de	ADP	_	_	8	case	_	id=s1.u1.w6
+8	Grenoble	Grenoble	PROPN	_	_	6	nmod	_	id=s1.u1.w7
+
+# sent_id = 1AP0074_2
+# text = bien sûr
+1	bien	bien	ADV	_	_	0	root	_	_none=|id=s1.u2.w0
+2	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u2.w1
+
+# sent_id = 1AP0074_3
+# text = c' est payant
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_none=|id=s1.u3.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_none=|id=s1.u3.w1
+3	payant	payant	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u3.w2
+
+# sent_id = 1AP0074_4
+# text = non
+1	non	non	ADV	_	Polarity=Neg	0	root	_	_none=|id=s1.u4.w0
+
+# sent_id = 1AP0074_5
+# text = ben merci
+1	ben	ben	ADV	_	_	2	advmod	_	_none=|id=s1.u5.w0
+2	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u5.w1
+
+# sent_id = 1AP0074_6
+# text = au delà de dix c' est payant
+1	au	au	ADP	_	_	2	advmod	_	_none=|id=s1.u6.w0
+2	delà	delà	ADV	_	Gender=Masc|Number=Sing	7	obl:mod	_	_none=|id=s1.u6.w1
+3	de	de	ADP	_	_	4	case	_	_none=|id=s1.u6.w2
+4	dix	dix	NUM	_	Number=Plur	2	nmod	_	id=s1.u6.w3
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	_none=|id=s1.u6.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	id=s1.u6.w5
+7	payant	payant	ADJ	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u6.w6
+
+# sent_id = 1AP0074_7
+# text = merci au
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u7.w0
+2	au	au	INTJ	_	_	1	dep	_	id=s1.u7.w1
+
+# sent_id = 1AP0074_8
+# text = au revoir merci
+1	au	au	DET	_	_	0	root	_	_none=|id=s1.u8.w0
+2	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u8.w1
+3	merci	merci	INTJ	_	_	1	fixed	_	_none=|id=s1.u8.w2
+

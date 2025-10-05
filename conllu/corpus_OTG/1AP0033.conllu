@@ -1,0 +1,106 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0033_0
+# text = 
+
+# sent_id = 1AP0033_1
+# text = j' aimerais savoir si vous pouviez me renseigner je cherche e à savoir le prix de la carte jeune
+1	j'	_	_	_	_	_	_	_	id=s1.u1.w0
+2	aimerais	_	_	_	_	_	_	_	id=s1.u1.w1
+3	savoir	_	_	_	_	_	_	_	id=s1.u1.w2
+4	si	_	_	_	_	_	_	_	id=s1.u1.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u1.w4
+6	pouviez	_	_	_	_	_	_	_	id=s1.u1.w5
+7	me	_	_	_	_	_	_	_	id=s1.u1.w6
+8	renseigner	_	_	_	_	_	_	_	id=s1.u1.w7
+9	je	_	_	_	_	_	_	_	id=s1.u1.w8
+10	cherche	_	_	_	_	_	_	_	id=s1.u1.w9
+11	e	_	_	_	_	_	_	_	id=s1.u1.w10
+12	à	_	_	_	_	_	_	_	id=s1.u1.w11
+13	savoir	_	_	_	_	_	_	_	id=s1.u1.w12
+14	le	_	_	_	_	_	_	_	id=s1.u1.w13
+15	prix	_	_	_	_	_	_	_	id=s1.u1.w14
+16	de	_	_	_	_	_	_	_	id=s1.u1.w15
+17	la	_	_	_	_	_	_	_	id=s1.u1.w16
+18	carte	_	_	_	_	_	_	_	id=s1.u1.w17
+19	jeune	_	_	_	_	_	_	_	id=s1.u1.w18
+
+# sent_id = 1AP0033_2
+# text = alors il faut voir avec le CRIJ ou la FNAC
+1	alors	_	_	_	_	_	_	_	id=s1.u2.w0
+2	il	_	_	_	_	_	_	_	id=s1.u2.w1
+3	faut	_	_	_	_	_	_	_	id=s1.u2.w2
+4	voir	_	_	_	_	_	_	_	id=s1.u2.w3
+5	avec	_	_	_	_	_	_	_	id=s1.u2.w4
+6	le	_	_	_	_	_	_	_	id=s1.u2.w5
+7	CRIJ	_	_	_	_	_	_	_	id=s1.u2.w6
+8	ou	_	_	_	_	_	_	_	id=s1.u2.w7
+9	la	_	_	_	_	_	_	_	id=s1.u2.w8
+10	FNAC	_	_	_	_	_	_	_	id=s1.u2.w9
+
+# sent_id = 1AP0033_3
+# text = faut que j' aille au CRIJ ou à la FNAC
+1	faut	_	_	_	_	_	_	_	id=s1.u3.w0
+2	que	_	_	_	_	_	_	_	id=s1.u3.w1
+3	j'	_	_	_	_	_	_	_	id=s1.u3.w2
+4	aille	_	_	_	_	_	_	_	id=s1.u3.w3
+5	au	_	_	_	_	_	_	_	id=s1.u3.w4
+6	CRIJ	_	_	_	_	_	_	_	id=s1.u3.w5
+7	ou	_	_	_	_	_	_	_	id=s1.u3.w6
+8	à	_	_	_	_	_	_	_	id=s1.u3.w7
+9	la	_	_	_	_	_	_	_	id=s1.u3.w8
+10	FNAC	_	_	_	_	_	_	_	id=s1.u3.w9
+
+# sent_id = 1AP0033_4
+# text = la FNAC c' est place Grenette et le CRIJ c' est rue Voltaire la petite rue avant d' arriver sur la place de Verdun
+1	la	_	_	_	_	_	_	_	id=s1.u4.w0
+2	FNAC	_	_	_	_	_	_	_	id=s1.u4.w1
+3	c'	_	_	_	_	_	_	_	id=s1.u4.w2
+4	est	_	_	_	_	_	_	_	id=s1.u4.w3
+5	place	_	_	_	_	_	_	_	id=s1.u4.w4
+6	Grenette	_	_	_	_	_	_	_	id=s1.u4.w5
+7	et	_	_	_	_	_	_	_	id=s1.u4.w6
+8	le	_	_	_	_	_	_	_	id=s1.u4.w7
+9	CRIJ	_	_	_	_	_	_	_	id=s1.u4.w8
+10	c'	_	_	_	_	_	_	_	id=s1.u4.w9
+11	est	_	_	_	_	_	_	_	id=s1.u4.w10
+12	rue	_	_	_	_	_	_	_	id=s1.u4.w11
+13	Voltaire	_	_	_	_	_	_	_	id=s1.u4.w12
+14	la	_	_	_	_	_	_	_	id=s1.u4.w13
+15	petite	_	_	_	_	_	_	_	id=s1.u4.w14
+16	rue	_	_	_	_	_	_	_	id=s1.u4.w15
+17	avant	_	_	_	_	_	_	_	id=s1.u4.w16
+18	d'	_	_	_	_	_	_	_	id=s1.u4.w17
+19	arriver	_	_	_	_	_	_	_	id=s1.u4.w18
+20	sur	_	_	_	_	_	_	_	id=s1.u4.w19
+21	la	_	_	_	_	_	_	_	id=s1.u4.w20
+22	place	_	_	_	_	_	_	_	id=s1.u4.w21
+23	de	_	_	_	_	_	_	_	id=s1.u4.w22
+24	Verdun	_	_	_	_	_	_	_	id=s1.u4.w23
+
+# sent_id = 1AP0033_5
+# text = je connais
+1	je	_	_	_	_	_	_	_	id=s1.u5.w0
+2	connais	_	_	_	_	_	_	_	id=s1.u5.w1
+
+# sent_id = 1AP0033_6
+# text = d' accord ben je vous remercie
+1	d'	_	_	_	_	_	_	_	id=s1.u6.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u6.w1
+3	ben	_	_	_	_	_	_	_	id=s1.u6.w2
+4	je	_	_	_	_	_	_	_	id=s1.u6.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u6.w4
+6	remercie	_	_	_	_	_	_	_	id=s1.u6.w5
+
+# sent_id = 1AP0033_7
+# text = je vous en prie au revoir
+1	je	_	_	_	_	_	_	_	id=s1.u7.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u7.w1
+3	en	_	_	_	_	_	_	_	id=s1.u7.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u7.w3
+5	au	_	_	_	_	_	_	_	id=s1.u7.w4
+6	revoir	_	_	_	_	_	_	_	id=s1.u7.w5
+
+# sent_id = 1AP0033_8
+# text = mademoiselle
+1	mademoiselle	_	_	_	_	_	_	_	id=s1.u8.w0
+

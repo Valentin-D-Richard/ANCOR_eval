@@ -1,0 +1,42 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0411_0
+# text = est ce que par hasard vous auriez le programme de l' auditorium de parce que je vois qu' il y a une grande affiche là e
+1	est	_	_	_	_	_	_	_	id=s1.u0.w0
+2	ce	_	_	_	_	_	_	_	id=s1.u0.w1
+3	que	_	_	_	_	_	_	_	id=s1.u0.w2
+4	par	_	_	_	_	_	_	_	id=s1.u0.w3
+5	hasard	_	_	_	_	_	_	_	id=s1.u0.w4
+6	vous	_	_	_	_	_	_	_	id=s1.u0.w5
+7	auriez	_	_	_	_	_	_	_	id=s1.u0.w6
+8	le	_	_	_	_	_	_	_	id=s1.u0.w7
+9	programme	_	_	_	_	_	_	_	id=s1.u0.w8
+10	de	_	_	_	_	_	_	_	id=s1.u0.w9
+11	l'	_	_	_	_	_	_	_	id=s1.u0.w10
+12	auditorium	_	_	_	_	_	_	_	id=s1.u0.w11
+13	de	_	_	_	_	_	_	_	id=s1.u0.w12
+14	parce	_	_	_	_	_	_	_	id=s1.u0.w13
+15	que	_	_	_	_	_	_	_	id=s1.u0.w14
+16	je	_	_	_	_	_	_	_	id=s1.u0.w15
+17	vois	_	_	_	_	_	_	_	id=s1.u0.w16
+18	qu'	_	_	_	_	_	_	_	id=s1.u0.w17
+19	il	_	_	_	_	_	_	_	id=s1.u0.w18
+20	y	_	_	_	_	_	_	_	id=s1.u0.w19
+21	a	_	_	_	_	_	_	_	id=s1.u0.w20
+22	une	_	_	_	_	_	_	_	id=s1.u0.w21
+23	grande	_	_	_	_	_	_	_	id=s1.u0.w22
+24	affiche	_	_	_	_	_	_	_	id=s1.u0.w23
+25	là	_	_	_	_	_	_	_	id=s1.u0.w24
+26	e	_	_	_	_	_	_	_	id=s1.u0.w25
+
+# sent_id = 1SB0411_1
+# text = peut être ma collègue
+1	peut	_	_	_	_	_	_	_	id=s1.u1.w0
+2	être	_	_	_	_	_	_	_	id=s1.u1.w1
+3	ma	_	_	_	_	_	_	_	id=s1.u1.w2
+4	collègue	_	_	_	_	_	_	_	id=s1.u1.w3
+
+# sent_id = 1SB0411_2
+# text = d' accord
+1	d'	_	_	_	_	_	_	_	id=s1.u2.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u2.w1
+

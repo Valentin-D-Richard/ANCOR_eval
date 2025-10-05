@@ -1,0 +1,42 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0159_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1PF0159_1
+# text = bonjour est ce que vous auriez un plan général de Grenoble
+1	bonjour	bonjour	NOUN	_	_	3	dislocated	_	_none=|id=s1.u1.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u1.w1
+3	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	id=s1.u1.w2
+4	que	que	SCONJ	_	_	6	mark	_	_none=|id=s1.u1.w3
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_none=|id=s1.u1.w4
+6	auriez	aurvoir	VERB	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_none=|id=s1.u1.w5
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	id=s1.u1.w6
+8	plan	plan	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	id=s1.u1.w7
+9	général	général	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_none=|id=s1.u1.w8
+10	de	de	ADP	_	_	11	case	_	id=s1.u1.w9
+11	Grenoble	Grenoble	PROPN	_	_	8	nmod	_	id=s1.u1.w10
+
+# sent_id = 1PF0159_2
+# text = voilà
+1	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u2.w0
+
+# sent_id = 1PF0159_3
+# text = merci beaucoup
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+2	beaucoup	beaucoup	ADV	_	_	1	advmod	_	_none=|id=s1.u3.w1
+
+# sent_id = 1PF0159_4
+# text = je vous en prie au revoir
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u4.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u4.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u4.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w3
+5	au	au	ADP	_	_	6	case	_	_none=|id=s1.u4.w4
+6	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	4	advmod	_	id=s1.u4.w5
+
+# sent_id = 1PF0159_5
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u5.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u5.w1
+

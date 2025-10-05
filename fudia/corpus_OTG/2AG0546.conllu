@@ -1,0 +1,39 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2AG0546_1
+# text = oui je voudrais e le plan des pistes cyclables s' il vous plaît puis e un plan de Grenoble aussi si c' est possible très bien c' est super merci
+1	oui	oui	ADV	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	e	e	VERB	_	VerbForm=Inf	6	reparandum	_	_none=|id=s1.u1.w3
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_none=|id=s1.u1.w4
+6	plan	plan	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_none=|id=s1.u1.w5
+7	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	8	det	_	id=s1.u1.w6
+8	pistes	piste	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	id=s1.u1.w7
+9	cyclables	cyclable	ADJ	_	Number=Plur	8	amod	_	_none=|id=s1.u1.w8
+10	s'	se	SCONJ	_	_	13	mark	_	_none=|id=s1.u1.w9
+11	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	expl:subj	_	_none=|id=s1.u1.w10
+12	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	13	iobj	_	_none=|id=s1.u1.w11
+13	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_none=|id=s1.u1.w12
+14	puis	puis	CCONJ	_	_	17	cc	_	_none=|id=s1.u1.w13
+15	e	e	CCONJ	_	_	17	cc	_	id=s1.u1.w14
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	id=s1.u1.w15
+17	plan	plan	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	id=s1.u1.w16
+18	de	de	ADP	_	_	19	case	_	id=s1.u1.w17
+19	Grenoble	Grenoble	PROPN	_	_	17	nmod	_	id=s1.u1.w18
+20	aussi	aussi	ADV	_	_	24	advmod	_	_none=|id=s1.u1.w19
+21	si	si	SCONJ	_	_	24	mark	_	_none=|id=s1.u1.w20
+22	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	24	nsubj	_	_none=|id=s1.u1.w21
+23	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	_none=|id=s1.u1.w22
+24	possible	possible	ADJ	_	Number=Sing	6	conj	_	_none=|id=s1.u1.w23
+25	très	très	ADV	_	_	26	advmod	_	_none=|id=s1.u1.w24
+26	bien	bien	ADV	_	_	24	advmod	_	_none=|id=s1.u1.w25
+27	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	29	nsubj	_	_none=|id=s1.u1.w26
+28	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cop	_	id=s1.u1.w27
+29	super	super	ADJ	_	Gender=Masc|Number=Sing	24	conj	_	id=s1.u1.w28
+30	merci	merci	INTJ	_	_	29	dislocated	_	_none=|id=s1.u1.w29
+
+# sent_id = 2AG0546_3
+# text = de rien
+1	de	de	ADP	_	_	2	case	_	_none=|id=s1.u3.w0
+2	rien	rien	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	0	root	_	_none=|id=s1.u3.w1
+

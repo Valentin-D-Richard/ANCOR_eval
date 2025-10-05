@@ -1,0 +1,102 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0511_0
+# text = excusez moi il y a il y a une un hôtel Balladin près de Grenoble mais
+1	excusez	excuser	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	discourse	_	id=s1.u0.w0
+2	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	5	dislocated	_	_none=|id=s1.u0.w1
+3	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:subj	_	_none=|id=s1.u0.w2
+4	y	y	PRON	_	Person=3|PronType=Prs	5	expl:comp	_	_none=|id=s1.u0.w3
+5	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	reparandum	_	id=s1.u0.w4
+6	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl:subj	_	_none=|id=s1.u0.w5
+7	y	y	PRON	_	Person=3|PronType=Prs	8	expl:comp	_	id=s1.u0.w6
+8	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u0.w7
+9	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	reparandum	_	id=s1.u0.w8
+10	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_none=|id=s1.u0.w9
+11	hôtel	hôtel	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	id=s1.u0.w10
+12	Balladin	Balladin	PROPN	_	_	11	nmod:appos	_	id=s1.u0.w11
+13	près	près	ADV	_	_	8	advmod	_	_none=|id=s1.u0.w12
+14	de	de	ADP	_	_	15	case	_	_none=|id=s1.u0.w13
+15	Grenoble	Grenoble	PROPN	_	_	13	obl:mod	_	id=s1.u0.w14
+16	mais	mais	CCONJ	_	_	8	cc	_	_none=|id=s1.u0.w15
+
+# sent_id = 1AG0511_1
+# text = e c' est possible mais s' il ne fait pas partie de nos adhérents on ne l' a pas sur les listes
+1	e	e	SCONJ	_	_	4	nsubj	_	_none=|id=s1.u1.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_none=|id=s1.u1.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	id=s1.u1.w2
+4	possible	possible	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u1.w3
+5	mais	mais	CCONJ	_	_	18	cc	_	_none=|id=s1.u1.w4
+6	s'	si	SCONJ	_	_	9	mark	_	_none=|id=s1.u1.w5
+7	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_none=|id=s1.u1.w6
+8	ne	ne	ADV	_	Polarity=Neg	9	advmod	_	_none=|id=s1.u1.w7
+9	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	id=s1.u1.w8
+10	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	_none=|id=s1.u1.w9
+11	partie	partie	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	id=s1.u1.w10
+12	de	de	ADP	_	_	14	case	_	_none=|id=s1.u1.w11
+13	nos	son	DET	_	Number=Plur|Number[psor]=Plur|Person[psor]=1|PronType=Prs	14	det	_	id=s1.u1.w12
+14	adhérents	adhérent	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	id=s1.u1.w13
+15	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	18	nsubj	_	id=s1.u1.w14
+16	ne	ne	ADV	_	Polarity=Neg	18	advmod	_	_none=|id=s1.u1.w15
+17	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	18	obj	_	_none=|id=s1.u1.w16
+18	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	id=s1.u1.w17
+19	pas	pas	ADV	_	Polarity=Neg	18	advmod	_	id=s1.u1.w18
+20	sur	sur	ADP	_	_	22	case	_	id=s1.u1.w19
+21	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	22	det	_	id=s1.u1.w20
+22	listes	liste	NOUN	_	Gender=Fem|Number=Plur	18	obl:mod	_	id=s1.u1.w21
+
+# sent_id = 1AG0511_2
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u2.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u2.w1
+
+# sent_id = 1AG0511_3
+# text = il faut voir e " pages jaunes " je peux vous donner " les pages jaunes " si vous voulez
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	_none=|id=s1.u3.w0
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u3.w1
+3	voir	voir	VERB	_	VerbForm=Inf	8	xcomp	_	_none=|id=s1.u3.w2
+4	e	e	DET	_	Number=Sing	5	det	_	id=s1.u3.w3
+5	pages	page	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	id=s1.u3.w5
+6	jaunes	jaun	ADJ	_	Gender=Fem|Number=Plur	5	amod	_	id=s1.u3.w6
+7	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	id=s1.u3.w8
+8	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	_none=|id=s1.u3.w9
+9	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	8	iobj	_	id=s1.u3.w10
+10	donner	donner	VERB	_	VerbForm=Inf	8	xcomp	_	id=s1.u3.w11
+11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	id=s1.u3.w13
+12	pages	page	NOUN	_	Gender=Fem|Number=Plur	10	obj	_	id=s1.u3.w14
+13	jaunes	jaun	ADJ	_	Gender=Fem|Number=Plur	12	amod	_	id=s1.u3.w15
+14	si	si	SCONJ	_	_	16	mark	_	_none=|id=s1.u3.w17
+15	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	16	nsubj	_	_none=|id=s1.u3.w18
+16	voulez	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	advcl	_	_none=|id=s1.u3.w19
+
+# sent_id = 1AG0511_5
+# text = oui je veux bien s' il vous plaît
+1	oui	oui	ADV	_	_	3	discourse	_	_none=|id=s1.u5.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u5.w1
+3	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u5.w2
+4	bien	bien	ADV	_	_	3	advmod	_	_none=|id=s1.u5.w3
+5	s'	se	SCONJ	_	_	8	mark	_	_none=|id=s1.u5.w4
+6	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl:subj	_	_none=|id=s1.u5.w5
+7	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	8	iobj	_	_none=|id=s1.u5.w6
+8	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	discourse	_	id=s1.u5.w7
+
+# sent_id = 1AG0511_6
+# text = voilà
+1	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u6.w0
+
+# sent_id = 1AG0511_7
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u7.w0
+
+# sent_id = 1AG0511_8
+# text = de rien je vous laisse ça hein
+1	de	de	ADP	_	_	2	case	_	_none=|id=s1.u8.w0
+2	rien	rien	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	5	obl:mod	_	_none=|id=s1.u8.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u8.w2
+4	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	5	iobj	_	id=s1.u8.w3
+5	laisse	laisser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u8.w4
+6	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	obj	_	id=s1.u8.w5
+7	hein	hein	INTJ	_	_	5	discourse	_	_none=|id=s1.u8.w6
+
+# sent_id = 1AG0511_9
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u9.w0
+

@@ -1,0 +1,28 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0171_0
+# text = 
+
+# sent_id = 1AP0171_1
+# text = est ce que vous avez un plan de Grenoble merci
+1	est	_	_	_	_	_	_	_	id=s1.u1.w0
+2	ce	_	_	_	_	_	_	_	id=s1.u1.w1
+3	que	_	_	_	_	_	_	_	id=s1.u1.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u1.w3
+5	avez	_	_	_	_	_	_	_	id=s1.u1.w4
+6	un	_	_	_	_	_	_	_	id=s1.u1.w5
+7	plan	_	_	_	_	_	_	_	id=s1.u1.w6
+8	de	_	_	_	_	_	_	_	id=s1.u1.w7
+9	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w8
+10	merci	_	_	_	_	_	_	_	id=s1.u1.w9
+
+# sent_id = 1AP0171_2
+# text = le voilà mais je vous en prie monsieur
+1	le	_	_	_	_	_	_	_	id=s1.u2.w0
+2	voilà	_	_	_	_	_	_	_	id=s1.u2.w1
+3	mais	_	_	_	_	_	_	_	id=s1.u2.w2
+4	je	_	_	_	_	_	_	_	id=s1.u2.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u2.w4
+6	en	_	_	_	_	_	_	_	id=s1.u2.w5
+7	prie	_	_	_	_	_	_	_	id=s1.u2.w6
+8	monsieur	_	_	_	_	_	_	_	id=s1.u2.w7
+

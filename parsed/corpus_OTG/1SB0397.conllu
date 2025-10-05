@@ -1,0 +1,105 @@
+# sent_id = 1SB0397_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1SB0397_1
+# text = bonjour ce serait pour avoir un des renseignements sur tous les clubs de danse que qu' il y a à Grenoble
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	id=s1.u1.w1
+3	serait	être	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	pour	pour	ADP	_	_	5	mark	_	_none=|id=s1.u1.w3
+5	avoir	avoir	VERB	_	VerbForm=Inf	3	ccomp	_	_none=|id=s1.u1.w4
+6	un	un	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	8	det	_	_none=|id=s1.u1.w5
+7	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	8	det	_	_none=|id=s1.u1.w6
+8	renseignements	renseignement	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	id=s1.u1.w7
+9	sur	sur	ADP	_	_	12	case	_	id=s1.u1.w8
+10	tous	tout	ADJ	_	Gender=Masc|Number=Plur	12	amod	_	id=s1.u1.w9
+11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	id=s1.u1.w10
+12	clubs	club	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	id=s1.u1.w11
+13	de	de	ADP	_	_	14	case	_	id=s1.u1.w12
+14	danse	danse	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	id=s1.u1.w13
+15	que	que	PRON	_	_	19	obj	_	_none=|id=s1.u1.w14
+16	qu'	que	PRON	_	PronType=Rel	19	obj	_	_none=|id=s1.u1.w15
+17	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	expl:subj	_	_none=|id=s1.u1.w16
+18	y	y	PRON	_	Person=3|PronType=Prs	19	expl:comp	_	id=s1.u1.w17
+19	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	id=s1.u1.w18
+20	à	à	ADP	_	_	21	case	_	_none=|id=s1.u1.w19
+21	Grenoble	Grenoble	PROPN	_	_	19	obl:mod	_	_none=|id=s1.u1.w20
+
+# sent_id = 1SB0397_2
+# text = c' est à consulter hein
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	id=s1.u2.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w1
+3	à	à	ADP	_	_	4	mark	_	_none=|id=s1.u2.w2
+4	consulter	consulter	VERB	_	VerbForm=Inf	2	ccomp	_	id=s1.u2.w3
+5	hein	hein	INTJ	_	_	4	discourse	_	_none=|id=s1.u2.w4
+
+# sent_id = 1SB0397_3
+# text = ah c' est à consulter d' accord
+1	ah	ah	INTJ	_	_	5	discourse	_	id=s1.u3.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	id=s1.u3.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u3.w2
+4	à	à	ADP	_	_	5	mark	_	id=s1.u3.w3
+5	consulter	consulter	VERB	_	VerbForm=Inf	0	root	_	id=s1.u3.w4
+6	d'	de	ADP	_	_	5	mark	_	_none=|id=s1.u3.w5
+7	accord	accord	NOUN	_	Gender=Masc|Number=Sing	6	fixed	_	id=s1.u3.w6
+
+# sent_id = 1SB0397_4
+# text = c' est en dernier en dernier e à la fin de du classeur
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	id=s1.u4.w0
+2	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w1
+3	en	en	ADP	_	_	4	case	_	_none=|id=s1.u4.w2
+4	dernier	dernier	ADJ	_	Gender=Masc|Number=Sing	2	xcomp	_	_none=|id=s1.u4.w3
+5	en	en	ADP	_	_	6	case	_	_none=|id=s1.u4.w4
+6	dernier	dernier	ADJ	_	Gender=Masc|Number=Sing	2	xcomp	_	_none=|id=s1.u4.w5
+7	e	e	CCONJ	_	_	10	cc	_	_none=|id=s1.u4.w6
+8	à	à	ADP	_	_	10	case	_	_none=|id=s1.u4.w7
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	id=s1.u4.w8
+10	fin	fin	NOUN	_	Gender=Fem|Number=Sing	2	obl:mod	_	id=s1.u4.w9
+11	de	de	ADP	_	_	13	case	_	_none=|id=s1.u4.w10
+12	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	id=s1.u4.w11
+13	classeur	classeur	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	id=s1.u4.w12
+
+# sent_id = 1SB0397_5
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u5.w0
+
+# sent_id = 1SB0397_6
+# text = si vous voulez prendre un papier stylo je vous donne tout ça si vous voulez prendre des adresses voilà
+1	si	si	SCONJ	_	_	3	mark	_	_none=|id=s1.u6.w0
+2	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_none=|id=s1.u6.w1
+3	voulez	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	advcl	_	_none=|id=s1.u6.w2
+4	prendre	prendre	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u6.w3
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_none=|id=s1.u6.w4
+6	papier	papier	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_none=|id=s1.u6.w5
+7	stylo	stylo	NOUN	_	Gender=Masc|Number=Sing	6	compound	_	_none=|id=s1.u6.w6
+8	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_none=|id=s1.u6.w7
+9	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	10	iobj	_	id=s1.u6.w8
+10	donne	donner	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u6.w9
+11	tout	tout	ADJ	_	Gender=Masc|Number=Sing|PronType=Ind	12	amod	_	_none=|id=s1.u6.w10
+12	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	obj	_	_none=|id=s1.u6.w11
+13	si	si	SCONJ	_	_	15	mark	_	_none=|id=s1.u6.w12
+14	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	15	nsubj	_	_none=|id=s1.u6.w13
+15	voulez	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	advcl	_	_none=|id=s1.u6.w14
+16	prendre	prendre	VERB	_	VerbForm=Inf	15	xcomp	_	id=s1.u6.w15
+17	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	18	det	_	id=s1.u6.w16
+18	adresses	adresse	NOUN	_	Gender=Fem|Number=Plur	16	obj	_	id=s1.u6.w17
+19	voilà	voilà	VERB	_	_	10	discourse	_	_none=|id=s1.u6.w18
+
+# sent_id = 1SB0397_7
+# text = je veux bien
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u7.w0
+2	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u7.w1
+3	bien	bien	ADV	_	_	2	advmod	_	_none=|id=s1.u7.w2
+
+# sent_id = 1SB0397_8
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u8.w0
+
+# sent_id = 1SB0397_9
+# text = je vous en prie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u9.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u9.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u9.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u9.w3
+

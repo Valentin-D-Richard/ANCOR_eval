@@ -1,0 +1,30 @@
+# sent_id = 1AP0179_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0179_1
+# text = bonjour c' est juste pour prendre ça
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_none=|id=s1.u1.w1
+3	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	juste	juste	ADV	_	_	6	advmod	_	_none=|id=s1.u1.w3
+5	pour	pour	ADP	_	_	6	mark	_	_none=|id=s1.u1.w4
+6	prendre	prendre	VERB	_	VerbForm=Inf	3	advcl	_	_none=|id=s1.u1.w5
+7	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	obj	_	id=s1.u1.w6
+
+# sent_id = 1AP0179_2
+# text = servez vous
+1	servez	server	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w0
+2	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	1	nsubj	_	id=s1.u2.w1
+
+# sent_id = 1AP0179_3
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1AP0179_4
+# text = je vous en prie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u4.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u4.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u4.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w3
+

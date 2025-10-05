@@ -1,0 +1,38 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0521_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AG0521_1
+# text = bonjour je voudrais l' adresse de clubs de montagne qui organisent des randonnées e en montagne
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	id=s1.u1.w3
+5	adresse	adresse	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	id=s1.u1.w4
+6	de	de	ADP	_	_	7	case	_	_none=|id=s1.u1.w5
+7	clubs	club	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	id=s1.u1.w6
+8	de	de	ADP	_	_	9	case	_	_none=|id=s1.u1.w7
+9	montagne	montagne	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	id=s1.u1.w8
+10	qui	qui	PRON	_	PronType=Rel	11	nsubj	_	_none=|id=s1.u1.w9
+11	organisent	organiser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	id=s1.u1.w10
+12	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	13	det	_	id=s1.u1.w11
+13	randonnées	randonnée	NOUN	_	Gender=Fem|Number=Plur	11	obj	_	id=s1.u1.w12
+14	e	e	CCONJ	_	_	16	cc	_	_none=|id=s1.u1.w13
+15	en	en	ADP	_	_	16	case	_	_none=|id=s1.u1.w14
+16	montagne	montagne	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	id=s1.u1.w15
+
+# sent_id = 1AG0521_2
+# text = " info montagne " au premier étage
+1	info	info	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_none=|id=s1.u2.w1
+2	montagne	montagne	NOUN	_	Gender=Fem|Number=Sing	1	compound	_	id=s1.u2.w2
+3	au	au	ADP	_	_	5	case	_	_none=|id=s1.u2.w4
+4	premier	premier	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_none=|id=s1.u2.w5
+5	étage	étage	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_none=|id=s1.u2.w6
+
+# sent_id = 1AG0521_3
+# text = d' accord merci
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u3.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u3.w1
+3	merci	merci	ADJ	_	_	1	fixed	_	_none=|id=s1.u3.w2
+

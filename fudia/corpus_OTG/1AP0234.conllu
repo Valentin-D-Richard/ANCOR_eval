@@ -1,0 +1,126 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0234_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0234_1
+# text = bonjour asseyez vous
+1	bonjour	bonjour	NOUN	_	Gender=Masc|Number=Sing	2	discourse	_	_none=|id=s1.u1.w0
+2	asseyez	asseyer	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u1.w1
+3	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	2	dep:comp	_	id=s1.u1.w2
+
+# sent_id = 1AP0234_2
+# text = est ce qu' il serait possible d' avoir e les adresses de toutes les agences intérim sur Grenoble
+1	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	id=s1.u2.w0
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u2.w1
+3	qu'	que	SCONJ	_	PronType=Rel	6	dep:comp	_	id=s1.u2.w2
+4	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	_none=|id=s1.u2.w3
+5	serait	être	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_none=|id=s1.u2.w4
+6	possible	possible	ADJ	_	Number=Sing	2	acl:relcl	_	id=s1.u2.w5
+7	d'	de	ADP	_	_	8	mark	_	_none=|id=s1.u2.w6
+8	avoir	avoir	VERB	_	VerbForm=Inf	6	xcomp	_	_none=|id=s1.u2.w7
+9	e	e	DET	_	_	11	det	_	id=s1.u2.w8
+10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	id=s1.u2.w9
+11	adresses	adresse	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	id=s1.u2.w10
+12	de	de	ADP	_	_	15	case	_	_none=|id=s1.u2.w11
+13	toutes	tout	ADJ	_	Gender=Fem|Number=Plur	15	amod	_	id=s1.u2.w12
+14	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	15	det	_	id=s1.u2.w13
+15	agences	agence	NOUN	_	Gender=Fem|Number=Plur	11	nmod	_	id=s1.u2.w14
+16	intérim	intérim	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	_none=|id=s1.u2.w15
+17	sur	sur	ADP	_	_	18	case	_	_none=|id=s1.u2.w16
+18	Grenoble	Grenoble	PROPN	_	_	6	obl:mod	_	_none=|id=s1.u2.w17
+
+# sent_id = 1AP0234_3
+# text = sur " les pages jaunes " soit je peux vous laisser " les pages jaunes "
+1	sur	sur	ADP	_	_	3	case	_	_none=|id=s1.u3.w0
+2	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	id=s1.u3.w2
+3	pages	page	NOUN	_	Gender=Fem|Number=Plur	0	root	_	id=s1.u3.w3
+4	jaunes	jaun	ADJ	_	Gender=Fem|Number=Plur	3	amod	_	id=s1.u3.w4
+5	soit	soit	CCONJ	_	_	7	cc	_	_none=|id=s1.u3.w6
+6	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_none=|id=s1.u3.w7
+7	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_none=|id=s1.u3.w8
+8	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	9	iobj	_	id=s1.u3.w9
+9	laisser	laisser	VERB	_	VerbForm=Inf	7	xcomp	_	id=s1.u3.w10
+10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	id=s1.u3.w12
+11	pages	page	NOUN	_	Gender=Fem|Number=Plur	9	obj	_	id=s1.u3.w13
+12	jaunes	jaun	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	id=s1.u3.w14
+
+# sent_id = 1AP0234_4
+# text = les pages jaunes "
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	id=s1.u4.w0
+2	pages	page	NOUN	_	Gender=Fem|Number=Plur	0	root	_	id=s1.u4.w1
+3	jaunes	jaun	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	id=s1.u4.w2
+
+# sent_id = 1AP0234_5
+# text = oui ben de tout façon je peux consulter ici
+1	oui	oui	INTJ	_	_	7	discourse	_	_none=|id=s1.u5.w0
+2	ben	ben	INTJ	_	_	7	discourse	_	_none=|id=s1.u5.w1
+3	de	de	ADP	_	_	5	case	_	_none=|id=s1.u5.w2
+4	tout	tout	DET	_	Gender=Fem|Number=Sing|PronType=Ind	5	det	_	_none=|id=s1.u5.w3
+5	façon	faço	NOUN	_	Gender=Fem|Number=Plur	7	obl:mod	_	id=s1.u5.w4
+6	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_none=|id=s1.u5.w5
+7	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u5.w6
+8	consulter	consulter	VERB	_	VerbForm=Inf	7	xcomp	_	id=s1.u5.w7
+9	ici	ici	ADV	_	_	8	advmod	_	_none=|id=s1.u5.w8
+
+# sent_id = 1AP0234_6
+# text = bien sûr
+1	bien	bien	ADV	_	_	0	root	_	_none=|id=s1.u6.w0
+2	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u6.w1
+
+# sent_id = 1AP0234_7
+# text = bon d' accord merci
+1	bon	bon	INTJ	_	_	2	discourse	_	_none=|id=s1.u7.w0
+2	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u7.w1
+3	accord	accord	NOUN	_	Gender=Masc|Number=Sing	2	fixed	_	id=s1.u7.w2
+4	merci	merci	INTJ	_	_	2	dep	_	_none=|id=s1.u7.w3
+
+# sent_id = 1AP0234_8
+# text = ou allez vous asseoir là bas à droite hein
+1	ou	ou	CCONJ	_	_	2	cc	_	_none=|id=s1.u8.w0
+2	allez	aller	VERB	ETRE	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u8.w1
+3	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u8.w2
+4	asseoir	asseoir	VERB	_	VerbForm=Inf	2	xcomp	_	id=s1.u8.w3
+5	là	là	ADV	_	_	4	advmod	_	_none=|id=s1.u8.w4
+6	bas	bas	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	id=s1.u8.w5
+7	à	à	ADP	_	_	8	case	_	_none=|id=s1.u8.w6
+8	droite	droite	NOUN	_	Gender=Fem|Number=Sing	4	obl:mod	_	id=s1.u8.w7
+9	hein	hein	INTJ	_	_	2	discourse	_	_none=|id=s1.u8.w8
+
+# sent_id = 1AP0234_9
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u9.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u9.w1
+
+# sent_id = 1AP0234_10
+# text = e je vous laisse de quoi noter peut être
+1	e	e	CCONJ	_	_	4	cc	_	_none=|id=s1.u10.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u10.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u10.w2
+4	laisse	laisser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u10.w3
+5	de	de	ADP	_	_	7	mark	_	_none=|id=s1.u10.w4
+6	quoi	quoi	PRON	_	Person=3|PronType=Ind	7	obj	_	id=s1.u10.w5
+7	noter	noter	VERB	_	VerbForm=Inf	4	xcomp	_	_none=|id=s1.u10.w6
+8	peut	peut	ADV	_	_	7	advmod	_	_none=|id=s1.u10.w7
+9	être	être	ADV	_	VerbForm=Inf	8	fixed	_	id=s1.u10.w8
+
+# sent_id = 1AP0234_11
+# text = oui merci
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u11.w0
+2	merci	merci	INTJ	_	_	1	dep	_	_none=|id=s1.u11.w1
+
+# sent_id = 1AP0234_12
+# text = tenez
+1	tenez	tneir	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u12.w0
+
+# sent_id = 1AP0234_13
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u13.w0
+
+# sent_id = 1AP0234_14
+# text = je vous en prie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u14.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u14.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u14.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u14.w3
+

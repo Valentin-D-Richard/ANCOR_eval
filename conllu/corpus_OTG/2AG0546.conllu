@@ -1,0 +1,45 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2AG0546_0
+# text = 
+
+# sent_id = 2AG0546_1
+# text = oui je voudrais e le plan des pistes cyclables s' il vous plaît puis e un plan de Grenoble aussi si c' est possible très bien c' est super merci
+1	oui	_	_	_	_	_	_	_	id=s1.u1.w0
+2	je	_	_	_	_	_	_	_	id=s1.u1.w1
+3	voudrais	_	_	_	_	_	_	_	id=s1.u1.w2
+4	e	_	_	_	_	_	_	_	id=s1.u1.w3
+5	le	_	_	_	_	_	_	_	id=s1.u1.w4
+6	plan	_	_	_	_	_	_	_	id=s1.u1.w5
+7	des	_	_	_	_	_	_	_	id=s1.u1.w6
+8	pistes	_	_	_	_	_	_	_	id=s1.u1.w7
+9	cyclables	_	_	_	_	_	_	_	id=s1.u1.w8
+10	s'	_	_	_	_	_	_	_	id=s1.u1.w9
+11	il	_	_	_	_	_	_	_	id=s1.u1.w10
+12	vous	_	_	_	_	_	_	_	id=s1.u1.w11
+13	plaît	_	_	_	_	_	_	_	id=s1.u1.w12
+14	puis	_	_	_	_	_	_	_	id=s1.u1.w13
+15	e	_	_	_	_	_	_	_	id=s1.u1.w14
+16	un	_	_	_	_	_	_	_	id=s1.u1.w15
+17	plan	_	_	_	_	_	_	_	id=s1.u1.w16
+18	de	_	_	_	_	_	_	_	id=s1.u1.w17
+19	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w18
+20	aussi	_	_	_	_	_	_	_	id=s1.u1.w19
+21	si	_	_	_	_	_	_	_	id=s1.u1.w20
+22	c'	_	_	_	_	_	_	_	id=s1.u1.w21
+23	est	_	_	_	_	_	_	_	id=s1.u1.w22
+24	possible	_	_	_	_	_	_	_	id=s1.u1.w23
+25	très	_	_	_	_	_	_	_	id=s1.u1.w24
+26	bien	_	_	_	_	_	_	_	id=s1.u1.w25
+27	c'	_	_	_	_	_	_	_	id=s1.u1.w26
+28	est	_	_	_	_	_	_	_	id=s1.u1.w27
+29	super	_	_	_	_	_	_	_	id=s1.u1.w28
+30	merci	_	_	_	_	_	_	_	id=s1.u1.w29
+
+# sent_id = 2AG0546_2
+# text = 
+
+# sent_id = 2AG0546_3
+# text = de rien
+1	de	_	_	_	_	_	_	_	id=s1.u3.w0
+2	rien	_	_	_	_	_	_	_	id=s1.u3.w1
+

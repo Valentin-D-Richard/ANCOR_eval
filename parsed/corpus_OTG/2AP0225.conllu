@@ -1,0 +1,48 @@
+# sent_id = 2AP0225_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 2AP0225_1
+# text = je voulais savoir si vous aviez un itinéraire sur e Poitiers la Rochelle oui
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	voulais	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	savoir	savoir	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u1.w2
+4	si	si	SCONJ	_	_	6	mark	_	_none=|id=s1.u1.w3
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	id=s1.u1.w4
+6	aviez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_none=|id=s1.u1.w5
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	id=s1.u1.w6
+8	itinéraire	itinéraire	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_none=|id=s1.u1.w7
+9	sur	sur	ADP	_	_	11	case	_	_none=|id=s1.u1.w8
+10	e		DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	id=s1.u1.w9
+11	Poitiers	Poitiers	PROPN	_	_	8	nmod	_	_none=|id=s1.u1.w10
+12	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	id=s1.u1.w11
+13	Rochelle	Rochelle	PROPN	_	_	11	conj	_	id=s1.u1.w12
+14	oui	oui	INTJ	_	_	2	discourse	_	_none=|id=s1.u1.w13
+
+# sent_id = 2AP0225_2
+# text = un plan
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u2.w0
+2	plan	plan	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u2.w1
+
+# sent_id = 2AP0225_3
+# text = la la Rochelle et Poitiers
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	reparandum	_	id=s1.u3.w0
+2	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_none=|id=s1.u3.w1
+3	Rochelle	Rochelle	PROPN	_	_	0	root	_	id=s1.u3.w2
+4	et	et	CCONJ	_	_	5	cc	_	_none=|id=s1.u3.w3
+5	Poitiers	Poitiers	PROPN	_	_	3	conj	_	id=s1.u3.w4
+
+# sent_id = 2AP0225_4
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u4.w0
+
+# sent_id = 2AP0225_5
+# text = mais je vous en prie au revoir
+1	mais	mais	CCONJ	_	_	5	cc	_	_none=|id=s1.u5.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u5.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	5	iobj	_	_none=|id=s1.u5.w2
+4	en	en	PRON	_	Person=3|PronType=Prs	5	iobj	_	_none=|id=s1.u5.w3
+5	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u5.w4
+6	au	au	ADP	_	_	7	case	_	_none=|id=s1.u5.w5
+7	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	5	advcl	_	id=s1.u5.w6
+

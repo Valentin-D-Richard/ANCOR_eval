@@ -1,0 +1,40 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0450_0
+# text = pardon je pourrais avoir un plan s' il vous plaît
+1	pardon	_	_	_	_	_	_	_	id=s1.u0.w0
+2	je	_	_	_	_	_	_	_	id=s1.u0.w1
+3	pourrais	_	_	_	_	_	_	_	id=s1.u0.w2
+4	avoir	_	_	_	_	_	_	_	id=s1.u0.w3
+5	un	_	_	_	_	_	_	_	id=s1.u0.w4
+6	plan	_	_	_	_	_	_	_	id=s1.u0.w5
+7	s'	_	_	_	_	_	_	_	id=s1.u0.w6
+8	il	_	_	_	_	_	_	_	id=s1.u0.w7
+9	vous	_	_	_	_	_	_	_	id=s1.u0.w8
+10	plaît	_	_	_	_	_	_	_	id=s1.u0.w9
+
+# sent_id = 1PF0450_1
+# text = un plan
+1	un	_	_	_	_	_	_	_	id=s1.u1.w0
+2	plan	_	_	_	_	_	_	_	id=s1.u1.w1
+
+# sent_id = 1PF0450_2
+# text = un plan de la ville voilà
+1	un	_	_	_	_	_	_	_	id=s1.u2.w0
+2	plan	_	_	_	_	_	_	_	id=s1.u2.w1
+3	de	_	_	_	_	_	_	_	id=s1.u2.w2
+4	la	_	_	_	_	_	_	_	id=s1.u2.w3
+5	ville	_	_	_	_	_	_	_	id=s1.u2.w4
+6	voilà	_	_	_	_	_	_	_	id=s1.u2.w5
+
+# sent_id = 1PF0450_3
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1PF0450_4
+# text = je vous en prie mademoiselle
+1	je	_	_	_	_	_	_	_	id=s1.u4.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u4.w1
+3	en	_	_	_	_	_	_	_	id=s1.u4.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u4.w3
+5	mademoiselle	_	_	_	_	_	_	_	id=s1.u4.w4
+

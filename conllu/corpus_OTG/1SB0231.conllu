@@ -1,0 +1,21 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0231_0
+# text = je voudrais un plan
+1	je	_	_	_	_	_	_	_	id=s1.u0.w0
+2	voudrais	_	_	_	_	_	_	_	id=s1.u0.w1
+3	un	_	_	_	_	_	_	_	id=s1.u0.w2
+4	plan	_	_	_	_	_	_	_	id=s1.u0.w3
+
+# sent_id = 1SB0231_1
+# text = oui bien sûr voilà monsieur au revoir
+1	oui	_	_	_	_	_	_	_	id=s1.u1.w0
+2	bien	_	_	_	_	_	_	_	id=s1.u1.w1
+3	sûr	_	_	_	_	_	_	_	id=s1.u1.w2
+4	voilà	_	_	_	_	_	_	_	id=s1.u1.w3
+5	monsieur	_	_	_	_	_	_	_	id=s1.u1.w4
+6	au	_	_	_	_	_	_	_	id=s1.u1.w5
+7	revoir	_	_	_	_	_	_	_	id=s1.u1.w6
+
+# sent_id = 1SB0231_2
+# text = 
+

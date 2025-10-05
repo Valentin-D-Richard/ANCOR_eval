@@ -1,0 +1,49 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 052_00000035_0
+# text = U B S Bonjour
+1	U	_	_	_	_	_	_	_	id=s1.u0.w0
+2	B	_	_	_	_	_	_	_	id=s1.u0.w1
+3	S	_	_	_	_	_	_	_	id=s1.u0.w2
+4	Bonjour	_	_	_	_	_	_	_	id=s1.u0.w3
+
+# sent_id = 052_00000035_1
+# text = bonjour madame excusez- moi de vous déranger j' ai appelé tout à l' heure pour savoir si on pouvait venir récupérer les diplômes de licence et
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	madame	_	_	_	_	_	_	_	id=s1.u1.w1
+3	excusez-	_	_	_	_	_	_	_	id=s1.u1.w2
+4	moi	_	_	_	_	_	_	_	id=s1.u1.w3
+5	de	_	_	_	_	_	_	_	id=s1.u1.w4
+6	vous	_	_	_	_	_	_	_	id=s1.u1.w5
+7	déranger	_	_	_	_	_	_	_	id=s1.u1.w6
+8	j'	_	_	_	_	_	_	_	id=s1.u1.w7
+9	ai	_	_	_	_	_	_	_	id=s1.u1.w8
+10	appelé	_	_	_	_	_	_	_	id=s1.u1.w9
+11	tout	_	_	_	_	_	_	_	id=s1.u1.w10
+12	à	_	_	_	_	_	_	_	id=s1.u1.w11
+13	l'	_	_	_	_	_	_	_	id=s1.u1.w12
+14	heure	_	_	_	_	_	_	_	id=s1.u1.w13
+15	pour	_	_	_	_	_	_	_	id=s1.u1.w14
+16	savoir	_	_	_	_	_	_	_	id=s1.u1.w15
+17	si	_	_	_	_	_	_	_	id=s1.u1.w16
+18	on	_	_	_	_	_	_	_	id=s1.u1.w17
+19	pouvait	_	_	_	_	_	_	_	id=s1.u1.w18
+20	venir	_	_	_	_	_	_	_	id=s1.u1.w19
+21	récupérer	_	_	_	_	_	_	_	id=s1.u1.w20
+22	les	_	_	_	_	_	_	_	id=s1.u1.w21
+23	diplômes	_	_	_	_	_	_	_	id=s1.u1.w22
+24	de	_	_	_	_	_	_	_	id=s1.u1.w23
+25	licence	_	_	_	_	_	_	_	id=s1.u1.w24
+26	et	_	_	_	_	_	_	_	id=s1.u1.w25
+
+# sent_id = 052_00000035_2
+# text = je vais vous passer la personne
+1	je	_	_	_	_	_	_	_	id=s1.u2.w0
+2	vais	_	_	_	_	_	_	_	id=s1.u2.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u2.w2
+4	passer	_	_	_	_	_	_	_	id=s1.u2.w3
+5	la	_	_	_	_	_	_	_	id=s1.u2.w4
+6	personne	_	_	_	_	_	_	_	id=s1.u2.w5
+
+# sent_id = 052_00000035_3
+# text = 
+

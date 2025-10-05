@@ -1,0 +1,179 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2AP0356_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 2AP0356_1
+# text = bonjour je voudrais savoir la date de des salons des caves particulières à Alpexo pour les caves de Bourgogne
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	savoir	savoir	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u1.w3
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	id=s1.u1.w4
+6	date	date	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	id=s1.u1.w5
+7	de	de	ADP	_	_	9	case	_	_none=|id=s1.u1.w6
+8	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	9	det	_	id=s1.u1.w7
+9	salons	salon	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	id=s1.u1.w8
+10	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	11	det	_	id=s1.u1.w9
+11	caves	cave	NOUN	_	Gender=Fem|Number=Plur	9	conj	_	id=s1.u1.w10
+12	particulières	particulièr	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	id=s1.u1.w11
+13	à	à	ADP	_	_	14	case	_	_none=|id=s1.u1.w12
+14	Alpexo	Alpexo	PROPN	_	_	11	nmod	_	_none=|id=s1.u1.w13
+15	pour	pour	ADP	_	_	17	case	_	_none=|id=s1.u1.w14
+16	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	17	det	_	id=s1.u1.w15
+17	caves	cave	NOUN	_	Gender=Fem|Number=Plur	4	obl:mod	_	id=s1.u1.w16
+18	de	de	ADP	_	_	19	case	_	_none=|id=s1.u1.w17
+19	Bourgogne	Bourgogne	PROPN	_	_	17	nmod	_	id=s1.u1.w18
+
+# sent_id = 2AP0356_2
+# text = hum
+1	hum	hum	INTJ	_	_	0	root	_	_none=|id=s1.u2.w0
+
+# sent_id = 2AP0356_3
+# text = je sais que ça a lieu en fin décembre fin novembre début décembre quelque chose comme ça mais
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u3.w0
+2	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u3.w1
+3	que	que	SCONJ	_	_	6	mark	_	id=s1.u3.w2
+4	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_none=|id=s1.u3.w3
+5	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:tense	_	id=s1.u3.w4
+6	lieu	lieu	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_none=|id=s1.u3.w5
+7	en	en	ADP	_	_	8	case	_	_none=|id=s1.u3.w6
+8	fin	fin	NOUN	_	Gender=Masc|Number=Sing	6	obl:mod	_	_none=|id=s1.u3.w7
+9	décembre	décembre	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_none=|id=s1.u3.w8
+10	fin	fin	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	_none=|id=s1.u3.w9
+11	novembre	novembre	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	id=s1.u3.w10
+12	début	début	NOUN	_	Gender=Masc|Number=Sing	15	amod	_	_none=|id=s1.u3.w11
+13	décembre	décembre	NOUN	_	Gender=Masc|Number=Sing	15	conj	_	id=s1.u3.w12
+14	quelque	quelque	DET	_	Number=Sing|Person=3|PronType=Ind	15	det	_	_none=|id=s1.u3.w13
+15	chose	chose	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	id=s1.u3.w14
+16	comme	comme	ADP	_	_	17	case	_	_none=|id=s1.u3.w15
+17	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	nmod	_	id=s1.u3.w16
+18	mais	mais	CCONJ	_	_	2	cc	_	_none=|id=s1.u3.w17
+
+# sent_id = 2AP0356_4
+# text = sur le planning ils nous mettent décembre
+1	sur	sur	ADP	_	_	3	case	_	_none=|id=s1.u4.w0
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_none=|id=s1.u4.w1
+3	planning	planning	NOUN	_	Gender=Masc|Number=Sing	6	obl:mod	_	_none=|id=s1.u4.w2
+4	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	id=s1.u4.w3
+5	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	6	iobj	_	id=s1.u4.w4
+6	mettent	mettre	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w5
+7	décembre	décembre	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	id=s1.u4.w6
+
+# sent_id = 2AP0356_5
+# text = ah
+1	ah	ah	INTJ	_	_	0	root	_	id=s1.u5.w0
+
+# sent_id = 2AP0356_6
+# text = alors on sait même pas c' est attendez alors e c' est marqué mois de décembre je vais essayer de les appeler
+1	alors	alors	ADV	_	_	3	advmod	_	_none=|id=s1.u6.w0
+2	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_none=|id=s1.u6.w1
+3	sait	savoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_none=|id=s1.u6.w2
+4	même	même	ADV	_	_	5	advmod	_	_none=|id=s1.u6.w3
+5	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_none=|id=s1.u6.w4
+6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	id=s1.u6.w5
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	id=s1.u6.w6
+8	attendez	attendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u6.w7
+9	alors	alors	ADV	_	_	13	mark	_	_none=|id=s1.u6.w8
+10	e	e	SCONJ	_	_	9	fixed	_	id=s1.u6.w9
+11	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj	_	_none=|id=s1.u6.w10
+12	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	_	_none=|id=s1.u6.w11
+13	marqué	marquer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	conj	_	id=s1.u6.w12
+14	mois	mois	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_none=|id=s1.u6.w13
+15	de	de	ADP	_	_	16	case	_	id=s1.u6.w14
+16	décembre	décembre	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	id=s1.u6.w15
+17	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	18	nsubj	_	_none=|id=s1.u6.w16
+18	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	conj	_	id=s1.u6.w17
+19	essayer	essayer	VERB	_	VerbForm=Inf	18	xcomp	_	id=s1.u6.w18
+20	de	de	ADP	_	_	22	mark	_	id=s1.u6.w19
+21	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	22	obj	_	id=s1.u6.w20
+22	appeler	appeler	VERB	_	VerbForm=Inf	19	xcomp	_	id=s1.u6.w21
+
+# sent_id = 2AP0356_7
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u7.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u7.w1
+
+# sent_id = 2AP0356_8
+# text = pour savoir s' ils ont une date précise hein
+1	pour	pour	ADP	_	_	2	mark	_	_none=|id=s1.u8.w0
+2	savoir	savoir	VERB	_	VerbForm=Inf	0	root	_	_none=|id=s1.u8.w1
+3	s'	si	SCONJ	_	_	5|5	cue:mark|mark	_	id=s1.u8.w2
+4	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	id=s1.u8.w3
+5	ont	avoir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_none=|id=s1.u8.w4|ClauseType=Int
+6	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	id=s1.u8.w5
+7	date	date	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	id=s1.u8.w6
+8	précise	précise	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	id=s1.u8.w7
+9	hein	hein	INTJ	_	_	2	discourse	_	_none=|id=s1.u8.w8
+
+# sent_id = 2AP0356_9
+# text = ça m' arrangerait
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	id=s1.u9.w0
+2	m'	le	PRON	_	Number=Sing|Person=1|PronType=Prs	3	iobj	_	_none=|id=s1.u9.w1
+3	arrangerait	arrangerer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_none=|id=s1.u9.w2
+
+# sent_id = 2AP0356_10
+# text = j' imagine six sept et huit
+1	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	id=s1.u10.w0
+2	imagine	imaginer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u10.w1
+3	six	six	NUM	_	Number=Plur	2	obj	_	_none=|id=s1.u10.w2
+4	sept	sept	NUM	_	Number=Plur	3	flat	_	_none=|id=s1.u10.w3
+5	et	et	CCONJ	_	_	6	cc	_	id=s1.u10.w4
+6	huit	huit	NUM	_	Number=Plur	3	conj	_	_none=|id=s1.u10.w5
+
+# sent_id = 2AP0356_11
+# text = six sept et huit et pour e autre chose pour Mozart est ce que c' est ici qu' il faut réserver
+1	six	six	NUM	_	Number=Plur	9	nummod	_	_none=|id=s1.u11.w0
+2	sept	sept	NUM	_	Number=Plur	1	flat	_	_none=|id=s1.u11.w1
+3	et	et	CCONJ	_	_	4	cc	_	_none=|id=s1.u11.w2
+4	huit	huit	NUM	_	Number=Plur	1	conj	_	_none=|id=s1.u11.w3
+5	et	et	CCONJ	_	_	13	cc	_	_none=|id=s1.u11.w4
+6	pour	pour	ADP	_	_	9	case	_	_none=|id=s1.u11.w5
+7	e		DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	id=s1.u11.w6
+8	autre	autre	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_none=|id=s1.u11.w7
+9	chose	chose	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	id=s1.u11.w8
+10	pour	pour	ADP	_	_	11	case	_	_none=|id=s1.u11.w9
+11	Mozart	Mozart	PROPN	_	_	13	nmod	_	_none=|id=s1.u11.w10
+12	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	id=s1.u11.w11
+13	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u11.w12
+14	que	que	SCONJ	_	PronType=Rel	13	acl:relcl	_	id=s1.u11.w13
+15	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	id=s1.u11.w14
+16	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	id=s1.u11.w15
+17	ici	ici	ADV	_	_	14	advmod	_	_none=|id=s1.u11.w16
+18	qu'	que	SCONJ	_	PronType=Rel	20	obj	_	id=s1.u11.w17
+19	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	expl:subj	_	_none=|id=s1.u11.w18
+20	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	id=s1.u11.w19
+21	réserver	réserver	VERB	_	VerbForm=Inf	20	xcomp	_	id=s1.u11.w20
+
+# sent_id = 2AP0356_12
+# text = côté à la billetterie c' est cent cinquante francs tarif unique
+1	côté	côté	NOUN	_	Gender=Masc|Number=Sing	9	dislocated	_	_none=|id=s1.u12.w0
+2	à	à	ADP	_	_	4	case	_	_none=|id=s1.u12.w1
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	id=s1.u12.w2
+4	billetterie	billetterie	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	id=s1.u12.w3
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	_none=|id=s1.u12.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	id=s1.u12.w5
+7	cent	cent	NUM	_	Number=Plur	9	nummod	_	_none=|id=s1.u12.w6
+8	cinquante	cinquante	NUM	_	Number=Plur	7	flat	_	id=s1.u12.w7
+9	francs	franc	ADJ	_	Gender=Masc|Number=Plur	0	root	_	id=s1.u12.w8
+10	tarif	tarif	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	_none=|id=s1.u12.w9
+11	unique	unique	ADJ	_	Number=Sing	10	amod	_	_none=|id=s1.u12.w10
+
+# sent_id = 2AP0356_13
+# text = d' accord entendu merci
+1	d'	de	ADP	_	_	3	mark	_	_none=|id=s1.u13.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u13.w1
+3	entendu	entendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u13.w2
+4	merci	merci	INTJ	_	_	3	obj	_	_none=|id=s1.u13.w3
+
+# sent_id = 2AP0356_14
+# text = mais je vous en prie madame au revoir
+1	mais	mais	CCONJ	_	_	5	cc	_	_none=|id=s1.u14.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u14.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	5	iobj	_	_none=|id=s1.u14.w2
+4	en	en	PRON	_	Person=3|PronType=Prs	5	iobj	_	_none=|id=s1.u14.w3
+5	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u14.w4
+6	madame	madame	NOUN	_	Gender=Fem|Number=Sing	5	vocative	_	id=s1.u14.w5
+7	au	au	ADP	_	_	8	mark	_	_none=|id=s1.u14.w6
+8	revoir	revoir	VERB	_	VerbForm=Inf	6	acl	_	id=s1.u14.w7
+

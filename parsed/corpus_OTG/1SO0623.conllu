@@ -1,0 +1,164 @@
+# sent_id = 1SO0623_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1SO0623_1
+# text = bonjour je voudrais savoir jusqu' à quelle heure est ouverte la poste
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	savoir	savoir	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u1.w3
+5	jusqu'	jusque	ADP	_	_	8	case	_	_none=|id=s1.u1.w4
+6	à	à	ADP	_	_	8	case	_	_none=|id=s1.u1.w5
+7	quelle	quel	DET	_	Gender=Fem|Number=Sing|Person=3|PronType=Int	8	det	_	id=s1.u1.w6
+8	heure	heure	NOUN	_	Gender=Fem|Number=Sing	10	obl:mod	_	id=s1.u1.w7
+9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	id=s1.u1.w8
+10	ouverte	ouvrir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	ccomp	_	id=s1.u1.w9
+11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	id=s1.u1.w10
+12	poste	poste	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	id=s1.u1.w11
+
+# sent_id = 1SO0623_2
+# text = à côté dix-huit heures trente
+1	à	à	ADP	_	_	2	case	_	_none=|id=s1.u2.w0
+2	côté	côté	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_none=|id=s1.u2.w1
+3	dix-huit	dix-huit	NUM	_	Number=Plur	4	nummod	_	_none=|id=s1.u2.w2
+4	heures	heure	NOUN	_	Gender=Fem|Number=Plur	0	root	_	id=s1.u2.w3
+5	trente	trente	NUM	_	Number=Plur	4	nummod	_	id=s1.u2.w4
+
+# sent_id = 1SO0623_3
+# text = plus grande et hum est ce que vous avez son numéro de téléphone s' il vous plaît
+1	plus	plus	ADV	_	_	2	advmod	_	_none=|id=s1.u3.w0
+2	grande	grand	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_none=|id=s1.u3.w1
+3	et	et	CCONJ	_	_	6	cc	_	_none=|id=s1.u3.w2
+4	hum	hum	INTJ	_	_	6	discourse	_	_none=|id=s1.u3.w3
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	id=s1.u3.w4
+6	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u3.w5
+7	que	que	SCONJ	_	_	9	mark	_	_none=|id=s1.u3.w6
+8	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	9	nsubj	_	id=s1.u3.w7
+9	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_none=|id=s1.u3.w8
+10	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	11	det	_	_none=|id=s1.u3.w9
+11	numéro	numéro	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_none=|id=s1.u3.w10
+12	de	de	ADP	_	_	13	case	_	id=s1.u3.w11
+13	téléphone	téléphone	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	id=s1.u3.w12
+14	s'	s'	SCONJ	_	_	17	mark	_	_none=|id=s1.u3.w13
+15	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	expl:subj	_	_none=|id=s1.u3.w14
+16	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	17	iobj	_	_none=|id=s1.u3.w15
+17	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	discourse	_	_none=|id=s1.u3.w16
+
+# sent_id = 1SO0623_4
+# text = le numéro téléphone de la poste ah non
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u4.w0
+2	numéro	numéro	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u4.w1
+3	téléphone	téléphone	NOUN	_	Gender=Masc|Number=Sing	2	compound	_	id=s1.u4.w2
+4	de	de	ADP	_	_	6	case	_	_none=|id=s1.u4.w3
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	id=s1.u4.w4
+6	poste	poste	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	id=s1.u4.w5
+7	ah	ah	INTJ	_	_	8	discourse	_	_none=|id=s1.u4.w6
+8	non	non	ADV	_	Polarity=Neg	6	discourse	_	id=s1.u4.w7
+
+# sent_id = 1SO0623_6
+# text = vous l' avez pas
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	id=s1.u6.w0
+2	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obj	_	id=s1.u6.w1
+3	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u6.w2
+4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_none=|id=s1.u6.w3
+
+# sent_id = 1SO0623_7
+# text = mais ça doit être affiché juste devant la porte hein c' est juste dehors
+1	mais	mais	CCONJ	_	_	3	cc	_	_none=|id=s1.u7.w0
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj:pass	_	_none=|id=s1.u7.w1
+3	doit	devoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u7.w2
+4	être	être	AUX	_	VerbForm=Inf	5	aux:pass	_	_none=|id=s1.u7.w3
+5	affiché	afficher	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	xcomp	_	_none=|id=s1.u7.w4
+6	juste	juste	ADV	_	_	9	advmod	_	_none=|id=s1.u7.w5
+7	devant	devant	ADP	_	_	9	case	_	_none=|id=s1.u7.w6
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	id=s1.u7.w7
+9	porte	porte	NOUN	_	Gender=Fem|Number=Sing	5	obl:mod	_	id=s1.u7.w8
+10	hein	hein	INTJ	_	_	14	discourse	_	_none=|id=s1.u7.w9
+11	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	id=s1.u7.w10
+12	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	id=s1.u7.w11
+13	juste	juste	ADV	_	_	14	advmod	_	_none=|id=s1.u7.w12
+14	dehors	dehors	ADV	_	_	3	advmod	_	_none=|id=s1.u7.w13
+
+# sent_id = 1SO0623_8
+# text = la poste juste là c' est c' est c' est inscrit sur la grande poste centrale
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	id=s1.u8.w0
+2	poste	poste	NOUN	_	Gender=Fem|Number=Sing	6	dislocated	_	_none=|id=s1.u8.w1
+3	juste	juste	ADV	_	_	4	advmod	_	_none=|id=s1.u8.w2
+4	là	là	ADV	_	_	6	advmod	_	_none=|id=s1.u8.w3
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_none=|id=s1.u8.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	reparandum	_	_none=|id=s1.u8.w5
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	id=s1.u8.w6
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	reparandum	_	id=s1.u8.w7
+9	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	id=s1.u8.w8
+10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	id=s1.u8.w9
+11	inscrit	inscrire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	id=s1.u8.w10
+12	sur	sur	ADP	_	_	15	case	_	id=s1.u8.w11
+13	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	id=s1.u8.w12
+14	grande	grand	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	id=s1.u8.w13
+15	poste	poste	NOUN	_	Gender=Fem|Number=Sing	11	obl:arg	_	id=s1.u8.w14
+16	centrale	central	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	id=s1.u8.w15
+
+# sent_id = 1SO0623_9
+# text = vous sortez
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	id=s1.u9.w0
+2	sortez	sorter	VERB	ETRE	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u9.w1
+
+# sent_id = 1SO0623_10
+# text = ah non la poste centrale elle est ici juste en sortant à gauche e ici
+1	ah	ah	INTJ	_	_	7	discourse	_	_none=|id=s1.u10.w0
+2	non	non	ADV	_	_	7	discourse	_	_none=|id=s1.u10.w1
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	id=s1.u10.w2
+4	poste	poste	NOUN	_	Gender=Fem|Number=Sing	7	dislocated	_	id=s1.u10.w3
+5	centrale	central	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	id=s1.u10.w4
+6	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	id=s1.u10.w5
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u10.w6
+8	ici	ici	ADV	_	_	7	obl:arg	_	id=s1.u10.w7
+9	juste	juste	ADV	_	_	11	advmod	_	_none=|id=s1.u10.w8
+10	en	en	ADP	_	_	11	mark	_	_none=|id=s1.u10.w9
+11	sortant	sorter	VERB	ETRE	Tense=Pres|VerbForm=Part	7	advcl	_	id=s1.u10.w10
+12	à	à	ADP	_	_	13	case	_	_none=|id=s1.u10.w11
+13	gauche	gauche	NOUN	_	Gender=Fem|Number=Sing	11	obl:mod	_	id=s1.u10.w12
+14	e	e	CCONJ	_	_	15	cc	_	_none=|id=s1.u10.w13
+15	ici	ici	ADV	_	_	11	conj	_	_none=|id=s1.u10.w14
+
+# sent_id = 1SO0623_11
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u11.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u11.w1
+
+# sent_id = 1SO0623_12
+# text = voilà
+1	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u12.w0
+
+# sent_id = 1SO0623_13
+# text = et si je vais à côté ils peuvent me donner le leur numéro
+1	et	et	CCONJ	_	_	8	cc	_	_none=|id=s1.u13.w0
+2	si	si	SCONJ	_	_	4	mark	_	_none=|id=s1.u13.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u13.w2
+4	vais	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	advcl	_	id=s1.u13.w3
+5	à	à	ADP	_	_	6	case	_	_none=|id=s1.u13.w4
+6	côté	côté	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_none=|id=s1.u13.w5
+7	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_none=|id=s1.u13.w6
+8	peuvent	pouvoir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u13.w7
+9	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	10	iobj	_	_none=|id=s1.u13.w8
+10	donner	donner	VERB	_	VerbForm=Inf	8	xcomp	_	_none=|id=s1.u13.w9
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_none=|id=s1.u13.w10
+12	leur	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=3|PronType=Prs	13	det	_	id=s1.u13.w11
+13	numéro	numéro	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_none=|id=s1.u13.w12
+
+# sent_id = 1SO0623_14
+# text = et ben je les ai joint voilà
+1	et	et	CCONJ	_	_	6	cc	_	_none=|id=s1.u14.w0
+2	ben	ben	ADV	_	_	6	discourse	_	_none=|id=s1.u14.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_none=|id=s1.u14.w2
+4	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	6	obj	_	id=s1.u14.w3
+5	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_none=|id=s1.u14.w4
+6	joint	joinre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u14.w5
+7	voilà	voilà	VERB	_	_	6	discourse	_	id=s1.u14.w6
+
+# sent_id = 1SO0623_15
+# text = merci beaucoup
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u15.w0
+2	beaucoup	beaucoup	ADV	_	_	1	advmod	_	_none=|id=s1.u15.w1
+

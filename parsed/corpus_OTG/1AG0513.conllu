@@ -1,0 +1,131 @@
+# sent_id = 1AG0513_1
+# text = je voudrais faire est ce que vous avez quelque chose sur les sports sur Grenoble alentours de Grenoble
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	faire	faire	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u1.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u1.w3
+5	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	obj	_	id=s1.u1.w4
+6	que	que	PRON	_	PronType=Rel	8	obj	_	id=s1.u1.w5
+7	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	8	nsubj	_	id=s1.u1.w6
+8	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_none=|id=s1.u1.w7
+9	quelque	quelque	DET	_	Number=Sing|Person=3|PronType=Ind	10	det	_	_none=|id=s1.u1.w8
+10	chose	chose	NOUN	_	Gender=Fem|Number=Sing	8	obl:mod	_	id=s1.u1.w9
+11	sur	sur	ADP	_	_	13	case	_	_none=|id=s1.u1.w10
+12	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	13	det	_	id=s1.u1.w11
+13	sports	sport	NOUN	_	Gender=Masc|Number=Plur	8	obl:mod	_	id=s1.u1.w12
+14	sur	sur	ADP	_	_	15	case	_	_none=|id=s1.u1.w13
+15	Grenoble	Grenoble	PROPN	_	_	13	nmod	_	id=s1.u1.w14
+16	alentours	alentours	ADV	_	_	13	advmod	_	_none=|id=s1.u1.w15
+17	de	de	ADP	_	_	18	case	_	_none=|id=s1.u1.w16
+18	Grenoble	Grenoble	PROPN	_	_	16	obl:arg	_	_none=|id=s1.u1.w17
+
+# sent_id = 1AG0513_2
+# text = e quels sports en particulier
+1	e	e	CCONJ	_	_	3	cc	_	id=s1.u2.w0
+2	quels	quel	DET	_	Gender=Masc|Number=Plur	3	det	_	id=s1.u2.w1
+3	sports	sport	NOUN	_	Gender=Masc|Number=Plur	0	root	_	id=s1.u2.w2
+4	en	en	ADP	_	_	5	case	_	_none=|id=s1.u2.w3
+5	particulier	particulier	ADJ	_	Gender=Masc|Number=Sing	3	nmod	_	_none=|id=s1.u2.w4
+
+# sent_id = 1AG0513_3
+# text = parapente e
+1	parapente	parapente	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u3.w0
+2	e	e	CCONJ	_	_	1	cc	_	id=s1.u3.w1
+
+# sent_id = 1AG0513_4
+# text = hum voilà c' est est est 3 clubs qui s' occupent de sinon vous allez à l' Office Municipal des Sports vous savez où c' est
+1	hum	hum	INTJ	_	_	4	discourse	_	_none=|id=s1.u4.w0
+2	voilà	voilà	VERB	_	_	4	discourse	_	_none=|id=s1.u4.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_none=|id=s1.u4.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	reparandum	_	_none=|id=s1.u4.w3
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	reparandum	_	id=s1.u4.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	id=s1.u4.w5
+7	3	3	NUM	_	Number=Plur	8	nummod	_	id=s1.u4.w6
+8	clubs	club	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_none=|id=s1.u4.w7
+9	qui	qui	PRON	_	PronType=Rel	11	nsubj	_	_none=|id=s1.u4.w8
+10	s'	se	PRON	_	Person=3|PronType=Prs	11	expl:pass	_	id=s1.u4.w9
+11	occupent	occuper	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	id=s1.u4.w10
+12	de	de	ADP	_	_	11	obl:arg	_	_none=|id=s1.u4.w11
+13	sinon	sinon	ADV	_	_	15	advmod	_	_none=|id=s1.u4.w12
+14	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	15	nsubj	_	_none=|id=s1.u4.w13
+15	allez	aller	VERB	ETRE	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	advcl	_	id=s1.u4.w14
+16	à	à	ADP	_	_	18	case	_	_none=|id=s1.u4.w15
+17	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	18	det	_	id=s1.u4.w16
+18	Office	Office	PROPN	_	_	15	obl:arg	_	_none=|id=s1.u4.w17
+19	Municipal	Municipal	ADJ	_	_	18	amod	_	_none=|id=s1.u4.w18
+20	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	21	det	_	id=s1.u4.w19
+21	Sports	Sports	PROPN	_	_	18	nmod	_	id=s1.u4.w20
+22	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	23	nsubj	_	_none=|id=s1.u4.w21
+23	savez	savoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	advcl	_	id=s1.u4.w22
+24	où	où	PRON	_	PronType=Rel	23	ccomp	_	id=s1.u4.w23
+25	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	24	nsubj	_	id=s1.u4.w24
+26	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	id=s1.u4.w25
+
+# sent_id = 1AG0513_6
+# text = non
+1	non	non	ADV	_	Polarity=Neg	0	root	_	_none=|id=s1.u6.w0
+
+# sent_id = 1AG0513_7
+# text = voyez la place Saint-André la place où il y a le palais de justice il y a un petit passage qui s' appelle le passage du palais de justice au 3 il y a l' OMS Office Municipal des Sports ils ont votre adresse
+1	voyez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	discourse	_	id=s1.u7.w0
+2	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	id=s1.u7.w1
+3	place	place	NOUN	_	Gender=Fem|Number=Sing	6	reparandum	_	_none=|id=s1.u7.w2
+4	Saint-André	Saint-andré	PROPN	_	_	3	nmod:appos	_	_none=|id=s1.u7.w3
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_none=|id=s1.u7.w4
+6	place	place	NOUN	_	Gender=Fem|Number=Sing	17	obl:mod	_	id=s1.u7.w5
+7	où	où	PRON	_	PronType=Rel	10	obl:mod	_	_none=|id=s1.u7.w6
+8	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_none=|id=s1.u7.w7
+9	y	y	PRON	_	Person=3|PronType=Prs	10	expl:comp	_	_none=|id=s1.u7.w8
+10	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_none=|id=s1.u7.w9
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_none=|id=s1.u7.w10
+12	palais	palais	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_none=|id=s1.u7.w11
+13	de	de	ADP	_	_	14	case	_	_none=|id=s1.u7.w12
+14	justice	justice	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	id=s1.u7.w13
+15	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	expl:subj	_	_none=|id=s1.u7.w14
+16	y	y	PRON	_	Person=3|PronType=Prs	17	expl:comp	_	id=s1.u7.w15
+17	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u7.w16
+18	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_none=|id=s1.u7.w17
+19	petit	petit	ADJ	_	Gender=Masc|Number=Sing	20	amod	_	_none=|id=s1.u7.w18
+20	passage	passage	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	id=s1.u7.w19
+21	qui	qui	PRON	_	PronType=Rel	23	nsubj	_	_none=|id=s1.u7.w20
+22	s'	se	PRON	_	Person=3|PronType=Prs	23	expl:comp	_	id=s1.u7.w21
+23	appelle	appeler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	id=s1.u7.w22
+24	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	id=s1.u7.w23
+25	passage	passage	NOUN	_	Gender=Masc|Number=Sing	23	obj	_	id=s1.u7.w24
+26	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	id=s1.u7.w25
+27	palais	palais	NOUN	_	Gender=Masc|Number=Sing	25	nmod	_	id=s1.u7.w26
+28	de	de	ADP	_	_	29	case	_	_none=|id=s1.u7.w27
+29	justice	justice	NOUN	_	Gender=Fem|Number=Sing	27	nmod	_	id=s1.u7.w28
+30	au	au	DET	_	_	31	det	_	_none=|id=s1.u7.w29
+31	3	3	NOUN	_	_	17	obl:mod	_	_none=|id=s1.u7.w30
+32	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	expl:subj	_	_none=|id=s1.u7.w31
+33	y	y	PRON	_	Person=3|PronType=Prs	34	expl:comp	_	id=s1.u7.w32
+34	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	id=s1.u7.w33
+35	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	36	det	_	id=s1.u7.w34
+36	OMS	OMS	PROPN	_	_	34	obj	_	_none=|id=s1.u7.w35
+37	Office	Office	PROPN	_	_	20	appos	_	_none=|id=s1.u7.w36
+38	Municipal	Municipal	ADJ	_	Gender=Masc|Number=Sing	37	amod	_	_none=|id=s1.u7.w37
+39	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	40	det	_	id=s1.u7.w38
+40	Sports	Sports	PROPN	_	Gender=Masc|Number=Plur	37	nmod	_	id=s1.u7.w39
+41	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	42	nsubj	_	id=s1.u7.w40
+42	ont	avoir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	_none=|id=s1.u7.w41
+43	votre	son	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=2|PronType=Prs	44	det	_	id=s1.u7.w42
+44	adresse	adresse	NOUN	_	Gender=Fem|Number=Sing	42	obj	_	id=s1.u7.w43
+
+# sent_id = 1AG0513_10
+# text = ok merci au revoir
+1	ok	ok	INTJ	_	_	2	discourse	_	_none=|id=s1.u10.w0
+2	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u10.w1
+3	au	au	ADP	_	_	4	case	_	_none=|id=s1.u10.w2
+4	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	2	advcl	_	id=s1.u10.w3
+
+# sent_id = 1AG0513_11
+# text = je vous en prie monsieur au revoir
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u11.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u11.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u11.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u11.w3
+5	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	4	vocative	_	_none=|id=s1.u11.w4
+6	au	au	ADP	_	_	7	case	_	_none=|id=s1.u11.w5
+7	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	id=s1.u11.w6
+

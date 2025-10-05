@@ -1,0 +1,72 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2AP0595_0
+# text = 
+
+# sent_id = 2AP0595_1
+# text = est ce que je peux avoir la liste des M J C de Grenoble
+1	est	_	_	_	_	_	_	_	id=s1.u1.w0
+2	ce	_	_	_	_	_	_	_	id=s1.u1.w1
+3	que	_	_	_	_	_	_	_	id=s1.u1.w2
+4	je	_	_	_	_	_	_	_	id=s1.u1.w3
+5	peux	_	_	_	_	_	_	_	id=s1.u1.w4
+6	avoir	_	_	_	_	_	_	_	id=s1.u1.w5
+7	la	_	_	_	_	_	_	_	id=s1.u1.w6
+8	liste	_	_	_	_	_	_	_	id=s1.u1.w7
+9	des	_	_	_	_	_	_	_	id=s1.u1.w8
+10	M	_	_	_	_	_	_	_	id=s1.u1.w9
+11	J	_	_	_	_	_	_	_	id=s1.u1.w10
+12	C	_	_	_	_	_	_	_	id=s1.u1.w11
+13	de	_	_	_	_	_	_	_	id=s1.u1.w12
+14	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w13
+
+# sent_id = 2AP0595_2
+# text = oui bien sûr vous demandez à l' intérieur hein avec les ateliers
+1	oui	_	_	_	_	_	_	_	id=s1.u2.w0
+2	bien	_	_	_	_	_	_	_	id=s1.u2.w1
+3	sûr	_	_	_	_	_	_	_	id=s1.u2.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u2.w3
+5	demandez	_	_	_	_	_	_	_	id=s1.u2.w4
+6	à	_	_	_	_	_	_	_	id=s1.u2.w5
+7	l'	_	_	_	_	_	_	_	id=s1.u2.w6
+8	intérieur	_	_	_	_	_	_	_	id=s1.u2.w7
+9	hein	_	_	_	_	_	_	_	id=s1.u2.w8
+10	avec	_	_	_	_	_	_	_	id=s1.u2.w9
+11	les	_	_	_	_	_	_	_	id=s1.u2.w10
+12	ateliers	_	_	_	_	_	_	_	id=s1.u2.w11
+
+# sent_id = 2AP0595_3
+# text = d' accord très bien et e est ce que vous auriez " le 38 "
+1	d'	_	_	_	_	_	_	_	id=s1.u3.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u3.w1
+3	très	_	_	_	_	_	_	_	id=s1.u3.w2
+4	bien	_	_	_	_	_	_	_	id=s1.u3.w3
+5	et	_	_	_	_	_	_	_	id=s1.u3.w4
+6	e	_	_	_	_	_	_	_	id=s1.u3.w5
+7	est	_	_	_	_	_	_	_	id=s1.u3.w6
+8	ce	_	_	_	_	_	_	_	id=s1.u3.w7
+9	que	_	_	_	_	_	_	_	id=s1.u3.w8
+10	vous	_	_	_	_	_	_	_	id=s1.u3.w9
+11	auriez	_	_	_	_	_	_	_	id=s1.u3.w10
+12	le	_	_	_	_	_	_	_	id=s1.u3.w12
+13	38	_	_	_	_	_	_	_	id=s1.u3.w13
+
+# sent_id = 2AP0595_4
+# text = non non non
+1	non	_	_	_	_	_	_	_	id=s1.u4.w0
+2	non	_	_	_	_	_	_	_	id=s1.u4.w1
+3	non	_	_	_	_	_	_	_	id=s1.u4.w2
+
+# sent_id = 2AP0595_5
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u5.w0
+
+# sent_id = 2AP0595_6
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u6.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u6.w1
+
+# sent_id = 2AP0595_7
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u7.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u7.w1
+

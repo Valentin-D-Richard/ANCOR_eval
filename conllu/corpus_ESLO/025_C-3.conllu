@@ -1,0 +1,3710 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 025_C-3_0
+# text = combien de lettres écrivez- vous en moyenne par mois ?
+1	combien	_	_	_	_	_	_	_	id=s1.u0.w0
+2	de	_	_	_	_	_	_	_	id=s1.u0.w1
+3	lettres	_	_	_	_	_	_	_	id=s1.u0.w2
+4	écrivez-	_	_	_	_	_	_	_	id=s1.u0.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u0.w4
+6	en	_	_	_	_	_	_	_	id=s1.u0.w5
+7	moyenne	_	_	_	_	_	_	_	id=s1.u0.w6
+8	par	_	_	_	_	_	_	_	id=s1.u0.w7
+9	mois	_	_	_	_	_	_	_	id=s1.u0.w8
+
+# sent_id = 025_C-3_1
+# text = oh pas beaucoup trois ou quatre mais enfin encore en fait
+1	oh	_	_	_	_	_	_	_	id=s1.u1.w0
+2	pas	_	_	_	_	_	_	_	id=s1.u1.w1
+3	beaucoup	_	_	_	_	_	_	_	id=s1.u1.w2
+4	trois	_	_	_	_	_	_	_	id=s1.u1.w3
+5	ou	_	_	_	_	_	_	_	id=s1.u1.w4
+6	quatre	_	_	_	_	_	_	_	id=s1.u1.w5
+7	mais	_	_	_	_	_	_	_	id=s1.u1.w6
+8	enfin	_	_	_	_	_	_	_	id=s1.u1.w7
+9	encore	_	_	_	_	_	_	_	id=s1.u1.w8
+10	en	_	_	_	_	_	_	_	id=s1.u1.w9
+11	fait	_	_	_	_	_	_	_	id=s1.u1.w10
+
+# sent_id = 025_C-3_2
+# text = trois ou quatre
+1	trois	_	_	_	_	_	_	_	id=s1.u2.w0
+2	ou	_	_	_	_	_	_	_	id=s1.u2.w1
+3	quatre	_	_	_	_	_	_	_	id=s1.u2.w2
+
+# sent_id = 025_C-3_3
+# text = c' est des lettres de les fournisseurs ou des des des trucs comme ça
+1	c'	_	_	_	_	_	_	_	id=s1.u3.w0
+2	est	_	_	_	_	_	_	_	id=s1.u3.w1
+3	des	_	_	_	_	_	_	_	id=s1.u3.w2
+4	lettres	_	_	_	_	_	_	_	id=s1.u3.w3
+5	de	_	_	_	_	_	_	_	id=s1.u3.w4
+6	les	_	_	_	_	_	_	_	id=s1.u3.w5
+7	fournisseurs	_	_	_	_	_	_	_	id=s1.u3.w6
+8	ou	_	_	_	_	_	_	_	id=s1.u3.w7
+9	des	_	_	_	_	_	_	_	id=s1.u3.w8
+10	des	_	_	_	_	_	_	_	id=s1.u3.w9
+11	des	_	_	_	_	_	_	_	id=s1.u3.w10
+12	trucs	_	_	_	_	_	_	_	id=s1.u3.w11
+13	comme	_	_	_	_	_	_	_	id=s1.u3.w12
+14	ça	_	_	_	_	_	_	_	id=s1.u3.w13
+
+# sent_id = 025_C-3_4
+# text = pas beaucoup hein
+1	pas	_	_	_	_	_	_	_	id=s1.u4.w0
+2	beaucoup	_	_	_	_	_	_	_	id=s1.u4.w1
+3	hein	_	_	_	_	_	_	_	id=s1.u4.w2
+
+# sent_id = 025_C-3_5
+# text = 
+
+# sent_id = 025_C-3_6
+# text = et du temps où vous travailliez combien pour le travail ?
+1	et	_	_	_	_	_	_	_	id=s1.u6.w0
+2	du	_	_	_	_	_	_	_	id=s1.u6.w1
+3	temps	_	_	_	_	_	_	_	id=s1.u6.w2
+4	où	_	_	_	_	_	_	_	id=s1.u6.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u6.w4
+6	travailliez	_	_	_	_	_	_	_	id=s1.u6.w5
+7	combien	_	_	_	_	_	_	_	id=s1.u6.w6
+8	pour	_	_	_	_	_	_	_	id=s1.u6.w7
+9	le	_	_	_	_	_	_	_	id=s1.u6.w8
+10	travail	_	_	_	_	_	_	_	id=s1.u6.w9
+
+# sent_id = 025_C-3_7
+# text = le travail ?
+1	le	_	_	_	_	_	_	_	id=s1.u7.w0
+2	travail	_	_	_	_	_	_	_	id=s1.u7.w1
+
+# sent_id = 025_C-3_8
+# text = 
+
+# sent_id = 025_C-3_9
+# text = c' était toute
+1	c'	_	_	_	_	_	_	_	id=s1.u9.w0
+2	était	_	_	_	_	_	_	_	id=s1.u9.w1
+3	toute	_	_	_	_	_	_	_	id=s1.u9.w2
+
+# sent_id = 025_C-3_10
+# text = la journée
+1	la	_	_	_	_	_	_	_	id=s1.u10.w0
+2	journée	_	_	_	_	_	_	_	id=s1.u10.w1
+
+# sent_id = 025_C-3_11
+# text = dans le travail ça se se je les compte plus
+1	dans	_	_	_	_	_	_	_	id=s1.u11.w0
+2	le	_	_	_	_	_	_	_	id=s1.u11.w1
+3	travail	_	_	_	_	_	_	_	id=s1.u11.w2
+4	ça	_	_	_	_	_	_	_	id=s1.u11.w3
+5	se	_	_	_	_	_	_	_	id=s1.u11.w4
+6	se	_	_	_	_	_	_	_	id=s1.u11.w5
+7	je	_	_	_	_	_	_	_	id=s1.u11.w6
+8	les	_	_	_	_	_	_	_	id=s1.u11.w7
+9	compte	_	_	_	_	_	_	_	id=s1.u11.w8
+10	plus	_	_	_	_	_	_	_	id=s1.u11.w9
+
+# sent_id = 025_C-3_12
+# text = je sais pas euh par jour ou euh
+1	je	_	_	_	_	_	_	_	id=s1.u12.w0
+2	sais	_	_	_	_	_	_	_	id=s1.u12.w1
+3	pas	_	_	_	_	_	_	_	id=s1.u12.w2
+4	euh	_	_	_	_	_	_	_	id=s1.u12.w3
+5	par	_	_	_	_	_	_	_	id=s1.u12.w4
+6	jour	_	_	_	_	_	_	_	id=s1.u12.w5
+7	ou	_	_	_	_	_	_	_	id=s1.u12.w6
+8	euh	_	_	_	_	_	_	_	id=s1.u12.w7
+
+# sent_id = 025_C-3_13
+# text = oui oh bah par jour ça dépend de ce que vous entendez par là parce que comme au point de vue correspondance euh y avait les rapports à faire mais c' était à peu à peu près un par jour un à voir par jour ou alors des rapports exceptionnels
+1	oui	_	_	_	_	_	_	_	id=s1.u13.w0
+2	oh	_	_	_	_	_	_	_	id=s1.u13.w1
+3	bah	_	_	_	_	_	_	_	id=s1.u13.w2
+4	par	_	_	_	_	_	_	_	id=s1.u13.w3
+5	jour	_	_	_	_	_	_	_	id=s1.u13.w4
+6	ça	_	_	_	_	_	_	_	id=s1.u13.w5
+7	dépend	_	_	_	_	_	_	_	id=s1.u13.w6
+8	de	_	_	_	_	_	_	_	id=s1.u13.w7
+9	ce	_	_	_	_	_	_	_	id=s1.u13.w8
+10	que	_	_	_	_	_	_	_	id=s1.u13.w9
+11	vous	_	_	_	_	_	_	_	id=s1.u13.w10
+12	entendez	_	_	_	_	_	_	_	id=s1.u13.w11
+13	par	_	_	_	_	_	_	_	id=s1.u13.w12
+14	là	_	_	_	_	_	_	_	id=s1.u13.w13
+15	parce	_	_	_	_	_	_	_	id=s1.u13.w14
+16	que	_	_	_	_	_	_	_	id=s1.u13.w15
+17	comme	_	_	_	_	_	_	_	id=s1.u13.w16
+18	au	_	_	_	_	_	_	_	id=s1.u13.w17
+19	point	_	_	_	_	_	_	_	id=s1.u13.w18
+20	de	_	_	_	_	_	_	_	id=s1.u13.w19
+21	vue	_	_	_	_	_	_	_	id=s1.u13.w20
+22	correspondance	_	_	_	_	_	_	_	id=s1.u13.w21
+23	euh	_	_	_	_	_	_	_	id=s1.u13.w22
+24	y	_	_	_	_	_	_	_	id=s1.u13.w23
+25	avait	_	_	_	_	_	_	_	id=s1.u13.w24
+26	les	_	_	_	_	_	_	_	id=s1.u13.w25
+27	rapports	_	_	_	_	_	_	_	id=s1.u13.w26
+28	à	_	_	_	_	_	_	_	id=s1.u13.w27
+29	faire	_	_	_	_	_	_	_	id=s1.u13.w28
+30	mais	_	_	_	_	_	_	_	id=s1.u13.w29
+31	c'	_	_	_	_	_	_	_	id=s1.u13.w30
+32	était	_	_	_	_	_	_	_	id=s1.u13.w31
+33	à	_	_	_	_	_	_	_	id=s1.u13.w32
+34	peu	_	_	_	_	_	_	_	id=s1.u13.w33
+35	à	_	_	_	_	_	_	_	id=s1.u13.w34
+36	peu	_	_	_	_	_	_	_	id=s1.u13.w35
+37	près	_	_	_	_	_	_	_	id=s1.u13.w36
+38	un	_	_	_	_	_	_	_	id=s1.u13.w37
+39	par	_	_	_	_	_	_	_	id=s1.u13.w38
+40	jour	_	_	_	_	_	_	_	id=s1.u13.w39
+41	un	_	_	_	_	_	_	_	id=s1.u13.w40
+42	à	_	_	_	_	_	_	_	id=s1.u13.w41
+43	voir	_	_	_	_	_	_	_	id=s1.u13.w42
+44	par	_	_	_	_	_	_	_	id=s1.u13.w43
+45	jour	_	_	_	_	_	_	_	id=s1.u13.w44
+46	ou	_	_	_	_	_	_	_	id=s1.u13.w45
+47	alors	_	_	_	_	_	_	_	id=s1.u13.w46
+48	des	_	_	_	_	_	_	_	id=s1.u13.w47
+49	rapports	_	_	_	_	_	_	_	id=s1.u13.w48
+50	exceptionnels	_	_	_	_	_	_	_	id=s1.u13.w49
+
+# sent_id = 025_C-3_14
+# text = 
+
+# sent_id = 025_C-3_15
+# text = oui oui
+1	oui	_	_	_	_	_	_	_	id=s1.u15.w0
+2	oui	_	_	_	_	_	_	_	id=s1.u15.w1
+
+# sent_id = 025_C-3_16
+# text = autrement euh oh c' était le travail courant hein
+1	autrement	_	_	_	_	_	_	_	id=s1.u16.w0
+2	euh	_	_	_	_	_	_	_	id=s1.u16.w1
+3	oh	_	_	_	_	_	_	_	id=s1.u16.w2
+4	c'	_	_	_	_	_	_	_	id=s1.u16.w3
+5	était	_	_	_	_	_	_	_	id=s1.u16.w4
+6	le	_	_	_	_	_	_	_	id=s1.u16.w5
+7	travail	_	_	_	_	_	_	_	id=s1.u16.w6
+8	courant	_	_	_	_	_	_	_	id=s1.u16.w7
+9	hein	_	_	_	_	_	_	_	id=s1.u16.w8
+
+# sent_id = 025_C-3_17
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u17.w0
+
+# sent_id = 025_C-3_18
+# text = toute la journée c' était écrire euh pour les pour les agents euh les bulletins de commande et ainsi de suite
+1	toute	_	_	_	_	_	_	_	id=s1.u18.w0
+2	la	_	_	_	_	_	_	_	id=s1.u18.w1
+3	journée	_	_	_	_	_	_	_	id=s1.u18.w2
+4	c'	_	_	_	_	_	_	_	id=s1.u18.w3
+5	était	_	_	_	_	_	_	_	id=s1.u18.w4
+6	écrire	_	_	_	_	_	_	_	id=s1.u18.w5
+7	euh	_	_	_	_	_	_	_	id=s1.u18.w6
+8	pour	_	_	_	_	_	_	_	id=s1.u18.w7
+9	les	_	_	_	_	_	_	_	id=s1.u18.w8
+10	pour	_	_	_	_	_	_	_	id=s1.u18.w9
+11	les	_	_	_	_	_	_	_	id=s1.u18.w10
+12	agents	_	_	_	_	_	_	_	id=s1.u18.w11
+13	euh	_	_	_	_	_	_	_	id=s1.u18.w12
+14	les	_	_	_	_	_	_	_	id=s1.u18.w13
+15	bulletins	_	_	_	_	_	_	_	id=s1.u18.w14
+16	de	_	_	_	_	_	_	_	id=s1.u18.w15
+17	commande	_	_	_	_	_	_	_	id=s1.u18.w16
+18	et	_	_	_	_	_	_	_	id=s1.u18.w17
+19	ainsi	_	_	_	_	_	_	_	id=s1.u18.w18
+20	de	_	_	_	_	_	_	_	id=s1.u18.w19
+21	suite	_	_	_	_	_	_	_	id=s1.u18.w20
+
+# sent_id = 025_C-3_19
+# text = oui oui
+1	oui	_	_	_	_	_	_	_	id=s1.u19.w0
+2	oui	_	_	_	_	_	_	_	id=s1.u19.w1
+
+# sent_id = 025_C-3_20
+# text = euh est -ce que vous conservez les lettres personnelles qu' on vous envoie ?
+1	euh	_	_	_	_	_	_	_	id=s2.u0.w0
+2	est	_	_	_	_	_	_	_	id=s2.u0.w1
+3	-ce	_	_	_	_	_	_	_	id=s2.u0.w2
+4	que	_	_	_	_	_	_	_	id=s2.u0.w3
+5	vous	_	_	_	_	_	_	_	id=s2.u0.w4
+6	conservez	_	_	_	_	_	_	_	id=s2.u0.w5
+7	les	_	_	_	_	_	_	_	id=s2.u0.w6
+8	lettres	_	_	_	_	_	_	_	id=s2.u0.w7
+9	personnelles	_	_	_	_	_	_	_	id=s2.u0.w8
+10	qu'	_	_	_	_	_	_	_	id=s2.u0.w9
+11	on	_	_	_	_	_	_	_	id=s2.u0.w10
+12	vous	_	_	_	_	_	_	_	id=s2.u0.w11
+13	envoie	_	_	_	_	_	_	_	id=s2.u0.w12
+
+# sent_id = 025_C-3_21
+# text = non
+1	non	_	_	_	_	_	_	_	id=s2.u1.w0
+
+# sent_id = 025_C-3_22
+# text = non pourquoi ?
+1	non	_	_	_	_	_	_	_	id=s2.u2.w0
+2	pourquoi	_	_	_	_	_	_	_	id=s2.u2.w1
+
+# sent_id = 025_C-3_23
+# text = bah parce que quand ils sont lus c' est bon à à brûler c' est tout
+1	bah	_	_	_	_	_	_	_	id=s2.u3.w0
+2	parce	_	_	_	_	_	_	_	id=s2.u3.w1
+3	que	_	_	_	_	_	_	_	id=s2.u3.w2
+4	quand	_	_	_	_	_	_	_	id=s2.u3.w3
+5	ils	_	_	_	_	_	_	_	id=s2.u3.w4
+6	sont	_	_	_	_	_	_	_	id=s2.u3.w5
+7	lus	_	_	_	_	_	_	_	id=s2.u3.w6
+8	c'	_	_	_	_	_	_	_	id=s2.u3.w7
+9	est	_	_	_	_	_	_	_	id=s2.u3.w8
+10	bon	_	_	_	_	_	_	_	id=s2.u3.w9
+11	à	_	_	_	_	_	_	_	id=s2.u3.w10
+12	à	_	_	_	_	_	_	_	id=s2.u3.w11
+13	brûler	_	_	_	_	_	_	_	id=s2.u3.w12
+14	c'	_	_	_	_	_	_	_	id=s2.u3.w13
+15	est	_	_	_	_	_	_	_	id=s2.u3.w14
+16	tout	_	_	_	_	_	_	_	id=s2.u3.w15
+
+# sent_id = 025_C-3_24
+# text = jamais vous les conservez ?
+1	jamais	_	_	_	_	_	_	_	id=s2.u4.w0
+2	vous	_	_	_	_	_	_	_	id=s2.u4.w1
+3	les	_	_	_	_	_	_	_	id=s2.u4.w2
+4	conservez	_	_	_	_	_	_	_	id=s2.u4.w3
+
+# sent_id = 025_C-3_25
+# text = non je conserve rien du tout
+1	non	_	_	_	_	_	_	_	id=s2.u5.w0
+2	je	_	_	_	_	_	_	_	id=s2.u5.w1
+3	conserve	_	_	_	_	_	_	_	id=s2.u5.w2
+4	rien	_	_	_	_	_	_	_	id=s2.u5.w3
+5	du	_	_	_	_	_	_	_	id=s2.u5.w4
+6	tout	_	_	_	_	_	_	_	id=s2.u5.w5
+
+# sent_id = 025_C-3_26
+# text = non
+1	non	_	_	_	_	_	_	_	id=s2.u6.w0
+
+# sent_id = 025_C-3_27
+# text = que les les lettres de enfin les lettres de machin de fer quoi qui qui peuvent servir euh dans plusieurs années
+1	que	_	_	_	_	_	_	_	id=s2.u7.w0
+2	les	_	_	_	_	_	_	_	id=s2.u7.w1
+3	les	_	_	_	_	_	_	_	id=s2.u7.w2
+4	lettres	_	_	_	_	_	_	_	id=s2.u7.w3
+5	de	_	_	_	_	_	_	_	id=s2.u7.w4
+6	enfin	_	_	_	_	_	_	_	id=s2.u7.w5
+7	les	_	_	_	_	_	_	_	id=s2.u7.w6
+8	lettres	_	_	_	_	_	_	_	id=s2.u7.w7
+9	de	_	_	_	_	_	_	_	id=s2.u7.w8
+10	machin	_	_	_	_	_	_	_	id=s2.u7.w9
+11	de	_	_	_	_	_	_	_	id=s2.u7.w10
+12	fer	_	_	_	_	_	_	_	id=s2.u7.w11
+13	quoi	_	_	_	_	_	_	_	id=s2.u7.w12
+14	qui	_	_	_	_	_	_	_	id=s2.u7.w13
+15	qui	_	_	_	_	_	_	_	id=s2.u7.w14
+16	peuvent	_	_	_	_	_	_	_	id=s2.u7.w15
+17	servir	_	_	_	_	_	_	_	id=s2.u7.w16
+18	euh	_	_	_	_	_	_	_	id=s2.u7.w17
+19	dans	_	_	_	_	_	_	_	id=s2.u7.w18
+20	plusieurs	_	_	_	_	_	_	_	id=s2.u7.w19
+21	années	_	_	_	_	_	_	_	id=s2.u7.w20
+
+# sent_id = 025_C-3_28
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s2.u8.w0
+
+# sent_id = 025_C-3_29
+# text = on est obligé de conserver autrement c' est des lettres courantes
+1	on	_	_	_	_	_	_	_	id=s2.u9.w0
+2	est	_	_	_	_	_	_	_	id=s2.u9.w1
+3	obligé	_	_	_	_	_	_	_	id=s2.u9.w2
+4	de	_	_	_	_	_	_	_	id=s2.u9.w3
+5	conserver	_	_	_	_	_	_	_	id=s2.u9.w4
+6	autrement	_	_	_	_	_	_	_	id=s2.u9.w5
+7	c'	_	_	_	_	_	_	_	id=s2.u9.w6
+8	est	_	_	_	_	_	_	_	id=s2.u9.w7
+9	des	_	_	_	_	_	_	_	id=s2.u9.w8
+10	lettres	_	_	_	_	_	_	_	id=s2.u9.w9
+11	courantes	_	_	_	_	_	_	_	id=s2.u9.w10
+
+# sent_id = 025_C-3_30
+# text = oui alors vous n' en possédez pas vous non non
+1	oui	_	_	_	_	_	_	_	id=s2.u10.w0
+2	alors	_	_	_	_	_	_	_	id=s2.u10.w1
+3	vous	_	_	_	_	_	_	_	id=s2.u10.w2
+4	n'	_	_	_	_	_	_	_	id=s2.u10.w3
+5	en	_	_	_	_	_	_	_	id=s2.u10.w4
+6	possédez	_	_	_	_	_	_	_	id=s2.u10.w5
+7	pas	_	_	_	_	_	_	_	id=s2.u10.w6
+8	vous	_	_	_	_	_	_	_	id=s2.u10.w7
+9	non	_	_	_	_	_	_	_	id=s2.u10.w8
+10	non	_	_	_	_	_	_	_	id=s2.u10.w9
+
+# sent_id = 025_C-3_31
+# text = non
+1	non	_	_	_	_	_	_	_	id=s2.u11.w0
+
+# sent_id = 025_C-3_32
+# text = et quand vous écrivez à des amis euh faites- vous un brouillon ?
+1	et	_	_	_	_	_	_	_	id=s3.u0.w0
+2	quand	_	_	_	_	_	_	_	id=s3.u0.w1
+3	vous	_	_	_	_	_	_	_	id=s3.u0.w2
+4	écrivez	_	_	_	_	_	_	_	id=s3.u0.w3
+5	à	_	_	_	_	_	_	_	id=s3.u0.w4
+6	des	_	_	_	_	_	_	_	id=s3.u0.w5
+7	amis	_	_	_	_	_	_	_	id=s3.u0.w6
+8	euh	_	_	_	_	_	_	_	id=s3.u0.w7
+9	faites-	_	_	_	_	_	_	_	id=s3.u0.w8
+10	vous	_	_	_	_	_	_	_	id=s3.u0.w9
+11	un	_	_	_	_	_	_	_	id=s3.u0.w10
+12	brouillon	_	_	_	_	_	_	_	id=s3.u0.w11
+
+# sent_id = 025_C-3_33
+# text = ah des fois ça dépend à qui
+1	ah	_	_	_	_	_	_	_	id=s3.u1.w0
+2	des	_	_	_	_	_	_	_	id=s3.u1.w1
+3	fois	_	_	_	_	_	_	_	id=s3.u1.w2
+4	ça	_	_	_	_	_	_	_	id=s3.u1.w3
+5	dépend	_	_	_	_	_	_	_	id=s3.u1.w4
+6	à	_	_	_	_	_	_	_	id=s3.u1.w5
+7	qui	_	_	_	_	_	_	_	id=s3.u1.w6
+
+# sent_id = 025_C-3_34
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s3.u2.w0
+
+# sent_id = 025_C-3_35
+# text = des fois je fais un brouillon
+1	des	_	_	_	_	_	_	_	id=s3.u3.w0
+2	fois	_	_	_	_	_	_	_	id=s3.u3.w1
+3	je	_	_	_	_	_	_	_	id=s3.u3.w2
+4	fais	_	_	_	_	_	_	_	id=s3.u3.w3
+5	un	_	_	_	_	_	_	_	id=s3.u3.w4
+6	brouillon	_	_	_	_	_	_	_	id=s3.u3.w5
+
+# sent_id = 025_C-3_36
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s3.u4.w0
+
+# sent_id = 025_C-3_37
+# text = quand c' est une lettre importante oui il fait un brouillon
+1	quand	_	_	_	_	_	_	_	id=s3.u5.w0
+2	c'	_	_	_	_	_	_	_	id=s3.u5.w1
+3	est	_	_	_	_	_	_	_	id=s3.u5.w2
+4	une	_	_	_	_	_	_	_	id=s3.u5.w3
+5	lettre	_	_	_	_	_	_	_	id=s3.u5.w4
+6	importante	_	_	_	_	_	_	_	id=s3.u5.w5
+7	oui	_	_	_	_	_	_	_	id=s3.u5.w6
+8	il	_	_	_	_	_	_	_	id=s3.u5.w7
+9	fait	_	_	_	_	_	_	_	id=s3.u5.w8
+10	un	_	_	_	_	_	_	_	id=s3.u5.w9
+11	brouillon	_	_	_	_	_	_	_	id=s3.u5.w10
+
+# sent_id = 025_C-3_38
+# text = bah oui bah c' est normal
+1	bah	_	_	_	_	_	_	_	id=s3.u6.w0
+2	oui	_	_	_	_	_	_	_	id=s3.u6.w1
+3	bah	_	_	_	_	_	_	_	id=s3.u6.w2
+4	c'	_	_	_	_	_	_	_	id=s3.u6.w3
+5	est	_	_	_	_	_	_	_	id=s3.u6.w4
+6	normal	_	_	_	_	_	_	_	id=s3.u6.w5
+
+# sent_id = 025_C-3_39
+# text = oui à des amis c' est
+1	oui	_	_	_	_	_	_	_	id=s3.u7.w0
+2	à	_	_	_	_	_	_	_	id=s3.u7.w1
+3	des	_	_	_	_	_	_	_	id=s3.u7.w2
+4	amis	_	_	_	_	_	_	_	id=s3.u7.w3
+5	c'	_	_	_	_	_	_	_	id=s3.u7.w4
+6	est	_	_	_	_	_	_	_	id=s3.u7.w5
+
+# sent_id = 025_C-3_40
+# text = SNCF mais autrement tu en fais pas
+1	SNCF	_	_	_	_	_	_	_	id=s3.u8.w0
+2	mais	_	_	_	_	_	_	_	id=s3.u8.w1
+3	autrement	_	_	_	_	_	_	_	id=s3.u8.w2
+4	tu	_	_	_	_	_	_	_	id=s3.u8.w3
+5	en	_	_	_	_	_	_	_	id=s3.u8.w4
+6	fais	_	_	_	_	_	_	_	id=s3.u8.w5
+7	pas	_	_	_	_	_	_	_	id=s3.u8.w6
+
+# sent_id = 025_C-3_41
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s3.u9.w0
+
+# sent_id = 025_C-3_42
+# text = c' était surtout pour il fallait écrire à quelqu'un d' important à la SNCf ou n' importe pour une demande de quelque chose pour les enfants ou n' importe oui
+1	c'	_	_	_	_	_	_	_	id=s3.u10.w0
+2	était	_	_	_	_	_	_	_	id=s3.u10.w1
+3	surtout	_	_	_	_	_	_	_	id=s3.u10.w2
+4	pour	_	_	_	_	_	_	_	id=s3.u10.w3
+5	il	_	_	_	_	_	_	_	id=s3.u10.w4
+6	fallait	_	_	_	_	_	_	_	id=s3.u10.w5
+7	écrire	_	_	_	_	_	_	_	id=s3.u10.w6
+8	à	_	_	_	_	_	_	_	id=s3.u10.w7
+9	quelqu'un	_	_	_	_	_	_	_	id=s3.u10.w8
+10	d'	_	_	_	_	_	_	_	id=s3.u10.w9
+11	important	_	_	_	_	_	_	_	id=s3.u10.w10
+12	à	_	_	_	_	_	_	_	id=s3.u10.w11
+13	la	_	_	_	_	_	_	_	id=s3.u10.w12
+14	SNCf	_	_	_	_	_	_	_	id=s3.u10.w13
+15	ou	_	_	_	_	_	_	_	id=s3.u10.w14
+16	n'	_	_	_	_	_	_	_	id=s3.u10.w15
+17	importe	_	_	_	_	_	_	_	id=s3.u10.w16
+18	pour	_	_	_	_	_	_	_	id=s3.u10.w17
+19	une	_	_	_	_	_	_	_	id=s3.u10.w18
+20	demande	_	_	_	_	_	_	_	id=s3.u10.w19
+21	de	_	_	_	_	_	_	_	id=s3.u10.w20
+22	quelque	_	_	_	_	_	_	_	id=s3.u10.w21
+23	chose	_	_	_	_	_	_	_	id=s3.u10.w22
+24	pour	_	_	_	_	_	_	_	id=s3.u10.w23
+25	les	_	_	_	_	_	_	_	id=s3.u10.w24
+26	enfants	_	_	_	_	_	_	_	id=s3.u10.w25
+27	ou	_	_	_	_	_	_	_	id=s3.u10.w26
+28	n'	_	_	_	_	_	_	_	id=s3.u10.w27
+29	importe	_	_	_	_	_	_	_	id=s3.u10.w28
+30	oui	_	_	_	_	_	_	_	id=s3.u10.w29
+
+# sent_id = 025_C-3_43
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s3.u11.w0
+
+# sent_id = 025_C-3_44
+# text = tu as pas besoin de ça
+1	tu	_	_	_	_	_	_	_	id=s3.u12.w0
+2	as	_	_	_	_	_	_	_	id=s3.u12.w1
+3	pas	_	_	_	_	_	_	_	id=s3.u12.w2
+4	besoin	_	_	_	_	_	_	_	id=s3.u12.w3
+5	de	_	_	_	_	_	_	_	id=s3.u12.w4
+6	ça	_	_	_	_	_	_	_	id=s3.u12.w5
+
+# sent_id = 025_C-3_45
+# text = oui et vous faites attention aux fautes de d' orthographe ?
+1	oui	_	_	_	_	_	_	_	id=s3.u13.w0
+2	et	_	_	_	_	_	_	_	id=s3.u13.w1
+3	vous	_	_	_	_	_	_	_	id=s3.u13.w2
+4	faites	_	_	_	_	_	_	_	id=s3.u13.w3
+5	attention	_	_	_	_	_	_	_	id=s3.u13.w4
+6	aux	_	_	_	_	_	_	_	id=s3.u13.w5
+7	fautes	_	_	_	_	_	_	_	id=s3.u13.w6
+8	de	_	_	_	_	_	_	_	id=s3.u13.w7
+9	d'	_	_	_	_	_	_	_	id=s3.u13.w8
+10	orthographe	_	_	_	_	_	_	_	id=s3.u13.w9
+
+# sent_id = 025_C-3_46
+# text = ah oui
+1	ah	_	_	_	_	_	_	_	id=s3.u14.w0
+2	oui	_	_	_	_	_	_	_	id=s3.u14.w1
+
+# sent_id = 025_C-3_47
+# text = ah bah oui sûrement
+1	ah	_	_	_	_	_	_	_	id=s3.u15.w0
+2	bah	_	_	_	_	_	_	_	id=s3.u15.w1
+3	oui	_	_	_	_	_	_	_	id=s3.u15.w2
+4	sûrement	_	_	_	_	_	_	_	id=s3.u15.w3
+
+# sent_id = 025_C-3_48
+# text = 
+
+# sent_id = 025_C-3_49
+# text = oui et est -ce que vous vous relisez ?
+1	oui	_	_	_	_	_	_	_	id=s3.u17.w0
+2	et	_	_	_	_	_	_	_	id=s3.u17.w1
+3	est	_	_	_	_	_	_	_	id=s3.u17.w2
+4	-ce	_	_	_	_	_	_	_	id=s3.u17.w3
+5	que	_	_	_	_	_	_	_	id=s3.u17.w4
+6	vous	_	_	_	_	_	_	_	id=s3.u17.w5
+7	vous	_	_	_	_	_	_	_	id=s3.u17.w6
+8	relisez	_	_	_	_	_	_	_	id=s3.u17.w7
+
+# sent_id = 025_C-3_50
+# text = ah oui je oui parce que je vois on peut oublier des fois un mot ou
+1	ah	_	_	_	_	_	_	_	id=s3.u18.w0
+2	oui	_	_	_	_	_	_	_	id=s3.u18.w1
+3	je	_	_	_	_	_	_	_	id=s3.u18.w2
+4	oui	_	_	_	_	_	_	_	id=s3.u18.w3
+5	parce	_	_	_	_	_	_	_	id=s3.u18.w4
+6	que	_	_	_	_	_	_	_	id=s3.u18.w5
+7	je	_	_	_	_	_	_	_	id=s3.u18.w6
+8	vois	_	_	_	_	_	_	_	id=s3.u18.w7
+9	on	_	_	_	_	_	_	_	id=s3.u18.w8
+10	peut	_	_	_	_	_	_	_	id=s3.u18.w9
+11	oublier	_	_	_	_	_	_	_	id=s3.u18.w10
+12	des	_	_	_	_	_	_	_	id=s3.u18.w11
+13	fois	_	_	_	_	_	_	_	id=s3.u18.w12
+14	un	_	_	_	_	_	_	_	id=s3.u18.w13
+15	mot	_	_	_	_	_	_	_	id=s3.u18.w14
+16	ou	_	_	_	_	_	_	_	id=s3.u18.w15
+
+# sent_id = 025_C-3_51
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s3.u19.w0
+
+# sent_id = 025_C-3_52
+# text = bon j' ai dit tout à l' heure un point mal placé ça peut changer toute une phrase
+1	bon	_	_	_	_	_	_	_	id=s3.u20.w0
+2	j'	_	_	_	_	_	_	_	id=s3.u20.w1
+3	ai	_	_	_	_	_	_	_	id=s3.u20.w2
+4	dit	_	_	_	_	_	_	_	id=s3.u20.w3
+5	tout	_	_	_	_	_	_	_	id=s3.u20.w4
+6	à	_	_	_	_	_	_	_	id=s3.u20.w5
+7	l'	_	_	_	_	_	_	_	id=s3.u20.w6
+8	heure	_	_	_	_	_	_	_	id=s3.u20.w7
+9	un	_	_	_	_	_	_	_	id=s3.u20.w8
+10	point	_	_	_	_	_	_	_	id=s3.u20.w9
+11	mal	_	_	_	_	_	_	_	id=s3.u20.w10
+12	placé	_	_	_	_	_	_	_	id=s3.u20.w11
+13	ça	_	_	_	_	_	_	_	id=s3.u20.w12
+14	peut	_	_	_	_	_	_	_	id=s3.u20.w13
+15	changer	_	_	_	_	_	_	_	id=s3.u20.w14
+16	toute	_	_	_	_	_	_	_	id=s3.u20.w15
+17	une	_	_	_	_	_	_	_	id=s3.u20.w16
+18	phrase	_	_	_	_	_	_	_	id=s3.u20.w17
+
+# sent_id = 025_C-3_53
+# text = oui oui oui oui c' est vrai oui et avec quoi écrivez- vous avec euh ?
+1	oui	_	_	_	_	_	_	_	id=s3.u21.w0
+2	oui	_	_	_	_	_	_	_	id=s3.u21.w1
+3	oui	_	_	_	_	_	_	_	id=s3.u21.w2
+4	oui	_	_	_	_	_	_	_	id=s3.u21.w3
+5	c'	_	_	_	_	_	_	_	id=s3.u21.w4
+6	est	_	_	_	_	_	_	_	id=s3.u21.w5
+7	vrai	_	_	_	_	_	_	_	id=s3.u21.w6
+8	oui	_	_	_	_	_	_	_	id=s3.u21.w7
+9	et	_	_	_	_	_	_	_	id=s3.u21.w8
+10	avec	_	_	_	_	_	_	_	id=s3.u21.w9
+11	quoi	_	_	_	_	_	_	_	id=s3.u21.w10
+12	écrivez-	_	_	_	_	_	_	_	id=s3.u21.w11
+13	vous	_	_	_	_	_	_	_	id=s3.u21.w12
+14	avec	_	_	_	_	_	_	_	id=s3.u21.w13
+15	euh	_	_	_	_	_	_	_	id=s3.u21.w14
+
+# sent_id = 025_C-3_54
+# text = oh stylo bile ou stylo plume ça dépend ce que j' ai sous la main
+1	oh	_	_	_	_	_	_	_	id=s3.u22.w0
+2	stylo	_	_	_	_	_	_	_	id=s3.u22.w1
+3	bile	_	_	_	_	_	_	_	id=s3.u22.w2
+4	ou	_	_	_	_	_	_	_	id=s3.u22.w3
+5	stylo	_	_	_	_	_	_	_	id=s3.u22.w4
+6	plume	_	_	_	_	_	_	_	id=s3.u22.w5
+7	ça	_	_	_	_	_	_	_	id=s3.u22.w6
+8	dépend	_	_	_	_	_	_	_	id=s3.u22.w7
+9	ce	_	_	_	_	_	_	_	id=s3.u22.w8
+10	que	_	_	_	_	_	_	_	id=s3.u22.w9
+11	j'	_	_	_	_	_	_	_	id=s3.u22.w10
+12	ai	_	_	_	_	_	_	_	id=s3.u22.w11
+13	sous	_	_	_	_	_	_	_	id=s3.u22.w12
+14	la	_	_	_	_	_	_	_	id=s3.u22.w13
+15	main	_	_	_	_	_	_	_	id=s3.u22.w14
+
+# sent_id = 025_C-3_55
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s3.u23.w0
+
+# sent_id = 025_C-3_56
+# text = j' ai pas de préférence
+1	j'	_	_	_	_	_	_	_	id=s3.u24.w0
+2	ai	_	_	_	_	_	_	_	id=s3.u24.w1
+3	pas	_	_	_	_	_	_	_	id=s3.u24.w2
+4	de	_	_	_	_	_	_	_	id=s3.u24.w3
+5	préférence	_	_	_	_	_	_	_	id=s3.u24.w4
+
+# sent_id = 025_C-3_57
+# text = oui et quel type de papier utilisez- vous ?
+1	oui	_	_	_	_	_	_	_	id=s3.u25.w0
+2	et	_	_	_	_	_	_	_	id=s3.u25.w1
+3	quel	_	_	_	_	_	_	_	id=s3.u25.w2
+4	type	_	_	_	_	_	_	_	id=s3.u25.w3
+5	de	_	_	_	_	_	_	_	id=s3.u25.w4
+6	papier	_	_	_	_	_	_	_	id=s3.u25.w5
+7	utilisez-	_	_	_	_	_	_	_	id=s3.u25.w6
+8	vous	_	_	_	_	_	_	_	id=s3.u25.w7
+
+# sent_id = 025_C-3_58
+# text = le papier ordinaire
+1	le	_	_	_	_	_	_	_	id=s3.u26.w0
+2	papier	_	_	_	_	_	_	_	id=s3.u26.w1
+3	ordinaire	_	_	_	_	_	_	_	id=s3.u26.w2
+
+# sent_id = 025_C-3_59
+# text = c' est c'est-à-dire c' est
+1	c'	_	_	_	_	_	_	_	id=s3.u27.w0
+2	est	_	_	_	_	_	_	_	id=s3.u27.w1
+3	c'est-à-dire	_	_	_	_	_	_	_	id=s3.u27.w2
+4	c'	_	_	_	_	_	_	_	id=s3.u27.w3
+5	est	_	_	_	_	_	_	_	id=s3.u27.w4
+
+# sent_id = 025_C-3_60
+# text = du papier quadrillé papier ordinaire euh
+1	du	_	_	_	_	_	_	_	id=s3.u28.w0
+2	papier	_	_	_	_	_	_	_	id=s3.u28.w1
+3	quadrillé	_	_	_	_	_	_	_	id=s3.u28.w2
+4	papier	_	_	_	_	_	_	_	id=s3.u28.w3
+5	ordinaire	_	_	_	_	_	_	_	id=s3.u28.w4
+6	euh	_	_	_	_	_	_	_	id=s3.u28.w5
+
+# sent_id = 025_C-3_61
+# text = quadrillé euh
+1	quadrillé	_	_	_	_	_	_	_	id=s3.u29.w0
+2	euh	_	_	_	_	_	_	_	id=s3.u29.w1
+
+# sent_id = 025_C-3_62
+# text = des blocs des blocs correspondance
+1	des	_	_	_	_	_	_	_	id=s3.u30.w0
+2	blocs	_	_	_	_	_	_	_	id=s3.u30.w1
+3	des	_	_	_	_	_	_	_	id=s3.u30.w2
+4	blocs	_	_	_	_	_	_	_	id=s3.u30.w3
+5	correspondance	_	_	_	_	_	_	_	id=s3.u30.w4
+
+# sent_id = 025_C-3_63
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s3.u31.w0
+
+# sent_id = 025_C-3_64
+# text = et si vous deviez écrire au professeur à l' école de votre enfant euh de vos enfants vous feriez la même chose ?
+1	et	_	_	_	_	_	_	_	id=s4.u0.w0
+2	si	_	_	_	_	_	_	_	id=s4.u0.w1
+3	vous	_	_	_	_	_	_	_	id=s4.u0.w2
+4	deviez	_	_	_	_	_	_	_	id=s4.u0.w3
+5	écrire	_	_	_	_	_	_	_	id=s4.u0.w4
+6	au	_	_	_	_	_	_	_	id=s4.u0.w5
+7	professeur	_	_	_	_	_	_	_	id=s4.u0.w6
+8	à	_	_	_	_	_	_	_	id=s4.u0.w7
+9	l'	_	_	_	_	_	_	_	id=s4.u0.w8
+10	école	_	_	_	_	_	_	_	id=s4.u0.w9
+11	de	_	_	_	_	_	_	_	id=s4.u0.w10
+12	votre	_	_	_	_	_	_	_	id=s4.u0.w11
+13	enfant	_	_	_	_	_	_	_	id=s4.u0.w12
+14	euh	_	_	_	_	_	_	_	id=s4.u0.w13
+15	de	_	_	_	_	_	_	_	id=s4.u0.w14
+16	vos	_	_	_	_	_	_	_	id=s4.u0.w15
+17	enfants	_	_	_	_	_	_	_	id=s4.u0.w16
+18	vous	_	_	_	_	_	_	_	id=s4.u0.w17
+19	feriez	_	_	_	_	_	_	_	id=s4.u0.w18
+20	la	_	_	_	_	_	_	_	id=s4.u0.w19
+21	même	_	_	_	_	_	_	_	id=s4.u0.w20
+22	chose	_	_	_	_	_	_	_	id=s4.u0.w21
+
+# sent_id = 025_C-3_65
+# text = pareil
+1	pareil	_	_	_	_	_	_	_	id=s4.u1.w0
+
+# sent_id = 025_C-3_66
+# text = vous feriez un brouillon ?
+1	vous	_	_	_	_	_	_	_	id=s4.u2.w0
+2	feriez	_	_	_	_	_	_	_	id=s4.u2.w1
+3	un	_	_	_	_	_	_	_	id=s4.u2.w2
+4	brouillon	_	_	_	_	_	_	_	id=s4.u2.w3
+
+# sent_id = 025_C-3_67
+# text = ah bah dire non
+1	ah	_	_	_	_	_	_	_	id=s4.u3.w0
+2	bah	_	_	_	_	_	_	_	id=s4.u3.w1
+3	dire	_	_	_	_	_	_	_	id=s4.u3.w2
+4	non	_	_	_	_	_	_	_	id=s4.u3.w3
+
+# sent_id = 025_C-3_68
+# text = non
+1	non	_	_	_	_	_	_	_	id=s4.u4.w0
+
+# sent_id = 025_C-3_69
+# text = non m' enfin je relirais voir si je me suis pas trompé
+1	non	_	_	_	_	_	_	_	id=s4.u5.w0
+2	m'	_	_	_	_	_	_	_	id=s4.u5.w1
+3	enfin	_	_	_	_	_	_	_	id=s4.u5.w2
+4	je	_	_	_	_	_	_	_	id=s4.u5.w3
+5	relirais	_	_	_	_	_	_	_	id=s4.u5.w4
+6	voir	_	_	_	_	_	_	_	id=s4.u5.w5
+7	si	_	_	_	_	_	_	_	id=s4.u5.w6
+8	je	_	_	_	_	_	_	_	id=s4.u5.w7
+9	me	_	_	_	_	_	_	_	id=s4.u5.w8
+10	suis	_	_	_	_	_	_	_	id=s4.u5.w9
+11	pas	_	_	_	_	_	_	_	id=s4.u5.w10
+12	trompé	_	_	_	_	_	_	_	id=s4.u5.w11
+
+# sent_id = 025_C-3_70
+# text = oui oui
+1	oui	_	_	_	_	_	_	_	id=s4.u6.w0
+2	oui	_	_	_	_	_	_	_	id=s4.u6.w1
+
+# sent_id = 025_C-3_71
+# text = enfin euh j' aurais pu à leur écrire comme ça sans sans brouillon
+1	enfin	_	_	_	_	_	_	_	id=s4.u7.w0
+2	euh	_	_	_	_	_	_	_	id=s4.u7.w1
+3	j'	_	_	_	_	_	_	_	id=s4.u7.w2
+4	aurais	_	_	_	_	_	_	_	id=s4.u7.w3
+5	pu	_	_	_	_	_	_	_	id=s4.u7.w4
+6	à	_	_	_	_	_	_	_	id=s4.u7.w5
+7	leur	_	_	_	_	_	_	_	id=s4.u7.w6
+8	écrire	_	_	_	_	_	_	_	id=s4.u7.w7
+9	comme	_	_	_	_	_	_	_	id=s4.u7.w8
+10	ça	_	_	_	_	_	_	_	id=s4.u7.w9
+11	sans	_	_	_	_	_	_	_	id=s4.u7.w10
+12	sans	_	_	_	_	_	_	_	id=s4.u7.w11
+13	brouillon	_	_	_	_	_	_	_	id=s4.u7.w12
+
+# sent_id = 025_C-3_72
+# text = oui et vous feriez attention aux fautes ?
+1	oui	_	_	_	_	_	_	_	id=s4.u8.w0
+2	et	_	_	_	_	_	_	_	id=s4.u8.w1
+3	vous	_	_	_	_	_	_	_	id=s4.u8.w2
+4	feriez	_	_	_	_	_	_	_	id=s4.u8.w3
+5	attention	_	_	_	_	_	_	_	id=s4.u8.w4
+6	aux	_	_	_	_	_	_	_	id=s4.u8.w5
+7	fautes	_	_	_	_	_	_	_	id=s4.u8.w6
+
+# sent_id = 025_C-3_73
+# text = ah oui
+1	ah	_	_	_	_	_	_	_	id=s4.u9.w0
+2	oui	_	_	_	_	_	_	_	id=s4.u9.w1
+
+# sent_id = 025_C-3_74
+# text = oui hum
+1	oui	_	_	_	_	_	_	_	id=s4.u10.w0
+2	hum	_	_	_	_	_	_	_	id=s4.u10.w1
+
+# sent_id = 025_C-3_75
+# text = 
+
+# sent_id = 025_C-3_76
+# text = vous vous servirez euh de quel instrument euh ?
+1	vous	_	_	_	_	_	_	_	id=s4.u12.w0
+2	vous	_	_	_	_	_	_	_	id=s4.u12.w1
+3	servirez	_	_	_	_	_	_	_	id=s4.u12.w2
+4	euh	_	_	_	_	_	_	_	id=s4.u12.w3
+5	de	_	_	_	_	_	_	_	id=s4.u12.w4
+6	quel	_	_	_	_	_	_	_	id=s4.u12.w5
+7	instrument	_	_	_	_	_	_	_	id=s4.u12.w6
+8	euh	_	_	_	_	_	_	_	id=s4.u12.w7
+
+# sent_id = 025_C-3_77
+# text = bah du crayon à bille hein
+1	bah	_	_	_	_	_	_	_	id=s4.u13.w0
+2	du	_	_	_	_	_	_	_	id=s4.u13.w1
+3	crayon	_	_	_	_	_	_	_	id=s4.u13.w2
+4	à	_	_	_	_	_	_	_	id=s4.u13.w3
+5	bille	_	_	_	_	_	_	_	id=s4.u13.w4
+6	hein	_	_	_	_	_	_	_	id=s4.u13.w5
+
+# sent_id = 025_C-3_78
+# text = ah oui
+1	ah	_	_	_	_	_	_	_	id=s4.u14.w0
+2	oui	_	_	_	_	_	_	_	id=s4.u14.w1
+
+# sent_id = 025_C-3_79
+# text = stylo à bille oui euh mais enfin je vous dis ça a pas la moi je j' y fais aucun euh le premier qui me tombe sous la main c' est le bon
+1	stylo	_	_	_	_	_	_	_	id=s4.u15.w0
+2	à	_	_	_	_	_	_	_	id=s4.u15.w1
+3	bille	_	_	_	_	_	_	_	id=s4.u15.w2
+4	oui	_	_	_	_	_	_	_	id=s4.u15.w3
+5	euh	_	_	_	_	_	_	_	id=s4.u15.w4
+6	mais	_	_	_	_	_	_	_	id=s4.u15.w5
+7	enfin	_	_	_	_	_	_	_	id=s4.u15.w6
+8	je	_	_	_	_	_	_	_	id=s4.u15.w7
+9	vous	_	_	_	_	_	_	_	id=s4.u15.w8
+10	dis	_	_	_	_	_	_	_	id=s4.u15.w9
+11	ça	_	_	_	_	_	_	_	id=s4.u15.w10
+12	a	_	_	_	_	_	_	_	id=s4.u15.w11
+13	pas	_	_	_	_	_	_	_	id=s4.u15.w12
+14	la	_	_	_	_	_	_	_	id=s4.u15.w13
+15	moi	_	_	_	_	_	_	_	id=s4.u15.w14
+16	je	_	_	_	_	_	_	_	id=s4.u15.w15
+17	j'	_	_	_	_	_	_	_	id=s4.u15.w16
+18	y	_	_	_	_	_	_	_	id=s4.u15.w17
+19	fais	_	_	_	_	_	_	_	id=s4.u15.w18
+20	aucun	_	_	_	_	_	_	_	id=s4.u15.w19
+21	euh	_	_	_	_	_	_	_	id=s4.u15.w20
+22	le	_	_	_	_	_	_	_	id=s4.u15.w21
+23	premier	_	_	_	_	_	_	_	id=s4.u15.w22
+24	qui	_	_	_	_	_	_	_	id=s4.u15.w23
+25	me	_	_	_	_	_	_	_	id=s4.u15.w24
+26	tombe	_	_	_	_	_	_	_	id=s4.u15.w25
+27	sous	_	_	_	_	_	_	_	id=s4.u15.w26
+28	la	_	_	_	_	_	_	_	id=s4.u15.w27
+29	main	_	_	_	_	_	_	_	id=s4.u15.w28
+30	c'	_	_	_	_	_	_	_	id=s4.u15.w29
+31	est	_	_	_	_	_	_	_	id=s4.u15.w30
+32	le	_	_	_	_	_	_	_	id=s4.u15.w31
+33	bon	_	_	_	_	_	_	_	id=s4.u15.w32
+
+# sent_id = 025_C-3_80
+# text = oui oui oui
+1	oui	_	_	_	_	_	_	_	id=s4.u16.w0
+2	oui	_	_	_	_	_	_	_	id=s4.u16.w1
+3	oui	_	_	_	_	_	_	_	id=s4.u16.w2
+
+# sent_id = 025_C-3_81
+# text = je fais pas de différence
+1	je	_	_	_	_	_	_	_	id=s4.u17.w0
+2	fais	_	_	_	_	_	_	_	id=s4.u17.w1
+3	pas	_	_	_	_	_	_	_	id=s4.u17.w2
+4	de	_	_	_	_	_	_	_	id=s4.u17.w3
+5	différence	_	_	_	_	_	_	_	id=s4.u17.w4
+
+# sent_id = 025_C-3_82
+# text = non non et le papier ça serait
+1	non	_	_	_	_	_	_	_	id=s4.u18.w0
+2	non	_	_	_	_	_	_	_	id=s4.u18.w1
+3	et	_	_	_	_	_	_	_	id=s4.u18.w2
+4	le	_	_	_	_	_	_	_	id=s4.u18.w3
+5	papier	_	_	_	_	_	_	_	id=s4.u18.w4
+6	ça	_	_	_	_	_	_	_	id=s4.u18.w5
+7	serait	_	_	_	_	_	_	_	id=s4.u18.w6
+
+# sent_id = 025_C-3_83
+# text = papier pareil
+1	papier	_	_	_	_	_	_	_	id=s4.u19.w0
+2	pareil	_	_	_	_	_	_	_	id=s4.u19.w1
+
+# sent_id = 025_C-3_84
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s4.u20.w0
+
+# sent_id = 025_C-3_85
+# text = et pour une lettre officielle ?
+1	et	_	_	_	_	_	_	_	id=s5.u0.w0
+2	pour	_	_	_	_	_	_	_	id=s5.u0.w1
+3	une	_	_	_	_	_	_	_	id=s5.u0.w2
+4	lettre	_	_	_	_	_	_	_	id=s5.u0.w3
+5	officielle	_	_	_	_	_	_	_	id=s5.u0.w4
+
+# sent_id = 025_C-3_86
+# text = ah bah alors là je prendrais peut-être des précautions hein
+1	ah	_	_	_	_	_	_	_	id=s5.u1.w0
+2	bah	_	_	_	_	_	_	_	id=s5.u1.w1
+3	alors	_	_	_	_	_	_	_	id=s5.u1.w2
+4	là	_	_	_	_	_	_	_	id=s5.u1.w3
+5	je	_	_	_	_	_	_	_	id=s5.u1.w4
+6	prendrais	_	_	_	_	_	_	_	id=s5.u1.w5
+7	peut-être	_	_	_	_	_	_	_	id=s5.u1.w6
+8	des	_	_	_	_	_	_	_	id=s5.u1.w7
+9	précautions	_	_	_	_	_	_	_	id=s5.u1.w8
+10	hein	_	_	_	_	_	_	_	id=s5.u1.w9
+
+# sent_id = 025_C-3_87
+# text = oui rire rire quels genres de précautions ?
+1	oui	_	_	_	_	_	_	_	id=s5.u2.w0
+2	quels	_	_	_	_	_	_	_	id=s5.u2.w1
+3	genres	_	_	_	_	_	_	_	id=s5.u2.w2
+4	de	_	_	_	_	_	_	_	id=s5.u2.w3
+5	précautions	_	_	_	_	_	_	_	id=s5.u2.w4
+
+# sent_id = 025_C-3_88
+# text = 
+
+# sent_id = 025_C-3_89
+# text = et bah euh brouillon d' abord et puis stylo à bille c' est plus correct le stylo plume du moins
+1	et	_	_	_	_	_	_	_	id=s5.u4.w0
+2	bah	_	_	_	_	_	_	_	id=s5.u4.w1
+3	euh	_	_	_	_	_	_	_	id=s5.u4.w2
+4	brouillon	_	_	_	_	_	_	_	id=s5.u4.w3
+5	d'	_	_	_	_	_	_	_	id=s5.u4.w4
+6	abord	_	_	_	_	_	_	_	id=s5.u4.w5
+7	et	_	_	_	_	_	_	_	id=s5.u4.w6
+8	puis	_	_	_	_	_	_	_	id=s5.u4.w7
+9	stylo	_	_	_	_	_	_	_	id=s5.u4.w8
+10	à	_	_	_	_	_	_	_	id=s5.u4.w9
+11	bille	_	_	_	_	_	_	_	id=s5.u4.w10
+12	c'	_	_	_	_	_	_	_	id=s5.u4.w11
+13	est	_	_	_	_	_	_	_	id=s5.u4.w12
+14	plus	_	_	_	_	_	_	_	id=s5.u4.w13
+15	correct	_	_	_	_	_	_	_	id=s5.u4.w14
+16	le	_	_	_	_	_	_	_	id=s5.u4.w15
+17	stylo	_	_	_	_	_	_	_	id=s5.u4.w16
+18	plume	_	_	_	_	_	_	_	id=s5.u4.w17
+19	du	_	_	_	_	_	_	_	id=s5.u4.w18
+20	moins	_	_	_	_	_	_	_	id=s5.u4.w19
+
+# sent_id = 025_C-3_90
+# text = 
+
+# sent_id = 025_C-3_91
+# text = plume oui
+1	plume	_	_	_	_	_	_	_	id=s5.u6.w0
+2	oui	_	_	_	_	_	_	_	id=s5.u6.w1
+
+# sent_id = 025_C-3_92
+# text = c' est plus correct
+1	c'	_	_	_	_	_	_	_	id=s5.u7.w0
+2	est	_	_	_	_	_	_	_	id=s5.u7.w1
+3	plus	_	_	_	_	_	_	_	id=s5.u7.w2
+4	correct	_	_	_	_	_	_	_	id=s5.u7.w3
+
+# sent_id = 025_C-3_93
+# text = et pour le papier ?
+1	et	_	_	_	_	_	_	_	id=s5.u8.w0
+2	pour	_	_	_	_	_	_	_	id=s5.u8.w1
+3	le	_	_	_	_	_	_	_	id=s5.u8.w2
+4	papier	_	_	_	_	_	_	_	id=s5.u8.w3
+
+# sent_id = 025_C-3_94
+# text = oh bah le papier ça dépend à qui j' écrirais m' enfin si j' écrivais à Monsieur le Président de la République par exemple je prendrais du papier papier ministre
+1	oh	_	_	_	_	_	_	_	id=s5.u9.w0
+2	bah	_	_	_	_	_	_	_	id=s5.u9.w1
+3	le	_	_	_	_	_	_	_	id=s5.u9.w2
+4	papier	_	_	_	_	_	_	_	id=s5.u9.w3
+5	ça	_	_	_	_	_	_	_	id=s5.u9.w4
+6	dépend	_	_	_	_	_	_	_	id=s5.u9.w5
+7	à	_	_	_	_	_	_	_	id=s5.u9.w6
+8	qui	_	_	_	_	_	_	_	id=s5.u9.w7
+9	j'	_	_	_	_	_	_	_	id=s5.u9.w8
+10	écrirais	_	_	_	_	_	_	_	id=s5.u9.w9
+11	m'	_	_	_	_	_	_	_	id=s5.u9.w10
+12	enfin	_	_	_	_	_	_	_	id=s5.u9.w11
+13	si	_	_	_	_	_	_	_	id=s5.u9.w12
+14	j'	_	_	_	_	_	_	_	id=s5.u9.w13
+15	écrivais	_	_	_	_	_	_	_	id=s5.u9.w14
+16	à	_	_	_	_	_	_	_	id=s5.u9.w15
+17	Monsieur	_	_	_	_	_	_	_	id=s5.u9.w16
+18	le	_	_	_	_	_	_	_	id=s5.u9.w17
+19	Président	_	_	_	_	_	_	_	id=s5.u9.w18
+20	de	_	_	_	_	_	_	_	id=s5.u9.w19
+21	la	_	_	_	_	_	_	_	id=s5.u9.w20
+22	République	_	_	_	_	_	_	_	id=s5.u9.w21
+23	par	_	_	_	_	_	_	_	id=s5.u9.w22
+24	exemple	_	_	_	_	_	_	_	id=s5.u9.w23
+25	je	_	_	_	_	_	_	_	id=s5.u9.w24
+26	prendrais	_	_	_	_	_	_	_	id=s5.u9.w25
+27	du	_	_	_	_	_	_	_	id=s5.u9.w26
+28	papier	_	_	_	_	_	_	_	id=s5.u9.w27
+29	papier	_	_	_	_	_	_	_	id=s5.u9.w28
+30	ministre	_	_	_	_	_	_	_	id=s5.u9.w29
+
+# sent_id = 025_C-3_95
+# text = rire
+
+# sent_id = 025_C-3_96
+# text = rire ah oui rire
+1	ah	_	_	_	_	_	_	_	id=s5.u11.w0
+2	oui	_	_	_	_	_	_	_	id=s5.u11.w1
+
+# sent_id = 025_C-3_97
+# text = bon bon alors là euh une question j' espère que ça ne vous qu' au moins ça ne vous choquera pas y a -t -il des choses qui vous agacent dans la façon de parler de votre femme ?
+1	bon	_	_	_	_	_	_	_	id=s6.u0.w0
+2	bon	_	_	_	_	_	_	_	id=s6.u0.w1
+3	alors	_	_	_	_	_	_	_	id=s6.u0.w2
+4	là	_	_	_	_	_	_	_	id=s6.u0.w3
+5	euh	_	_	_	_	_	_	_	id=s6.u0.w4
+6	une	_	_	_	_	_	_	_	id=s6.u0.w5
+7	question	_	_	_	_	_	_	_	id=s6.u0.w6
+8	j'	_	_	_	_	_	_	_	id=s6.u0.w7
+9	espère	_	_	_	_	_	_	_	id=s6.u0.w8
+10	que	_	_	_	_	_	_	_	id=s6.u0.w9
+11	ça	_	_	_	_	_	_	_	id=s6.u0.w10
+12	ne	_	_	_	_	_	_	_	id=s6.u0.w11
+13	vous	_	_	_	_	_	_	_	id=s6.u0.w12
+14	qu'	_	_	_	_	_	_	_	id=s6.u0.w13
+15	au	_	_	_	_	_	_	_	id=s6.u0.w14
+16	moins	_	_	_	_	_	_	_	id=s6.u0.w15
+17	ça	_	_	_	_	_	_	_	id=s6.u0.w16
+18	ne	_	_	_	_	_	_	_	id=s6.u0.w17
+19	vous	_	_	_	_	_	_	_	id=s6.u0.w18
+20	choquera	_	_	_	_	_	_	_	id=s6.u0.w19
+21	pas	_	_	_	_	_	_	_	id=s6.u0.w20
+22	y	_	_	_	_	_	_	_	id=s6.u0.w21
+23	a	_	_	_	_	_	_	_	id=s6.u0.w22
+24	-t	_	_	_	_	_	_	_	id=s6.u0.w23
+25	-il	_	_	_	_	_	_	_	id=s6.u0.w24
+26	des	_	_	_	_	_	_	_	id=s6.u0.w25
+27	choses	_	_	_	_	_	_	_	id=s6.u0.w26
+28	qui	_	_	_	_	_	_	_	id=s6.u0.w27
+29	vous	_	_	_	_	_	_	_	id=s6.u0.w28
+30	agacent	_	_	_	_	_	_	_	id=s6.u0.w29
+31	dans	_	_	_	_	_	_	_	id=s6.u0.w30
+32	la	_	_	_	_	_	_	_	id=s6.u0.w31
+33	façon	_	_	_	_	_	_	_	id=s6.u0.w32
+34	de	_	_	_	_	_	_	_	id=s6.u0.w33
+35	parler	_	_	_	_	_	_	_	id=s6.u0.w34
+36	de	_	_	_	_	_	_	_	id=s6.u0.w35
+37	votre	_	_	_	_	_	_	_	id=s6.u0.w36
+38	femme	_	_	_	_	_	_	_	id=s6.u0.w37
+
+# sent_id = 025_C-3_98
+# text = non non non
+1	non	_	_	_	_	_	_	_	id=s6.u1.w0
+2	non	_	_	_	_	_	_	_	id=s6.u1.w1
+3	non	_	_	_	_	_	_	_	id=s6.u1.w2
+
+# sent_id = 025_C-3_99
+# text = 
+
+# sent_id = 025_C-3_100
+# text = je parle mal tu me reprends puis c' est normal
+1	je	_	_	_	_	_	_	_	id=s6.u3.w0
+2	parle	_	_	_	_	_	_	_	id=s6.u3.w1
+3	mal	_	_	_	_	_	_	_	id=s6.u3.w2
+4	tu	_	_	_	_	_	_	_	id=s6.u3.w3
+5	me	_	_	_	_	_	_	_	id=s6.u3.w4
+6	reprends	_	_	_	_	_	_	_	id=s6.u3.w5
+7	puis	_	_	_	_	_	_	_	id=s6.u3.w6
+8	c'	_	_	_	_	_	_	_	id=s6.u3.w7
+9	est	_	_	_	_	_	_	_	id=s6.u3.w8
+10	normal	_	_	_	_	_	_	_	id=s6.u3.w9
+
+# sent_id = 025_C-3_101
+# text = oh oui oh
+1	oh	_	_	_	_	_	_	_	id=s6.u4.w0
+2	oui	_	_	_	_	_	_	_	id=s6.u4.w1
+3	oh	_	_	_	_	_	_	_	id=s6.u4.w2
+
+# sent_id = 025_C-3_102
+# text = toi ça t' arrive pas
+1	toi	_	_	_	_	_	_	_	id=s6.u5.w0
+2	ça	_	_	_	_	_	_	_	id=s6.u5.w1
+3	t'	_	_	_	_	_	_	_	id=s6.u5.w2
+4	arrive	_	_	_	_	_	_	_	id=s6.u5.w3
+5	pas	_	_	_	_	_	_	_	id=s6.u5.w4
+
+# sent_id = 025_C-3_103
+# text = ça c' est de la rigolade ça
+1	ça	_	_	_	_	_	_	_	id=s6.u6.w0
+2	c'	_	_	_	_	_	_	_	id=s6.u6.w1
+3	est	_	_	_	_	_	_	_	id=s6.u6.w2
+4	de	_	_	_	_	_	_	_	id=s6.u6.w3
+5	la	_	_	_	_	_	_	_	id=s6.u6.w4
+6	rigolade	_	_	_	_	_	_	_	id=s6.u6.w5
+7	ça	_	_	_	_	_	_	_	id=s6.u6.w6
+
+# sent_id = 025_C-3_104
+# text = oui euh
+1	oui	_	_	_	_	_	_	_	id=s6.u7.w0
+2	euh	_	_	_	_	_	_	_	id=s6.u7.w1
+
+# sent_id = 025_C-3_105
+# text = y a -t -il des choses qui agacent votre femme dans la façon dont vous parlez ?
+1	y	_	_	_	_	_	_	_	id=s7.u0.w0
+2	a	_	_	_	_	_	_	_	id=s7.u0.w1
+3	-t	_	_	_	_	_	_	_	id=s7.u0.w2
+4	-il	_	_	_	_	_	_	_	id=s7.u0.w3
+5	des	_	_	_	_	_	_	_	id=s7.u0.w4
+6	choses	_	_	_	_	_	_	_	id=s7.u0.w5
+7	qui	_	_	_	_	_	_	_	id=s7.u0.w6
+8	agacent	_	_	_	_	_	_	_	id=s7.u0.w7
+9	votre	_	_	_	_	_	_	_	id=s7.u0.w8
+10	femme	_	_	_	_	_	_	_	id=s7.u0.w9
+11	dans	_	_	_	_	_	_	_	id=s7.u0.w10
+12	la	_	_	_	_	_	_	_	id=s7.u0.w11
+13	façon	_	_	_	_	_	_	_	id=s7.u0.w12
+14	dont	_	_	_	_	_	_	_	id=s7.u0.w13
+15	vous	_	_	_	_	_	_	_	id=s7.u0.w14
+16	parlez	_	_	_	_	_	_	_	id=s7.u0.w15
+
+# sent_id = 025_C-3_106
+# text = 
+
+# sent_id = 025_C-3_107
+# text = qu' il parle correctement alors
+1	qu'	_	_	_	_	_	_	_	id=s7.u2.w0
+2	il	_	_	_	_	_	_	_	id=s7.u2.w1
+3	parle	_	_	_	_	_	_	_	id=s7.u2.w2
+4	correctement	_	_	_	_	_	_	_	id=s7.u2.w3
+5	alors	_	_	_	_	_	_	_	id=s7.u2.w4
+
+# sent_id = 025_C-3_108
+# text = peut-être je sais pas
+1	peut-être	_	_	_	_	_	_	_	id=s7.u3.w0
+2	je	_	_	_	_	_	_	_	id=s7.u3.w1
+3	sais	_	_	_	_	_	_	_	id=s7.u3.w2
+4	pas	_	_	_	_	_	_	_	id=s7.u3.w3
+
+# sent_id = 025_C-3_109
+# text = oui euh euh lui arrive -t -il de vous reprendre ? à votre femme ?
+1	oui	_	_	_	_	_	_	_	id=s7.u4.w0
+2	euh	_	_	_	_	_	_	_	id=s7.u4.w1
+3	euh	_	_	_	_	_	_	_	id=s7.u4.w2
+4	lui	_	_	_	_	_	_	_	id=s7.u4.w3
+5	arrive	_	_	_	_	_	_	_	id=s7.u4.w4
+6	-t	_	_	_	_	_	_	_	id=s7.u4.w5
+7	-il	_	_	_	_	_	_	_	id=s7.u4.w6
+8	de	_	_	_	_	_	_	_	id=s7.u4.w7
+9	vous	_	_	_	_	_	_	_	id=s7.u4.w8
+10	reprendre	_	_	_	_	_	_	_	id=s7.u4.w9
+11	à	_	_	_	_	_	_	_	id=s7.u4.w11
+12	votre	_	_	_	_	_	_	_	id=s7.u4.w12
+13	femme	_	_	_	_	_	_	_	id=s7.u4.w13
+
+# sent_id = 025_C-3_110
+# text = me reprendre ?
+1	me	_	_	_	_	_	_	_	id=s7.u5.w0
+2	reprendre	_	_	_	_	_	_	_	id=s7.u5.w1
+
+# sent_id = 025_C-3_111
+# text = oui elle vous elle vous le dit
+1	oui	_	_	_	_	_	_	_	id=s7.u6.w0
+2	elle	_	_	_	_	_	_	_	id=s7.u6.w1
+3	vous	_	_	_	_	_	_	_	id=s7.u6.w2
+4	elle	_	_	_	_	_	_	_	id=s7.u6.w3
+5	vous	_	_	_	_	_	_	_	id=s7.u6.w4
+6	le	_	_	_	_	_	_	_	id=s7.u6.w5
+7	dit	_	_	_	_	_	_	_	id=s7.u6.w6
+
+# sent_id = 025_C-3_112
+# text = quelle manière aussi ?
+1	quelle	_	_	_	_	_	_	_	id=s7.u7.w0
+2	manière	_	_	_	_	_	_	_	id=s7.u7.w1
+3	aussi	_	_	_	_	_	_	_	id=s7.u7.w2
+
+# sent_id = 025_C-3_113
+# text = je sais pas
+1	je	_	_	_	_	_	_	_	id=s7.u8.w0
+2	sais	_	_	_	_	_	_	_	id=s7.u8.w1
+3	pas	_	_	_	_	_	_	_	id=s7.u8.w2
+
+# sent_id = 025_C-3_114
+# text = au point de vue langage ?
+1	au	_	_	_	_	_	_	_	id=s7.u9.w0
+2	point	_	_	_	_	_	_	_	id=s7.u9.w1
+3	de	_	_	_	_	_	_	_	id=s7.u9.w2
+4	vue	_	_	_	_	_	_	_	id=s7.u9.w3
+5	langage	_	_	_	_	_	_	_	id=s7.u9.w4
+
+# sent_id = 025_C-3_115
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s7.u10.w0
+
+# sent_id = 025_C-3_116
+# text = oh non non point de vue langage non et j' ai pas à le reprendre
+1	oh	_	_	_	_	_	_	_	id=s7.u11.w0
+2	non	_	_	_	_	_	_	_	id=s7.u11.w1
+3	non	_	_	_	_	_	_	_	id=s7.u11.w2
+4	point	_	_	_	_	_	_	_	id=s7.u11.w3
+5	de	_	_	_	_	_	_	_	id=s7.u11.w4
+6	vue	_	_	_	_	_	_	_	id=s7.u11.w5
+7	langage	_	_	_	_	_	_	_	id=s7.u11.w6
+8	non	_	_	_	_	_	_	_	id=s7.u11.w7
+9	et	_	_	_	_	_	_	_	id=s7.u11.w8
+10	j'	_	_	_	_	_	_	_	id=s7.u11.w9
+11	ai	_	_	_	_	_	_	_	id=s7.u11.w10
+12	pas	_	_	_	_	_	_	_	id=s7.u11.w11
+13	à	_	_	_	_	_	_	_	id=s7.u11.w12
+14	le	_	_	_	_	_	_	_	id=s7.u11.w13
+15	reprendre	_	_	_	_	_	_	_	id=s7.u11.w14
+
+# sent_id = 025_C-3_117
+# text = 
+
+# sent_id = 025_C-3_118
+# text = non ?
+1	non	_	_	_	_	_	_	_	id=s7.u13.w0
+
+# sent_id = 025_C-3_119
+# text = non
+1	non	_	_	_	_	_	_	_	id=s7.u14.w0
+
+# sent_id = 025_C-3_120
+# text = non euh
+1	non	_	_	_	_	_	_	_	id=s7.u15.w0
+2	euh	_	_	_	_	_	_	_	id=s7.u15.w1
+
+# sent_id = 025_C-3_121
+# text = bah alors i- il y a euh l' un de vous qui reprend l' autre plus souvent ?
+1	bah	_	_	_	_	_	_	_	id=s8.u0.w0
+2	alors	_	_	_	_	_	_	_	id=s8.u0.w1
+3	i-	_	_	_	_	_	_	_	id=s8.u0.w2
+4	il	_	_	_	_	_	_	_	id=s8.u0.w3
+5	y	_	_	_	_	_	_	_	id=s8.u0.w4
+6	a	_	_	_	_	_	_	_	id=s8.u0.w5
+7	euh	_	_	_	_	_	_	_	id=s8.u0.w6
+8	l'	_	_	_	_	_	_	_	id=s8.u0.w7
+9	un	_	_	_	_	_	_	_	id=s8.u0.w8
+10	de	_	_	_	_	_	_	_	id=s8.u0.w9
+11	vous	_	_	_	_	_	_	_	id=s8.u0.w10
+12	qui	_	_	_	_	_	_	_	id=s8.u0.w11
+13	reprend	_	_	_	_	_	_	_	id=s8.u0.w12
+14	l'	_	_	_	_	_	_	_	id=s8.u0.w13
+15	autre	_	_	_	_	_	_	_	id=s8.u0.w14
+16	plus	_	_	_	_	_	_	_	id=s8.u0.w15
+17	souvent	_	_	_	_	_	_	_	id=s8.u0.w16
+
+# sent_id = 025_C-3_122
+# text = bah pf
+1	bah	_	_	_	_	_	_	_	id=s8.u1.w0
+
+# sent_id = 025_C-3_123
+# text = rire
+
+# sent_id = 025_C-3_124
+# text = si ça t' arrive même possible que
+1	si	_	_	_	_	_	_	_	id=s8.u3.w0
+2	ça	_	_	_	_	_	_	_	id=s8.u3.w1
+3	t'	_	_	_	_	_	_	_	id=s8.u3.w2
+4	arrive	_	_	_	_	_	_	_	id=s8.u3.w3
+5	même	_	_	_	_	_	_	_	id=s8.u3.w4
+6	possible	_	_	_	_	_	_	_	id=s8.u3.w5
+7	que	_	_	_	_	_	_	_	id=s8.u3.w6
+
+# sent_id = 025_C-3_125
+# text = m' arrive oh bah
+1	m'	_	_	_	_	_	_	_	id=s8.u4.w0
+2	arrive	_	_	_	_	_	_	_	id=s8.u4.w1
+3	oh	_	_	_	_	_	_	_	id=s8.u4.w2
+4	bah	_	_	_	_	_	_	_	id=s8.u4.w3
+
+# sent_id = 025_C-3_126
+# text = 
+
+# sent_id = 025_C-3_127
+# text = non
+1	non	_	_	_	_	_	_	_	id=s8.u6.w0
+
+# sent_id = 025_C-3_128
+# text = moi je sais que j' ai pas d' instruction hein alors euh il a raison
+1	moi	_	_	_	_	_	_	_	id=s8.u7.w0
+2	je	_	_	_	_	_	_	_	id=s8.u7.w1
+3	sais	_	_	_	_	_	_	_	id=s8.u7.w2
+4	que	_	_	_	_	_	_	_	id=s8.u7.w3
+5	j'	_	_	_	_	_	_	_	id=s8.u7.w4
+6	ai	_	_	_	_	_	_	_	id=s8.u7.w5
+7	pas	_	_	_	_	_	_	_	id=s8.u7.w6
+8	d'	_	_	_	_	_	_	_	id=s8.u7.w7
+9	instruction	_	_	_	_	_	_	_	id=s8.u7.w8
+10	hein	_	_	_	_	_	_	_	id=s8.u7.w9
+11	alors	_	_	_	_	_	_	_	id=s8.u7.w10
+12	euh	_	_	_	_	_	_	_	id=s8.u7.w11
+13	il	_	_	_	_	_	_	_	id=s8.u7.w12
+14	a	_	_	_	_	_	_	_	id=s8.u7.w13
+15	raison	_	_	_	_	_	_	_	id=s8.u7.w14
+
+# sent_id = 025_C-3_129
+# text = c' est pas
+1	c'	_	_	_	_	_	_	_	id=s8.u8.w0
+2	est	_	_	_	_	_	_	_	id=s8.u8.w1
+3	pas	_	_	_	_	_	_	_	id=s8.u8.w2
+
+# sent_id = 025_C-3_130
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s8.u9.w0
+
+# sent_id = 025_C-3_131
+# text = ça serait pas intelligent de ma part
+1	ça	_	_	_	_	_	_	_	id=s8.u10.w0
+2	serait	_	_	_	_	_	_	_	id=s8.u10.w1
+3	pas	_	_	_	_	_	_	_	id=s8.u10.w2
+4	intelligent	_	_	_	_	_	_	_	id=s8.u10.w3
+5	de	_	_	_	_	_	_	_	id=s8.u10.w4
+6	ma	_	_	_	_	_	_	_	id=s8.u10.w5
+7	part	_	_	_	_	_	_	_	id=s8.u10.w6
+
+# sent_id = 025_C-3_132
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s8.u11.w0
+
+# sent_id = 025_C-3_133
+# text = non
+1	non	_	_	_	_	_	_	_	id=s8.u12.w0
+
+# sent_id = 025_C-3_134
+# text = hum
+1	hum	_	_	_	_	_	_	_	id=s8.u13.w0
+
+# sent_id = 025_C-3_135
+# text = oh puis maintenant il fait plus attention c' est surtout quand on était jeune
+1	oh	_	_	_	_	_	_	_	id=s8.u14.w0
+2	puis	_	_	_	_	_	_	_	id=s8.u14.w1
+3	maintenant	_	_	_	_	_	_	_	id=s8.u14.w2
+4	il	_	_	_	_	_	_	_	id=s8.u14.w3
+5	fait	_	_	_	_	_	_	_	id=s8.u14.w4
+6	plus	_	_	_	_	_	_	_	id=s8.u14.w5
+7	attention	_	_	_	_	_	_	_	id=s8.u14.w6
+8	c'	_	_	_	_	_	_	_	id=s8.u14.w7
+9	est	_	_	_	_	_	_	_	id=s8.u14.w8
+10	surtout	_	_	_	_	_	_	_	id=s8.u14.w9
+11	quand	_	_	_	_	_	_	_	id=s8.u14.w10
+12	on	_	_	_	_	_	_	_	id=s8.u14.w11
+13	était	_	_	_	_	_	_	_	id=s8.u14.w12
+14	jeune	_	_	_	_	_	_	_	id=s8.u14.w13
+
+# sent_id = 025_C-3_136
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s8.u15.w0
+
+# sent_id = 025_C-3_137
+# text = euh y a -t -il des choses qui vous agacent dans la façon de parler de vos enfants ?
+1	euh	_	_	_	_	_	_	_	id=s9.u0.w0
+2	y	_	_	_	_	_	_	_	id=s9.u0.w1
+3	a	_	_	_	_	_	_	_	id=s9.u0.w2
+4	-t	_	_	_	_	_	_	_	id=s9.u0.w3
+5	-il	_	_	_	_	_	_	_	id=s9.u0.w4
+6	des	_	_	_	_	_	_	_	id=s9.u0.w5
+7	choses	_	_	_	_	_	_	_	id=s9.u0.w6
+8	qui	_	_	_	_	_	_	_	id=s9.u0.w7
+9	vous	_	_	_	_	_	_	_	id=s9.u0.w8
+10	agacent	_	_	_	_	_	_	_	id=s9.u0.w9
+11	dans	_	_	_	_	_	_	_	id=s9.u0.w10
+12	la	_	_	_	_	_	_	_	id=s9.u0.w11
+13	façon	_	_	_	_	_	_	_	id=s9.u0.w12
+14	de	_	_	_	_	_	_	_	id=s9.u0.w13
+15	parler	_	_	_	_	_	_	_	id=s9.u0.w14
+16	de	_	_	_	_	_	_	_	id=s9.u0.w15
+17	vos	_	_	_	_	_	_	_	id=s9.u0.w16
+18	enfants	_	_	_	_	_	_	_	id=s9.u0.w17
+
+# sent_id = 025_C-3_138
+# text = pf
+
+# sent_id = 025_C-3_139
+# text = rire
+
+# sent_id = 025_C-3_140
+# text = la petite les beaux langages modernes rire
+1	la	_	_	_	_	_	_	_	id=s9.u3.w0
+2	petite	_	_	_	_	_	_	_	id=s9.u3.w1
+3	les	_	_	_	_	_	_	_	id=s9.u3.w2
+4	beaux	_	_	_	_	_	_	_	id=s9.u3.w3
+5	langages	_	_	_	_	_	_	_	id=s9.u3.w4
+6	modernes	_	_	_	_	_	_	_	id=s9.u3.w5
+
+# sent_id = 025_C-3_141
+# text = euh
+1	euh	_	_	_	_	_	_	_	id=s9.u4.w0
+
+# sent_id = 025_C-3_142
+# text = oui ?
+1	oui	_	_	_	_	_	_	_	id=s9.u5.w0
+
+# sent_id = 025_C-3_143
+# text = quelquefois oui
+1	quelquefois	_	_	_	_	_	_	_	id=s9.u6.w0
+2	oui	_	_	_	_	_	_	_	id=s9.u6.w1
+
+# sent_id = 025_C-3_144
+# text = quelquefois quoi par exemple ?
+1	quelquefois	_	_	_	_	_	_	_	id=s9.u7.w0
+2	quoi	_	_	_	_	_	_	_	id=s9.u7.w1
+3	par	_	_	_	_	_	_	_	id=s9.u7.w2
+4	exemple	_	_	_	_	_	_	_	id=s9.u7.w3
+
+# sent_id = 025_C-3_145
+# text = ah bah des mots pas trop gentils vaut mieux pas dire
+1	ah	_	_	_	_	_	_	_	id=s9.u8.w0
+2	bah	_	_	_	_	_	_	_	id=s9.u8.w1
+3	des	_	_	_	_	_	_	_	id=s9.u8.w2
+4	mots	_	_	_	_	_	_	_	id=s9.u8.w3
+5	pas	_	_	_	_	_	_	_	id=s9.u8.w4
+6	trop	_	_	_	_	_	_	_	id=s9.u8.w5
+7	gentils	_	_	_	_	_	_	_	id=s9.u8.w6
+8	vaut	_	_	_	_	_	_	_	id=s9.u8.w7
+9	mieux	_	_	_	_	_	_	_	id=s9.u8.w8
+10	pas	_	_	_	_	_	_	_	id=s9.u8.w9
+11	dire	_	_	_	_	_	_	_	id=s9.u8.w10
+
+# sent_id = 025_C-3_146
+# text = oui et vous le reprenez ?
+1	oui	_	_	_	_	_	_	_	id=s9.u9.w0
+2	et	_	_	_	_	_	_	_	id=s9.u9.w1
+3	vous	_	_	_	_	_	_	_	id=s9.u9.w2
+4	le	_	_	_	_	_	_	_	id=s9.u9.w3
+5	reprenez	_	_	_	_	_	_	_	id=s9.u9.w4
+
+# sent_id = 025_C-3_147
+# text = ah oui
+1	ah	_	_	_	_	_	_	_	id=s9.u10.w0
+2	oui	_	_	_	_	_	_	_	id=s9.u10.w1
+
+# sent_id = 025_C-3_148
+# text = oui ? et qui le reprend le souvent le le plus souvent le leur père ou leur mère ?
+1	oui	_	_	_	_	_	_	_	id=s9.u11.w0
+2	et	_	_	_	_	_	_	_	id=s9.u11.w2
+3	qui	_	_	_	_	_	_	_	id=s9.u11.w3
+4	le	_	_	_	_	_	_	_	id=s9.u11.w4
+5	reprend	_	_	_	_	_	_	_	id=s9.u11.w5
+6	le	_	_	_	_	_	_	_	id=s9.u11.w6
+7	souvent	_	_	_	_	_	_	_	id=s9.u11.w7
+8	le	_	_	_	_	_	_	_	id=s9.u11.w8
+9	le	_	_	_	_	_	_	_	id=s9.u11.w9
+10	plus	_	_	_	_	_	_	_	id=s9.u11.w10
+11	souvent	_	_	_	_	_	_	_	id=s9.u11.w11
+12	le	_	_	_	_	_	_	_	id=s9.u11.w12
+13	leur	_	_	_	_	_	_	_	id=s9.u11.w13
+14	père	_	_	_	_	_	_	_	id=s9.u11.w14
+15	ou	_	_	_	_	_	_	_	id=s9.u11.w15
+16	leur	_	_	_	_	_	_	_	id=s9.u11.w16
+17	mère	_	_	_	_	_	_	_	id=s9.u11.w17
+
+# sent_id = 025_C-3_149
+# text = oh pareil
+1	oh	_	_	_	_	_	_	_	id=s9.u12.w0
+2	pareil	_	_	_	_	_	_	_	id=s9.u12.w1
+
+# sent_id = 025_C-3_150
+# text = oh c' est pareil
+1	oh	_	_	_	_	_	_	_	id=s9.u13.w0
+2	c'	_	_	_	_	_	_	_	id=s9.u13.w1
+3	est	_	_	_	_	_	_	_	id=s9.u13.w2
+4	pareil	_	_	_	_	_	_	_	id=s9.u13.w3
+
+# sent_id = 025_C-3_151
+# text = 
+
+# sent_id = 025_C-3_152
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s9.u15.w0
+
+# sent_id = 025_C-3_153
+# text = même chose
+1	même	_	_	_	_	_	_	_	id=s9.u16.w0
+2	chose	_	_	_	_	_	_	_	id=s9.u16.w1
+
+# sent_id = 025_C-3_154
+# text = oui et vous le reprenez pour les mêmes choses ?
+1	oui	_	_	_	_	_	_	_	id=s9.u17.w0
+2	et	_	_	_	_	_	_	_	id=s9.u17.w1
+3	vous	_	_	_	_	_	_	_	id=s9.u17.w2
+4	le	_	_	_	_	_	_	_	id=s9.u17.w3
+5	reprenez	_	_	_	_	_	_	_	id=s9.u17.w4
+6	pour	_	_	_	_	_	_	_	id=s9.u17.w5
+7	les	_	_	_	_	_	_	_	id=s9.u17.w6
+8	mêmes	_	_	_	_	_	_	_	id=s9.u17.w7
+9	choses	_	_	_	_	_	_	_	id=s9.u17.w8
+
+# sent_id = 025_C-3_155
+# text = ah oui
+1	ah	_	_	_	_	_	_	_	id=s9.u18.w0
+2	oui	_	_	_	_	_	_	_	id=s9.u18.w1
+
+# sent_id = 025_C-3_156
+# text = oui oui
+1	oui	_	_	_	_	_	_	_	id=s9.u19.w0
+2	oui	_	_	_	_	_	_	_	id=s9.u19.w1
+
+# sent_id = 025_C-3_157
+# text = un gros mot dans la bouche d' une jeune fille ça c' est c' est la mode mais c' est une drôle de mode
+1	un	_	_	_	_	_	_	_	id=s9.u20.w0
+2	gros	_	_	_	_	_	_	_	id=s9.u20.w1
+3	mot	_	_	_	_	_	_	_	id=s9.u20.w2
+4	dans	_	_	_	_	_	_	_	id=s9.u20.w3
+5	la	_	_	_	_	_	_	_	id=s9.u20.w4
+6	bouche	_	_	_	_	_	_	_	id=s9.u20.w5
+7	d'	_	_	_	_	_	_	_	id=s9.u20.w6
+8	une	_	_	_	_	_	_	_	id=s9.u20.w7
+9	jeune	_	_	_	_	_	_	_	id=s9.u20.w8
+10	fille	_	_	_	_	_	_	_	id=s9.u20.w9
+11	ça	_	_	_	_	_	_	_	id=s9.u20.w10
+12	c'	_	_	_	_	_	_	_	id=s9.u20.w11
+13	est	_	_	_	_	_	_	_	id=s9.u20.w12
+14	c'	_	_	_	_	_	_	_	id=s9.u20.w13
+15	est	_	_	_	_	_	_	_	id=s9.u20.w14
+16	la	_	_	_	_	_	_	_	id=s9.u20.w15
+17	mode	_	_	_	_	_	_	_	id=s9.u20.w16
+18	mais	_	_	_	_	_	_	_	id=s9.u20.w17
+19	c'	_	_	_	_	_	_	_	id=s9.u20.w18
+20	est	_	_	_	_	_	_	_	id=s9.u20.w19
+21	une	_	_	_	_	_	_	_	id=s9.u20.w20
+22	drôle	_	_	_	_	_	_	_	id=s9.u20.w21
+23	de	_	_	_	_	_	_	_	id=s9.u20.w22
+24	mode	_	_	_	_	_	_	_	id=s9.u20.w23
+
+# sent_id = 025_C-3_158
+# text = 
+
+# sent_id = 025_C-3_159
+# text = oui euh
+1	oui	_	_	_	_	_	_	_	id=s9.u22.w0
+2	euh	_	_	_	_	_	_	_	id=s9.u22.w1
+
+# sent_id = 025_C-3_160
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s9.u23.w0
+
+# sent_id = 025_C-3_161
+# text = est -ce qui y a des mots que vous interdisez de prononcer à vos enfants ?
+1	est	_	_	_	_	_	_	_	id=s9.u24.w0
+2	-ce	_	_	_	_	_	_	_	id=s9.u24.w1
+3	qui	_	_	_	_	_	_	_	id=s9.u24.w2
+4	y	_	_	_	_	_	_	_	id=s9.u24.w3
+5	a	_	_	_	_	_	_	_	id=s9.u24.w4
+6	des	_	_	_	_	_	_	_	id=s9.u24.w5
+7	mots	_	_	_	_	_	_	_	id=s9.u24.w6
+8	que	_	_	_	_	_	_	_	id=s9.u24.w7
+9	vous	_	_	_	_	_	_	_	id=s9.u24.w8
+10	interdisez	_	_	_	_	_	_	_	id=s9.u24.w9
+11	de	_	_	_	_	_	_	_	id=s9.u24.w10
+12	prononcer	_	_	_	_	_	_	_	id=s9.u24.w11
+13	à	_	_	_	_	_	_	_	id=s9.u24.w12
+14	vos	_	_	_	_	_	_	_	id=s9.u24.w13
+15	enfants	_	_	_	_	_	_	_	id=s9.u24.w14
+
+# sent_id = 025_C-3_162
+# text = oh oui
+1	oh	_	_	_	_	_	_	_	id=s9.u25.w0
+2	oui	_	_	_	_	_	_	_	id=s9.u25.w1
+
+# sent_id = 025_C-3_163
+# text = bah oui quand même y a certaines
+1	bah	_	_	_	_	_	_	_	id=s9.u26.w0
+2	oui	_	_	_	_	_	_	_	id=s9.u26.w1
+3	quand	_	_	_	_	_	_	_	id=s9.u26.w2
+4	même	_	_	_	_	_	_	_	id=s9.u26.w3
+5	y	_	_	_	_	_	_	_	id=s9.u26.w4
+6	a	_	_	_	_	_	_	_	id=s9.u26.w5
+7	certaines	_	_	_	_	_	_	_	id=s9.u26.w6
+
+# sent_id = 025_C-3_164
+# text = oui ? pourriez- me dire lesquels ?
+1	oui	_	_	_	_	_	_	_	id=s9.u27.w0
+2	pourriez-	_	_	_	_	_	_	_	id=s9.u27.w2
+3	me	_	_	_	_	_	_	_	id=s9.u27.w3
+4	dire	_	_	_	_	_	_	_	id=s9.u27.w4
+5	lesquels	_	_	_	_	_	_	_	id=s9.u27.w5
+
+# sent_id = 025_C-3_165
+# text = les propos qui sont
+1	les	_	_	_	_	_	_	_	id=s9.u28.w0
+2	propos	_	_	_	_	_	_	_	id=s9.u28.w1
+3	qui	_	_	_	_	_	_	_	id=s9.u28.w2
+4	sont	_	_	_	_	_	_	_	id=s9.u28.w3
+
+# sent_id = 025_C-3_166
+# text = des insolences ça euh
+1	des	_	_	_	_	_	_	_	id=s9.u29.w0
+2	insolences	_	_	_	_	_	_	_	id=s9.u29.w1
+3	ça	_	_	_	_	_	_	_	id=s9.u29.w2
+4	euh	_	_	_	_	_	_	_	id=s9.u29.w3
+
+# sent_id = 025_C-3_167
+# text = hum
+1	hum	_	_	_	_	_	_	_	id=s9.u30.w0
+
+# sent_id = 025_C-3_168
+# text = des mots
+1	des	_	_	_	_	_	_	_	id=s9.u31.w0
+2	mots	_	_	_	_	_	_	_	id=s9.u31.w1
+
+# sent_id = 025_C-3_169
+# text = oui qui sont insolents
+1	oui	_	_	_	_	_	_	_	id=s9.u32.w0
+2	qui	_	_	_	_	_	_	_	id=s9.u32.w1
+3	sont	_	_	_	_	_	_	_	id=s9.u32.w2
+4	insolents	_	_	_	_	_	_	_	id=s9.u32.w3
+
+# sent_id = 025_C-3_170
+# text = des fois ça leur échappe mais enfin
+1	des	_	_	_	_	_	_	_	id=s9.u33.w0
+2	fois	_	_	_	_	_	_	_	id=s9.u33.w1
+3	ça	_	_	_	_	_	_	_	id=s9.u33.w2
+4	leur	_	_	_	_	_	_	_	id=s9.u33.w3
+5	échappe	_	_	_	_	_	_	_	id=s9.u33.w4
+6	mais	_	_	_	_	_	_	_	id=s9.u33.w5
+7	enfin	_	_	_	_	_	_	_	id=s9.u33.w6
+
+# sent_id = 025_C-3_171
+# text = hum
+1	hum	_	_	_	_	_	_	_	id=s9.u34.w0
+
+# sent_id = 025_C-3_172
+# text = c' est pareil c' est pas normal quoi
+1	c'	_	_	_	_	_	_	_	id=s9.u35.w0
+2	est	_	_	_	_	_	_	_	id=s9.u35.w1
+3	pareil	_	_	_	_	_	_	_	id=s9.u35.w2
+4	c'	_	_	_	_	_	_	_	id=s9.u35.w3
+5	est	_	_	_	_	_	_	_	id=s9.u35.w4
+6	pas	_	_	_	_	_	_	_	id=s9.u35.w5
+7	normal	_	_	_	_	_	_	_	id=s9.u35.w6
+8	quoi	_	_	_	_	_	_	_	id=s9.u35.w7
+
+# sent_id = 025_C-3_173
+# text = non et les punissez- vous si ils les prononcent ?
+1	non	_	_	_	_	_	_	_	id=s9.u36.w0
+2	et	_	_	_	_	_	_	_	id=s9.u36.w1
+3	les	_	_	_	_	_	_	_	id=s9.u36.w2
+4	punissez-	_	_	_	_	_	_	_	id=s9.u36.w3
+5	vous	_	_	_	_	_	_	_	id=s9.u36.w4
+6	si	_	_	_	_	_	_	_	id=s9.u36.w5
+7	ils	_	_	_	_	_	_	_	id=s9.u36.w6
+8	les	_	_	_	_	_	_	_	id=s9.u36.w7
+9	prononcent	_	_	_	_	_	_	_	id=s9.u36.w8
+
+# sent_id = 025_C-3_174
+# text = bah non
+1	bah	_	_	_	_	_	_	_	id=s9.u37.w0
+2	non	_	_	_	_	_	_	_	id=s9.u37.w1
+
+# sent_id = 025_C-3_175
+# text = 
+
+# sent_id = 025_C-3_176
+# text = on connaît connaît pas ça les punitions
+1	on	_	_	_	_	_	_	_	id=s9.u39.w0
+2	connaît	_	_	_	_	_	_	_	id=s9.u39.w1
+3	connaît	_	_	_	_	_	_	_	id=s9.u39.w2
+4	pas	_	_	_	_	_	_	_	id=s9.u39.w3
+5	ça	_	_	_	_	_	_	_	id=s9.u39.w4
+6	les	_	_	_	_	_	_	_	id=s9.u39.w5
+7	punitions	_	_	_	_	_	_	_	id=s9.u39.w6
+
+# sent_id = 025_C-3_177
+# text = non hein on n' en fait pas beaucoup des punitions hein on rouspette mais c' est tout hein
+1	non	_	_	_	_	_	_	_	id=s9.u40.w0
+2	hein	_	_	_	_	_	_	_	id=s9.u40.w1
+3	on	_	_	_	_	_	_	_	id=s9.u40.w2
+4	n'	_	_	_	_	_	_	_	id=s9.u40.w3
+5	en	_	_	_	_	_	_	_	id=s9.u40.w4
+6	fait	_	_	_	_	_	_	_	id=s9.u40.w5
+7	pas	_	_	_	_	_	_	_	id=s9.u40.w6
+8	beaucoup	_	_	_	_	_	_	_	id=s9.u40.w7
+9	des	_	_	_	_	_	_	_	id=s9.u40.w8
+10	punitions	_	_	_	_	_	_	_	id=s9.u40.w9
+11	hein	_	_	_	_	_	_	_	id=s9.u40.w10
+12	on	_	_	_	_	_	_	_	id=s9.u40.w11
+13	rouspette	_	_	_	_	_	_	_	id=s9.u40.w12
+14	mais	_	_	_	_	_	_	_	id=s9.u40.w13
+15	c'	_	_	_	_	_	_	_	id=s9.u40.w14
+16	est	_	_	_	_	_	_	_	id=s9.u40.w15
+17	tout	_	_	_	_	_	_	_	id=s9.u40.w16
+18	hein	_	_	_	_	_	_	_	id=s9.u40.w17
+
+# sent_id = 025_C-3_178
+# text = rire
+
+# sent_id = 025_C-3_179
+# text = une bonne petite engueulade
+1	une	_	_	_	_	_	_	_	id=s9.u42.w0
+2	bonne	_	_	_	_	_	_	_	id=s9.u42.w1
+3	petite	_	_	_	_	_	_	_	id=s9.u42.w2
+4	engueulade	_	_	_	_	_	_	_	id=s9.u42.w3
+
+# sent_id = 025_C-3_180
+# text = rire oui
+1	oui	_	_	_	_	_	_	_	id=s9.u43.w0
+
+# sent_id = 025_C-3_181
+# text = est -ce que vos parents faisaient- ils faisaient l' attention à la façon dont vous parliez ?
+1	est	_	_	_	_	_	_	_	id=s10.u0.w0
+2	-ce	_	_	_	_	_	_	_	id=s10.u0.w1
+3	que	_	_	_	_	_	_	_	id=s10.u0.w2
+4	vos	_	_	_	_	_	_	_	id=s10.u0.w3
+5	parents	_	_	_	_	_	_	_	id=s10.u0.w4
+6	faisaient-	_	_	_	_	_	_	_	id=s10.u0.w5
+7	ils	_	_	_	_	_	_	_	id=s10.u0.w6
+8	faisaient	_	_	_	_	_	_	_	id=s10.u0.w7
+9	l'	_	_	_	_	_	_	_	id=s10.u0.w8
+10	attention	_	_	_	_	_	_	_	id=s10.u0.w9
+11	à	_	_	_	_	_	_	_	id=s10.u0.w10
+12	la	_	_	_	_	_	_	_	id=s10.u0.w11
+13	façon	_	_	_	_	_	_	_	id=s10.u0.w12
+14	dont	_	_	_	_	_	_	_	id=s10.u0.w13
+15	vous	_	_	_	_	_	_	_	id=s10.u0.w14
+16	parliez	_	_	_	_	_	_	_	id=s10.u0.w15
+
+# sent_id = 025_C-3_182
+# text = oh oui oh la la encore plus que nous
+1	oh	_	_	_	_	_	_	_	id=s10.u1.w0
+2	oui	_	_	_	_	_	_	_	id=s10.u1.w1
+3	oh	_	_	_	_	_	_	_	id=s10.u1.w2
+4	la	_	_	_	_	_	_	_	id=s10.u1.w3
+5	la	_	_	_	_	_	_	_	id=s10.u1.w4
+6	encore	_	_	_	_	_	_	_	id=s10.u1.w5
+7	plus	_	_	_	_	_	_	_	id=s10.u1.w6
+8	que	_	_	_	_	_	_	_	id=s10.u1.w7
+9	nous	_	_	_	_	_	_	_	id=s10.u1.w8
+
+# sent_id = 025_C-3_183
+# text = 
+
+# sent_id = 025_C-3_184
+# text = oui ?
+1	oui	_	_	_	_	_	_	_	id=s10.u3.w0
+
+# sent_id = 025_C-3_185
+# text = oh oui
+1	oh	_	_	_	_	_	_	_	id=s10.u4.w0
+2	oui	_	_	_	_	_	_	_	id=s10.u4.w1
+
+# sent_id = 025_C-3_186
+# text = moi j' en avais pas de parents
+1	moi	_	_	_	_	_	_	_	id=s10.u5.w0
+2	j'	_	_	_	_	_	_	_	id=s10.u5.w1
+3	en	_	_	_	_	_	_	_	id=s10.u5.w2
+4	avais	_	_	_	_	_	_	_	id=s10.u5.w3
+5	pas	_	_	_	_	_	_	_	id=s10.u5.w4
+6	de	_	_	_	_	_	_	_	id=s10.u5.w5
+7	parents	_	_	_	_	_	_	_	id=s10.u5.w6
+
+# sent_id = 025_C-3_187
+# text = encore plus que nous oui parce que moi de mon temps il fallait pas l' ouvrir hein fallait rien dire
+1	encore	_	_	_	_	_	_	_	id=s10.u6.w0
+2	plus	_	_	_	_	_	_	_	id=s10.u6.w1
+3	que	_	_	_	_	_	_	_	id=s10.u6.w2
+4	nous	_	_	_	_	_	_	_	id=s10.u6.w3
+5	oui	_	_	_	_	_	_	_	id=s10.u6.w4
+6	parce	_	_	_	_	_	_	_	id=s10.u6.w5
+7	que	_	_	_	_	_	_	_	id=s10.u6.w6
+8	moi	_	_	_	_	_	_	_	id=s10.u6.w7
+9	de	_	_	_	_	_	_	_	id=s10.u6.w8
+10	mon	_	_	_	_	_	_	_	id=s10.u6.w9
+11	temps	_	_	_	_	_	_	_	id=s10.u6.w10
+12	il	_	_	_	_	_	_	_	id=s10.u6.w11
+13	fallait	_	_	_	_	_	_	_	id=s10.u6.w12
+14	pas	_	_	_	_	_	_	_	id=s10.u6.w13
+15	l'	_	_	_	_	_	_	_	id=s10.u6.w14
+16	ouvrir	_	_	_	_	_	_	_	id=s10.u6.w15
+17	hein	_	_	_	_	_	_	_	id=s10.u6.w16
+18	fallait	_	_	_	_	_	_	_	id=s10.u6.w17
+19	rien	_	_	_	_	_	_	_	id=s10.u6.w18
+20	dire	_	_	_	_	_	_	_	id=s10.u6.w19
+
+# sent_id = 025_C-3_188
+# text = comment ?
+1	comment	_	_	_	_	_	_	_	id=s10.u7.w0
+
+# sent_id = 025_C-3_189
+# text = fallait rien dire de mon temps fallait pas
+1	fallait	_	_	_	_	_	_	_	id=s10.u8.w0
+2	rien	_	_	_	_	_	_	_	id=s10.u8.w1
+3	dire	_	_	_	_	_	_	_	id=s10.u8.w2
+4	de	_	_	_	_	_	_	_	id=s10.u8.w3
+5	mon	_	_	_	_	_	_	_	id=s10.u8.w4
+6	temps	_	_	_	_	_	_	_	id=s10.u8.w5
+7	fallait	_	_	_	_	_	_	_	id=s10.u8.w6
+8	pas	_	_	_	_	_	_	_	id=s10.u8.w7
+
+# sent_id = 025_C-3_190
+# text = 
+
+# sent_id = 025_C-3_191
+# text = tu dis fallait pas l' ouvrir mais la demoiselle elle comprend pas ouvrir quelque chose rire
+1	tu	_	_	_	_	_	_	_	id=s10.u10.w0
+2	dis	_	_	_	_	_	_	_	id=s10.u10.w1
+3	fallait	_	_	_	_	_	_	_	id=s10.u10.w2
+4	pas	_	_	_	_	_	_	_	id=s10.u10.w3
+5	l'	_	_	_	_	_	_	_	id=s10.u10.w4
+6	ouvrir	_	_	_	_	_	_	_	id=s10.u10.w5
+7	mais	_	_	_	_	_	_	_	id=s10.u10.w6
+8	la	_	_	_	_	_	_	_	id=s10.u10.w7
+9	demoiselle	_	_	_	_	_	_	_	id=s10.u10.w8
+10	elle	_	_	_	_	_	_	_	id=s10.u10.w9
+11	comprend	_	_	_	_	_	_	_	id=s10.u10.w10
+12	pas	_	_	_	_	_	_	_	id=s10.u10.w11
+13	ouvrir	_	_	_	_	_	_	_	id=s10.u10.w12
+14	quelque	_	_	_	_	_	_	_	id=s10.u10.w13
+15	chose	_	_	_	_	_	_	_	id=s10.u10.w14
+
+# sent_id = 025_C-3_192
+# text = c' est une madame c' est pas une demoiselle
+1	c'	_	_	_	_	_	_	_	id=s10.u11.w0
+2	est	_	_	_	_	_	_	_	id=s10.u11.w1
+3	une	_	_	_	_	_	_	_	id=s10.u11.w2
+4	madame	_	_	_	_	_	_	_	id=s10.u11.w3
+5	c'	_	_	_	_	_	_	_	id=s10.u11.w4
+6	est	_	_	_	_	_	_	_	id=s10.u11.w5
+7	pas	_	_	_	_	_	_	_	id=s10.u11.w6
+8	une	_	_	_	_	_	_	_	id=s10.u11.w7
+9	demoiselle	_	_	_	_	_	_	_	id=s10.u11.w8
+
+# sent_id = 025_C-3_193
+# text = hum et qui vous reprenez le plus souvent votre père ou votre mère ? oui ? et euh pour quel genre de choses surtout ?
+1	hum	_	_	_	_	_	_	_	id=s10.u12.w0
+2	et	_	_	_	_	_	_	_	id=s10.u12.w1
+3	qui	_	_	_	_	_	_	_	id=s10.u12.w2
+4	vous	_	_	_	_	_	_	_	id=s10.u12.w3
+5	reprenez	_	_	_	_	_	_	_	id=s10.u12.w4
+6	le	_	_	_	_	_	_	_	id=s10.u12.w5
+7	plus	_	_	_	_	_	_	_	id=s10.u12.w6
+8	souvent	_	_	_	_	_	_	_	id=s10.u12.w7
+9	votre	_	_	_	_	_	_	_	id=s10.u12.w8
+10	père	_	_	_	_	_	_	_	id=s10.u12.w9
+11	ou	_	_	_	_	_	_	_	id=s10.u12.w10
+12	votre	_	_	_	_	_	_	_	id=s10.u12.w11
+13	mère	_	_	_	_	_	_	_	id=s10.u12.w12
+14	oui	_	_	_	_	_	_	_	id=s10.u12.w14
+15	et	_	_	_	_	_	_	_	id=s10.u12.w16
+16	euh	_	_	_	_	_	_	_	id=s10.u12.w17
+17	pour	_	_	_	_	_	_	_	id=s10.u12.w18
+18	quel	_	_	_	_	_	_	_	id=s10.u12.w19
+19	genre	_	_	_	_	_	_	_	id=s10.u12.w20
+20	de	_	_	_	_	_	_	_	id=s10.u12.w21
+21	choses	_	_	_	_	_	_	_	id=s10.u12.w22
+22	surtout	_	_	_	_	_	_	_	id=s10.u12.w23
+
+# sent_id = 025_C-3_194
+# text = mon père
+1	mon	_	_	_	_	_	_	_	id=s10.u13.w0
+2	père	_	_	_	_	_	_	_	id=s10.u13.w1
+
+# sent_id = 025_C-3_195
+# text = oh bah pas grand chose
+1	oh	_	_	_	_	_	_	_	id=s10.u14.w0
+2	bah	_	_	_	_	_	_	_	id=s10.u14.w1
+3	pas	_	_	_	_	_	_	_	id=s10.u14.w2
+4	grand	_	_	_	_	_	_	_	id=s10.u14.w3
+5	chose	_	_	_	_	_	_	_	id=s10.u14.w4
+
+# sent_id = 025_C-3_196
+# text = hum
+1	hum	_	_	_	_	_	_	_	id=s10.u15.w0
+
+# sent_id = 025_C-3_197
+# text = parce qu' il passait sur euh rien alors b
+1	parce	_	_	_	_	_	_	_	id=s10.u16.w0
+2	qu'	_	_	_	_	_	_	_	id=s10.u16.w1
+3	il	_	_	_	_	_	_	_	id=s10.u16.w2
+4	passait	_	_	_	_	_	_	_	id=s10.u16.w3
+5	sur	_	_	_	_	_	_	_	id=s10.u16.w4
+6	euh	_	_	_	_	_	_	_	id=s10.u16.w5
+7	rien	_	_	_	_	_	_	_	id=s10.u16.w6
+8	alors	_	_	_	_	_	_	_	id=s10.u16.w7
+
+# sent_id = 025_C-3_198
+# text = 
+
+# sent_id = 025_C-3_199
+# text = ils étaient sévères ses parents
+1	ils	_	_	_	_	_	_	_	id=s10.u18.w0
+2	étaient	_	_	_	_	_	_	_	id=s10.u18.w1
+3	sévères	_	_	_	_	_	_	_	id=s10.u18.w2
+4	ses	_	_	_	_	_	_	_	id=s10.u18.w3
+5	parents	_	_	_	_	_	_	_	id=s10.u18.w4
+
+# sent_id = 025_C-3_200
+# text = vous savez
+1	vous	_	_	_	_	_	_	_	id=s10.u19.w0
+2	savez	_	_	_	_	_	_	_	id=s10.u19.w1
+
+# sent_id = 025_C-3_201
+# text = oui et quel genre de choses ? un rien euh
+1	oui	_	_	_	_	_	_	_	id=s10.u20.w0
+2	et	_	_	_	_	_	_	_	id=s10.u20.w1
+3	quel	_	_	_	_	_	_	_	id=s10.u20.w2
+4	genre	_	_	_	_	_	_	_	id=s10.u20.w3
+5	de	_	_	_	_	_	_	_	id=s10.u20.w4
+6	choses	_	_	_	_	_	_	_	id=s10.u20.w5
+7	un	_	_	_	_	_	_	_	id=s10.u20.w7
+8	rien	_	_	_	_	_	_	_	id=s10.u20.w8
+9	euh	_	_	_	_	_	_	_	id=s10.u20.w9
+
+# sent_id = 025_C-3_202
+# text = oh bah ch- se tenir mal à table c' était suffisant ou parler à table euh
+1	oh	_	_	_	_	_	_	_	id=s10.u21.w0
+2	bah	_	_	_	_	_	_	_	id=s10.u21.w1
+3	ch-	_	_	_	_	_	_	_	id=s10.u21.w2
+4	se	_	_	_	_	_	_	_	id=s10.u21.w3
+5	tenir	_	_	_	_	_	_	_	id=s10.u21.w4
+6	mal	_	_	_	_	_	_	_	id=s10.u21.w5
+7	à	_	_	_	_	_	_	_	id=s10.u21.w6
+8	table	_	_	_	_	_	_	_	id=s10.u21.w7
+9	c'	_	_	_	_	_	_	_	id=s10.u21.w8
+10	était	_	_	_	_	_	_	_	id=s10.u21.w9
+11	suffisant	_	_	_	_	_	_	_	id=s10.u21.w10
+12	ou	_	_	_	_	_	_	_	id=s10.u21.w11
+13	parler	_	_	_	_	_	_	_	id=s10.u21.w12
+14	à	_	_	_	_	_	_	_	id=s10.u21.w13
+15	table	_	_	_	_	_	_	_	id=s10.u21.w14
+16	euh	_	_	_	_	_	_	_	id=s10.u21.w15
+
+# sent_id = 025_C-3_203
+# text = parler à table ?
+1	parler	_	_	_	_	_	_	_	id=s10.u22.w0
+2	à	_	_	_	_	_	_	_	id=s10.u22.w1
+3	table	_	_	_	_	_	_	_	id=s10.u22.w2
+
+# sent_id = 025_C-3_204
+# text = ah oui
+1	ah	_	_	_	_	_	_	_	id=s10.u23.w0
+2	oui	_	_	_	_	_	_	_	id=s10.u23.w1
+
+# sent_id = 025_C-3_205
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s10.u24.w0
+
+# sent_id = 025_C-3_206
+# text = on parlait que si on nous interrogeait fallait pas
+1	on	_	_	_	_	_	_	_	id=s10.u25.w0
+2	parlait	_	_	_	_	_	_	_	id=s10.u25.w1
+3	que	_	_	_	_	_	_	_	id=s10.u25.w2
+4	si	_	_	_	_	_	_	_	id=s10.u25.w3
+5	on	_	_	_	_	_	_	_	id=s10.u25.w4
+6	nous	_	_	_	_	_	_	_	id=s10.u25.w5
+7	interrogeait	_	_	_	_	_	_	_	id=s10.u25.w6
+8	fallait	_	_	_	_	_	_	_	id=s10.u25.w7
+9	pas	_	_	_	_	_	_	_	id=s10.u25.w8
+
+# sent_id = 025_C-3_207
+# text = ah oui
+1	ah	_	_	_	_	_	_	_	id=s10.u26.w0
+2	oui	_	_	_	_	_	_	_	id=s10.u26.w1
+
+# sent_id = 025_C-3_208
+# text = fallait pas l' ouvrir comme ça
+1	fallait	_	_	_	_	_	_	_	id=s10.u27.w0
+2	pas	_	_	_	_	_	_	_	id=s10.u27.w1
+3	l'	_	_	_	_	_	_	_	id=s10.u27.w2
+4	ouvrir	_	_	_	_	_	_	_	id=s10.u27.w3
+5	comme	_	_	_	_	_	_	_	id=s10.u27.w4
+6	ça	_	_	_	_	_	_	_	id=s10.u27.w5
+
+# sent_id = 025_C-3_209
+# text = hum
+1	hum	_	_	_	_	_	_	_	id=s10.u28.w0
+
+# sent_id = 025_C-3_210
+# text = ouvrir rire
+1	ouvrir	_	_	_	_	_	_	_	id=s10.u29.w0
+
+# sent_id = 025_C-3_211
+# text = rire
+
+# sent_id = 025_C-3_212
+# text = ouvrir
+1	ouvrir	_	_	_	_	_	_	_	id=s10.u31.w0
+
+# sent_id = 025_C-3_213
+# text = et pour euh les choses que vous disiez ils vous vous reprenez ou quoi
+1	et	_	_	_	_	_	_	_	id=s10.u32.w0
+2	pour	_	_	_	_	_	_	_	id=s10.u32.w1
+3	euh	_	_	_	_	_	_	_	id=s10.u32.w2
+4	les	_	_	_	_	_	_	_	id=s10.u32.w3
+5	choses	_	_	_	_	_	_	_	id=s10.u32.w4
+6	que	_	_	_	_	_	_	_	id=s10.u32.w5
+7	vous	_	_	_	_	_	_	_	id=s10.u32.w6
+8	disiez	_	_	_	_	_	_	_	id=s10.u32.w7
+9	ils	_	_	_	_	_	_	_	id=s10.u32.w8
+10	vous	_	_	_	_	_	_	_	id=s10.u32.w9
+11	vous	_	_	_	_	_	_	_	id=s10.u32.w10
+12	reprenez	_	_	_	_	_	_	_	id=s10.u32.w11
+13	ou	_	_	_	_	_	_	_	id=s10.u32.w12
+14	quoi	_	_	_	_	_	_	_	id=s10.u32.w13
+
+# sent_id = 025_C-3_214
+# text = du français ça rire
+1	du	_	_	_	_	_	_	_	id=s10.u33.w0
+2	français	_	_	_	_	_	_	_	id=s10.u33.w1
+3	ça	_	_	_	_	_	_	_	id=s10.u33.w2
+
+# sent_id = 025_C-3_215
+# text = mais fallait fallait rien dire que si on nous interrogeait
+1	mais	_	_	_	_	_	_	_	id=s10.u34.w0
+2	fallait	_	_	_	_	_	_	_	id=s10.u34.w1
+3	fallait	_	_	_	_	_	_	_	id=s10.u34.w2
+4	rien	_	_	_	_	_	_	_	id=s10.u34.w3
+5	dire	_	_	_	_	_	_	_	id=s10.u34.w4
+6	que	_	_	_	_	_	_	_	id=s10.u34.w5
+7	si	_	_	_	_	_	_	_	id=s10.u34.w6
+8	on	_	_	_	_	_	_	_	id=s10.u34.w7
+9	nous	_	_	_	_	_	_	_	id=s10.u34.w8
+10	interrogeait	_	_	_	_	_	_	_	id=s10.u34.w9
+
+# sent_id = 025_C-3_216
+# text = oui et alors dans votre façon de répondre il y avait des choses qu' il ne fallait pas dire ?
+1	oui	_	_	_	_	_	_	_	id=s10.u35.w0
+2	et	_	_	_	_	_	_	_	id=s10.u35.w1
+3	alors	_	_	_	_	_	_	_	id=s10.u35.w2
+4	dans	_	_	_	_	_	_	_	id=s10.u35.w3
+5	votre	_	_	_	_	_	_	_	id=s10.u35.w4
+6	façon	_	_	_	_	_	_	_	id=s10.u35.w5
+7	de	_	_	_	_	_	_	_	id=s10.u35.w6
+8	répondre	_	_	_	_	_	_	_	id=s10.u35.w7
+9	il	_	_	_	_	_	_	_	id=s10.u35.w8
+10	y	_	_	_	_	_	_	_	id=s10.u35.w9
+11	avait	_	_	_	_	_	_	_	id=s10.u35.w10
+12	des	_	_	_	_	_	_	_	id=s10.u35.w11
+13	choses	_	_	_	_	_	_	_	id=s10.u35.w12
+14	qu'	_	_	_	_	_	_	_	id=s10.u35.w13
+15	il	_	_	_	_	_	_	_	id=s10.u35.w14
+16	ne	_	_	_	_	_	_	_	id=s10.u35.w15
+17	fallait	_	_	_	_	_	_	_	id=s10.u35.w16
+18	pas	_	_	_	_	_	_	_	id=s10.u35.w17
+19	dire	_	_	_	_	_	_	_	id=s10.u35.w18
+
+# sent_id = 025_C-3_217
+# text = ah bah fallait d' abord être très très correct
+1	ah	_	_	_	_	_	_	_	id=s10.u36.w0
+2	bah	_	_	_	_	_	_	_	id=s10.u36.w1
+3	fallait	_	_	_	_	_	_	_	id=s10.u36.w2
+4	d'	_	_	_	_	_	_	_	id=s10.u36.w3
+5	abord	_	_	_	_	_	_	_	id=s10.u36.w4
+6	être	_	_	_	_	_	_	_	id=s10.u36.w5
+7	très	_	_	_	_	_	_	_	id=s10.u36.w6
+8	très	_	_	_	_	_	_	_	id=s10.u36.w7
+9	correct	_	_	_	_	_	_	_	id=s10.u36.w8
+
+# sent_id = 025_C-3_218
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s10.u37.w0
+
+# sent_id = 025_C-3_219
+# text = ah oui ils étaient sévères ils étaient très sévères ses parents
+1	ah	_	_	_	_	_	_	_	id=s10.u38.w0
+2	oui	_	_	_	_	_	_	_	id=s10.u38.w1
+3	ils	_	_	_	_	_	_	_	id=s10.u38.w2
+4	étaient	_	_	_	_	_	_	_	id=s10.u38.w3
+5	sévères	_	_	_	_	_	_	_	id=s10.u38.w4
+6	ils	_	_	_	_	_	_	_	id=s10.u38.w5
+7	étaient	_	_	_	_	_	_	_	id=s10.u38.w6
+8	très	_	_	_	_	_	_	_	id=s10.u38.w7
+9	sévères	_	_	_	_	_	_	_	id=s10.u38.w8
+10	ses	_	_	_	_	_	_	_	id=s10.u38.w9
+11	parents	_	_	_	_	_	_	_	id=s10.u38.w10
+
+# sent_id = 025_C-3_220
+# text = il s' agissait pas de de dire n' importe quoi
+1	il	_	_	_	_	_	_	_	id=s10.u39.w0
+2	s'	_	_	_	_	_	_	_	id=s10.u39.w1
+3	agissait	_	_	_	_	_	_	_	id=s10.u39.w2
+4	pas	_	_	_	_	_	_	_	id=s10.u39.w3
+5	de	_	_	_	_	_	_	_	id=s10.u39.w4
+6	de	_	_	_	_	_	_	_	id=s10.u39.w5
+7	dire	_	_	_	_	_	_	_	id=s10.u39.w6
+8	n'	_	_	_	_	_	_	_	id=s10.u39.w7
+9	importe	_	_	_	_	_	_	_	id=s10.u39.w8
+10	quoi	_	_	_	_	_	_	_	id=s10.u39.w9
+
+# sent_id = 025_C-3_221
+# text = hum oui
+1	hum	_	_	_	_	_	_	_	id=s10.u40.w0
+2	oui	_	_	_	_	_	_	_	id=s10.u40.w1
+
+# sent_id = 025_C-3_222
+# text = c' était pas le le régime actuel hein
+1	c'	_	_	_	_	_	_	_	id=s10.u41.w0
+2	était	_	_	_	_	_	_	_	id=s10.u41.w1
+3	pas	_	_	_	_	_	_	_	id=s10.u41.w2
+4	le	_	_	_	_	_	_	_	id=s10.u41.w3
+5	le	_	_	_	_	_	_	_	id=s10.u41.w4
+6	régime	_	_	_	_	_	_	_	id=s10.u41.w5
+7	actuel	_	_	_	_	_	_	_	id=s10.u41.w6
+8	hein	_	_	_	_	_	_	_	id=s10.u41.w7
+
+# sent_id = 025_C-3_223
+# text = hum et ils prenaient des sanctions quelquefois ?
+1	hum	_	_	_	_	_	_	_	id=s10.u42.w0
+2	et	_	_	_	_	_	_	_	id=s10.u42.w1
+3	ils	_	_	_	_	_	_	_	id=s10.u42.w2
+4	prenaient	_	_	_	_	_	_	_	id=s10.u42.w3
+5	des	_	_	_	_	_	_	_	id=s10.u42.w4
+6	sanctions	_	_	_	_	_	_	_	id=s10.u42.w5
+7	quelquefois	_	_	_	_	_	_	_	id=s10.u42.w6
+
+# sent_id = 025_C-3_224
+# text = bah oh non y avait pas besoin d' en prendre parce que rien que rien que le regard c' était fini hein
+1	bah	_	_	_	_	_	_	_	id=s10.u43.w0
+2	oh	_	_	_	_	_	_	_	id=s10.u43.w1
+3	non	_	_	_	_	_	_	_	id=s10.u43.w2
+4	y	_	_	_	_	_	_	_	id=s10.u43.w3
+5	avait	_	_	_	_	_	_	_	id=s10.u43.w4
+6	pas	_	_	_	_	_	_	_	id=s10.u43.w5
+7	besoin	_	_	_	_	_	_	_	id=s10.u43.w6
+8	d'	_	_	_	_	_	_	_	id=s10.u43.w7
+9	en	_	_	_	_	_	_	_	id=s10.u43.w8
+10	prendre	_	_	_	_	_	_	_	id=s10.u43.w9
+11	parce	_	_	_	_	_	_	_	id=s10.u43.w10
+12	que	_	_	_	_	_	_	_	id=s10.u43.w11
+13	rien	_	_	_	_	_	_	_	id=s10.u43.w12
+14	que	_	_	_	_	_	_	_	id=s10.u43.w13
+15	rien	_	_	_	_	_	_	_	id=s10.u43.w14
+16	que	_	_	_	_	_	_	_	id=s10.u43.w15
+17	le	_	_	_	_	_	_	_	id=s10.u43.w16
+18	regard	_	_	_	_	_	_	_	id=s10.u43.w17
+19	c'	_	_	_	_	_	_	_	id=s10.u43.w18
+20	était	_	_	_	_	_	_	_	id=s10.u43.w19
+21	fini	_	_	_	_	_	_	_	id=s10.u43.w20
+22	hein	_	_	_	_	_	_	_	id=s10.u43.w21
+
+# sent_id = 025_C-3_225
+# text = 
+
+# sent_id = 025_C-3_226
+# text = rire
+
+# sent_id = 025_C-3_227
+# text = quand ils nous avaient regardé euh
+1	quand	_	_	_	_	_	_	_	id=s10.u46.w0
+2	ils	_	_	_	_	_	_	_	id=s10.u46.w1
+3	nous	_	_	_	_	_	_	_	id=s10.u46.w2
+4	avaient	_	_	_	_	_	_	_	id=s10.u46.w3
+5	regardé	_	_	_	_	_	_	_	id=s10.u46.w4
+6	euh	_	_	_	_	_	_	_	id=s10.u46.w5
+
+# sent_id = 025_C-3_228
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s10.u47.w0
+
+# sent_id = 025_C-3_229
+# text = y avait plus rien à dire on avait compris
+1	y	_	_	_	_	_	_	_	id=s10.u48.w0
+2	avait	_	_	_	_	_	_	_	id=s10.u48.w1
+3	plus	_	_	_	_	_	_	_	id=s10.u48.w2
+4	rien	_	_	_	_	_	_	_	id=s10.u48.w3
+5	à	_	_	_	_	_	_	_	id=s10.u48.w4
+6	dire	_	_	_	_	_	_	_	id=s10.u48.w5
+7	on	_	_	_	_	_	_	_	id=s10.u48.w6
+8	avait	_	_	_	_	_	_	_	id=s10.u48.w7
+9	compris	_	_	_	_	_	_	_	id=s10.u48.w8
+
+# sent_id = 025_C-3_230
+# text = oui euh
+1	oui	_	_	_	_	_	_	_	id=s10.u49.w0
+2	euh	_	_	_	_	_	_	_	id=s10.u49.w1
+
+# sent_id = 025_C-3_231
+# text = y a -t -il chez vous un dictionnaire ?
+1	y	_	_	_	_	_	_	_	id=s11.u0.w0
+2	a	_	_	_	_	_	_	_	id=s11.u0.w1
+3	-t	_	_	_	_	_	_	_	id=s11.u0.w2
+4	-il	_	_	_	_	_	_	_	id=s11.u0.w3
+5	chez	_	_	_	_	_	_	_	id=s11.u0.w4
+6	vous	_	_	_	_	_	_	_	id=s11.u0.w5
+7	un	_	_	_	_	_	_	_	id=s11.u0.w6
+8	dictionnaire	_	_	_	_	_	_	_	id=s11.u0.w7
+
+# sent_id = 025_C-3_232
+# text = oh
+1	oh	_	_	_	_	_	_	_	id=s11.u1.w0
+
+# sent_id = 025_C-3_233
+# text = en a si vous saviez tout ce qu' il y a comme dictionnaires y en a plein
+1	en	_	_	_	_	_	_	_	id=s11.u2.w0
+2	a	_	_	_	_	_	_	_	id=s11.u2.w1
+3	si	_	_	_	_	_	_	_	id=s11.u2.w2
+4	vous	_	_	_	_	_	_	_	id=s11.u2.w3
+5	saviez	_	_	_	_	_	_	_	id=s11.u2.w4
+6	tout	_	_	_	_	_	_	_	id=s11.u2.w5
+7	ce	_	_	_	_	_	_	_	id=s11.u2.w6
+8	qu'	_	_	_	_	_	_	_	id=s11.u2.w7
+9	il	_	_	_	_	_	_	_	id=s11.u2.w8
+10	y	_	_	_	_	_	_	_	id=s11.u2.w9
+11	a	_	_	_	_	_	_	_	id=s11.u2.w10
+12	comme	_	_	_	_	_	_	_	id=s11.u2.w11
+13	dictionnaires	_	_	_	_	_	_	_	id=s11.u2.w12
+14	y	_	_	_	_	_	_	_	id=s11.u2.w13
+15	en	_	_	_	_	_	_	_	id=s11.u2.w14
+16	a	_	_	_	_	_	_	_	id=s11.u2.w15
+17	plein	_	_	_	_	_	_	_	id=s11.u2.w16
+
+# sent_id = 025_C-3_234
+# text = dictionnaires y en a
+1	dictionnaires	_	_	_	_	_	_	_	id=s11.u3.w0
+2	y	_	_	_	_	_	_	_	id=s11.u3.w1
+3	en	_	_	_	_	_	_	_	id=s11.u3.w2
+4	a	_	_	_	_	_	_	_	id=s11.u3.w3
+
+# sent_id = 025_C-3_235
+# text = un deux trois quatre y en a cinq ou six hein
+1	un	_	_	_	_	_	_	_	id=s11.u4.w0
+2	deux	_	_	_	_	_	_	_	id=s11.u4.w1
+3	trois	_	_	_	_	_	_	_	id=s11.u4.w2
+4	quatre	_	_	_	_	_	_	_	id=s11.u4.w3
+5	y	_	_	_	_	_	_	_	id=s11.u4.w4
+6	en	_	_	_	_	_	_	_	id=s11.u4.w5
+7	a	_	_	_	_	_	_	_	id=s11.u4.w6
+8	cinq	_	_	_	_	_	_	_	id=s11.u4.w7
+9	ou	_	_	_	_	_	_	_	id=s11.u4.w8
+10	six	_	_	_	_	_	_	_	id=s11.u4.w9
+11	hein	_	_	_	_	_	_	_	id=s11.u4.w10
+
+# sent_id = 025_C-3_236
+# text = oh c' est bien
+1	oh	_	_	_	_	_	_	_	id=s11.u5.w0
+2	c'	_	_	_	_	_	_	_	id=s11.u5.w1
+3	est	_	_	_	_	_	_	_	id=s11.u5.w2
+4	bien	_	_	_	_	_	_	_	id=s11.u5.w3
+
+# sent_id = 025_C-3_237
+# text = en a un peu plus que ça
+1	en	_	_	_	_	_	_	_	id=s11.u6.w0
+2	a	_	_	_	_	_	_	_	id=s11.u6.w1
+3	un	_	_	_	_	_	_	_	id=s11.u6.w2
+4	peu	_	_	_	_	_	_	_	id=s11.u6.w3
+5	plus	_	_	_	_	_	_	_	id=s11.u6.w4
+6	que	_	_	_	_	_	_	_	id=s11.u6.w5
+7	ça	_	_	_	_	_	_	_	id=s11.u6.w6
+
+# sent_id = 025_C-3_238
+# text = non
+1	non	_	_	_	_	_	_	_	id=s11.u7.w0
+
+# sent_id = 025_C-3_239
+# text = toutes les dictionnaires qui y aient alors
+1	toutes	_	_	_	_	_	_	_	id=s11.u8.w0
+2	les	_	_	_	_	_	_	_	id=s11.u8.w1
+3	dictionnaires	_	_	_	_	_	_	_	id=s11.u8.w2
+4	qui	_	_	_	_	_	_	_	id=s11.u8.w3
+5	y	_	_	_	_	_	_	_	id=s11.u8.w4
+6	aient	_	_	_	_	_	_	_	id=s11.u8.w5
+7	alors	_	_	_	_	_	_	_	id=s11.u8.w6
+
+# sent_id = 025_C-3_240
+# text = ça y faisait qu' un dictionnaire
+1	ça	_	_	_	_	_	_	_	id=s11.u9.w0
+2	y	_	_	_	_	_	_	_	id=s11.u9.w1
+3	faisait	_	_	_	_	_	_	_	id=s11.u9.w2
+4	qu'	_	_	_	_	_	_	_	id=s11.u9.w3
+5	un	_	_	_	_	_	_	_	id=s11.u9.w4
+6	dictionnaire	_	_	_	_	_	_	_	id=s11.u9.w5
+
+# sent_id = 025_C-3_241
+# text = ah oui ça c' est une
+1	ah	_	_	_	_	_	_	_	id=s11.u10.w0
+2	oui	_	_	_	_	_	_	_	id=s11.u10.w1
+3	ça	_	_	_	_	_	_	_	id=s11.u10.w2
+4	c'	_	_	_	_	_	_	_	id=s11.u10.w3
+5	est	_	_	_	_	_	_	_	id=s11.u10.w4
+6	une	_	_	_	_	_	_	_	id=s11.u10.w5
+
+# sent_id = 025_C-3_242
+# text = vous pourriez me dire les les noms ?
+1	vous	_	_	_	_	_	_	_	id=s11.u11.w0
+2	pourriez	_	_	_	_	_	_	_	id=s11.u11.w1
+3	me	_	_	_	_	_	_	_	id=s11.u11.w2
+4	dire	_	_	_	_	_	_	_	id=s11.u11.w3
+5	les	_	_	_	_	_	_	_	id=s11.u11.w4
+6	les	_	_	_	_	_	_	_	id=s11.u11.w5
+7	noms	_	_	_	_	_	_	_	id=s11.u11.w6
+
+# sent_id = 025_C-3_243
+# text = oh j' ai une encyclopédie Quillet j' ai le l' encyclopédie Flammarion une encyclopédie je sais pas moi mic alors la qui s' appelle je sais pas comment euh le Larousse c' est le Larousse
+1	oh	_	_	_	_	_	_	_	id=s11.u12.w0
+2	j'	_	_	_	_	_	_	_	id=s11.u12.w1
+3	ai	_	_	_	_	_	_	_	id=s11.u12.w2
+4	une	_	_	_	_	_	_	_	id=s11.u12.w3
+5	encyclopédie	_	_	_	_	_	_	_	id=s11.u12.w4
+6	Quillet	_	_	_	_	_	_	_	id=s11.u12.w5
+7	j'	_	_	_	_	_	_	_	id=s11.u12.w6
+8	ai	_	_	_	_	_	_	_	id=s11.u12.w7
+9	le	_	_	_	_	_	_	_	id=s11.u12.w8
+10	l'	_	_	_	_	_	_	_	id=s11.u12.w9
+11	encyclopédie	_	_	_	_	_	_	_	id=s11.u12.w10
+12	Flammarion	_	_	_	_	_	_	_	id=s11.u12.w11
+13	une	_	_	_	_	_	_	_	id=s11.u12.w12
+14	encyclopédie	_	_	_	_	_	_	_	id=s11.u12.w13
+15	je	_	_	_	_	_	_	_	id=s11.u12.w14
+16	sais	_	_	_	_	_	_	_	id=s11.u12.w15
+17	pas	_	_	_	_	_	_	_	id=s11.u12.w16
+18	moi	_	_	_	_	_	_	_	id=s11.u12.w17
+19	alors	_	_	_	_	_	_	_	id=s11.u12.w18
+20	la	_	_	_	_	_	_	_	id=s11.u12.w19
+21	qui	_	_	_	_	_	_	_	id=s11.u12.w20
+22	s'	_	_	_	_	_	_	_	id=s11.u12.w21
+23	appelle	_	_	_	_	_	_	_	id=s11.u12.w22
+24	je	_	_	_	_	_	_	_	id=s11.u12.w23
+25	sais	_	_	_	_	_	_	_	id=s11.u12.w24
+26	pas	_	_	_	_	_	_	_	id=s11.u12.w25
+27	comment	_	_	_	_	_	_	_	id=s11.u12.w26
+28	euh	_	_	_	_	_	_	_	id=s11.u12.w27
+29	le	_	_	_	_	_	_	_	id=s11.u12.w28
+30	Larousse	_	_	_	_	_	_	_	id=s11.u12.w29
+31	c'	_	_	_	_	_	_	_	id=s11.u12.w30
+32	est	_	_	_	_	_	_	_	id=s11.u12.w31
+33	le	_	_	_	_	_	_	_	id=s11.u12.w32
+34	Larousse	_	_	_	_	_	_	_	id=s11.u12.w33
+
+# sent_id = 025_C-3_244
+# text = tu vas pas aussi vite
+1	tu	_	_	_	_	_	_	_	id=s11.u13.w0
+2	vas	_	_	_	_	_	_	_	id=s11.u13.w1
+3	pas	_	_	_	_	_	_	_	id=s11.u13.w2
+4	aussi	_	_	_	_	_	_	_	id=s11.u13.w3
+5	vite	_	_	_	_	_	_	_	id=s11.u13.w4
+
+# sent_id = 025_C-3_245
+# text = Larousse
+1	Larousse	_	_	_	_	_	_	_	id=s11.u14.w0
+
+# sent_id = 025_C-3_246
+# text = Larousse
+1	Larousse	_	_	_	_	_	_	_	id=s11.u15.w0
+
+# sent_id = 025_C-3_247
+# text = c' est l' encyclopédie ou le ?
+1	c'	_	_	_	_	_	_	_	id=s11.u16.w0
+2	est	_	_	_	_	_	_	_	id=s11.u16.w1
+3	l'	_	_	_	_	_	_	_	id=s11.u16.w2
+4	encyclopédie	_	_	_	_	_	_	_	id=s11.u16.w3
+5	ou	_	_	_	_	_	_	_	id=s11.u16.w4
+6	le	_	_	_	_	_	_	_	id=s11.u16.w5
+
+# sent_id = 025_C-3_248
+# text = le non c' est le Larousse sélection
+1	le	_	_	_	_	_	_	_	id=s11.u17.w0
+2	non	_	_	_	_	_	_	_	id=s11.u17.w1
+3	c'	_	_	_	_	_	_	_	id=s11.u17.w2
+4	est	_	_	_	_	_	_	_	id=s11.u17.w3
+5	le	_	_	_	_	_	_	_	id=s11.u17.w4
+6	Larousse	_	_	_	_	_	_	_	id=s11.u17.w5
+7	sélection	_	_	_	_	_	_	_	id=s11.u17.w6
+
+# sent_id = 025_C-3_249
+# text = ah oui
+1	ah	_	_	_	_	_	_	_	id=s11.u18.w0
+2	oui	_	_	_	_	_	_	_	id=s11.u18.w1
+
+# sent_id = 025_C-3_250
+# text = qui vient de sortir y a pas longtemps
+1	qui	_	_	_	_	_	_	_	id=s11.u19.w0
+2	vient	_	_	_	_	_	_	_	id=s11.u19.w1
+3	de	_	_	_	_	_	_	_	id=s11.u19.w2
+4	sortir	_	_	_	_	_	_	_	id=s11.u19.w3
+5	y	_	_	_	_	_	_	_	id=s11.u19.w4
+6	a	_	_	_	_	_	_	_	id=s11.u19.w5
+7	pas	_	_	_	_	_	_	_	id=s11.u19.w6
+8	longtemps	_	_	_	_	_	_	_	id=s11.u19.w7
+
+# sent_id = 025_C-3_251
+# text = ah oui
+1	ah	_	_	_	_	_	_	_	id=s11.u20.w0
+2	oui	_	_	_	_	_	_	_	id=s11.u20.w1
+
+# sent_id = 025_C-3_252
+# text = Larousse je sais plus moi l' encyclopédie Tempo
+1	Larousse	_	_	_	_	_	_	_	id=s11.u21.w0
+2	je	_	_	_	_	_	_	_	id=s11.u21.w1
+3	sais	_	_	_	_	_	_	_	id=s11.u21.w2
+4	plus	_	_	_	_	_	_	_	id=s11.u21.w3
+5	moi	_	_	_	_	_	_	_	id=s11.u21.w4
+6	l'	_	_	_	_	_	_	_	id=s11.u21.w5
+7	encyclopédie	_	_	_	_	_	_	_	id=s11.u21.w6
+8	Tempo	_	_	_	_	_	_	_	id=s11.u21.w7
+
+# sent_id = 025_C-3_253
+# text = euh vous pourriez me dire le nombre de volume l' encyclopédie Gui- euh
+1	euh	_	_	_	_	_	_	_	id=s11.u22.w0
+2	vous	_	_	_	_	_	_	_	id=s11.u22.w1
+3	pourriez	_	_	_	_	_	_	_	id=s11.u22.w2
+4	me	_	_	_	_	_	_	_	id=s11.u22.w3
+5	dire	_	_	_	_	_	_	_	id=s11.u22.w4
+6	le	_	_	_	_	_	_	_	id=s11.u22.w5
+7	nombre	_	_	_	_	_	_	_	id=s11.u22.w6
+8	de	_	_	_	_	_	_	_	id=s11.u22.w7
+9	volume	_	_	_	_	_	_	_	id=s11.u22.w8
+10	l'	_	_	_	_	_	_	_	id=s11.u22.w9
+11	encyclopédie	_	_	_	_	_	_	_	id=s11.u22.w10
+12	Gui-	_	_	_	_	_	_	_	id=s11.u22.w11
+13	euh	_	_	_	_	_	_	_	id=s11.u22.w12
+
+# sent_id = 025_C-3_254
+# text = Tempo
+1	Tempo	_	_	_	_	_	_	_	id=s11.u23.w0
+
+# sent_id = 025_C-3_255
+# text = Quillet y a six volumes
+1	Quillet	_	_	_	_	_	_	_	id=s11.u24.w0
+2	y	_	_	_	_	_	_	_	id=s11.u24.w1
+3	a	_	_	_	_	_	_	_	id=s11.u24.w2
+4	six	_	_	_	_	_	_	_	id=s11.u24.w3
+5	volumes	_	_	_	_	_	_	_	id=s11.u24.w4
+
+# sent_id = 025_C-3_256
+# text = Quillet
+1	Quillet	_	_	_	_	_	_	_	id=s11.u25.w0
+
+# sent_id = 025_C-3_257
+# text = six volumes et Flammarion ?
+1	six	_	_	_	_	_	_	_	id=s11.u26.w0
+2	volumes	_	_	_	_	_	_	_	id=s11.u26.w1
+3	et	_	_	_	_	_	_	_	id=s11.u26.w2
+4	Flammarion	_	_	_	_	_	_	_	id=s11.u26.w3
+
+# sent_id = 025_C-3_258
+# text = euh Flammarion y a qu' un volume le dictio- c' est le dictionnaire Flammarion
+1	euh	_	_	_	_	_	_	_	id=s11.u27.w0
+2	Flammarion	_	_	_	_	_	_	_	id=s11.u27.w1
+3	y	_	_	_	_	_	_	_	id=s11.u27.w2
+4	a	_	_	_	_	_	_	_	id=s11.u27.w3
+5	qu'	_	_	_	_	_	_	_	id=s11.u27.w4
+6	un	_	_	_	_	_	_	_	id=s11.u27.w5
+7	volume	_	_	_	_	_	_	_	id=s11.u27.w6
+8	le	_	_	_	_	_	_	_	id=s11.u27.w7
+9	dictio-	_	_	_	_	_	_	_	id=s11.u27.w8
+10	c'	_	_	_	_	_	_	_	id=s11.u27.w9
+11	est	_	_	_	_	_	_	_	id=s11.u27.w10
+12	le	_	_	_	_	_	_	_	id=s11.u27.w11
+13	dictionnaire	_	_	_	_	_	_	_	id=s11.u27.w12
+14	Flammarion	_	_	_	_	_	_	_	id=s11.u27.w13
+
+# sent_id = 025_C-3_259
+# text = et euh
+1	et	_	_	_	_	_	_	_	id=s11.u28.w0
+2	euh	_	_	_	_	_	_	_	id=s11.u28.w1
+
+# sent_id = 025_C-3_260
+# text = et puis alors le c- Larousse sélection c' est en trois volumes Tempo en huit
+1	et	_	_	_	_	_	_	_	id=s11.u29.w0
+2	puis	_	_	_	_	_	_	_	id=s11.u29.w1
+3	alors	_	_	_	_	_	_	_	id=s11.u29.w2
+4	le	_	_	_	_	_	_	_	id=s11.u29.w3
+5	c-	_	_	_	_	_	_	_	id=s11.u29.w4
+6	Larousse	_	_	_	_	_	_	_	id=s11.u29.w5
+7	sélection	_	_	_	_	_	_	_	id=s11.u29.w6
+8	c'	_	_	_	_	_	_	_	id=s11.u29.w7
+9	est	_	_	_	_	_	_	_	id=s11.u29.w8
+10	en	_	_	_	_	_	_	_	id=s11.u29.w9
+11	trois	_	_	_	_	_	_	_	id=s11.u29.w10
+12	volumes	_	_	_	_	_	_	_	id=s11.u29.w11
+13	Tempo	_	_	_	_	_	_	_	id=s11.u29.w12
+14	en	_	_	_	_	_	_	_	id=s11.u29.w13
+15	huit	_	_	_	_	_	_	_	id=s11.u29.w14
+
+# sent_id = 025_C-3_261
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s11.u30.w0
+
+# sent_id = 025_C-3_262
+# text = bah puis y a quoi donc y a un Larousse hum hum Larousse un volume
+1	bah	_	_	_	_	_	_	_	id=s11.u31.w0
+2	puis	_	_	_	_	_	_	_	id=s11.u31.w1
+3	y	_	_	_	_	_	_	_	id=s11.u31.w2
+4	a	_	_	_	_	_	_	_	id=s11.u31.w3
+5	quoi	_	_	_	_	_	_	_	id=s11.u31.w4
+6	donc	_	_	_	_	_	_	_	id=s11.u31.w5
+7	y	_	_	_	_	_	_	_	id=s11.u31.w6
+8	a	_	_	_	_	_	_	_	id=s11.u31.w7
+9	un	_	_	_	_	_	_	_	id=s11.u31.w8
+10	Larousse	_	_	_	_	_	_	_	id=s11.u31.w9
+11	hum	_	_	_	_	_	_	_	id=s11.u31.w10
+12	hum	_	_	_	_	_	_	_	id=s11.u31.w11
+13	Larousse	_	_	_	_	_	_	_	id=s11.u31.w12
+14	un	_	_	_	_	_	_	_	id=s11.u31.w13
+15	volume	_	_	_	_	_	_	_	id=s11.u31.w14
+
+# sent_id = 025_C-3_263
+# text = le petit Larousse ?
+1	le	_	_	_	_	_	_	_	id=s11.u32.w0
+2	petit	_	_	_	_	_	_	_	id=s11.u32.w1
+3	Larousse	_	_	_	_	_	_	_	id=s11.u32.w2
+
+# sent_id = 025_C-3_264
+# text = 
+
+# sent_id = 025_C-3_265
+# text = j' ai un Littré oui petit Larousse j' ai un Littré aussi oui un volume
+1	j'	_	_	_	_	_	_	_	id=s11.u34.w0
+2	ai	_	_	_	_	_	_	_	id=s11.u34.w1
+3	un	_	_	_	_	_	_	_	id=s11.u34.w2
+4	Littré	_	_	_	_	_	_	_	id=s11.u34.w3
+5	oui	_	_	_	_	_	_	_	id=s11.u34.w4
+6	petit	_	_	_	_	_	_	_	id=s11.u34.w5
+7	Larousse	_	_	_	_	_	_	_	id=s11.u34.w6
+8	j'	_	_	_	_	_	_	_	id=s11.u34.w7
+9	ai	_	_	_	_	_	_	_	id=s11.u34.w8
+10	un	_	_	_	_	_	_	_	id=s11.u34.w9
+11	Littré	_	_	_	_	_	_	_	id=s11.u34.w10
+12	aussi	_	_	_	_	_	_	_	id=s11.u34.w11
+13	oui	_	_	_	_	_	_	_	id=s11.u34.w12
+14	un	_	_	_	_	_	_	_	id=s11.u34.w13
+15	volume	_	_	_	_	_	_	_	id=s11.u34.w14
+
+# sent_id = 025_C-3_266
+# text = Littré aussi
+1	Littré	_	_	_	_	_	_	_	id=s11.u35.w0
+2	aussi	_	_	_	_	_	_	_	id=s11.u35.w1
+
+# sent_id = 025_C-3_267
+# text = 
+
+# sent_id = 025_C-3_268
+# text = 
+
+# sent_id = 025_C-3_269
+# text = 
+
+# sent_id = 025_C-3_270
+# text = vous en aviez
+1	vous	_	_	_	_	_	_	_	id=s11.u39.w0
+2	en	_	_	_	_	_	_	_	id=s11.u39.w1
+3	aviez	_	_	_	_	_	_	_	id=s11.u39.w2
+
+# sent_id = 025_C-3_271
+# text = Littré hum oui et ils sont tous là dans le salon séjour ? oui hum et vous les avez depuis quand ?
+1	Littré	_	_	_	_	_	_	_	id=s11.u40.w0
+2	hum	_	_	_	_	_	_	_	id=s11.u40.w1
+3	oui	_	_	_	_	_	_	_	id=s11.u40.w2
+4	et	_	_	_	_	_	_	_	id=s11.u40.w3
+5	ils	_	_	_	_	_	_	_	id=s11.u40.w4
+6	sont	_	_	_	_	_	_	_	id=s11.u40.w5
+7	tous	_	_	_	_	_	_	_	id=s11.u40.w6
+8	là	_	_	_	_	_	_	_	id=s11.u40.w7
+9	dans	_	_	_	_	_	_	_	id=s11.u40.w8
+10	le	_	_	_	_	_	_	_	id=s11.u40.w9
+11	salon	_	_	_	_	_	_	_	id=s11.u40.w10
+12	séjour	_	_	_	_	_	_	_	id=s11.u40.w11
+13	oui	_	_	_	_	_	_	_	id=s11.u40.w13
+14	hum	_	_	_	_	_	_	_	id=s11.u40.w14
+15	et	_	_	_	_	_	_	_	id=s11.u40.w15
+16	vous	_	_	_	_	_	_	_	id=s11.u40.w16
+17	les	_	_	_	_	_	_	_	id=s11.u40.w17
+18	avez	_	_	_	_	_	_	_	id=s11.u40.w18
+19	depuis	_	_	_	_	_	_	_	id=s11.u40.w19
+20	quand	_	_	_	_	_	_	_	id=s11.u40.w20
+
+# sent_id = 025_C-3_272
+# text = 
+
+# sent_id = 025_C-3_273
+# text = depuis
+1	depuis	_	_	_	_	_	_	_	id=s11.u42.w0
+
+# sent_id = 025_C-3_274
+# text = depuis depuis longtemps ?
+1	depuis	_	_	_	_	_	_	_	id=s11.u43.w0
+2	depuis	_	_	_	_	_	_	_	id=s11.u43.w1
+3	longtemps	_	_	_	_	_	_	_	id=s11.u43.w2
+
+# sent_id = 025_C-3_275
+# text = ah bien j' ai commencé en dix-neuf cent en dix-neuf cent trente-huit
+1	ah	_	_	_	_	_	_	_	id=s11.u44.w0
+2	bien	_	_	_	_	_	_	_	id=s11.u44.w1
+3	j'	_	_	_	_	_	_	_	id=s11.u44.w2
+4	ai	_	_	_	_	_	_	_	id=s11.u44.w3
+5	commencé	_	_	_	_	_	_	_	id=s11.u44.w4
+6	en	_	_	_	_	_	_	_	id=s11.u44.w5
+7	dix-neuf	_	_	_	_	_	_	_	id=s11.u44.w6
+8	cent	_	_	_	_	_	_	_	id=s11.u44.w7
+9	en	_	_	_	_	_	_	_	id=s11.u44.w8
+10	dix-neuf	_	_	_	_	_	_	_	id=s11.u44.w9
+11	cent	_	_	_	_	_	_	_	id=s11.u44.w10
+12	trente-huit	_	_	_	_	_	_	_	id=s11.u44.w11
+
+# sent_id = 025_C-3_276
+# text = ah oui
+1	ah	_	_	_	_	_	_	_	id=s11.u45.w0
+2	oui	_	_	_	_	_	_	_	id=s11.u45.w1
+
+# sent_id = 025_C-3_277
+# text = et puis le dernier je l' ai acheté là cette année -là non le dernier c' est le Larousse de oui le Larousse
+1	et	_	_	_	_	_	_	_	id=s11.u46.w0
+2	puis	_	_	_	_	_	_	_	id=s11.u46.w1
+3	le	_	_	_	_	_	_	_	id=s11.u46.w2
+4	dernier	_	_	_	_	_	_	_	id=s11.u46.w3
+5	je	_	_	_	_	_	_	_	id=s11.u46.w4
+6	l'	_	_	_	_	_	_	_	id=s11.u46.w5
+7	ai	_	_	_	_	_	_	_	id=s11.u46.w6
+8	acheté	_	_	_	_	_	_	_	id=s11.u46.w7
+9	là	_	_	_	_	_	_	_	id=s11.u46.w8
+10	cette	_	_	_	_	_	_	_	id=s11.u46.w9
+11	année	_	_	_	_	_	_	_	id=s11.u46.w10
+12	-là	_	_	_	_	_	_	_	id=s11.u46.w11
+13	non	_	_	_	_	_	_	_	id=s11.u46.w12
+14	le	_	_	_	_	_	_	_	id=s11.u46.w13
+15	dernier	_	_	_	_	_	_	_	id=s11.u46.w14
+16	c'	_	_	_	_	_	_	_	id=s11.u46.w15
+17	est	_	_	_	_	_	_	_	id=s11.u46.w16
+18	le	_	_	_	_	_	_	_	id=s11.u46.w17
+19	Larousse	_	_	_	_	_	_	_	id=s11.u46.w18
+20	de	_	_	_	_	_	_	_	id=s11.u46.w19
+21	oui	_	_	_	_	_	_	_	id=s11.u46.w20
+22	le	_	_	_	_	_	_	_	id=s11.u46.w21
+23	Larousse	_	_	_	_	_	_	_	id=s11.u46.w22
+
+# sent_id = 025_C-3_278
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s11.u47.w0
+
+# sent_id = 025_C-3_279
+# text = cette année
+1	cette	_	_	_	_	_	_	_	id=s11.u48.w0
+2	année	_	_	_	_	_	_	_	id=s11.u48.w1
+
+# sent_id = 025_C-3_280
+# text = et pourquoi en mille huit cent trente-huit ? pour une raison quelconque ?
+1	et	_	_	_	_	_	_	_	id=s11.u49.w0
+2	pourquoi	_	_	_	_	_	_	_	id=s11.u49.w1
+3	en	_	_	_	_	_	_	_	id=s11.u49.w2
+4	mille	_	_	_	_	_	_	_	id=s11.u49.w3
+5	huit	_	_	_	_	_	_	_	id=s11.u49.w4
+6	cent	_	_	_	_	_	_	_	id=s11.u49.w5
+7	trente-huit	_	_	_	_	_	_	_	id=s11.u49.w6
+8	pour	_	_	_	_	_	_	_	id=s11.u49.w8
+9	une	_	_	_	_	_	_	_	id=s11.u49.w9
+10	raison	_	_	_	_	_	_	_	id=s11.u49.w10
+11	quelconque	_	_	_	_	_	_	_	id=s11.u49.w11
+
+# sent_id = 025_C-3_281
+# text = parce que j' avais déjà vu en dix-neuf cent tr- j' avais vu le c' est paru il est paru en trente-sept et je l' ai commencé à l' acheter en trente-huit
+1	parce	_	_	_	_	_	_	_	id=s11.u50.w0
+2	que	_	_	_	_	_	_	_	id=s11.u50.w1
+3	j'	_	_	_	_	_	_	_	id=s11.u50.w2
+4	avais	_	_	_	_	_	_	_	id=s11.u50.w3
+5	déjà	_	_	_	_	_	_	_	id=s11.u50.w4
+6	vu	_	_	_	_	_	_	_	id=s11.u50.w5
+7	en	_	_	_	_	_	_	_	id=s11.u50.w6
+8	dix-neuf	_	_	_	_	_	_	_	id=s11.u50.w7
+9	cent	_	_	_	_	_	_	_	id=s11.u50.w8
+10	tr-	_	_	_	_	_	_	_	id=s11.u50.w9
+11	j'	_	_	_	_	_	_	_	id=s11.u50.w10
+12	avais	_	_	_	_	_	_	_	id=s11.u50.w11
+13	vu	_	_	_	_	_	_	_	id=s11.u50.w12
+14	le	_	_	_	_	_	_	_	id=s11.u50.w13
+15	c'	_	_	_	_	_	_	_	id=s11.u50.w14
+16	est	_	_	_	_	_	_	_	id=s11.u50.w15
+17	paru	_	_	_	_	_	_	_	id=s11.u50.w16
+18	il	_	_	_	_	_	_	_	id=s11.u50.w17
+19	est	_	_	_	_	_	_	_	id=s11.u50.w18
+20	paru	_	_	_	_	_	_	_	id=s11.u50.w19
+21	en	_	_	_	_	_	_	_	id=s11.u50.w20
+22	trente-sept	_	_	_	_	_	_	_	id=s11.u50.w21
+23	et	_	_	_	_	_	_	_	id=s11.u50.w22
+24	je	_	_	_	_	_	_	_	id=s11.u50.w23
+25	l'	_	_	_	_	_	_	_	id=s11.u50.w24
+26	ai	_	_	_	_	_	_	_	id=s11.u50.w25
+27	commencé	_	_	_	_	_	_	_	id=s11.u50.w26
+28	à	_	_	_	_	_	_	_	id=s11.u50.w27
+29	l'	_	_	_	_	_	_	_	id=s11.u50.w28
+30	acheter	_	_	_	_	_	_	_	id=s11.u50.w29
+31	en	_	_	_	_	_	_	_	id=s11.u50.w30
+32	trente-huit	_	_	_	_	_	_	_	id=s11.u50.w31
+
+# sent_id = 025_C-3_282
+# text = hum
+1	hum	_	_	_	_	_	_	_	id=s11.u51.w0
+
+# sent_id = 025_C-3_283
+# text = l' autre il y est là
+1	l'	_	_	_	_	_	_	_	id=s11.u52.w0
+2	autre	_	_	_	_	_	_	_	id=s11.u52.w1
+3	il	_	_	_	_	_	_	_	id=s11.u52.w2
+4	y	_	_	_	_	_	_	_	id=s11.u52.w3
+5	est	_	_	_	_	_	_	_	id=s11.u52.w4
+6	là	_	_	_	_	_	_	_	id=s11.u52.w5
+
+# sent_id = 025_C-3_284
+# text = hum
+1	hum	_	_	_	_	_	_	_	id=s11.u53.w0
+
+# sent_id = 025_C-3_285
+# text = alors j' ai l' encyclopédie Quillet aussi l' encyclopédie b- du bâtiment euh l' électricité euh mécanique
+1	alors	_	_	_	_	_	_	_	id=s11.u54.w0
+2	j'	_	_	_	_	_	_	_	id=s11.u54.w1
+3	ai	_	_	_	_	_	_	_	id=s11.u54.w2
+4	l'	_	_	_	_	_	_	_	id=s11.u54.w3
+5	encyclopédie	_	_	_	_	_	_	_	id=s11.u54.w4
+6	Quillet	_	_	_	_	_	_	_	id=s11.u54.w5
+7	aussi	_	_	_	_	_	_	_	id=s11.u54.w6
+8	l'	_	_	_	_	_	_	_	id=s11.u54.w7
+9	encyclopédie	_	_	_	_	_	_	_	id=s11.u54.w8
+10	b-	_	_	_	_	_	_	_	id=s11.u54.w9
+11	du	_	_	_	_	_	_	_	id=s11.u54.w10
+12	bâtiment	_	_	_	_	_	_	_	id=s11.u54.w11
+13	euh	_	_	_	_	_	_	_	id=s11.u54.w12
+14	l'	_	_	_	_	_	_	_	id=s11.u54.w13
+15	électricité	_	_	_	_	_	_	_	id=s11.u54.w14
+16	euh	_	_	_	_	_	_	_	id=s11.u54.w15
+17	mécanique	_	_	_	_	_	_	_	id=s11.u54.w16
+
+# sent_id = 025_C-3_286
+# text = et vous les avez acheté tous ou il y en avait qui étaient c- des cadeaux ?
+1	et	_	_	_	_	_	_	_	id=s11.u55.w0
+2	vous	_	_	_	_	_	_	_	id=s11.u55.w1
+3	les	_	_	_	_	_	_	_	id=s11.u55.w2
+4	avez	_	_	_	_	_	_	_	id=s11.u55.w3
+5	acheté	_	_	_	_	_	_	_	id=s11.u55.w4
+6	tous	_	_	_	_	_	_	_	id=s11.u55.w5
+7	ou	_	_	_	_	_	_	_	id=s11.u55.w6
+8	il	_	_	_	_	_	_	_	id=s11.u55.w7
+9	y	_	_	_	_	_	_	_	id=s11.u55.w8
+10	en	_	_	_	_	_	_	_	id=s11.u55.w9
+11	avait	_	_	_	_	_	_	_	id=s11.u55.w10
+12	qui	_	_	_	_	_	_	_	id=s11.u55.w11
+13	étaient	_	_	_	_	_	_	_	id=s11.u55.w12
+14	c-	_	_	_	_	_	_	_	id=s11.u55.w13
+15	des	_	_	_	_	_	_	_	id=s11.u55.w14
+16	cadeaux	_	_	_	_	_	_	_	id=s11.u55.w15
+
+# sent_id = 025_C-3_287
+# text = ah non non j' ai tout acheté
+1	ah	_	_	_	_	_	_	_	id=s11.u56.w0
+2	non	_	_	_	_	_	_	_	id=s11.u56.w1
+3	non	_	_	_	_	_	_	_	id=s11.u56.w2
+4	j'	_	_	_	_	_	_	_	id=s11.u56.w3
+5	ai	_	_	_	_	_	_	_	id=s11.u56.w4
+6	tout	_	_	_	_	_	_	_	id=s11.u56.w5
+7	acheté	_	_	_	_	_	_	_	id=s11.u56.w6
+
+# sent_id = 025_C-3_288
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s11.u57.w0
+
+# sent_id = 025_C-3_289
+# text = on m' a jamais fait de cadeaux hein
+1	on	_	_	_	_	_	_	_	id=s11.u58.w0
+2	m'	_	_	_	_	_	_	_	id=s11.u58.w1
+3	a	_	_	_	_	_	_	_	id=s11.u58.w2
+4	jamais	_	_	_	_	_	_	_	id=s11.u58.w3
+5	fait	_	_	_	_	_	_	_	id=s11.u58.w4
+6	de	_	_	_	_	_	_	_	id=s11.u58.w5
+7	cadeaux	_	_	_	_	_	_	_	id=s11.u58.w6
+8	hein	_	_	_	_	_	_	_	id=s11.u58.w7
+
+# sent_id = 025_C-3_290
+# text = comment ?
+1	comment	_	_	_	_	_	_	_	id=s11.u59.w0
+
+# sent_id = 025_C-3_291
+# text = on m' a jamais fait de cadeaux
+1	on	_	_	_	_	_	_	_	id=s11.u60.w0
+2	m'	_	_	_	_	_	_	_	id=s11.u60.w1
+3	a	_	_	_	_	_	_	_	id=s11.u60.w2
+4	jamais	_	_	_	_	_	_	_	id=s11.u60.w3
+5	fait	_	_	_	_	_	_	_	id=s11.u60.w4
+6	de	_	_	_	_	_	_	_	id=s11.u60.w5
+7	cadeaux	_	_	_	_	_	_	_	id=s11.u60.w6
+
+# sent_id = 025_C-3_292
+# text = ah bon mais vous les achetez alors euh à un représentant ou un magasin ?
+1	ah	_	_	_	_	_	_	_	id=s11.u61.w0
+2	bon	_	_	_	_	_	_	_	id=s11.u61.w1
+3	mais	_	_	_	_	_	_	_	id=s11.u61.w2
+4	vous	_	_	_	_	_	_	_	id=s11.u61.w3
+5	les	_	_	_	_	_	_	_	id=s11.u61.w4
+6	achetez	_	_	_	_	_	_	_	id=s11.u61.w5
+7	alors	_	_	_	_	_	_	_	id=s11.u61.w6
+8	euh	_	_	_	_	_	_	_	id=s11.u61.w7
+9	à	_	_	_	_	_	_	_	id=s11.u61.w8
+10	un	_	_	_	_	_	_	_	id=s11.u61.w9
+11	représentant	_	_	_	_	_	_	_	id=s11.u61.w10
+12	ou	_	_	_	_	_	_	_	id=s11.u61.w11
+13	un	_	_	_	_	_	_	_	id=s11.u61.w12
+14	magasin	_	_	_	_	_	_	_	id=s11.u61.w13
+
+# sent_id = 025_C-3_293
+# text = 
+
+# sent_id = 025_C-3_294
+# text = non directement à la maison je j' écrivais directement à la maison
+1	non	_	_	_	_	_	_	_	id=s11.u63.w0
+2	directement	_	_	_	_	_	_	_	id=s11.u63.w1
+3	à	_	_	_	_	_	_	_	id=s11.u63.w2
+4	la	_	_	_	_	_	_	_	id=s11.u63.w3
+5	maison	_	_	_	_	_	_	_	id=s11.u63.w4
+6	je	_	_	_	_	_	_	_	id=s11.u63.w5
+7	j'	_	_	_	_	_	_	_	id=s11.u63.w6
+8	écrivais	_	_	_	_	_	_	_	id=s11.u63.w7
+9	directement	_	_	_	_	_	_	_	id=s11.u63.w8
+10	à	_	_	_	_	_	_	_	id=s11.u63.w9
+11	la	_	_	_	_	_	_	_	id=s11.u63.w10
+12	maison	_	_	_	_	_	_	_	id=s11.u63.w11
+
+# sent_id = 025_C-3_295
+# text = ah oui
+1	ah	_	_	_	_	_	_	_	id=s11.u64.w0
+2	oui	_	_	_	_	_	_	_	id=s11.u64.w1
+
+# sent_id = 025_C-3_296
+# text = par correspondance hein
+1	par	_	_	_	_	_	_	_	id=s11.u65.w0
+2	correspondance	_	_	_	_	_	_	_	id=s11.u65.w1
+3	hein	_	_	_	_	_	_	_	id=s11.u65.w2
+
+# sent_id = 025_C-3_297
+# text = oui et qui s' en sert le plus souvent de tous c' est ?
+1	oui	_	_	_	_	_	_	_	id=s11.u66.w0
+2	et	_	_	_	_	_	_	_	id=s11.u66.w1
+3	qui	_	_	_	_	_	_	_	id=s11.u66.w2
+4	s'	_	_	_	_	_	_	_	id=s11.u66.w3
+5	en	_	_	_	_	_	_	_	id=s11.u66.w4
+6	sert	_	_	_	_	_	_	_	id=s11.u66.w5
+7	le	_	_	_	_	_	_	_	id=s11.u66.w6
+8	plus	_	_	_	_	_	_	_	id=s11.u66.w7
+9	souvent	_	_	_	_	_	_	_	id=s11.u66.w8
+10	de	_	_	_	_	_	_	_	id=s11.u66.w9
+11	tous	_	_	_	_	_	_	_	id=s11.u66.w10
+12	c'	_	_	_	_	_	_	_	id=s11.u66.w11
+13	est	_	_	_	_	_	_	_	id=s11.u66.w12
+
+# sent_id = 025_C-3_298
+# text = moi et puis ma fille aussi maintenant
+1	moi	_	_	_	_	_	_	_	id=s11.u67.w0
+2	et	_	_	_	_	_	_	_	id=s11.u67.w1
+3	puis	_	_	_	_	_	_	_	id=s11.u67.w2
+4	ma	_	_	_	_	_	_	_	id=s11.u67.w3
+5	fille	_	_	_	_	_	_	_	id=s11.u67.w4
+6	aussi	_	_	_	_	_	_	_	id=s11.u67.w5
+7	maintenant	_	_	_	_	_	_	_	id=s11.u67.w6
+
+# sent_id = 025_C-3_299
+# text = oui vo- votre aînée c' est
+1	oui	_	_	_	_	_	_	_	id=s11.u68.w0
+2	vo-	_	_	_	_	_	_	_	id=s11.u68.w1
+3	votre	_	_	_	_	_	_	_	id=s11.u68.w2
+4	aînée	_	_	_	_	_	_	_	id=s11.u68.w3
+5	c'	_	_	_	_	_	_	_	id=s11.u68.w4
+6	est	_	_	_	_	_	_	_	id=s11.u68.w5
+
+# sent_id = 025_C-3_300
+# text = ça sert un petit peu
+1	ça	_	_	_	_	_	_	_	id=s11.u69.w0
+2	sert	_	_	_	_	_	_	_	id=s11.u69.w1
+3	un	_	_	_	_	_	_	_	id=s11.u69.w2
+4	petit	_	_	_	_	_	_	_	id=s11.u69.w3
+5	peu	_	_	_	_	_	_	_	id=s11.u69.w4
+
+# sent_id = 025_C-3_301
+# text = oh c' est pas l' aînée c' est la dernière
+1	oh	_	_	_	_	_	_	_	id=s11.u70.w0
+2	c'	_	_	_	_	_	_	_	id=s11.u70.w1
+3	est	_	_	_	_	_	_	_	id=s11.u70.w2
+4	pas	_	_	_	_	_	_	_	id=s11.u70.w3
+5	l'	_	_	_	_	_	_	_	id=s11.u70.w4
+6	aînée	_	_	_	_	_	_	_	id=s11.u70.w5
+7	c'	_	_	_	_	_	_	_	id=s11.u70.w6
+8	est	_	_	_	_	_	_	_	id=s11.u70.w7
+9	la	_	_	_	_	_	_	_	id=s11.u70.w8
+10	dernière	_	_	_	_	_	_	_	id=s11.u70.w9
+
+# sent_id = 025_C-3_302
+# text = c' est la plus jeune c' est la dernière
+1	c'	_	_	_	_	_	_	_	id=s11.u71.w0
+2	est	_	_	_	_	_	_	_	id=s11.u71.w1
+3	la	_	_	_	_	_	_	_	id=s11.u71.w2
+4	plus	_	_	_	_	_	_	_	id=s11.u71.w3
+5	jeune	_	_	_	_	_	_	_	id=s11.u71.w4
+6	c'	_	_	_	_	_	_	_	id=s11.u71.w5
+7	est	_	_	_	_	_	_	_	id=s11.u71.w6
+8	la	_	_	_	_	_	_	_	id=s11.u71.w7
+9	dernière	_	_	_	_	_	_	_	id=s11.u71.w8
+
+# sent_id = 025_C-3_303
+# text = c' est la plus jeune bon excusez- moi mademoiselle
+1	c'	_	_	_	_	_	_	_	id=s11.u72.w0
+2	est	_	_	_	_	_	_	_	id=s11.u72.w1
+3	la	_	_	_	_	_	_	_	id=s11.u72.w2
+4	plus	_	_	_	_	_	_	_	id=s11.u72.w3
+5	jeune	_	_	_	_	_	_	_	id=s11.u72.w4
+6	bon	_	_	_	_	_	_	_	id=s11.u72.w5
+7	excusez-	_	_	_	_	_	_	_	id=s11.u72.w6
+8	moi	_	_	_	_	_	_	_	id=s11.u72.w7
+9	mademoiselle	_	_	_	_	_	_	_	id=s11.u72.w8
+
+# sent_id = 025_C-3_304
+# text = pas grave
+1	pas	_	_	_	_	_	_	_	id=s11.u73.w0
+2	grave	_	_	_	_	_	_	_	id=s11.u73.w1
+
+# sent_id = 025_C-3_305
+# text = euh euh et vous vous en servez combien de fois par mois ?
+1	euh	_	_	_	_	_	_	_	id=s11.u74.w0
+2	euh	_	_	_	_	_	_	_	id=s11.u74.w1
+3	et	_	_	_	_	_	_	_	id=s11.u74.w2
+4	vous	_	_	_	_	_	_	_	id=s11.u74.w3
+5	vous	_	_	_	_	_	_	_	id=s11.u74.w4
+6	en	_	_	_	_	_	_	_	id=s11.u74.w5
+7	servez	_	_	_	_	_	_	_	id=s11.u74.w6
+8	combien	_	_	_	_	_	_	_	id=s11.u74.w7
+9	de	_	_	_	_	_	_	_	id=s11.u74.w8
+10	fois	_	_	_	_	_	_	_	id=s11.u74.w9
+11	par	_	_	_	_	_	_	_	id=s11.u74.w10
+12	mois	_	_	_	_	_	_	_	id=s11.u74.w11
+
+# sent_id = 025_C-3_306
+# text = de temps en temps je regarde je regarde peut-être bien l' article dans l' article dans l' autre mais ça va je suis pas
+1	de	_	_	_	_	_	_	_	id=s11.u75.w0
+2	temps	_	_	_	_	_	_	_	id=s11.u75.w1
+3	en	_	_	_	_	_	_	_	id=s11.u75.w2
+4	temps	_	_	_	_	_	_	_	id=s11.u75.w3
+5	je	_	_	_	_	_	_	_	id=s11.u75.w4
+6	regarde	_	_	_	_	_	_	_	id=s11.u75.w5
+7	je	_	_	_	_	_	_	_	id=s11.u75.w6
+8	regarde	_	_	_	_	_	_	_	id=s11.u75.w7
+9	peut-être	_	_	_	_	_	_	_	id=s11.u75.w8
+10	bien	_	_	_	_	_	_	_	id=s11.u75.w9
+11	l'	_	_	_	_	_	_	_	id=s11.u75.w10
+12	article	_	_	_	_	_	_	_	id=s11.u75.w11
+13	dans	_	_	_	_	_	_	_	id=s11.u75.w12
+14	l'	_	_	_	_	_	_	_	id=s11.u75.w13
+15	article	_	_	_	_	_	_	_	id=s11.u75.w14
+16	dans	_	_	_	_	_	_	_	id=s11.u75.w15
+17	l'	_	_	_	_	_	_	_	id=s11.u75.w16
+18	autre	_	_	_	_	_	_	_	id=s11.u75.w17
+19	mais	_	_	_	_	_	_	_	id=s11.u75.w18
+20	ça	_	_	_	_	_	_	_	id=s11.u75.w19
+21	va	_	_	_	_	_	_	_	id=s11.u75.w20
+22	je	_	_	_	_	_	_	_	id=s11.u75.w21
+23	suis	_	_	_	_	_	_	_	id=s11.u75.w22
+24	pas	_	_	_	_	_	_	_	id=s11.u75.w23
+
+# sent_id = 025_C-3_307
+# text = oui pas fixé quand je sais pas quoi faire je prends un livre je regarde oui oui combien de fois je sais pas en moyenne ?
+1	oui	_	_	_	_	_	_	_	id=s11.u76.w0
+2	pas	_	_	_	_	_	_	_	id=s11.u76.w1
+3	fixé	_	_	_	_	_	_	_	id=s11.u76.w2
+4	quand	_	_	_	_	_	_	_	id=s11.u76.w3
+5	je	_	_	_	_	_	_	_	id=s11.u76.w4
+6	sais	_	_	_	_	_	_	_	id=s11.u76.w5
+7	pas	_	_	_	_	_	_	_	id=s11.u76.w6
+8	quoi	_	_	_	_	_	_	_	id=s11.u76.w7
+9	faire	_	_	_	_	_	_	_	id=s11.u76.w8
+10	je	_	_	_	_	_	_	_	id=s11.u76.w9
+11	prends	_	_	_	_	_	_	_	id=s11.u76.w10
+12	un	_	_	_	_	_	_	_	id=s11.u76.w11
+13	livre	_	_	_	_	_	_	_	id=s11.u76.w12
+14	je	_	_	_	_	_	_	_	id=s11.u76.w13
+15	regarde	_	_	_	_	_	_	_	id=s11.u76.w14
+16	oui	_	_	_	_	_	_	_	id=s11.u76.w15
+17	oui	_	_	_	_	_	_	_	id=s11.u76.w16
+18	combien	_	_	_	_	_	_	_	id=s11.u76.w17
+19	de	_	_	_	_	_	_	_	id=s11.u76.w18
+20	fois	_	_	_	_	_	_	_	id=s11.u76.w19
+21	je	_	_	_	_	_	_	_	id=s11.u76.w20
+22	sais	_	_	_	_	_	_	_	id=s11.u76.w21
+23	pas	_	_	_	_	_	_	_	id=s11.u76.w22
+24	en	_	_	_	_	_	_	_	id=s11.u76.w23
+25	moyenne	_	_	_	_	_	_	_	id=s11.u76.w24
+
+# sent_id = 025_C-3_308
+# text = je lis
+1	je	_	_	_	_	_	_	_	id=s11.u77.w0
+2	lis	_	_	_	_	_	_	_	id=s11.u77.w1
+
+# sent_id = 025_C-3_309
+# text = bah ça je peux pas vous dire assez souvent
+1	bah	_	_	_	_	_	_	_	id=s11.u78.w0
+2	ça	_	_	_	_	_	_	_	id=s11.u78.w1
+3	je	_	_	_	_	_	_	_	id=s11.u78.w2
+4	peux	_	_	_	_	_	_	_	id=s11.u78.w3
+5	pas	_	_	_	_	_	_	_	id=s11.u78.w4
+6	vous	_	_	_	_	_	_	_	id=s11.u78.w5
+7	dire	_	_	_	_	_	_	_	id=s11.u78.w6
+8	assez	_	_	_	_	_	_	_	id=s11.u78.w7
+9	souvent	_	_	_	_	_	_	_	id=s11.u78.w8
+
+# sent_id = 025_C-3_310
+# text = oui hum
+1	oui	_	_	_	_	_	_	_	id=s11.u79.w0
+2	hum	_	_	_	_	_	_	_	id=s11.u79.w1
+
+# sent_id = 025_C-3_311
+# text = peut-être pas tous les jours mais pas mal
+1	peut-être	_	_	_	_	_	_	_	id=s11.u80.w0
+2	pas	_	_	_	_	_	_	_	id=s11.u80.w1
+3	tous	_	_	_	_	_	_	_	id=s11.u80.w2
+4	les	_	_	_	_	_	_	_	id=s11.u80.w3
+5	jours	_	_	_	_	_	_	_	id=s11.u80.w4
+6	mais	_	_	_	_	_	_	_	id=s11.u80.w5
+7	pas	_	_	_	_	_	_	_	id=s11.u80.w6
+8	mal	_	_	_	_	_	_	_	id=s11.u80.w7
+
+# sent_id = 025_C-3_312
+# text = bah souvent oui
+1	bah	_	_	_	_	_	_	_	id=s11.u81.w0
+2	souvent	_	_	_	_	_	_	_	id=s11.u81.w1
+3	oui	_	_	_	_	_	_	_	id=s11.u81.w2
+
+# sent_id = 025_C-3_313
+# text = 
+
+# sent_id = 025_C-3_314
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s11.u83.w0
+
+# sent_id = 025_C-3_315
+# text = en plus ça me sert pour les mots-croisés aussi
+1	en	_	_	_	_	_	_	_	id=s11.u84.w0
+2	plus	_	_	_	_	_	_	_	id=s11.u84.w1
+3	ça	_	_	_	_	_	_	_	id=s11.u84.w2
+4	me	_	_	_	_	_	_	_	id=s11.u84.w3
+5	sert	_	_	_	_	_	_	_	id=s11.u84.w4
+6	pour	_	_	_	_	_	_	_	id=s11.u84.w5
+7	les	_	_	_	_	_	_	_	id=s11.u84.w6
+8	mots-croisés	_	_	_	_	_	_	_	id=s11.u84.w7
+9	aussi	_	_	_	_	_	_	_	id=s11.u84.w8
+
+# sent_id = 025_C-3_316
+# text = ah oui rire
+1	ah	_	_	_	_	_	_	_	id=s11.u85.w0
+2	oui	_	_	_	_	_	_	_	id=s11.u85.w1
+
+# sent_id = 025_C-3_317
+# text = rire
+
+# sent_id = 025_C-3_318
+# text = et quand l' avez- vous regardé pour la dernière fois ? vous vous souvenez ?
+1	et	_	_	_	_	_	_	_	id=s11.u87.w0
+2	quand	_	_	_	_	_	_	_	id=s11.u87.w1
+3	l'	_	_	_	_	_	_	_	id=s11.u87.w2
+4	avez-	_	_	_	_	_	_	_	id=s11.u87.w3
+5	vous	_	_	_	_	_	_	_	id=s11.u87.w4
+6	regardé	_	_	_	_	_	_	_	id=s11.u87.w5
+7	pour	_	_	_	_	_	_	_	id=s11.u87.w6
+8	la	_	_	_	_	_	_	_	id=s11.u87.w7
+9	dernière	_	_	_	_	_	_	_	id=s11.u87.w8
+10	fois	_	_	_	_	_	_	_	id=s11.u87.w9
+11	vous	_	_	_	_	_	_	_	id=s11.u87.w11
+12	vous	_	_	_	_	_	_	_	id=s11.u87.w12
+13	souvenez	_	_	_	_	_	_	_	id=s11.u87.w13
+
+# sent_id = 025_C-3_319
+# text = ah ce matin rire
+1	ah	_	_	_	_	_	_	_	id=s11.u88.w0
+2	ce	_	_	_	_	_	_	_	id=s11.u88.w1
+3	matin	_	_	_	_	_	_	_	id=s11.u88.w2
+
+# sent_id = 025_C-3_320
+# text = ce matin
+1	ce	_	_	_	_	_	_	_	id=s11.u89.w0
+2	matin	_	_	_	_	_	_	_	id=s11.u89.w1
+
+# sent_id = 025_C-3_321
+# text = rire
+
+# sent_id = 025_C-3_322
+# text = c' était quoi que vous cherchiez ?
+1	c'	_	_	_	_	_	_	_	id=s11.u91.w0
+2	était	_	_	_	_	_	_	_	id=s11.u91.w1
+3	quoi	_	_	_	_	_	_	_	id=s11.u91.w2
+4	que	_	_	_	_	_	_	_	id=s11.u91.w3
+5	vous	_	_	_	_	_	_	_	id=s11.u91.w4
+6	cherchiez	_	_	_	_	_	_	_	id=s11.u91.w5
+
+# sent_id = 025_C-3_323
+# text = pour les mots-croisés oh je me rappelle plus j' ai cherché un truc euh un mot et
+1	pour	_	_	_	_	_	_	_	id=s11.u92.w0
+2	les	_	_	_	_	_	_	_	id=s11.u92.w1
+3	mots-croisés	_	_	_	_	_	_	_	id=s11.u92.w2
+4	oh	_	_	_	_	_	_	_	id=s11.u92.w3
+5	je	_	_	_	_	_	_	_	id=s11.u92.w4
+6	me	_	_	_	_	_	_	_	id=s11.u92.w5
+7	rappelle	_	_	_	_	_	_	_	id=s11.u92.w6
+8	plus	_	_	_	_	_	_	_	id=s11.u92.w7
+9	j'	_	_	_	_	_	_	_	id=s11.u92.w8
+10	ai	_	_	_	_	_	_	_	id=s11.u92.w9
+11	cherché	_	_	_	_	_	_	_	id=s11.u92.w10
+12	un	_	_	_	_	_	_	_	id=s11.u92.w11
+13	truc	_	_	_	_	_	_	_	id=s11.u92.w12
+14	euh	_	_	_	_	_	_	_	id=s11.u92.w13
+15	un	_	_	_	_	_	_	_	id=s11.u92.w14
+16	mot	_	_	_	_	_	_	_	id=s11.u92.w15
+17	et	_	_	_	_	_	_	_	id=s11.u92.w16
+
+# sent_id = 025_C-3_324
+# text = oui vous vous servez de d- je sais pas y en a un dans tous ces dictionnaires et encyclopédies dont vous vous servez plus souvent que les autres ?
+1	oui	_	_	_	_	_	_	_	id=s11.u93.w0
+2	vous	_	_	_	_	_	_	_	id=s11.u93.w1
+3	vous	_	_	_	_	_	_	_	id=s11.u93.w2
+4	servez	_	_	_	_	_	_	_	id=s11.u93.w3
+5	de	_	_	_	_	_	_	_	id=s11.u93.w4
+6	d-	_	_	_	_	_	_	_	id=s11.u93.w5
+7	je	_	_	_	_	_	_	_	id=s11.u93.w6
+8	sais	_	_	_	_	_	_	_	id=s11.u93.w7
+9	pas	_	_	_	_	_	_	_	id=s11.u93.w8
+10	y	_	_	_	_	_	_	_	id=s11.u93.w9
+11	en	_	_	_	_	_	_	_	id=s11.u93.w10
+12	a	_	_	_	_	_	_	_	id=s11.u93.w11
+13	un	_	_	_	_	_	_	_	id=s11.u93.w12
+14	dans	_	_	_	_	_	_	_	id=s11.u93.w13
+15	tous	_	_	_	_	_	_	_	id=s11.u93.w14
+16	ces	_	_	_	_	_	_	_	id=s11.u93.w15
+17	dictionnaires	_	_	_	_	_	_	_	id=s11.u93.w16
+18	et	_	_	_	_	_	_	_	id=s11.u93.w17
+19	encyclopédies	_	_	_	_	_	_	_	id=s11.u93.w18
+20	dont	_	_	_	_	_	_	_	id=s11.u93.w19
+21	vous	_	_	_	_	_	_	_	id=s11.u93.w20
+22	vous	_	_	_	_	_	_	_	id=s11.u93.w21
+23	servez	_	_	_	_	_	_	_	id=s11.u93.w22
+24	plus	_	_	_	_	_	_	_	id=s11.u93.w23
+25	souvent	_	_	_	_	_	_	_	id=s11.u93.w24
+26	que	_	_	_	_	_	_	_	id=s11.u93.w25
+27	les	_	_	_	_	_	_	_	id=s11.u93.w26
+28	autres	_	_	_	_	_	_	_	id=s11.u93.w27
+
+# sent_id = 025_C-3_325
+# text = je prends l- je prends le premier venu la le Larousse qu' il y a sous ma main euh
+1	je	_	_	_	_	_	_	_	id=s11.u94.w0
+2	prends	_	_	_	_	_	_	_	id=s11.u94.w1
+3	l-	_	_	_	_	_	_	_	id=s11.u94.w2
+4	je	_	_	_	_	_	_	_	id=s11.u94.w3
+5	prends	_	_	_	_	_	_	_	id=s11.u94.w4
+6	le	_	_	_	_	_	_	_	id=s11.u94.w5
+7	premier	_	_	_	_	_	_	_	id=s11.u94.w6
+8	venu	_	_	_	_	_	_	_	id=s11.u94.w7
+9	la	_	_	_	_	_	_	_	id=s11.u94.w8
+10	le	_	_	_	_	_	_	_	id=s11.u94.w9
+11	Larousse	_	_	_	_	_	_	_	id=s11.u94.w10
+12	qu'	_	_	_	_	_	_	_	id=s11.u94.w11
+13	il	_	_	_	_	_	_	_	id=s11.u94.w12
+14	y	_	_	_	_	_	_	_	id=s11.u94.w13
+15	a	_	_	_	_	_	_	_	id=s11.u94.w14
+16	sous	_	_	_	_	_	_	_	id=s11.u94.w15
+17	ma	_	_	_	_	_	_	_	id=s11.u94.w16
+18	main	_	_	_	_	_	_	_	id=s11.u94.w17
+19	euh	_	_	_	_	_	_	_	id=s11.u94.w18
+
+# sent_id = 025_C-3_326
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s11.u95.w0
+
+# sent_id = 025_C-3_327
+# text = et puis alors si je trouve pas ce que je veux je cherche dans les autres
+1	et	_	_	_	_	_	_	_	id=s11.u96.w0
+2	puis	_	_	_	_	_	_	_	id=s11.u96.w1
+3	alors	_	_	_	_	_	_	_	id=s11.u96.w2
+4	si	_	_	_	_	_	_	_	id=s11.u96.w3
+5	je	_	_	_	_	_	_	_	id=s11.u96.w4
+6	trouve	_	_	_	_	_	_	_	id=s11.u96.w5
+7	pas	_	_	_	_	_	_	_	id=s11.u96.w6
+8	ce	_	_	_	_	_	_	_	id=s11.u96.w7
+9	que	_	_	_	_	_	_	_	id=s11.u96.w8
+10	je	_	_	_	_	_	_	_	id=s11.u96.w9
+11	veux	_	_	_	_	_	_	_	id=s11.u96.w10
+12	je	_	_	_	_	_	_	_	id=s11.u96.w11
+13	cherche	_	_	_	_	_	_	_	id=s11.u96.w12
+14	dans	_	_	_	_	_	_	_	id=s11.u96.w13
+15	les	_	_	_	_	_	_	_	id=s11.u96.w14
+16	autres	_	_	_	_	_	_	_	id=s11.u96.w15
+
+# sent_id = 025_C-3_328
+# text = oui rire
+1	oui	_	_	_	_	_	_	_	id=s11.u97.w0
+
+# sent_id = 025_C-3_329
+# text = jusqu' à ce que j' ai trouvé
+1	jusqu'	_	_	_	_	_	_	_	id=s11.u98.w0
+2	à	_	_	_	_	_	_	_	id=s11.u98.w1
+3	ce	_	_	_	_	_	_	_	id=s11.u98.w2
+4	que	_	_	_	_	_	_	_	id=s11.u98.w3
+5	j'	_	_	_	_	_	_	_	id=s11.u98.w4
+6	ai	_	_	_	_	_	_	_	id=s11.u98.w5
+7	trouvé	_	_	_	_	_	_	_	id=s11.u98.w6
+
+# sent_id = 025_C-3_330
+# text = 
+
+# sent_id = 025_C-3_331
+# text = alors c' est c' est pour les mots-croisés que vous vous en servez le plus souvent ?
+1	alors	_	_	_	_	_	_	_	id=s11.u100.w0
+2	c'	_	_	_	_	_	_	_	id=s11.u100.w1
+3	est	_	_	_	_	_	_	_	id=s11.u100.w2
+4	c'	_	_	_	_	_	_	_	id=s11.u100.w3
+5	est	_	_	_	_	_	_	_	id=s11.u100.w4
+6	pour	_	_	_	_	_	_	_	id=s11.u100.w5
+7	les	_	_	_	_	_	_	_	id=s11.u100.w6
+8	mots-croisés	_	_	_	_	_	_	_	id=s11.u100.w7
+9	que	_	_	_	_	_	_	_	id=s11.u100.w8
+10	vous	_	_	_	_	_	_	_	id=s11.u100.w9
+11	vous	_	_	_	_	_	_	_	id=s11.u100.w10
+12	en	_	_	_	_	_	_	_	id=s11.u100.w11
+13	servez	_	_	_	_	_	_	_	id=s11.u100.w12
+14	le	_	_	_	_	_	_	_	id=s11.u100.w13
+15	plus	_	_	_	_	_	_	_	id=s11.u100.w14
+16	souvent	_	_	_	_	_	_	_	id=s11.u100.w15
+
+# sent_id = 025_C-3_332
+# text = oui autrement c' est
+1	oui	_	_	_	_	_	_	_	id=s11.u101.w0
+2	autrement	_	_	_	_	_	_	_	id=s11.u101.w1
+3	c'	_	_	_	_	_	_	_	id=s11.u101.w2
+4	est	_	_	_	_	_	_	_	id=s11.u101.w3
+
+# sent_id = 025_C-3_333
+# text = ou des fois pour Mireille pour euh
+1	ou	_	_	_	_	_	_	_	id=s11.u102.w0
+2	des	_	_	_	_	_	_	_	id=s11.u102.w1
+3	fois	_	_	_	_	_	_	_	id=s11.u102.w2
+4	pour	_	_	_	_	_	_	_	id=s11.u102.w3
+5	Mireille	_	_	_	_	_	_	_	id=s11.u102.w4
+6	pour	_	_	_	_	_	_	_	id=s11.u102.w5
+7	euh	_	_	_	_	_	_	_	id=s11.u102.w6
+
+# sent_id = 025_C-3_334
+# text = 
+
+# sent_id = 025_C-3_335
+# text = 
+
+# sent_id = 025_C-3_336
+# text = moi c' est plutôt au point de vue culture générale quoi pour euh me renseigner sur pas mal de choses des fois je vois ou j' entends à la radio euh un un nom ou quelque chose alors je cherche pour avoir une documentation plus grand
+1	moi	_	_	_	_	_	_	_	id=s11.u105.w0
+2	c'	_	_	_	_	_	_	_	id=s11.u105.w1
+3	est	_	_	_	_	_	_	_	id=s11.u105.w2
+4	plutôt	_	_	_	_	_	_	_	id=s11.u105.w3
+5	au	_	_	_	_	_	_	_	id=s11.u105.w4
+6	point	_	_	_	_	_	_	_	id=s11.u105.w5
+7	de	_	_	_	_	_	_	_	id=s11.u105.w6
+8	vue	_	_	_	_	_	_	_	id=s11.u105.w7
+9	culture	_	_	_	_	_	_	_	id=s11.u105.w8
+10	générale	_	_	_	_	_	_	_	id=s11.u105.w9
+11	quoi	_	_	_	_	_	_	_	id=s11.u105.w10
+12	pour	_	_	_	_	_	_	_	id=s11.u105.w11
+13	euh	_	_	_	_	_	_	_	id=s11.u105.w12
+14	me	_	_	_	_	_	_	_	id=s11.u105.w13
+15	renseigner	_	_	_	_	_	_	_	id=s11.u105.w14
+16	sur	_	_	_	_	_	_	_	id=s11.u105.w15
+17	pas	_	_	_	_	_	_	_	id=s11.u105.w16
+18	mal	_	_	_	_	_	_	_	id=s11.u105.w17
+19	de	_	_	_	_	_	_	_	id=s11.u105.w18
+20	choses	_	_	_	_	_	_	_	id=s11.u105.w19
+21	des	_	_	_	_	_	_	_	id=s11.u105.w20
+22	fois	_	_	_	_	_	_	_	id=s11.u105.w21
+23	je	_	_	_	_	_	_	_	id=s11.u105.w22
+24	vois	_	_	_	_	_	_	_	id=s11.u105.w23
+25	ou	_	_	_	_	_	_	_	id=s11.u105.w24
+26	j'	_	_	_	_	_	_	_	id=s11.u105.w25
+27	entends	_	_	_	_	_	_	_	id=s11.u105.w26
+28	à	_	_	_	_	_	_	_	id=s11.u105.w27
+29	la	_	_	_	_	_	_	_	id=s11.u105.w28
+30	radio	_	_	_	_	_	_	_	id=s11.u105.w29
+31	euh	_	_	_	_	_	_	_	id=s11.u105.w30
+32	un	_	_	_	_	_	_	_	id=s11.u105.w31
+33	un	_	_	_	_	_	_	_	id=s11.u105.w32
+34	nom	_	_	_	_	_	_	_	id=s11.u105.w33
+35	ou	_	_	_	_	_	_	_	id=s11.u105.w34
+36	quelque	_	_	_	_	_	_	_	id=s11.u105.w35
+37	chose	_	_	_	_	_	_	_	id=s11.u105.w36
+38	alors	_	_	_	_	_	_	_	id=s11.u105.w37
+39	je	_	_	_	_	_	_	_	id=s11.u105.w38
+40	cherche	_	_	_	_	_	_	_	id=s11.u105.w39
+41	pour	_	_	_	_	_	_	_	id=s11.u105.w40
+42	avoir	_	_	_	_	_	_	_	id=s11.u105.w41
+43	une	_	_	_	_	_	_	_	id=s11.u105.w42
+44	documentation	_	_	_	_	_	_	_	id=s11.u105.w43
+45	plus	_	_	_	_	_	_	_	id=s11.u105.w44
+46	grand	_	_	_	_	_	_	_	id=s11.u105.w45
+
+# sent_id = 025_C-3_337
+# text = 
+
+# sent_id = 025_C-3_338
+# text = oui et alors quel genre de choses je sais pas moi euh
+1	oui	_	_	_	_	_	_	_	id=s11.u107.w0
+2	et	_	_	_	_	_	_	_	id=s11.u107.w1
+3	alors	_	_	_	_	_	_	_	id=s11.u107.w2
+4	quel	_	_	_	_	_	_	_	id=s11.u107.w3
+5	genre	_	_	_	_	_	_	_	id=s11.u107.w4
+6	de	_	_	_	_	_	_	_	id=s11.u107.w5
+7	choses	_	_	_	_	_	_	_	id=s11.u107.w6
+8	je	_	_	_	_	_	_	_	id=s11.u107.w7
+9	sais	_	_	_	_	_	_	_	id=s11.u107.w8
+10	pas	_	_	_	_	_	_	_	id=s11.u107.w9
+11	moi	_	_	_	_	_	_	_	id=s11.u107.w10
+12	euh	_	_	_	_	_	_	_	id=s11.u107.w11
+
+# sent_id = 025_C-3_339
+# text = au point de vue histoire que science ou n' importe
+1	au	_	_	_	_	_	_	_	id=s11.u108.w0
+2	point	_	_	_	_	_	_	_	id=s11.u108.w1
+3	de	_	_	_	_	_	_	_	id=s11.u108.w2
+4	vue	_	_	_	_	_	_	_	id=s11.u108.w3
+5	histoire	_	_	_	_	_	_	_	id=s11.u108.w4
+6	que	_	_	_	_	_	_	_	id=s11.u108.w5
+7	science	_	_	_	_	_	_	_	id=s11.u108.w6
+8	ou	_	_	_	_	_	_	_	id=s11.u108.w7
+9	n'	_	_	_	_	_	_	_	id=s11.u108.w8
+10	importe	_	_	_	_	_	_	_	id=s11.u108.w9
+
+# sent_id = 025_C-3_340
+# text = oui sur tout quoi
+1	oui	_	_	_	_	_	_	_	id=s11.u109.w0
+2	sur	_	_	_	_	_	_	_	id=s11.u109.w1
+3	tout	_	_	_	_	_	_	_	id=s11.u109.w2
+4	quoi	_	_	_	_	_	_	_	id=s11.u109.w3
+
+# sent_id = 025_C-3_341
+# text = sur tout
+1	sur	_	_	_	_	_	_	_	id=s11.u110.w0
+2	tout	_	_	_	_	_	_	_	id=s11.u110.w1
+
+# sent_id = 025_C-3_342
+# text = et pour l' ortho- l' orthographe vous cherchez dedans ?
+1	et	_	_	_	_	_	_	_	id=s11.u111.w0
+2	pour	_	_	_	_	_	_	_	id=s11.u111.w1
+3	l'	_	_	_	_	_	_	_	id=s11.u111.w2
+4	ortho-	_	_	_	_	_	_	_	id=s11.u111.w3
+5	l'	_	_	_	_	_	_	_	id=s11.u111.w4
+6	orthographe	_	_	_	_	_	_	_	id=s11.u111.w5
+7	vous	_	_	_	_	_	_	_	id=s11.u111.w6
+8	cherchez	_	_	_	_	_	_	_	id=s11.u111.w7
+9	dedans	_	_	_	_	_	_	_	id=s11.u111.w8
+
+# sent_id = 025_C-3_343
+# text = bah ça arrive quelquefois oui
+1	bah	_	_	_	_	_	_	_	id=s11.u112.w0
+2	ça	_	_	_	_	_	_	_	id=s11.u112.w1
+3	arrive	_	_	_	_	_	_	_	id=s11.u112.w2
+4	quelquefois	_	_	_	_	_	_	_	id=s11.u112.w3
+5	oui	_	_	_	_	_	_	_	id=s11.u112.w4
+
+# sent_id = 025_C-3_344
+# text = hum
+1	hum	_	_	_	_	_	_	_	id=s11.u113.w0
+
+# sent_id = 025_C-3_345
+# text = des mots
+1	des	_	_	_	_	_	_	_	id=s11.u114.w0
+2	mots	_	_	_	_	_	_	_	id=s11.u114.w1
+
+# sent_id = 025_C-3_346
+# text = quand même
+1	quand	_	_	_	_	_	_	_	id=s11.u115.w0
+2	même	_	_	_	_	_	_	_	id=s11.u115.w1
+
+# sent_id = 025_C-3_347
+# text = bah non mais des fois des mots qu' on
+1	bah	_	_	_	_	_	_	_	id=s11.u116.w0
+2	non	_	_	_	_	_	_	_	id=s11.u116.w1
+3	mais	_	_	_	_	_	_	_	id=s11.u116.w2
+4	des	_	_	_	_	_	_	_	id=s11.u116.w3
+5	fois	_	_	_	_	_	_	_	id=s11.u116.w4
+6	des	_	_	_	_	_	_	_	id=s11.u116.w5
+7	mots	_	_	_	_	_	_	_	id=s11.u116.w6
+8	qu'	_	_	_	_	_	_	_	id=s11.u116.w7
+9	on	_	_	_	_	_	_	_	id=s11.u116.w8
+
+# sent_id = 025_C-3_348
+# text = tu en as pas souvent besoin
+1	tu	_	_	_	_	_	_	_	id=s11.u117.w0
+2	en	_	_	_	_	_	_	_	id=s11.u117.w1
+3	as	_	_	_	_	_	_	_	id=s11.u117.w2
+4	pas	_	_	_	_	_	_	_	id=s11.u117.w3
+5	souvent	_	_	_	_	_	_	_	id=s11.u117.w4
+6	besoin	_	_	_	_	_	_	_	id=s11.u117.w5
+
+# sent_id = 025_C-3_349
+# text = des mots qu' on oublie ou des ça arrive que des fois on voit un mot puis y a quelque chose qui qui cloche on lit bien mais ça ça doit pas être comme ça alors on le cherche sur des livres
+1	des	_	_	_	_	_	_	_	id=s11.u118.w0
+2	mots	_	_	_	_	_	_	_	id=s11.u118.w1
+3	qu'	_	_	_	_	_	_	_	id=s11.u118.w2
+4	on	_	_	_	_	_	_	_	id=s11.u118.w3
+5	oublie	_	_	_	_	_	_	_	id=s11.u118.w4
+6	ou	_	_	_	_	_	_	_	id=s11.u118.w5
+7	des	_	_	_	_	_	_	_	id=s11.u118.w6
+8	ça	_	_	_	_	_	_	_	id=s11.u118.w7
+9	arrive	_	_	_	_	_	_	_	id=s11.u118.w8
+10	que	_	_	_	_	_	_	_	id=s11.u118.w9
+11	des	_	_	_	_	_	_	_	id=s11.u118.w10
+12	fois	_	_	_	_	_	_	_	id=s11.u118.w11
+13	on	_	_	_	_	_	_	_	id=s11.u118.w12
+14	voit	_	_	_	_	_	_	_	id=s11.u118.w13
+15	un	_	_	_	_	_	_	_	id=s11.u118.w14
+16	mot	_	_	_	_	_	_	_	id=s11.u118.w15
+17	puis	_	_	_	_	_	_	_	id=s11.u118.w16
+18	y	_	_	_	_	_	_	_	id=s11.u118.w17
+19	a	_	_	_	_	_	_	_	id=s11.u118.w18
+20	quelque	_	_	_	_	_	_	_	id=s11.u118.w19
+21	chose	_	_	_	_	_	_	_	id=s11.u118.w20
+22	qui	_	_	_	_	_	_	_	id=s11.u118.w21
+23	qui	_	_	_	_	_	_	_	id=s11.u118.w22
+24	cloche	_	_	_	_	_	_	_	id=s11.u118.w23
+25	on	_	_	_	_	_	_	_	id=s11.u118.w24
+26	lit	_	_	_	_	_	_	_	id=s11.u118.w25
+27	bien	_	_	_	_	_	_	_	id=s11.u118.w26
+28	mais	_	_	_	_	_	_	_	id=s11.u118.w27
+29	ça	_	_	_	_	_	_	_	id=s11.u118.w28
+30	ça	_	_	_	_	_	_	_	id=s11.u118.w29
+31	doit	_	_	_	_	_	_	_	id=s11.u118.w30
+32	pas	_	_	_	_	_	_	_	id=s11.u118.w31
+33	être	_	_	_	_	_	_	_	id=s11.u118.w32
+34	comme	_	_	_	_	_	_	_	id=s11.u118.w33
+35	ça	_	_	_	_	_	_	_	id=s11.u118.w34
+36	alors	_	_	_	_	_	_	_	id=s11.u118.w35
+37	on	_	_	_	_	_	_	_	id=s11.u118.w36
+38	le	_	_	_	_	_	_	_	id=s11.u118.w37
+39	cherche	_	_	_	_	_	_	_	id=s11.u118.w38
+40	sur	_	_	_	_	_	_	_	id=s11.u118.w39
+41	des	_	_	_	_	_	_	_	id=s11.u118.w40
+42	livres	_	_	_	_	_	_	_	id=s11.u118.w41
+
+# sent_id = 025_C-3_350
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s11.u119.w0
+
+# sent_id = 025_C-3_351
+# text = pour voir exactement si c' est ça quoi
+1	pour	_	_	_	_	_	_	_	id=s11.u120.w0
+2	voir	_	_	_	_	_	_	_	id=s11.u120.w1
+3	exactement	_	_	_	_	_	_	_	id=s11.u120.w2
+4	si	_	_	_	_	_	_	_	id=s11.u120.w3
+5	c'	_	_	_	_	_	_	_	id=s11.u120.w4
+6	est	_	_	_	_	_	_	_	id=s11.u120.w5
+7	ça	_	_	_	_	_	_	_	id=s11.u120.w6
+8	quoi	_	_	_	_	_	_	_	id=s11.u120.w7
+
+# sent_id = 025_C-3_352
+# text = et est -ce que vous cherchez des fois pour euh le sens ou euh ?
+1	et	_	_	_	_	_	_	_	id=s11.u121.w0
+2	est	_	_	_	_	_	_	_	id=s11.u121.w1
+3	-ce	_	_	_	_	_	_	_	id=s11.u121.w2
+4	que	_	_	_	_	_	_	_	id=s11.u121.w3
+5	vous	_	_	_	_	_	_	_	id=s11.u121.w4
+6	cherchez	_	_	_	_	_	_	_	id=s11.u121.w5
+7	des	_	_	_	_	_	_	_	id=s11.u121.w6
+8	fois	_	_	_	_	_	_	_	id=s11.u121.w7
+9	pour	_	_	_	_	_	_	_	id=s11.u121.w8
+10	euh	_	_	_	_	_	_	_	id=s11.u121.w9
+11	le	_	_	_	_	_	_	_	id=s11.u121.w10
+12	sens	_	_	_	_	_	_	_	id=s11.u121.w11
+13	ou	_	_	_	_	_	_	_	id=s11.u121.w12
+14	euh	_	_	_	_	_	_	_	id=s11.u121.w13
+
+# sent_id = 025_C-3_353
+# text = oui ça arrive
+1	oui	_	_	_	_	_	_	_	id=s11.u122.w0
+2	ça	_	_	_	_	_	_	_	id=s11.u122.w1
+3	arrive	_	_	_	_	_	_	_	id=s11.u122.w2
+
+# sent_id = 025_C-3_354
+# text = oui oui euh
+1	oui	_	_	_	_	_	_	_	id=s11.u123.w0
+2	oui	_	_	_	_	_	_	_	id=s11.u123.w1
+3	euh	_	_	_	_	_	_	_	id=s11.u123.w2
+
+# sent_id = 025_C-3_355
+# text = possédez- vous un livre sur l' art de parler ? ou l' art d' écrire ?
+1	possédez-	_	_	_	_	_	_	_	id=s12.u0.w0
+2	vous	_	_	_	_	_	_	_	id=s12.u0.w1
+3	un	_	_	_	_	_	_	_	id=s12.u0.w2
+4	livre	_	_	_	_	_	_	_	id=s12.u0.w3
+5	sur	_	_	_	_	_	_	_	id=s12.u0.w4
+6	l'	_	_	_	_	_	_	_	id=s12.u0.w5
+7	art	_	_	_	_	_	_	_	id=s12.u0.w6
+8	de	_	_	_	_	_	_	_	id=s12.u0.w7
+9	parler	_	_	_	_	_	_	_	id=s12.u0.w8
+10	ou	_	_	_	_	_	_	_	id=s12.u0.w10
+11	l'	_	_	_	_	_	_	_	id=s12.u0.w11
+12	art	_	_	_	_	_	_	_	id=s12.u0.w12
+13	d'	_	_	_	_	_	_	_	id=s12.u0.w13
+14	écrire	_	_	_	_	_	_	_	id=s12.u0.w14
+
+# sent_id = 025_C-3_356
+# text = non
+1	non	_	_	_	_	_	_	_	id=s12.u1.w0
+
+# sent_id = 025_C-3_357
+# text = non ou sur le les difficultés de la langue française ?
+1	non	_	_	_	_	_	_	_	id=s12.u2.w0
+2	ou	_	_	_	_	_	_	_	id=s12.u2.w1
+3	sur	_	_	_	_	_	_	_	id=s12.u2.w2
+4	le	_	_	_	_	_	_	_	id=s12.u2.w3
+5	les	_	_	_	_	_	_	_	id=s12.u2.w4
+6	difficultés	_	_	_	_	_	_	_	id=s12.u2.w5
+7	de	_	_	_	_	_	_	_	id=s12.u2.w6
+8	la	_	_	_	_	_	_	_	id=s12.u2.w7
+9	langue	_	_	_	_	_	_	_	id=s12.u2.w8
+10	française	_	_	_	_	_	_	_	id=s12.u2.w9
+
+# sent_id = 025_C-3_358
+# text = ah bah sur le oui sur le le sur le Larousse y a une partie là c' est le Larousse euh sélection là y a une partie qui a des difficultés de la langue française
+1	ah	_	_	_	_	_	_	_	id=s12.u3.w0
+2	bah	_	_	_	_	_	_	_	id=s12.u3.w1
+3	sur	_	_	_	_	_	_	_	id=s12.u3.w2
+4	le	_	_	_	_	_	_	_	id=s12.u3.w3
+5	oui	_	_	_	_	_	_	_	id=s12.u3.w4
+6	sur	_	_	_	_	_	_	_	id=s12.u3.w5
+7	le	_	_	_	_	_	_	_	id=s12.u3.w6
+8	le	_	_	_	_	_	_	_	id=s12.u3.w7
+9	sur	_	_	_	_	_	_	_	id=s12.u3.w8
+10	le	_	_	_	_	_	_	_	id=s12.u3.w9
+11	Larousse	_	_	_	_	_	_	_	id=s12.u3.w10
+12	y	_	_	_	_	_	_	_	id=s12.u3.w11
+13	a	_	_	_	_	_	_	_	id=s12.u3.w12
+14	une	_	_	_	_	_	_	_	id=s12.u3.w13
+15	partie	_	_	_	_	_	_	_	id=s12.u3.w14
+16	là	_	_	_	_	_	_	_	id=s12.u3.w15
+17	c'	_	_	_	_	_	_	_	id=s12.u3.w16
+18	est	_	_	_	_	_	_	_	id=s12.u3.w17
+19	le	_	_	_	_	_	_	_	id=s12.u3.w18
+20	Larousse	_	_	_	_	_	_	_	id=s12.u3.w19
+21	euh	_	_	_	_	_	_	_	id=s12.u3.w20
+22	sélection	_	_	_	_	_	_	_	id=s12.u3.w21
+23	là	_	_	_	_	_	_	_	id=s12.u3.w22
+24	y	_	_	_	_	_	_	_	id=s12.u3.w23
+25	a	_	_	_	_	_	_	_	id=s12.u3.w24
+26	une	_	_	_	_	_	_	_	id=s12.u3.w25
+27	partie	_	_	_	_	_	_	_	id=s12.u3.w26
+28	qui	_	_	_	_	_	_	_	id=s12.u3.w27
+29	a	_	_	_	_	_	_	_	id=s12.u3.w28
+30	des	_	_	_	_	_	_	_	id=s12.u3.w29
+31	difficultés	_	_	_	_	_	_	_	id=s12.u3.w30
+32	de	_	_	_	_	_	_	_	id=s12.u3.w31
+33	la	_	_	_	_	_	_	_	id=s12.u3.w32
+34	langue	_	_	_	_	_	_	_	id=s12.u3.w33
+35	française	_	_	_	_	_	_	_	id=s12.u3.w34
+
+# sent_id = 025_C-3_359
+# text = 
+
+# sent_id = 025_C-3_360
+# text = oui Larousse sélection oui parce que
+1	oui	_	_	_	_	_	_	_	id=s12.u5.w0
+2	Larousse	_	_	_	_	_	_	_	id=s12.u5.w1
+3	sélection	_	_	_	_	_	_	_	id=s12.u5.w2
+4	oui	_	_	_	_	_	_	_	id=s12.u5.w3
+5	parce	_	_	_	_	_	_	_	id=s12.u5.w4
+6	que	_	_	_	_	_	_	_	id=s12.u5.w5
+
+# sent_id = 025_C-3_361
+# text = je vais voir Mireille
+1	je	_	_	_	_	_	_	_	id=s12.u6.w0
+2	vais	_	_	_	_	_	_	_	id=s12.u6.w1
+3	voir	_	_	_	_	_	_	_	id=s12.u6.w2
+4	Mireille	_	_	_	_	_	_	_	id=s12.u6.w3
+
+# sent_id = 025_C-3_362
+# text = oh mais ça ne fait rien ça ne fait rien ça va
+1	oh	_	_	_	_	_	_	_	id=s12.u7.w0
+2	mais	_	_	_	_	_	_	_	id=s12.u7.w1
+3	ça	_	_	_	_	_	_	_	id=s12.u7.w2
+4	ne	_	_	_	_	_	_	_	id=s12.u7.w3
+5	fait	_	_	_	_	_	_	_	id=s12.u7.w4
+6	rien	_	_	_	_	_	_	_	id=s12.u7.w5
+7	ça	_	_	_	_	_	_	_	id=s12.u7.w6
+8	ne	_	_	_	_	_	_	_	id=s12.u7.w7
+9	fait	_	_	_	_	_	_	_	id=s12.u7.w8
+10	rien	_	_	_	_	_	_	_	id=s12.u7.w9
+11	ça	_	_	_	_	_	_	_	id=s12.u7.w10
+12	va	_	_	_	_	_	_	_	id=s12.u7.w11
+
+# sent_id = 025_C-3_363
+# text = 
+
+# sent_id = 025_C-3_364
+# text = oh on est tellement nombreux chez nous que b
+1	oh	_	_	_	_	_	_	_	id=s12.u9.w0
+2	on	_	_	_	_	_	_	_	id=s12.u9.w1
+3	est	_	_	_	_	_	_	_	id=s12.u9.w2
+4	tellement	_	_	_	_	_	_	_	id=s12.u9.w3
+5	nombreux	_	_	_	_	_	_	_	id=s12.u9.w4
+6	chez	_	_	_	_	_	_	_	id=s12.u9.w5
+7	nous	_	_	_	_	_	_	_	id=s12.u9.w6
+8	que	_	_	_	_	_	_	_	id=s12.u9.w7
+
+# sent_id = 025_C-3_365
+# text = euh non merci rire merci bien je vais regarder après
+1	euh	_	_	_	_	_	_	_	id=s12.u10.w0
+2	non	_	_	_	_	_	_	_	id=s12.u10.w1
+3	merci	_	_	_	_	_	_	_	id=s12.u10.w2
+4	merci	_	_	_	_	_	_	_	id=s12.u10.w3
+5	bien	_	_	_	_	_	_	_	id=s12.u10.w4
+6	je	_	_	_	_	_	_	_	id=s12.u10.w5
+7	vais	_	_	_	_	_	_	_	id=s12.u10.w6
+8	regarder	_	_	_	_	_	_	_	id=s12.u10.w7
+9	après	_	_	_	_	_	_	_	id=s12.u10.w8
+
+# sent_id = 025_C-3_366
+# text = le volume trois c' est le troisième
+1	le	_	_	_	_	_	_	_	id=s12.u11.w0
+2	volume	_	_	_	_	_	_	_	id=s12.u11.w1
+3	trois	_	_	_	_	_	_	_	id=s12.u11.w2
+4	c'	_	_	_	_	_	_	_	id=s12.u11.w3
+5	est	_	_	_	_	_	_	_	id=s12.u11.w4
+6	le	_	_	_	_	_	_	_	id=s12.u11.w5
+7	troisième	_	_	_	_	_	_	_	id=s12.u11.w6
+
+# sent_id = 025_C-3_367
+# text = c' est très lourd quand livre oui oui je regarderai tout à l' heure on va essayer de terminer ça nous pourrions enlever le micro et vous serez plus à l' aise euh voyons euh avez- vous un livre s- euh enfin un guide de savoir-vivre ?
+1	c'	_	_	_	_	_	_	_	id=s12.u12.w0
+2	est	_	_	_	_	_	_	_	id=s12.u12.w1
+3	très	_	_	_	_	_	_	_	id=s12.u12.w2
+4	lourd	_	_	_	_	_	_	_	id=s12.u12.w3
+5	quand	_	_	_	_	_	_	_	id=s12.u12.w4
+6	livre	_	_	_	_	_	_	_	id=s12.u12.w5
+7	oui	_	_	_	_	_	_	_	id=s12.u12.w6
+8	oui	_	_	_	_	_	_	_	id=s12.u12.w7
+9	je	_	_	_	_	_	_	_	id=s12.u12.w8
+10	regarderai	_	_	_	_	_	_	_	id=s12.u12.w9
+11	tout	_	_	_	_	_	_	_	id=s12.u12.w10
+12	à	_	_	_	_	_	_	_	id=s12.u12.w11
+13	l'	_	_	_	_	_	_	_	id=s12.u12.w12
+14	heure	_	_	_	_	_	_	_	id=s12.u12.w13
+15	on	_	_	_	_	_	_	_	id=s12.u12.w14
+16	va	_	_	_	_	_	_	_	id=s12.u12.w15
+17	essayer	_	_	_	_	_	_	_	id=s12.u12.w16
+18	de	_	_	_	_	_	_	_	id=s12.u12.w17
+19	terminer	_	_	_	_	_	_	_	id=s12.u12.w18
+20	ça	_	_	_	_	_	_	_	id=s12.u12.w19
+21	nous	_	_	_	_	_	_	_	id=s12.u12.w20
+22	pourrions	_	_	_	_	_	_	_	id=s12.u12.w21
+23	enlever	_	_	_	_	_	_	_	id=s12.u12.w22
+24	le	_	_	_	_	_	_	_	id=s12.u12.w23
+25	micro	_	_	_	_	_	_	_	id=s12.u12.w24
+26	et	_	_	_	_	_	_	_	id=s12.u12.w25
+27	vous	_	_	_	_	_	_	_	id=s12.u12.w26
+28	serez	_	_	_	_	_	_	_	id=s12.u12.w27
+29	plus	_	_	_	_	_	_	_	id=s12.u12.w28
+30	à	_	_	_	_	_	_	_	id=s12.u12.w29
+31	l'	_	_	_	_	_	_	_	id=s12.u12.w30
+32	aise	_	_	_	_	_	_	_	id=s12.u12.w31
+33	euh	_	_	_	_	_	_	_	id=s12.u12.w32
+34	voyons	_	_	_	_	_	_	_	id=s12.u12.w33
+35	euh	_	_	_	_	_	_	_	id=s12.u12.w34
+36	avez-	_	_	_	_	_	_	_	id=s12.u12.w35
+37	vous	_	_	_	_	_	_	_	id=s12.u12.w36
+38	un	_	_	_	_	_	_	_	id=s12.u12.w37
+39	livre	_	_	_	_	_	_	_	id=s12.u12.w38
+40	s-	_	_	_	_	_	_	_	id=s12.u12.w39
+41	euh	_	_	_	_	_	_	_	id=s12.u12.w40
+42	enfin	_	_	_	_	_	_	_	id=s12.u12.w41
+43	un	_	_	_	_	_	_	_	id=s12.u12.w42
+44	guide	_	_	_	_	_	_	_	id=s12.u12.w43
+45	de	_	_	_	_	_	_	_	id=s12.u12.w44
+46	savoir-vivre	_	_	_	_	_	_	_	id=s12.u12.w45
+
+# sent_id = 025_C-3_368
+# text = non
+1	non	_	_	_	_	_	_	_	id=s12.u13.w0
+
+# sent_id = 025_C-3_369
+# text = non hum euh vous trouvez que c' est utile toutes ces choses -là ?
+1	non	_	_	_	_	_	_	_	id=s12.u14.w0
+2	hum	_	_	_	_	_	_	_	id=s12.u14.w1
+3	euh	_	_	_	_	_	_	_	id=s12.u14.w2
+4	vous	_	_	_	_	_	_	_	id=s12.u14.w3
+5	trouvez	_	_	_	_	_	_	_	id=s12.u14.w4
+6	que	_	_	_	_	_	_	_	id=s12.u14.w5
+7	c'	_	_	_	_	_	_	_	id=s12.u14.w6
+8	est	_	_	_	_	_	_	_	id=s12.u14.w7
+9	utile	_	_	_	_	_	_	_	id=s12.u14.w8
+10	toutes	_	_	_	_	_	_	_	id=s12.u14.w9
+11	ces	_	_	_	_	_	_	_	id=s12.u14.w10
+12	choses	_	_	_	_	_	_	_	id=s12.u14.w11
+13	-là	_	_	_	_	_	_	_	id=s12.u14.w12
+
+# sent_id = 025_C-3_370
+# text = ah ça peut être utile oui
+1	ah	_	_	_	_	_	_	_	id=s12.u15.w0
+2	ça	_	_	_	_	_	_	_	id=s12.u15.w1
+3	peut	_	_	_	_	_	_	_	id=s12.u15.w2
+4	être	_	_	_	_	_	_	_	id=s12.u15.w3
+5	utile	_	_	_	_	_	_	_	id=s12.u15.w4
+6	oui	_	_	_	_	_	_	_	id=s12.u15.w5
+
+# sent_id = 025_C-3_371
+# text = oui ?
+1	oui	_	_	_	_	_	_	_	id=s12.u16.w0
+
+# sent_id = 025_C-3_372
+# text = ouais
+1	ouais	_	_	_	_	_	_	_	id=s12.u17.w0
+
+# sent_id = 025_C-3_373
+# text = pour
+1	pour	_	_	_	_	_	_	_	id=s12.u18.w0
+
+# sent_id = 025_C-3_374
+# text = certainement
+1	certainement	_	_	_	_	_	_	_	id=s12.u19.w0
+
+# sent_id = 025_C-3_375
+# text = pour pour qui pour quoi ?
+1	pour	_	_	_	_	_	_	_	id=s12.u20.w0
+2	pour	_	_	_	_	_	_	_	id=s12.u20.w1
+3	qui	_	_	_	_	_	_	_	id=s12.u20.w2
+4	pour	_	_	_	_	_	_	_	id=s12.u20.w3
+5	quoi	_	_	_	_	_	_	_	id=s12.u20.w4
+
+# sent_id = 025_C-3_376
+# text = bah je sais pas pour les relations et euh certaines certaines personnes ça peut être très utile
+1	bah	_	_	_	_	_	_	_	id=s12.u21.w0
+2	je	_	_	_	_	_	_	_	id=s12.u21.w1
+3	sais	_	_	_	_	_	_	_	id=s12.u21.w2
+4	pas	_	_	_	_	_	_	_	id=s12.u21.w3
+5	pour	_	_	_	_	_	_	_	id=s12.u21.w4
+6	les	_	_	_	_	_	_	_	id=s12.u21.w5
+7	relations	_	_	_	_	_	_	_	id=s12.u21.w6
+8	et	_	_	_	_	_	_	_	id=s12.u21.w7
+9	euh	_	_	_	_	_	_	_	id=s12.u21.w8
+10	certaines	_	_	_	_	_	_	_	id=s12.u21.w9
+11	certaines	_	_	_	_	_	_	_	id=s12.u21.w10
+12	personnes	_	_	_	_	_	_	_	id=s12.u21.w11
+13	ça	_	_	_	_	_	_	_	id=s12.u21.w12
+14	peut	_	_	_	_	_	_	_	id=s12.u21.w13
+15	être	_	_	_	_	_	_	_	id=s12.u21.w14
+16	très	_	_	_	_	_	_	_	id=s12.u21.w15
+17	utile	_	_	_	_	_	_	_	id=s12.u21.w16
+
+# sent_id = 025_C-3_377
+# text = oui euh hum bon alors là je vais arrêter
+1	oui	_	_	_	_	_	_	_	id=s12.u22.w0
+2	euh	_	_	_	_	_	_	_	id=s12.u22.w1
+3	hum	_	_	_	_	_	_	_	id=s12.u22.w2
+4	bon	_	_	_	_	_	_	_	id=s12.u22.w3
+5	alors	_	_	_	_	_	_	_	id=s12.u22.w4
+6	là	_	_	_	_	_	_	_	id=s12.u22.w5
+7	je	_	_	_	_	_	_	_	id=s12.u22.w6
+8	vais	_	_	_	_	_	_	_	id=s12.u22.w7
+9	arrêter	_	_	_	_	_	_	_	id=s12.u22.w8
+

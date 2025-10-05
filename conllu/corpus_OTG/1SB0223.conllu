@@ -1,0 +1,26 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0223_0
+# text = la rue Stendhal s' il vous plaît
+1	la	_	_	_	_	_	_	_	id=s1.u0.w0
+2	rue	_	_	_	_	_	_	_	id=s1.u0.w1
+3	Stendhal	_	_	_	_	_	_	_	id=s1.u0.w2
+4	s'	_	_	_	_	_	_	_	id=s1.u0.w3
+5	il	_	_	_	_	_	_	_	id=s1.u0.w4
+6	vous	_	_	_	_	_	_	_	id=s1.u0.w5
+7	plaît	_	_	_	_	_	_	_	id=s1.u0.w6
+
+# sent_id = 1SB0223_1
+# text = e la rue Beyle Stendhal elle est derrière
+1	e	_	_	_	_	_	_	_	id=s1.u1.w0
+2	la	_	_	_	_	_	_	_	id=s1.u1.w1
+3	rue	_	_	_	_	_	_	_	id=s1.u1.w2
+4	Beyle	_	_	_	_	_	_	_	id=s1.u1.w3
+5	Stendhal	_	_	_	_	_	_	_	id=s1.u1.w4
+6	elle	_	_	_	_	_	_	_	id=s1.u1.w5
+7	est	_	_	_	_	_	_	_	id=s1.u1.w6
+8	derrière	_	_	_	_	_	_	_	id=s1.u1.w7
+
+# sent_id = 1SB0223_2
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u2.w0
+

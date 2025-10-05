@@ -1,0 +1,77 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0265_0
+# text = je voudrais avoir des informations sur tous les clubs de marche en montagne qui existent sur la région
+1	je	_	_	_	_	_	_	_	id=s1.u0.w0
+2	voudrais	_	_	_	_	_	_	_	id=s1.u0.w1
+3	avoir	_	_	_	_	_	_	_	id=s1.u0.w2
+4	des	_	_	_	_	_	_	_	id=s1.u0.w3
+5	informations	_	_	_	_	_	_	_	id=s1.u0.w4
+6	sur	_	_	_	_	_	_	_	id=s1.u0.w5
+7	tous	_	_	_	_	_	_	_	id=s1.u0.w6
+8	les	_	_	_	_	_	_	_	id=s1.u0.w7
+9	clubs	_	_	_	_	_	_	_	id=s1.u0.w8
+10	de	_	_	_	_	_	_	_	id=s1.u0.w9
+11	marche	_	_	_	_	_	_	_	id=s1.u0.w10
+12	en	_	_	_	_	_	_	_	id=s1.u0.w11
+13	montagne	_	_	_	_	_	_	_	id=s1.u0.w12
+14	qui	_	_	_	_	_	_	_	id=s1.u0.w13
+15	existent	_	_	_	_	_	_	_	id=s1.u0.w14
+16	sur	_	_	_	_	_	_	_	id=s1.u0.w15
+17	la	_	_	_	_	_	_	_	id=s1.u0.w16
+18	région	_	_	_	_	_	_	_	id=s1.u0.w17
+
+# sent_id = 1SB0265_1
+# text = hum c' est " info montagne " qui ah mais je dois avoir la liste maintenant voilà l' école de montagne
+1	hum	_	_	_	_	_	_	_	id=s1.u1.w0
+2	c'	_	_	_	_	_	_	_	id=s1.u1.w1
+3	est	_	_	_	_	_	_	_	id=s1.u1.w2
+4	info	_	_	_	_	_	_	_	id=s1.u1.w4
+5	montagne	_	_	_	_	_	_	_	id=s1.u1.w5
+6	qui	_	_	_	_	_	_	_	id=s1.u1.w7
+7	ah	_	_	_	_	_	_	_	id=s1.u1.w8
+8	mais	_	_	_	_	_	_	_	id=s1.u1.w9
+9	je	_	_	_	_	_	_	_	id=s1.u1.w10
+10	dois	_	_	_	_	_	_	_	id=s1.u1.w11
+11	avoir	_	_	_	_	_	_	_	id=s1.u1.w12
+12	la	_	_	_	_	_	_	_	id=s1.u1.w13
+13	liste	_	_	_	_	_	_	_	id=s1.u1.w14
+14	maintenant	_	_	_	_	_	_	_	id=s1.u1.w15
+15	voilà	_	_	_	_	_	_	_	id=s1.u1.w16
+16	l'	_	_	_	_	_	_	_	id=s1.u1.w17
+17	école	_	_	_	_	_	_	_	id=s1.u1.w18
+18	de	_	_	_	_	_	_	_	id=s1.u1.w19
+19	montagne	_	_	_	_	_	_	_	id=s1.u1.w20
+
+# sent_id = 1SB0265_2
+# text = ils m' en donneront plus ou pas
+1	ils	_	_	_	_	_	_	_	id=s1.u2.w0
+2	m'	_	_	_	_	_	_	_	id=s1.u2.w1
+3	en	_	_	_	_	_	_	_	id=s1.u2.w2
+4	donneront	_	_	_	_	_	_	_	id=s1.u2.w3
+5	plus	_	_	_	_	_	_	_	id=s1.u2.w4
+6	ou	_	_	_	_	_	_	_	id=s1.u2.w5
+7	pas	_	_	_	_	_	_	_	id=s1.u2.w6
+
+# sent_id = 1SB0265_3
+# text = ils vous donneront des des plans de randonnée peut être
+1	ils	_	_	_	_	_	_	_	id=s1.u3.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u3.w1
+3	donneront	_	_	_	_	_	_	_	id=s1.u3.w2
+4	des	_	_	_	_	_	_	_	id=s1.u3.w3
+5	des	_	_	_	_	_	_	_	id=s1.u3.w4
+6	plans	_	_	_	_	_	_	_	id=s1.u3.w5
+7	de	_	_	_	_	_	_	_	id=s1.u3.w6
+8	randonnée	_	_	_	_	_	_	_	id=s1.u3.w7
+9	peut	_	_	_	_	_	_	_	id=s1.u3.w8
+10	être	_	_	_	_	_	_	_	id=s1.u3.w9
+
+# sent_id = 1SB0265_4
+# text = ah oui
+1	ah	_	_	_	_	_	_	_	id=s1.u4.w0
+2	oui	_	_	_	_	_	_	_	id=s1.u4.w1
+
+# sent_id = 1SB0265_5
+# text = oh oui
+1	oh	_	_	_	_	_	_	_	id=s1.u5.w0
+2	oui	_	_	_	_	_	_	_	id=s1.u5.w1
+

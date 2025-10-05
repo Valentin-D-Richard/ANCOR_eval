@@ -1,0 +1,92 @@
+# sent_id = 1PF0427_0
+# text = madame bonjour
+1	madame	madame	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u0.w0
+2	bonjour	bonjour	NOUN	_	_	1	nmod	_	_none=|id=s1.u0.w1
+
+# sent_id = 1PF0427_1
+# text = bonjour on m' a dit qu' il avait été édité un guide des pistes cyclables
+1	bonjour	bonjour	NOUN	_	_	5	discourse	_	_none=|id=s1.u1.w0
+2	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj	_	_none=|id=s1.u1.w1
+3	m'	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	5	iobj	_	_none=|id=s1.u1.w2
+4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_none=|id=s1.u1.w3
+5	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u1.w4
+6	qu'	que	SCONJ	_	_	10	mark	_	_none=|id=s1.u1.w5
+7	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_none=|id=s1.u1.w6
+8	avait	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux:tense	_	_none=|id=s1.u1.w7
+9	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	aux:pass	_	_none=|id=s1.u1.w8
+10	édité	éditer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	ccomp	_	_none=|id=s1.u1.w9
+11	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	id=s1.u1.w10
+12	guide	guide	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_none=|id=s1.u1.w11
+13	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	14	det	_	id=s1.u1.w12
+14	pistes	piste	NOUN	_	Gender=Fem|Number=Plur	12	nmod	_	id=s1.u1.w13
+15	cyclables	cyclable	ADJ	_	Gender=Fem|Number=Plur	14	amod	_	id=s1.u1.w14
+
+# sent_id = 1PF0427_2
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u2.w0
+
+# sent_id = 1PF0427_3
+# text = si on met le trou dans les troupes
+1	si	si	SCONJ	_	_	3	mark	_	_none=|id=s1.u3.w0
+2	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_none=|id=s1.u3.w1
+3	met	metre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u3.w2
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_none=|id=s1.u3.w3
+5	trou	trou	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	id=s1.u3.w4
+6	dans	dans	ADP	_	_	8	case	_	_none=|id=s1.u3.w5
+7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	id=s1.u3.w6
+8	troupes	troupe	NOUN	_	Gender=Fem|Number=Plur	3	obl:mod	_	id=s1.u3.w7
+
+# sent_id = 1PF0427_4
+# text = les pistes cyclables
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	id=s1.u4.w0
+2	pistes	piste	NOUN	_	Gender=Fem|Number=Plur	0	root	_	id=s1.u4.w1
+3	cyclables	cyclable	ADJ	_	Gender=Masc|Number=Plur	2	amod	_	id=s1.u4.w2
+
+# sent_id = 1PF0427_5
+# text = oui merci pourrais je en avoir d' autres non c' est pas possible
+1	oui	oui	ADV	_	_	3	discourse	_	_none=|id=s1.u5.w0
+2	merci	merci	INTJ	_	_	3	discourse	_	_none=|id=s1.u5.w1
+3	pourrais	pouvoir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u5.w2
+4	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u5.w3
+5	en	en	PRON	_	Person=3|PronType=Prs	6	obj	_	id=s1.u5.w4
+6	avoir	avoir	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u5.w5
+7	d'	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	8	det	_	id=s1.u5.w6
+8	autres	autre	PRON	_	Gender=Masc|Number=Plur	6	obj	_	id=s1.u5.w7
+9	non	non	ADV	_	Polarity=Neg	13	discourse	_	id=s1.u5.w8
+10	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj	_	id=s1.u5.w9
+11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	id=s1.u5.w10
+12	pas	pas	ADV	_	Polarity=Neg	13	advmod	_	id=s1.u5.w11
+13	possible	possible	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	id=s1.u5.w12
+
+# sent_id = 1PF0427_6
+# text = deux e j' en ai plus qu' un alors e
+1	deux	deux	NUM	_	Number=Plur	5	obl:mod	_	_none=|id=s1.u6.w0
+2	e	e	NOUN	_	_	1	flat	_	_none=|id=s1.u6.w1
+3	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u6.w2
+4	en	en	PRON	_	Person=3|PronType=Prs	5	obj	_	id=s1.u6.w3
+5	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u6.w4
+6	plus	plus	ADV	_	_	5	advmod	_	_none=|id=s1.u6.w5
+7	qu'	que	SCONJ	_	_	8	dep	_	_none=|id=s1.u6.w6
+8	un	un	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	obj	_	_none=|id=s1.u6.w7
+9	alors	alors	ADV	_	_	5	advmod	_	_none=|id=s1.u6.w8
+10	e	e	INTJ	_	_	5	punct	_	id=s1.u6.w9
+
+# sent_id = 1PF0427_7
+# text = vous les donnez
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	id=s1.u7.w0
+2	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	3	obj	_	id=s1.u7.w1
+3	donnez	donner	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u7.w2
+
+# sent_id = 1PF0427_8
+# text = bon
+1	bon	bon	INTJ	_	_	0	root	_	_none=|id=s1.u8.w0
+
+# sent_id = 1PF0427_9
+# text = il faudrait que vous repassiez madame
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	_none=|id=s1.u9.w0
+2	faudrait	falloir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u9.w1
+3	que	que	SCONJ	_	_	5	mark	_	_none=|id=s1.u9.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_none=|id=s1.u9.w3
+5	repassiez	repître	VERB	ETRE	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	2	ccomp	_	id=s1.u9.w4
+6	madame	madame	NOUN	_	Gender=Fem|Number=Sing	5	vocative	_	id=s1.u9.w5
+

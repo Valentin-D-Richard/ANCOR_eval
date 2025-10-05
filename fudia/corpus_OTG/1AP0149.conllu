@@ -1,0 +1,66 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0149_1
+# text = madame nous sommes autorisés par la municipalité pour mettre cette belle affiche
+1	madame	madame	NOUN	_	Gender=Masc|Number=Sing	4	vocative	_	_none=|id=s1.u1.w0
+2	nous	il	PRON	_	Number=Plur|Person=1|PronType=Prs	4	nsubj:pass	_	_none=|id=s1.u1.w1
+3	sommes	être	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux:pass	_	id=s1.u1.w2
+4	autorisés	autoriser	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	id=s1.u1.w3
+5	par	par	ADP	_	_	7	case	_	_none=|id=s1.u1.w4
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	id=s1.u1.w5
+7	municipalité	municipalité	NOUN	_	Gender=Fem|Number=Sing	4	obl:mod	_	_none=|id=s1.u1.w6
+8	pour	pour	ADP	_	_	9	mark	_	_none=|id=s1.u1.w7
+9	mettre	mettre	VERB	_	VerbForm=Inf	4	advcl	_	id=s1.u1.w8
+10	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	12	det	_	id=s1.u1.w9
+11	belle	bell	ADJ	_	Gender=Fem|Number=Sing	12	amod	_	id=s1.u1.w10
+12	affiche	affiche	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	id=s1.u1.w11
+
+# sent_id = 1AP0149_2
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u2.w0
+
+# sent_id = 1AP0149_3
+# text = voyez " société d' écologie du Dauphiné " c' est celle qu' on vous donne chaque année
+1	voyez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	discourse	_	_none=|id=s1.u3.w0
+2	société	société	NOUN	_	Gender=Fem|Number=Sing	9	dislocated	_	id=s1.u3.w2
+3	d'	de	ADP	_	_	4	case	_	id=s1.u3.w3
+4	écologie	écologie	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	id=s1.u3.w4
+5	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_none=|id=s1.u3.w5
+6	Dauphiné	Dauphiné	PROPN	_	_	2	nmod	_	_none=|id=s1.u3.w6
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	id=s1.u3.w8
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	id=s1.u3.w9
+9	celle	celle	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	id=s1.u3.w10
+10	qu'	que	PRON	_	PronType=Rel	13	obj	_	id=s1.u3.w11
+11	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	13	nsubj	_	_none=|id=s1.u3.w12
+12	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	13	iobj	_	id=s1.u3.w13
+13	donne	donner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_none=|id=s1.u3.w14
+14	chaque	chaque	DET	_	Number=Sing|Person=3|PronType=Ind	15	det	_	_none=|id=s1.u3.w15
+15	année	année	NOUN	_	Gender=Fem|Number=Sing	13	obl:mod	_	_none=|id=s1.u3.w16
+
+# sent_id = 1AP0149_4
+# text = d' accord " société d' écologie " sans problème on va la mettre hein
+1	d'	de	ADP	_	_	2	case	_	_none=|id=s1.u4.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	9	discourse	_	id=s1.u4.w1
+3	société	société	NOUN	_	Gender=Fem|Number=Sing	9	dislocated	_	id=s1.u4.w3
+4	d'	de	ADP	_	_	5	case	_	id=s1.u4.w4
+5	écologie	écologie	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	id=s1.u4.w5
+6	sans	sans	ADP	_	_	7	case	_	_none=|id=s1.u4.w7
+7	problème	problème	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_none=|id=s1.u4.w8
+8	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	9	nsubj	_	_none=|id=s1.u4.w9
+9	va	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w10
+10	la	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	id=s1.u4.w11
+11	mettre	mettre	VERB	_	VerbForm=Inf	9	xcomp	_	id=s1.u4.w12
+12	hein	hein	INTJ	_	_	9	discourse	_	_none=|id=s1.u4.w13
+
+# sent_id = 1AP0149_5
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u5.w0
+
+# sent_id = 1AP0149_6
+# text = merci à vous monsieur au revoir
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u6.w0
+2	à	à	ADP	_	_	3	case	_	_none=|id=s1.u6.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	1	nmod	_	id=s1.u6.w2
+4	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	_none=|id=s1.u6.w3
+5	au	au	ADP	_	_	6	case	_	_none=|id=s1.u6.w4
+6	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	4	acl	_	_none=|id=s1.u6.w5
+

@@ -1,0 +1,73 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0403_0
+# text = est ce que vous avez un plan de Grenoble avec le plan du quartier Europôle
+1	est	_	_	_	_	_	_	_	id=s1.u0.w0
+2	ce	_	_	_	_	_	_	_	id=s1.u0.w1
+3	que	_	_	_	_	_	_	_	id=s1.u0.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u0.w3
+5	avez	_	_	_	_	_	_	_	id=s1.u0.w4
+6	un	_	_	_	_	_	_	_	id=s1.u0.w5
+7	plan	_	_	_	_	_	_	_	id=s1.u0.w6
+8	de	_	_	_	_	_	_	_	id=s1.u0.w7
+9	Grenoble	_	_	_	_	_	_	_	id=s1.u0.w8
+10	avec	_	_	_	_	_	_	_	id=s1.u0.w9
+11	le	_	_	_	_	_	_	_	id=s1.u0.w10
+12	plan	_	_	_	_	_	_	_	id=s1.u0.w11
+13	du	_	_	_	_	_	_	_	id=s1.u0.w12
+14	quartier	_	_	_	_	_	_	_	id=s1.u0.w13
+15	Europôle	_	_	_	_	_	_	_	id=s1.u0.w14
+
+# sent_id = 1SB0403_1
+# text = j' ai le plan du Grenoble avec e l' indication du quartier Europôle
+1	j'	_	_	_	_	_	_	_	id=s1.u1.w0
+2	ai	_	_	_	_	_	_	_	id=s1.u1.w1
+3	le	_	_	_	_	_	_	_	id=s1.u1.w2
+4	plan	_	_	_	_	_	_	_	id=s1.u1.w3
+5	du	_	_	_	_	_	_	_	id=s1.u1.w4
+6	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w5
+7	avec	_	_	_	_	_	_	_	id=s1.u1.w6
+8	e	_	_	_	_	_	_	_	id=s1.u1.w7
+9	l'	_	_	_	_	_	_	_	id=s1.u1.w8
+10	indication	_	_	_	_	_	_	_	id=s1.u1.w9
+11	du	_	_	_	_	_	_	_	id=s1.u1.w10
+12	quartier	_	_	_	_	_	_	_	id=s1.u1.w11
+13	Europôle	_	_	_	_	_	_	_	id=s1.u1.w12
+
+# sent_id = 1SB0403_2
+# text = ouais mais e vous n' avez pas un plan où il y aurait les immeubles c' est nul même en petit
+1	ouais	_	_	_	_	_	_	_	id=s1.u2.w0
+2	mais	_	_	_	_	_	_	_	id=s1.u2.w1
+3	e	_	_	_	_	_	_	_	id=s1.u2.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u2.w3
+5	n'	_	_	_	_	_	_	_	id=s1.u2.w4
+6	avez	_	_	_	_	_	_	_	id=s1.u2.w5
+7	pas	_	_	_	_	_	_	_	id=s1.u2.w6
+8	un	_	_	_	_	_	_	_	id=s1.u2.w7
+9	plan	_	_	_	_	_	_	_	id=s1.u2.w8
+10	où	_	_	_	_	_	_	_	id=s1.u2.w9
+11	il	_	_	_	_	_	_	_	id=s1.u2.w10
+12	y	_	_	_	_	_	_	_	id=s1.u2.w11
+13	aurait	_	_	_	_	_	_	_	id=s1.u2.w12
+14	les	_	_	_	_	_	_	_	id=s1.u2.w13
+15	immeubles	_	_	_	_	_	_	_	id=s1.u2.w14
+16	c'	_	_	_	_	_	_	_	id=s1.u2.w15
+17	est	_	_	_	_	_	_	_	id=s1.u2.w16
+18	nul	_	_	_	_	_	_	_	id=s1.u2.w17
+19	même	_	_	_	_	_	_	_	id=s1.u2.w18
+20	en	_	_	_	_	_	_	_	id=s1.u2.w19
+21	petit	_	_	_	_	_	_	_	id=s1.u2.w20
+
+# sent_id = 1SB0403_3
+# text = oh non
+1	oh	_	_	_	_	_	_	_	id=s1.u3.w0
+2	non	_	_	_	_	_	_	_	id=s1.u3.w1
+
+# sent_id = 1SB0403_4
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u4.w0
+
+# sent_id = 1SB0403_5
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u5.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u5.w1
+

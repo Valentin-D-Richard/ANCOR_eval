@@ -1,0 +1,66 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0043_0
+# text = monsieur
+1	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1SB0043_1
+# text = bonjour voilà je voulais me renseigner pour acheter une carte jeune
+1	bonjour	bonjour	INTJ	_	_	4	discourse	_	_none=|id=s1.u1.w0
+2	voilà	voilà	VERB	_	_	4	discourse	_	_none=|id=s1.u1.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u1.w2
+4	voulais	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w3
+5	me	se	PRON	_	Number=Sing|Person=1|PronType=Prs|Reflex=Yes	6	expl:comp	_	_none=|id=s1.u1.w4
+6	renseigner	renseigner	VERB	_	VerbForm=Inf	4	xcomp	_	id=s1.u1.w5
+7	pour	pour	ADP	_	_	8	mark	_	_none=|id=s1.u1.w6
+8	acheter	acheter	VERB	_	VerbForm=Inf	6	advcl	_	id=s1.u1.w7
+9	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	id=s1.u1.w8
+10	carte	carte	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	id=s1.u1.w9
+11	jeune	jeune	ADJ	_	Number=Sing	10	amod	_	_none=|id=s1.u1.w10
+
+# sent_id = 1SB0043_2
+# text = carte jeune alors il faut aller au CRIJ huit rue Voltaire derrière l' immeuble
+1	carte	carte	NOUN	_	Gender=Fem|Number=Sing	5	dislocated	_	id=s1.u2.w0
+2	jeune	jeune	ADJ	_	Number=Sing	1	amod	_	_none=|id=s1.u2.w1
+3	alors	alors	ADV	_	_	5	advmod	_	_none=|id=s1.u2.w2
+4	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:subj	_	_none=|id=s1.u2.w3
+5	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w4
+6	aller	aller	VERB	ETRE	VerbForm=Inf	5	ccomp	_	id=s1.u2.w5
+7	au	au	ADP	_	_	8	case	_	_none=|id=s1.u2.w6
+8	CRIJ	CRIJ	PROPN	_	_	6	obl:arg	_	_none=|id=s1.u2.w7
+9	huit	huit	NUM	_	Number=Plur	8	nmod	_	_none=|id=s1.u2.w8
+10	rue	rue	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	id=s1.u2.w9
+11	Voltaire	Voltaire	PROPN	_	_	10	nmod:appos	_	id=s1.u2.w10
+12	derrière	derrière	ADP	_	_	14	case	_	_none=|id=s1.u2.w11
+13	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	14	det	_	id=s1.u2.w12
+14	immeuble	immeuble	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	_none=|id=s1.u2.w13
+
+# sent_id = 1SB0043_3
+# text = derrière cet immeuble là
+1	derrière	derrière	ADP	_	_	3	case	_	_none=|id=s1.u3.w0
+2	cet	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	id=s1.u3.w1
+3	immeuble	immeuble	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u3.w2
+4	là	là	ADV	_	_	3	advmod	_	_none=|id=s1.u3.w3
+
+# sent_id = 1SB0043_4
+# text = vous faites le tour comme ça
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	id=s1.u4.w0
+2	faites	faire	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w1
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_none=|id=s1.u4.w2
+4	tour	tour	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_none=|id=s1.u4.w3
+5	comme	comme	ADP	_	_	6	case	_	_none=|id=s1.u4.w4
+6	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	obl:mod	_	id=s1.u4.w5
+
+# sent_id = 1SB0043_5
+# text = d' accord merci beaucoup au revoir
+1	d'	de	ADP	_	_	3	case	_	_none=|id=s1.u5.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u5.w1
+3	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u5.w2
+4	beaucoup	beaucoup	ADV	_	_	3	advmod	_	_none=|id=s1.u5.w3
+5	au	au	ADP	_	_	6	case	_	_none=|id=s1.u5.w4
+6	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	3	advcl	_	id=s1.u5.w5
+
+# sent_id = 1SB0043_6
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u6.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u6.w1
+

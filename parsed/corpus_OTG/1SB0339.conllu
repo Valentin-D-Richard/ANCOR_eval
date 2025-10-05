@@ -1,0 +1,74 @@
+# sent_id = 1SB0339_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1SB0339_1
+# text = bonjour je viens chercher des plans pour un hôtel je me rappelle plus oui " château de la Commanderie " et ben voyez
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	viens	venir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u1.w2
+4	chercher	chercher	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u1.w3
+5	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	6	det	_	id=s1.u1.w4
+6	plans	plan	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	id=s1.u1.w5
+7	pour	pour	ADP	_	_	9	case	_	_none=|id=s1.u1.w6
+8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	id=s1.u1.w7
+9	hôtel	hôtel	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_none=|id=s1.u1.w8
+10	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_none=|id=s1.u1.w9
+11	me	se	PRON	_	Number=Sing|Person=1|PronType=Prs	12	expl:comp	_	_none=|id=s1.u1.w10
+12	rappelle	rappeler	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	discourse	_	_none=|id=s1.u1.w11
+13	plus	plus	ADV	_	_	12	advmod	_	_none=|id=s1.u1.w12
+14	oui	oui	ADV	_	_	12	obj	_	_none=|id=s1.u1.w13
+15	château	château	NOUN	_	Gender=Masc|Number=Sing	6	appos	_	id=s1.u1.w15
+16	de	de	ADP	_	_	18	case	_	_none=|id=s1.u1.w16
+17	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	id=s1.u1.w17
+18	Commanderie	Commanderie	PROPN	_	_	15	nmod	_	id=s1.u1.w18
+19	et	et	CCONJ	_	_	20	cc	_	_none=|id=s1.u1.w20
+20	ben	ben	INTJ	_	_	15	conj	_	id=s1.u1.w21
+21	voyez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	12	conj	_	id=s1.u1.w22
+
+# sent_id = 1SB0339_2
+# text = vous avez commandé
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	id=s1.u2.w0
+2	avez	avoir	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	aux:tense	_	id=s1.u2.w1
+3	commandé	commander	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u2.w2
+
+# sent_id = 1SB0339_4
+# text = ah il faut que vous montiez au troisième par contre d' accord vous avez un ascenseur juste après le Cargo
+1	ah	ah	INTJ	_	_	3	discourse	_	id=s1.u4.w0
+2	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_none=|id=s1.u4.w1
+3	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w2
+4	que	que	SCONJ	_	_	6	mark	_	_none=|id=s1.u4.w3
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	id=s1.u4.w4
+6	montiez	montier	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	id=s1.u4.w5
+7	au	au	ADP	_	_	8	case	_	_none=|id=s1.u4.w6
+8	troisième	troisième	ADJ	_	Number=Sing	6	obl:arg	_	_none=|id=s1.u4.w7
+9	par	par	ADP	_	_	14	mark	_	_none=|id=s1.u4.w8
+10	contre	contre	NOUN	_	_	9	fixed	_	id=s1.u4.w9
+11	d'	de	ADP	_	_	12	case	_	_none=|id=s1.u4.w10
+12	accord	accord	NOUN	_	Gender=Masc|Number=Sing	9	fixed	_	id=s1.u4.w11
+13	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	14	nsubj	_	id=s1.u4.w12
+14	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_none=|id=s1.u4.w13
+15	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	id=s1.u4.w14
+16	ascenseur	ascenseur	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	id=s1.u4.w15
+17	juste	juste	ADV	_	_	18	advmod	_	_none=|id=s1.u4.w16
+18	après	après	ADP	_	_	20	case	_	_none=|id=s1.u4.w17
+19	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	id=s1.u4.w18
+20	Cargo	Cargo	PROPN	_	_	16	nmod	_	_none=|id=s1.u4.w19
+
+# sent_id = 1SB0339_5
+# text = troisième étage c' est
+1	troisième	troisième	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_none=|id=s1.u5.w0
+2	étage	étage	NOUN	_	Gender=Masc|Number=Sing	4	dislocated	_	_none=|id=s1.u5.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	id=s1.u5.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u5.w3
+
+# sent_id = 1SB0339_6
+# text = merci beaucoup
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u6.w0
+2	beaucoup	beaucoup	ADV	_	_	1	advmod	_	_none=|id=s1.u6.w1
+
+# sent_id = 1SB0339_7
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u7.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u7.w1
+

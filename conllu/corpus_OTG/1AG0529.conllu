@@ -1,0 +1,36 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0529_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AG0529_1
+# text = est ce que vous auriez un plan de Grenoble s' il vous plaît
+1	est	_	_	_	_	_	_	_	id=s1.u1.w0
+2	ce	_	_	_	_	_	_	_	id=s1.u1.w1
+3	que	_	_	_	_	_	_	_	id=s1.u1.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u1.w3
+5	auriez	_	_	_	_	_	_	_	id=s1.u1.w4
+6	un	_	_	_	_	_	_	_	id=s1.u1.w5
+7	plan	_	_	_	_	_	_	_	id=s1.u1.w6
+8	de	_	_	_	_	_	_	_	id=s1.u1.w7
+9	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w8
+10	s'	_	_	_	_	_	_	_	id=s1.u1.w9
+11	il	_	_	_	_	_	_	_	id=s1.u1.w10
+12	vous	_	_	_	_	_	_	_	id=s1.u1.w11
+13	plaît	_	_	_	_	_	_	_	id=s1.u1.w12
+
+# sent_id = 1AG0529_2
+# text = bien sûr voilà
+1	bien	_	_	_	_	_	_	_	id=s1.u2.w0
+2	sûr	_	_	_	_	_	_	_	id=s1.u2.w1
+3	voilà	_	_	_	_	_	_	_	id=s1.u2.w2
+
+# sent_id = 1AG0529_3
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1AG0529_4
+# text = de rien
+1	de	_	_	_	_	_	_	_	id=s1.u4.w0
+2	rien	_	_	_	_	_	_	_	id=s1.u4.w1
+

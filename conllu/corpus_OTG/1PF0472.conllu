@@ -1,0 +1,42 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0472_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1PF0472_1
+# text = je pourrais avoir un plan de Gap s' il vous plaît
+1	je	_	_	_	_	_	_	_	id=s1.u1.w0
+2	pourrais	_	_	_	_	_	_	_	id=s1.u1.w1
+3	avoir	_	_	_	_	_	_	_	id=s1.u1.w2
+4	un	_	_	_	_	_	_	_	id=s1.u1.w3
+5	plan	_	_	_	_	_	_	_	id=s1.u1.w4
+6	de	_	_	_	_	_	_	_	id=s1.u1.w5
+7	Gap	_	_	_	_	_	_	_	id=s1.u1.w6
+8	s'	_	_	_	_	_	_	_	id=s1.u1.w7
+9	il	_	_	_	_	_	_	_	id=s1.u1.w8
+10	vous	_	_	_	_	_	_	_	id=s1.u1.w9
+11	plaît	_	_	_	_	_	_	_	id=s1.u1.w10
+
+# sent_id = 1PF0472_2
+# text = voilà
+1	voilà	_	_	_	_	_	_	_	id=s1.u2.w0
+
+# sent_id = 1PF0472_3
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1PF0472_4
+# text = c' est moi monsieur au revoir
+1	c'	_	_	_	_	_	_	_	id=s1.u4.w0
+2	est	_	_	_	_	_	_	_	id=s1.u4.w1
+3	moi	_	_	_	_	_	_	_	id=s1.u4.w2
+4	monsieur	_	_	_	_	_	_	_	id=s1.u4.w3
+5	au	_	_	_	_	_	_	_	id=s1.u4.w4
+6	revoir	_	_	_	_	_	_	_	id=s1.u4.w5
+
+# sent_id = 1PF0472_5
+# text = on sait jamais
+1	on	_	_	_	_	_	_	_	id=s1.u5.w0
+2	sait	_	_	_	_	_	_	_	id=s1.u5.w1
+3	jamais	_	_	_	_	_	_	_	id=s1.u5.w2
+

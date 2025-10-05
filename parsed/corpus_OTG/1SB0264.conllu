@@ -1,0 +1,45 @@
+# sent_id = 1SB0264_0
+# text = bon allez
+1	bon	bon	INTJ	_	_	2	advmod	_	_none=|id=s1.u0.w0
+2	allez	aller	VERB	ETRE	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u0.w1
+
+# sent_id = 1SB0264_1
+# text = dites moi qu' est ce qu' il y a à faire ce soir dans la ville
+1	dites	dre	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	discourse	_	_none=|id=s1.u1.w0
+2	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	1	dislocated	_	_none=|id=s1.u1.w1
+3	qu'	que	PRON	_	Person=3|PronType=Int	0	root	_	id=s1.u1.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u1.w3
+5	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	dislocated	_	id=s1.u1.w4
+6	qu'	que	PRON	_	PronType=Rel	9	obj	_	id=s1.u1.w5
+7	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl:subj	_	_none=|id=s1.u1.w6
+8	y	y	PRON	_	Person=3|PronType=Prs	9	expl:comp	_	id=s1.u1.w7
+9	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	id=s1.u1.w8
+10	à	à	ADP	_	_	11	mark	_	_none=|id=s1.u1.w9
+11	faire	faire	VERB	_	VerbForm=Inf	9	xcomp	_	_none=|id=s1.u1.w10
+12	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	13	det	_	_none=|id=s1.u1.w11
+13	soir	soir	NOUN	_	Gender=Masc|Number=Sing	11	obl:mod	_	_none=|id=s1.u1.w12
+14	dans	dans	ADP	_	_	16	case	_	_none=|id=s1.u1.w13
+15	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	id=s1.u1.w14
+16	ville	ville	NOUN	_	Gender=Fem|Number=Sing	9	obl:mod	_	id=s1.u1.w15
+
+# sent_id = 1SB0264_3
+# text = ce soir dans la ville faut regarder dans " le petit bulletin " monsieur ou e dans le " Grenoble contact "
+1	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_none=|id=s1.u3.w0
+2	soir	soir	NOUN	_	Gender=Masc|Number=Sing	6	dislocated	_	_none=|id=s1.u3.w1
+3	dans	dans	ADP	_	_	5	case	_	_none=|id=s1.u3.w2
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	id=s1.u3.w3
+5	ville	ville	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	id=s1.u3.w4
+6	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u3.w5
+7	regarder	regarder	VERB	_	VerbForm=Inf	6	ccomp	_	_none=|id=s1.u3.w6
+8	dans	dans	ADP	_	_	11	case	_	_none=|id=s1.u3.w7
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_none=|id=s1.u3.w9
+10	petit	petit	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_none=|id=s1.u3.w10
+11	bulletin	bulletin	NOUN	_	Gender=Masc|Number=Sing	7	obl:mod	_	_none=|id=s1.u3.w11
+12	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	11	appos	_	_none=|id=s1.u3.w13
+13	ou	ou	CCONJ	_	_	14	cc	_	id=s1.u3.w14
+14	e	e	INTJ	_	Number=Sing	17	conj	_	id=s1.u3.w15
+15	dans	dans	ADP	_	_	17	case	_	_none=|id=s1.u3.w16
+16	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	id=s1.u3.w17
+17	Grenoble	Grenoble	PROPN	_	_	11	conj	_	id=s1.u3.w19
+18	contact	contact	NOUN	_	Gender=Masc|Number=Sing	6	discourse	_	id=s1.u3.w20
+

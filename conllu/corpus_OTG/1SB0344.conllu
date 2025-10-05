@@ -1,0 +1,61 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0344_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1SB0344_1
+# text = bonjour je cherche une auto école sur ou dans le coin de du " cerf rouge " je pourrais savoir où je peux en trouver une
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	je	_	_	_	_	_	_	_	id=s1.u1.w1
+3	cherche	_	_	_	_	_	_	_	id=s1.u1.w2
+4	une	_	_	_	_	_	_	_	id=s1.u1.w3
+5	auto	_	_	_	_	_	_	_	id=s1.u1.w4
+6	école	_	_	_	_	_	_	_	id=s1.u1.w5
+7	sur	_	_	_	_	_	_	_	id=s1.u1.w6
+8	ou	_	_	_	_	_	_	_	id=s1.u1.w7
+9	dans	_	_	_	_	_	_	_	id=s1.u1.w8
+10	le	_	_	_	_	_	_	_	id=s1.u1.w9
+11	coin	_	_	_	_	_	_	_	id=s1.u1.w10
+12	de	_	_	_	_	_	_	_	id=s1.u1.w11
+13	du	_	_	_	_	_	_	_	id=s1.u1.w12
+14	cerf	_	_	_	_	_	_	_	id=s1.u1.w14
+15	rouge	_	_	_	_	_	_	_	id=s1.u1.w15
+16	je	_	_	_	_	_	_	_	id=s1.u1.w17
+17	pourrais	_	_	_	_	_	_	_	id=s1.u1.w18
+18	savoir	_	_	_	_	_	_	_	id=s1.u1.w19
+19	où	_	_	_	_	_	_	_	id=s1.u1.w20
+20	je	_	_	_	_	_	_	_	id=s1.u1.w21
+21	peux	_	_	_	_	_	_	_	id=s1.u1.w22
+22	en	_	_	_	_	_	_	_	id=s1.u1.w23
+23	trouver	_	_	_	_	_	_	_	id=s1.u1.w24
+24	une	_	_	_	_	_	_	_	id=s1.u1.w25
+
+# sent_id = 1SB0344_2
+# text = 
+
+# sent_id = 1SB0344_3
+# text = aut- une auto école il faut que je vous prête l' annuaire je sais pas
+1	aut-	_	_	_	_	_	_	_	id=s1.u3.w0
+2	une	_	_	_	_	_	_	_	id=s1.u3.w1
+3	auto	_	_	_	_	_	_	_	id=s1.u3.w2
+4	école	_	_	_	_	_	_	_	id=s1.u3.w3
+5	il	_	_	_	_	_	_	_	id=s1.u3.w4
+6	faut	_	_	_	_	_	_	_	id=s1.u3.w5
+7	que	_	_	_	_	_	_	_	id=s1.u3.w6
+8	je	_	_	_	_	_	_	_	id=s1.u3.w7
+9	vous	_	_	_	_	_	_	_	id=s1.u3.w8
+10	prête	_	_	_	_	_	_	_	id=s1.u3.w9
+11	l'	_	_	_	_	_	_	_	id=s1.u3.w10
+12	annuaire	_	_	_	_	_	_	_	id=s1.u3.w11
+13	je	_	_	_	_	_	_	_	id=s1.u3.w12
+14	sais	_	_	_	_	_	_	_	id=s1.u3.w13
+15	pas	_	_	_	_	_	_	_	id=s1.u3.w14
+
+# sent_id = 1SB0344_4
+# text = 
+
+# sent_id = 1SB0344_5
+# text = d' accord
+1	d'	_	_	_	_	_	_	_	id=s1.u5.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u5.w1
+

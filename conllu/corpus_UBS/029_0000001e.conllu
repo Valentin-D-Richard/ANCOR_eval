@@ -1,0 +1,72 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 029_0000001e_0
+# text = U B S bonjour
+1	U	_	_	_	_	_	_	_	id=s1.u0.w0
+2	B	_	_	_	_	_	_	_	id=s1.u0.w1
+3	S	_	_	_	_	_	_	_	id=s1.u0.w2
+4	bonjour	_	_	_	_	_	_	_	id=s1.u0.w3
+
+# sent_id = 029_0000001e_1
+# text = allo oui bonjour je voulais juste avoir un petit renseignement
+1	allo	_	_	_	_	_	_	_	id=s1.u1.w0
+2	oui	_	_	_	_	_	_	_	id=s1.u1.w1
+3	bonjour	_	_	_	_	_	_	_	id=s1.u1.w2
+4	je	_	_	_	_	_	_	_	id=s1.u1.w3
+5	voulais	_	_	_	_	_	_	_	id=s1.u1.w4
+6	juste	_	_	_	_	_	_	_	id=s1.u1.w5
+7	avoir	_	_	_	_	_	_	_	id=s1.u1.w6
+8	un	_	_	_	_	_	_	_	id=s1.u1.w7
+9	petit	_	_	_	_	_	_	_	id=s1.u1.w8
+10	renseignement	_	_	_	_	_	_	_	id=s1.u1.w9
+
+# sent_id = 029_0000001e_2
+# text = e
+1	e	_	_	_	_	_	_	_	id=s1.u2.w0
+
+# sent_id = 029_0000001e_3
+# text = e je voulais vous demander e est ce que vous savez quel jour serons affiché les résultats des examens de e première année de droit
+1	e	_	_	_	_	_	_	_	id=s1.u3.w0
+2	je	_	_	_	_	_	_	_	id=s1.u3.w1
+3	voulais	_	_	_	_	_	_	_	id=s1.u3.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u3.w3
+5	demander	_	_	_	_	_	_	_	id=s1.u3.w4
+6	e	_	_	_	_	_	_	_	id=s1.u3.w5
+7	est	_	_	_	_	_	_	_	id=s1.u3.w6
+8	ce	_	_	_	_	_	_	_	id=s1.u3.w7
+9	que	_	_	_	_	_	_	_	id=s1.u3.w8
+10	vous	_	_	_	_	_	_	_	id=s1.u3.w9
+11	savez	_	_	_	_	_	_	_	id=s1.u3.w10
+12	quel	_	_	_	_	_	_	_	id=s1.u3.w11
+13	jour	_	_	_	_	_	_	_	id=s1.u3.w12
+14	serons	_	_	_	_	_	_	_	id=s1.u3.w13
+15	affiché	_	_	_	_	_	_	_	id=s1.u3.w14
+16	les	_	_	_	_	_	_	_	id=s1.u3.w15
+17	résultats	_	_	_	_	_	_	_	id=s1.u3.w16
+18	des	_	_	_	_	_	_	_	id=s1.u3.w17
+19	examens	_	_	_	_	_	_	_	id=s1.u3.w18
+20	de	_	_	_	_	_	_	_	id=s1.u3.w19
+21	e	_	_	_	_	_	_	_	id=s1.u3.w20
+22	première	_	_	_	_	_	_	_	id=s1.u3.w21
+23	année	_	_	_	_	_	_	_	id=s1.u3.w22
+24	de	_	_	_	_	_	_	_	id=s1.u3.w23
+25	droit	_	_	_	_	_	_	_	id=s1.u3.w24
+
+# sent_id = 029_0000001e_4
+# text = e attendez je vais voir si si si il y a quelque chose
+1	e	_	_	_	_	_	_	_	id=s1.u4.w0
+2	attendez	_	_	_	_	_	_	_	id=s1.u4.w1
+3	je	_	_	_	_	_	_	_	id=s1.u4.w2
+4	vais	_	_	_	_	_	_	_	id=s1.u4.w3
+5	voir	_	_	_	_	_	_	_	id=s1.u4.w4
+6	si	_	_	_	_	_	_	_	id=s1.u4.w5
+7	si	_	_	_	_	_	_	_	id=s1.u4.w6
+8	si	_	_	_	_	_	_	_	id=s1.u4.w7
+9	il	_	_	_	_	_	_	_	id=s1.u4.w8
+10	y	_	_	_	_	_	_	_	id=s1.u4.w9
+11	a	_	_	_	_	_	_	_	id=s1.u4.w10
+12	quelque	_	_	_	_	_	_	_	id=s1.u4.w11
+13	chose	_	_	_	_	_	_	_	id=s1.u4.w12
+
+# sent_id = 029_0000001e_5
+# text = 
+

@@ -1,0 +1,61 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0543_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AG0543_1
+# text = bonjour moi je voudrais savoir est ce que vous avez la liste des clubs de vélo sur Grenoble et aux alentours
+1	bonjour	bonjour	INTJ	_	_	4	discourse	_	_none=|id=s1.u1.w0
+2	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	4	dislocated	_	_none=|id=s1.u1.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u1.w2
+4	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w3
+5	savoir	savoir	VERB	_	VerbForm=Inf	4	xcomp	_	_none=|id=s1.u1.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	id=s1.u1.w5
+7	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	obj	_	_none=|id=s1.u1.w6
+8	que	que	SCONJ	_	_	10	mark	_	_none=|id=s1.u1.w7
+9	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	10	nsubj	_	_none=|id=s1.u1.w8
+10	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_none=|id=s1.u1.w9
+11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	id=s1.u1.w10
+12	liste	liste	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	id=s1.u1.w11
+13	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	14	det	_	id=s1.u1.w12
+14	clubs	club	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	id=s1.u1.w13
+15	de	de	ADP	_	_	16	case	_	_none=|id=s1.u1.w14
+16	vélo	vélo	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	id=s1.u1.w15
+17	sur	sur	ADP	_	_	18	case	_	_none=|id=s1.u1.w16
+18	Grenoble	Grenoble	PROPN	_	_	14	nmod	_	_none=|id=s1.u1.w17
+19	et	et	CCONJ	_	_	21	cc	_	_none=|id=s1.u1.w18
+20	aux	aux	DET	_	_	21	case	_	id=s1.u1.w19
+21	alentours	alentours	NOUN	_	Gender=Masc|Number=Plur	18	conj	_	id=s1.u1.w20
+
+# sent_id = 1AG0543_2
+# text = e non j' ai peut être l' association qui s' occupe de voilà de clubs de vélo
+1	e	e	CCONJ	_	_	4	cc	_	_none=|id=s1.u2.w0
+2	non	non	ADV	_	_	4	discourse	_	_none=|id=s1.u2.w1
+3	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u2.w2
+4	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w3
+5	peut	peut	ADV	_	_	4	advmod	_	_none=|id=s1.u2.w4
+6	être	être	ADV	_	Gender=Masc|Number=Sing	4	obl:mod	_	_none=|id=s1.u2.w5
+7	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	id=s1.u2.w6
+8	association	association	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	id=s1.u2.w7
+9	qui	qui	PRON	_	PronType=Rel	11	nsubj	_	_none=|id=s1.u2.w8
+10	s'	se	PRON	_	Person=3|PronType=Prs	11	expl:comp	_	id=s1.u2.w9
+11	occupe	occuper	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	id=s1.u2.w10
+12	de	de	ADP	_	_	13	mark	_	_none=|id=s1.u2.w11
+13	voilà	voilà	VERB	_	VerbForm=Inf	11	xcomp	_	id=s1.u2.w12
+14	de	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	15	det	_	id=s1.u2.w13
+15	clubs	club	NOUN	_	Gender=Masc|Number=Plur	13	obj	_	id=s1.u2.w14
+16	de	de	ADP	_	_	17	case	_	_none=|id=s1.u2.w15
+17	vélo	vélo	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	id=s1.u2.w16
+
+# sent_id = 1AG0543_3
+# text = je vous remercie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u3.w0
+2	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	3	obj	_	_none=|id=s1.u3.w1
+3	remercie	remercier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u3.w2
+
+# sent_id = 1AG0543_4
+# text = vous en prie
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	id=s1.u4.w0
+2	en	en	PRON	_	Person=3|PronType=Prs	3	iobj	_	_none=|id=s1.u4.w1
+3	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w2
+

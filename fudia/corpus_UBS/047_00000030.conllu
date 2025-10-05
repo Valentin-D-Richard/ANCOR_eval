@@ -1,0 +1,449 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 047_00000030_0
+# text = U B S bonjour
+1	U	U	PROPN	_	_	4	dep	_	_none=|id=s1.u0.w0
+2	B	B	PROPN	_	_	1	flat:name	_	_none=|id=s1.u0.w1
+3	S	S	PROPN	_	_	1	dep	_	_none=|id=s1.u0.w2
+4	bonjour	bonjour	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w3
+
+# sent_id = 047_00000030_1
+# text = oui bonjour madame e j' appelais pour avoir un petit renseignement e je souhaitais savoir si l' université préparait e comment faisait faisait une préparation à des concours administratifs style e rédacteur territorial ou adjoint administratif
+1	oui	oui	ADV	_	_	6	discourse	_	_none=|id=s1.u1.w0
+2	bonjour	bonjour	INTJ	_	_	6	discourse	_	_none=|id=s1.u1.w1
+3	madame	madame	NOUN	_	Gender=Fem|Number=Sing	6	vocative	_	_none=|id=s1.u1.w2
+4	e	e	CCONJ	_	_	6	cc	_	_none=|id=s1.u1.w3
+5	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_none=|id=s1.u1.w4
+6	appelais	appeler	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	id=s1.u1.w5
+7	pour	pour	ADP	_	_	8	mark	_	_none=|id=s1.u1.w6
+8	avoir	avoir	VERB	_	VerbForm=Inf	6	advcl	_	_none=|id=s1.u1.w7
+9	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_none=|id=s1.u1.w8
+10	petit	petit	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_none=|id=s1.u1.w9
+11	renseignement	renseignement	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_none=|id=s1.u1.w10
+12	e	e	CCONJ	_	_	14	cc	_	_none=|id=s1.u1.w11
+13	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_none=|id=s1.u1.w12
+14	souhaitais	souhaitir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	6	conj	_	_none=|id=s1.u1.w13
+15	savoir	savoir	VERB	_	VerbForm=Inf	14	xcomp	_	_none=|id=s1.u1.w14
+16	si	si	SCONJ	_	_	19	mark	_	_none=|id=s1.u1.w15
+17	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	18	det	_	id=s1.u1.w16
+18	université	université	NOUN	_	Gender=Fem|Number=Sing	19	nsubj	_	id=s1.u1.w17
+19	préparait	préparer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	reparandum	_	_none=|id=s1.u1.w18
+20	e	e	CCONJ	_	_	22	cc	_	id=s1.u1.w19
+21	comment	comment	ADV	_	PronType=Int	22|22	advmod|cue:wh	_	_none=|id=s1.u1.w20|PhraseType=Int
+22	faisait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	19	conj	_	_none=|id=s1.u1.w21|ClauseType=Int
+23	faisait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	ccomp	_	_none=|id=s1.u1.w22
+24	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	25	det	_	id=s1.u1.w23
+25	préparation	préparation	NOUN	_	Gender=Fem|Number=Sing	23	obj	_	id=s1.u1.w24
+26	à	à	ADP	_	_	28	case	_	_none=|id=s1.u1.w25
+27	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	28	det	_	id=s1.u1.w26
+28	concours	concours	NOUN	_	Gender=Masc|Number=Plur	19	obl:mod	_	id=s1.u1.w27
+29	administratifs	administratif	ADJ	_	Gender=Masc|Number=Plur	28	amod	_	_none=|id=s1.u1.w28
+30	style	style	NOUN	_	Gender=Masc|Number=Sing	28	appos	_	_none=|id=s1.u1.w29
+31	e	e	DET	_	_	32	cc	_	id=s1.u1.w30
+32	rédacteur	rédacteur	NOUN	_	Gender=Masc|Number=Sing	28	nmod	_	_none=|id=s1.u1.w31
+33	territorial	territorial	ADJ	_	Gender=Masc|Number=Sing	32	amod	_	_none=|id=s1.u1.w32
+34	ou	ou	CCONJ	_	_	35	cc	_	id=s1.u1.w33
+35	adjoint	adjoint	NOUN	_	Gender=Masc|Number=Sing	32	conj	_	id=s1.u1.w34
+36	administratif	administratif	ADJ	_	Gender=Masc|Number=Sing	35	amod	_	_none=|id=s1.u1.w35
+
+# sent_id = 047_00000030_2
+# text = des concours administratifs
+1	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	2	det	_	id=s1.u2.w0
+2	concours	concours	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_none=|id=s1.u2.w1
+3	administratifs	administratif	ADJ	_	Gender=Masc|Number=Plur	2	amod	_	_none=|id=s1.u2.w2
+
+# sent_id = 047_00000030_3
+# text = ouais
+1	ouais	ouais	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 047_00000030_4
+# text = si on avait un programme sur ça
+1	si	si	SCONJ	_	_	3	mark	_	_none=|id=s1.u4.w0
+2	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_none=|id=s1.u4.w1
+3	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w2
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_none=|id=s1.u4.w3
+5	programme	programme	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_none=|id=s1.u4.w4
+6	sur	sur	ADP	_	_	7	case	_	_none=|id=s1.u4.w5
+7	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nmod	_	id=s1.u4.w6
+
+# sent_id = 047_00000030_5
+# text = voilà oui oui
+1	voilà	voilà	VERB	_	_	0	root	_	id=s1.u5.w0
+2	oui	oui	INTJ	_	_	1	obj	_	_none=|id=s1.u5.w1
+3	oui	oui	INTJ	_	_	2	conj	_	_none=|id=s1.u5.w2
+
+# sent_id = 047_00000030_6
+# text = on a pas de programme pour e
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_none=|id=s1.u6.w0
+2	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u6.w1
+3	pas	pas	ADV	_	Polarity=Neg	2	advmod	_	_none=|id=s1.u6.w2
+4	de	de	ADP	_	_	5	case	_	_none=|id=s1.u6.w3
+5	programme	programme	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	id=s1.u6.w4
+6	pour	pour	ADP	_	_	7	case	_	_none=|id=s1.u6.w5
+7	e	e	PRON	_	_	5	nmod	_	id=s1.u6.w6
+
+# sent_id = 047_00000030_7
+# text = je l' avais
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	id=s1.u7.w0
+2	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obj	_	id=s1.u7.w1
+3	avais	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	id=s1.u7.w2
+
+# sent_id = 047_00000030_8
+# text = est ce qu' il y aurait pas des concours administratifs
+1	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	id=s1.u8.w0
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u8.w1
+3	qu'	que	SCONJ	_	_	6	mark	_	id=s1.u8.w2
+4	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	_none=|id=s1.u8.w3
+5	y	y	PRON	_	Person=3|PronType=Prs	6	expl:comp	_	_none=|id=s1.u8.w4
+6	aurait	auraoir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_none=|id=s1.u8.w5
+7	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	id=s1.u8.w6
+8	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	9	det	_	id=s1.u8.w7
+9	concours	concours	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	id=s1.u8.w8
+10	administratifs	administratif	ADJ	_	Gender=Masc|Number=Plur	9	amod	_	_none=|id=s1.u8.w9
+
+# sent_id = 047_00000030_9
+# text = e des concours administratifs e ouais il y a un service de de douze heures à dix-huit heures allo
+1	e	e	CCONJ	_	_	3	case	_	_none=|id=s1.u9.w0
+2	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	3	det	_	id=s1.u9.w1
+3	concours	concours	NOUN	_	Gender=Masc|Number=Plur	9	dislocated	_	_none=|id=s1.u9.w2
+4	administratifs	administratif	ADJ	_	Gender=Masc|Number=Plur	3	amod	_	_none=|id=s1.u9.w3
+5	e	e	CCONJ	_	_	6	cc	_	_none=|id=s1.u9.w4
+6	ouais	ouais	INTJ	_	_	3	discourse	_	_none=|id=s1.u9.w5
+7	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl:subj	_	_none=|id=s1.u9.w6
+8	y	y	PRON	_	Person=3|PronType=Prs	9	expl:comp	_	id=s1.u9.w7
+9	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u9.w8
+10	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	id=s1.u9.w9
+11	service	service	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	id=s1.u9.w10
+12	de	de	ADP	_	_	11	dep	_	_none=|id=s1.u9.w11
+13	de	de	ADP	_	_	15	case	_	_none=|id=s1.u9.w12
+14	douze	douze	NUM	_	Number=Plur	15	nummod	_	id=s1.u9.w13
+15	heures	heure	NOUN	_	Gender=Fem|Number=Plur	11	nmod	_	id=s1.u9.w14
+16	à	à	ADP	_	_	18	case	_	_none=|id=s1.u9.w15
+17	dix-huit	dix-huit	NUM	_	Number=Plur	18	nummod	_	_none=|id=s1.u9.w16
+18	heures	heure	NOUN	_	Gender=Fem|Number=Plur	15	conj	_	id=s1.u9.w17
+19	allo	allo	NOUN	_	_	9	discourse	_	_none=|id=s1.u9.w18
+
+# sent_id = 047_00000030_10
+# text = allo
+1	allo	allo	ADV	_	_	0	root	_	_none=|id=s1.u10.w0
+
+# sent_id = 047_00000030_11
+# text = ouais c' est quels concours vous parlez madame
+1	ouais	ouais	INTJ	_	_	5	discourse	_	_none=|id=s1.u11.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_none=|id=s1.u11.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u11.w2
+4	quels	quel	DET	_	Gender=Masc|Number=Plur|PronType=Int	5|5	cue:wh|det	_	id=s1.u11.w3
+5	concours	concours	NOUN	_	Gender=Masc|Number=Sing	0	root	_	ClauseType=Int|id=s1.u11.w4|PhraseType=Int
+6	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_none=|id=s1.u11.w5
+7	parlez	parler	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	discourse	_	id=s1.u11.w6
+8	madame	madame	NOUN	_	Gender=Fem|Number=Sing	7	vocative	_	id=s1.u11.w7
+
+# sent_id = 047_00000030_12
+# text = e donc e s- soit adjoint administratif ou rédacteur e
+1	e	e	SCONJ	_	_	6	reparandum	_	_none=|id=s1.u12.w0
+2	donc	donc	ADV	_	_	5	advmod	_	_none=|id=s1.u12.w1
+3	e	e	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_none=|id=s1.u12.w2
+4	s-	s-	PRON	_	Person=3|PronType=Prs	5	dep:comp	_	id=s1.u12.w3
+5	soit	être	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	id=s1.u12.w4
+6	adjoint	adjoint	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u12.w5
+7	administratif	administratif	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_none=|id=s1.u12.w6
+8	ou	ou	CCONJ	_	_	9	cc	_	id=s1.u12.w7
+9	rédacteur	rédacteur	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	id=s1.u12.w8
+10	e	e	NOUN	_	_	6	conj	_	_none=|id=s1.u12.w9
+
+# sent_id = 047_00000030_13
+# text = ah non c' est pas ça c' est pas ici chez nous non
+1	ah	ah	INTJ	_	_	6	discourse	_	_none=|id=s1.u13.w0
+2	non	non	ADV	_	_	6	discourse	_	_none=|id=s1.u13.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_none=|id=s1.u13.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_none=|id=s1.u13.w3
+5	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	_none=|id=s1.u13.w4
+6	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u13.w5
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	nsubj	_	id=s1.u13.w6
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	id=s1.u13.w7
+9	pas	pas	ADV	_	Polarity=Neg	10	advmod	_	id=s1.u13.w8
+10	ici	ici	ADV	_	_	6	advcl:cleft	_	_none=|id=s1.u13.w9
+11	chez	chez	ADP	_	_	12	case	_	_none=|id=s1.u13.w10
+12	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	10	obl:mod	_	id=s1.u13.w11
+13	non	non	ADV	_	_	10	discourse	_	_none=|id=s1.u13.w12
+
+# sent_id = 047_00000030_14
+# text = non c' est pas vous ne faîtes pas de préparations e e pour ces concours -là
+1	non	non	ADV	_	_	3	discourse	_	_none=|id=s1.u14.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_none=|id=s1.u14.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	reparandum	_	id=s1.u14.w2
+4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_none=|id=s1.u14.w3
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	id=s1.u14.w4
+6	ne	ne	ADV	_	Polarity=Neg	7	advmod	_	_none=|id=s1.u14.w5
+7	faîtes	fare	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u14.w6
+8	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	id=s1.u14.w7
+9	de	de	ADP	_	_	10	case	_	id=s1.u14.w8
+10	préparations	préparation	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	id=s1.u14.w9
+11	e	e	INTJ	_	_	15	dep	_	_none=|id=s1.u14.w10
+12	e	e	NOUN	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	conj	_	id=s1.u14.w11
+13	pour	pour	ADP	_	_	15	case	_	_none=|id=s1.u14.w12
+14	ces	ce	DET	_	Number=Plur|Person=3|PronType=Dem	15	det	_	id=s1.u14.w13
+15	concours	concours	NOUN	_	Gender=Masc|Number=Plur	7	obl:mod	_	_none=|id=s1.u14.w14
+16	-là	là	ADV	_	_	15	advmod	_	_none=|id=s1.u14.w15
+
+# sent_id = 047_00000030_15
+# text = ah non c' est nous on a une préparation interne pour nos candidats quoi pour notre personnel disons c' est tout
+1	ah	ah	INTJ	_	_	5	discourse	_	_none=|id=s1.u15.w0
+2	non	non	ADV	_	_	5	discourse	_	_none=|id=s1.u15.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_none=|id=s1.u15.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	reparandum	_	id=s1.u15.w3
+5	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	7	dislocated	_	_none=|id=s1.u15.w4
+6	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	nsubj	_	_none=|id=s1.u15.w5
+7	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u15.w6
+8	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	id=s1.u15.w7
+9	préparation	préparation	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	id=s1.u15.w8
+10	interne	interne	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	id=s1.u15.w9
+11	pour	pour	ADP	_	_	13	case	_	_none=|id=s1.u15.w10
+12	nos	son	DET	_	Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=1|PronType=Prs	13	det	_	id=s1.u15.w11
+13	candidats	candidat	NOUN	_	Gender=Masc|Number=Plur	9	nmod	_	id=s1.u15.w12
+14	quoi	quoi	INTJ	_	_	17	discourse	_	_none=|id=s1.u15.w13
+15	pour	pour	ADP	_	_	17	case	_	_none=|id=s1.u15.w14
+16	notre	son	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=1|PronType=Prs	17	det	_	_none=|id=s1.u15.w15
+17	personnel	personnel	NOUN	_	Gender=Masc|Number=Sing	13	conj	_	_none=|id=s1.u15.w16
+18	disons	dire	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	17	discourse	_	_none=|id=s1.u15.w17
+19	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	20	nsubj	_	_none=|id=s1.u15.w18
+20	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	id=s1.u15.w19
+21	tout	tout	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	conj	_	_none=|id=s1.u15.w20
+
+# sent_id = 047_00000030_16
+# text = ah d' accord
+1	ah	ah	INTJ	_	_	3	discourse	_	_none=|id=s1.u16.w0
+2	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u16.w1
+3	accord	accord	NOUN	_	Gender=Masc|Number=Sing	2	fixed	_	id=s1.u16.w2
+
+# sent_id = 047_00000030_17
+# text = ouais ouais
+1	ouais	ouais	INTJ	_	_	0	root	_	_none=|id=s1.u17.w0
+2	ouais	ouais	INTJ	_	_	1	conj	_	id=s1.u17.w1
+
+# sent_id = 047_00000030_18
+# text = d' accord non non moi je cherchais e si vous voulez e
+1	d'	de	ADP	_	_	2	case	_	_none=|id=s1.u18.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	7	discourse	_	id=s1.u18.w1
+3	non	non	ADV	_	Polarity=Neg	7	discourse	_	_none=|id=s1.u18.w2
+4	non	non	ADV	_	_	3	conj	_	_none=|id=s1.u18.w3
+5	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	7	dislocated	_	_none=|id=s1.u18.w4
+6	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_none=|id=s1.u18.w5
+7	cherchais	chercher	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	id=s1.u18.w6
+8	e	e	PRON	_	_	11	obj	_	_none=|id=s1.u18.w7
+9	si	si	SCONJ	_	_	11	mark	_	_none=|id=s1.u18.w8
+10	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	11	nsubj	_	_none=|id=s1.u18.w9
+11	voulez	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	discourse	_	_none=|id=s1.u18.w10
+12	e	e	X	_	_	11	obj	_	id=s1.u18.w11
+
+# sent_id = 047_00000030_19
+# text = il y a le CNED sinon e
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_none=|id=s1.u19.w0
+2	y	y	PRON	_	Person=3|PronType=Prs	3	expl:comp	_	id=s1.u19.w1
+3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u19.w2
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	id=s1.u19.w3
+5	CNED	CNED	PROPN	_	_	3	obj	_	_none=|id=s1.u19.w4
+6	sinon	sinon	ADV	_	_	3	advmod	_	_none=|id=s1.u19.w5
+7	e	e	CCONJ	_	_	6	fixed	_	_none=|id=s1.u19.w6
+
+# sent_id = 047_00000030_20
+# text = ouais et je sais aussi que à Rennes il y a une formation e u- licence professionnelle e pour e enfin pour les professionnels des collectivités territoriales
+1	ouais	ouais	INTJ	_	_	4	discourse	_	_none=|id=s1.u20.w0
+2	et	et	CCONJ	_	_	4	cc	_	_none=|id=s1.u20.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u20.w2
+4	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u20.w3
+5	aussi	aussi	ADV	_	_	4	advmod	_	_none=|id=s1.u20.w4
+6	que	que	SCONJ	_	_	11	mark	_	_none=|id=s1.u20.w5
+7	à	à	ADP	_	_	8	case	_	_none=|id=s1.u20.w6
+8	Rennes	Rennes	PROPN	_	_	11	obl:mod	_	_none=|id=s1.u20.w7
+9	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl:subj	_	_none=|id=s1.u20.w8
+10	y	y	PRON	_	Person=3|PronType=Prs	11	expl:comp	_	id=s1.u20.w9
+11	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	id=s1.u20.w10
+12	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	id=s1.u20.w11
+13	formation	formation	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	id=s1.u20.w12
+14	e	e	PRON	_	_	16	reparandum	_	_none=|id=s1.u20.w13
+15	u-	u-	NUM	_	_	16	reparandum	_	id=s1.u20.w14
+16	licence	licence	NOUN	_	Gender=Fem|Number=Sing	13	appos	_	id=s1.u20.w15
+17	professionnelle	professionnelle	ADJ	_	Gender=Fem|Number=Sing	16	amod	_	_none=|id=s1.u20.w16
+18	e	e	PRON	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	fixed	_	_none=|id=s1.u20.w17
+19	pour	pour	ADP	_	_	24	reparandum	_	_none=|id=s1.u20.w18
+20	e	e	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	fixed	_	_none=|id=s1.u20.w19
+21	enfin	enfin	ADV	_	_	20	discourse	_	id=s1.u20.w20
+22	pour	pour	ADP	_	_	24	case	_	_none=|id=s1.u20.w21
+23	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	24	det	_	id=s1.u20.w22
+24	professionnels	professionnel	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	id=s1.u20.w23
+25	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	26	det	_	id=s1.u20.w24
+26	collectivités	collectivité	NOUN	_	Gender=Fem|Number=Plur	24	nmod	_	id=s1.u20.w25
+27	territoriales	territoriale	ADJ	_	Gender=Fem|Number=Plur	26	amod	_	id=s1.u20.w26
+
+# sent_id = 047_00000030_21
+# text = ouais
+1	ouais	ouais	INTJ	_	_	0	root	_	_none=|id=s1.u21.w0
+
+# sent_id = 047_00000030_22
+# text = e donc j' ai trouvé ça dans
+1	e	e	CCONJ	_	_	5	cc	_	_none=|id=s1.u22.w0
+2	donc	donc	ADV	_	_	5	cc	_	_none=|id=s1.u22.w1
+3	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u22.w2
+4	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_none=|id=s1.u22.w3
+5	trouvé	trouver	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u22.w4
+6	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	obj	_	id=s1.u22.w5
+7	dans	dans	ADP	_	_	5	obl:arg	_	id=s1.u22.w6
+
+# sent_id = 047_00000030_23
+# text = donc faudrait que vous appeliez le S U I O ça à ce moment là
+1	donc	donc	ADV	_	_	2	advmod	_	_none=|id=s1.u23.w0
+2	faudrait	falloir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u23.w1
+3	que	que	SCONJ	_	_	5	mark	_	_none=|id=s1.u23.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	id=s1.u23.w3
+5	appeliez	appeler	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	2	ccomp	_	id=s1.u23.w4
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	id=s1.u23.w5
+7	S	S	PROPN	_	_	5	obj	_	_none=|id=s1.u23.w6
+8	U	U	PROPN	_	_	7	fixed	_	_none=|id=s1.u23.w7
+9	I	I	PROPN	_	_	7	fixed	_	_none=|id=s1.u23.w8
+10	O	O	PROPN	_	_	7	fixed	_	_none=|id=s1.u23.w9
+11	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nmod	_	id=s1.u23.w10
+12	à	à	ADP	_	_	14	case	_	_none=|id=s1.u23.w11
+13	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	14	det	_	id=s1.u23.w12
+14	moment	moment	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_none=|id=s1.u23.w13
+15	là	là	ADV	_	_	14	advmod	_	_none=|id=s1.u23.w14
+
+# sent_id = 047_00000030_24
+# text = c' est le le quoi
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	id=s1.u24.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u24.w1
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_none=|id=s1.u24.w2
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_none=|id=s1.u24.w3
+5	quoi	quoi	NOUN	_	_	0	root	_	id=s1.u24.w4
+
+# sent_id = 047_00000030_25
+# text = le Service Universitaire de l' Information et de l' Orientation donc 0 2 97 0 1 27 0 0
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u25.w0
+2	Service	service	PROPN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u25.w1
+3	Universitaire	Universitaire	ADJ	_	_	2	amod	_	_none=|id=s1.u25.w2
+4	de	de	ADP	_	_	6	case	_	_none=|id=s1.u25.w3
+5	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	6	det	_	id=s1.u25.w4
+6	Information	Information	PROPN	_	_	2	nmod	_	id=s1.u25.w5
+7	et	et	CCONJ	_	_	10	cc	_	id=s1.u25.w6
+8	de	de	ADP	_	_	10	case	_	id=s1.u25.w7
+9	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	id=s1.u25.w8
+10	Orientation	Orientation	PROPN	_	Gender=Fem|Number=Sing	6	conj	_	id=s1.u25.w9
+11	donc	donc	ADV	_	_	2	discourse	_	_none=|id=s1.u25.w10
+12	0	0	DET	_	_	2	punct	_	_none=|id=s1.u25.w11
+13	2	2	NUM	_	_	2	reparandum	_	_none=|id=s1.u25.w12
+14	97	97	X	_	_	2	conj	_	_none=|id=s1.u25.w13
+15	0	0	PUNCT	_	_	16	punct	_	_none=|id=s1.u25.w14
+16	1	1	DET	_	_	17	reparandum	_	_none=|id=s1.u25.w15
+17	27	27	ADJ	_	_	2	conj	_	_none=|id=s1.u25.w16
+18	0	0	PUNCT	_	_	2	punct	_	_none=|id=s1.u25.w17
+19	0	0	PUNCT	_	_	2	punct	_	id=s1.u25.w18
+
+# sent_id = 047_00000030_26
+# text = 0 1 27 0 0
+1	0	0	PRON	_	_	3	reparandum	_	_none=|id=s1.u26.w0
+2	1	1	DET	_	_	3	reparandum	_	_none=|id=s1.u26.w1
+3	27	27	PRON	_	_	0	root	_	_none=|id=s1.u26.w2
+4	0	0	PUNCT	_	_	3	punct	_	_none=|id=s1.u26.w3
+5	0	0	PUNCT	_	_	3	punct	_	_none=|id=s1.u26.w4
+
+# sent_id = 047_00000030_27
+# text = voilà c' est le Service Universitaire de l' Information et de l' Orientation parce que ici vous êtes à l' accueil de la fac de droit donc e
+1	voilà	voilà	VERB	_	_	5	discourse	_	_none=|id=s1.u27.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_none=|id=s1.u27.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u27.w2
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_none=|id=s1.u27.w3
+5	Service	service	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u27.w4
+6	Universitaire	universitaire	ADJ	_	Number=Sing	5	amod	_	_none=|id=s1.u27.w5
+7	de	de	ADP	_	_	9	case	_	_none=|id=s1.u27.w6
+8	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	id=s1.u27.w7
+9	Information	Information	PROPN	_	Gender=Fem|Number=Sing	5	nmod	_	id=s1.u27.w8
+10	et	et	CCONJ	_	_	13	cc	_	_none=|id=s1.u27.w9
+11	de	de	ADP	_	_	13	case	_	_none=|id=s1.u27.w10
+12	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	13	det	_	id=s1.u27.w11
+13	Orientation	Orientation	PROPN	_	Gender=Fem|Number=Sing	9	conj	_	id=s1.u27.w12
+14	parce	parce	ADV	_	_	18	mark	_	_none=|id=s1.u27.w13
+15	que	que	SCONJ	_	_	14	fixed	_	id=s1.u27.w14
+16	ici	ici	ADV	_	_	18	advmod	_	_none=|id=s1.u27.w15
+17	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	18	nsubj	_	_none=|id=s1.u27.w16
+18	êtes	être	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	advcl:cleft	_	_none=|id=s1.u27.w17
+19	à	à	ADP	_	_	21	case	_	_none=|id=s1.u27.w18
+20	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	21	det	_	id=s1.u27.w19
+21	accueil	accueil	NOUN	_	Gender=Masc|Number=Sing	18	xcomp	_	id=s1.u27.w20
+22	de	de	ADP	_	_	24	case	_	id=s1.u27.w21
+23	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	id=s1.u27.w22
+24	fac	fac	NOUN	_	Gender=Fem|Number=Sing	21	nmod	_	id=s1.u27.w23
+25	de	de	ADP	_	_	26	case	_	_none=|id=s1.u27.w24
+26	droit	droit	NOUN	_	Gender=Masc|Number=Sing	24	nmod	_	id=s1.u27.w25
+27	donc	donc	ADV	_	_	18	discourse	_	_none=|id=s1.u27.w26
+28	e	e	INTJ	_	_	5	conj	_	id=s1.u27.w27
+
+# sent_id = 047_00000030_28
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u28.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u28.w1
+
+# sent_id = 047_00000030_29
+# text = e on ne sait pas tout quoi
+1	e	e	SCONJ	_	_	4	nsubj	_	_none=|id=s1.u29.w0
+2	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	_none=|id=s1.u29.w1
+3	ne	ne	ADV	_	Polarity=Neg	4	advmod	_	_none=|id=s1.u29.w2
+4	sait	savoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u29.w3
+5	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	_none=|id=s1.u29.w4
+6	tout	tout	ADJ	_	Gender=Masc|Number=Sing|PronType=Ind	7	amod	_	_none=|id=s1.u29.w5
+7	quoi	quoi	PRON	_	Person=3|PronType=Ind	4	obj	_	_none=|id=s1.u29.w6
+
+# sent_id = 047_00000030_30
+# text = très bien je vous remerc-
+1	très	très	ADV	_	_	2	advmod	_	_none=|id=s1.u30.w0
+2	bien	bien	ADV	_	_	5	advmod	_	_none=|id=s1.u30.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u30.w2
+4	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	5	obj	_	id=s1.u30.w3
+5	remerc-	remerc-r	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u30.w4
+
+# sent_id = 047_00000030_31
+# text = le Service de l' Information et de l' Orientation lui il doit peut-être e au au moins il vous donnera le numéro où téléphoner quoi
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u31.w0
+2	Service	service	NOUN	_	Gender=Masc|Number=Sing	12	dislocated	_	_none=|id=s1.u31.w1
+3	de	de	ADP	_	_	5	case	_	_none=|id=s1.u31.w2
+4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	id=s1.u31.w3
+5	Information	Information	PROPN	_	_	2	nmod	_	_none=|id=s1.u31.w4
+6	et	et	CCONJ	_	_	9	cc	_	_none=|id=s1.u31.w5
+7	de	de	ADP	_	_	9	case	_	_none=|id=s1.u31.w6
+8	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	id=s1.u31.w7
+9	Orientation	Orientation	PROPN	_	_	5	conj	_	id=s1.u31.w8
+10	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	dislocated	_	_none=|id=s1.u31.w9
+11	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_none=|id=s1.u31.w10
+12	doit	devoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u31.w11
+13	peut-être	peut-être	ADV	_	_	12	advmod	_	_none=|id=s1.u31.w12
+14	e	e	X	_	_	20	reparandum	_	_none=|id=s1.u31.w13
+15	au	au	ADP	_	_	17	dep	_	_none=|id=s1.u31.w14
+16	au	au	ADV	_	_	17	advmod	_	_none=|id=s1.u31.w15
+17	moins	moins	ADV	_	_	20	obl:mod	_	_none=|id=s1.u31.w16
+18	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_none=|id=s1.u31.w17
+19	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	20	iobj	_	id=s1.u31.w18
+20	donnera	donn	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	conj	_	id=s1.u31.w19
+21	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_none=|id=s1.u31.w20
+22	numéro	numéro	NOUN	_	Gender=Masc|Number=Sing	20	obj	_	_none=|id=s1.u31.w21
+23	où	où	PRON	_	PronType=Rel	24	obl:mod	_	_none=|id=s1.u31.w22
+24	téléphoner	téléphoner	VERB	_	VerbForm=Inf	22	acl	_	ClauseType=Int|id=s1.u31.w23
+25	quoi	quoi	PRON	_	PronType=Int	24|24	cue:wh|obj	_	id=s1.u31.w24|PhraseType=Int
+
+# sent_id = 047_00000030_32
+# text = d' accord très bien je vous remercie au revoir
+1	d'	de	ADP	_	_	2	case	_	_none=|id=s1.u32.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	7	discourse	_	id=s1.u32.w1
+3	très	très	ADV	_	_	4	advmod	_	_none=|id=s1.u32.w2
+4	bien	bien	ADV	_	_	7	advmod	_	_none=|id=s1.u32.w3
+5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_none=|id=s1.u32.w4
+6	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	7	iobj	_	id=s1.u32.w5
+7	remercie	remercier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u32.w6
+8	au	au	ADP	_	_	9	case	_	_none=|id=s1.u32.w7
+9	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	7	advcl	_	id=s1.u32.w8
+
+# sent_id = 047_00000030_34
+# text = à votre service au revoir
+1	à	à	ADP	_	_	3	case	_	_none=|id=s1.u34.w0
+2	votre	son	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=2|PronType=Prs	3	det	_	id=s1.u34.w1
+3	service	service	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u34.w2
+4	au	au	ADP	_	_	5	case	_	_none=|id=s1.u34.w3
+5	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	id=s1.u34.w4
+

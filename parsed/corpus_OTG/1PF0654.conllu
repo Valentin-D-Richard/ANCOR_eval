@@ -1,0 +1,18 @@
+# sent_id = 1PF0654_0
+# text = bonjour je voudrais un petit plan de Grenoble
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u0.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u0.w1
+3	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u0.w2
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_none=|id=s1.u0.w3
+5	petit	petit	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_none=|id=s1.u0.w4
+6	plan	plan	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_none=|id=s1.u0.w5
+7	de	de	ADP	_	_	8	case	_	id=s1.u0.w6
+8	Grenoble	Grenoble	PROPN	_	_	6	nmod	_	id=s1.u0.w7
+
+# sent_id = 1PF0654_2
+# text = oui bien sûr voilà
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u2.w0
+2	bien	bien	ADV	_	_	1	advmod	_	_none=|id=s1.u2.w1
+3	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	2	fixed	_	id=s1.u2.w2
+4	voilà	voilà	VERB	_	_	1	conj	_	_none=|id=s1.u2.w3
+

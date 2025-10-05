@@ -1,0 +1,42 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0159_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1PF0159_1
+# text = bonjour est ce que vous auriez un plan général de Grenoble
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	est	_	_	_	_	_	_	_	id=s1.u1.w1
+3	ce	_	_	_	_	_	_	_	id=s1.u1.w2
+4	que	_	_	_	_	_	_	_	id=s1.u1.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u1.w4
+6	auriez	_	_	_	_	_	_	_	id=s1.u1.w5
+7	un	_	_	_	_	_	_	_	id=s1.u1.w6
+8	plan	_	_	_	_	_	_	_	id=s1.u1.w7
+9	général	_	_	_	_	_	_	_	id=s1.u1.w8
+10	de	_	_	_	_	_	_	_	id=s1.u1.w9
+11	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w10
+
+# sent_id = 1PF0159_2
+# text = voilà
+1	voilà	_	_	_	_	_	_	_	id=s1.u2.w0
+
+# sent_id = 1PF0159_3
+# text = merci beaucoup
+1	merci	_	_	_	_	_	_	_	id=s1.u3.w0
+2	beaucoup	_	_	_	_	_	_	_	id=s1.u3.w1
+
+# sent_id = 1PF0159_4
+# text = je vous en prie au revoir
+1	je	_	_	_	_	_	_	_	id=s1.u4.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u4.w1
+3	en	_	_	_	_	_	_	_	id=s1.u4.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u4.w3
+5	au	_	_	_	_	_	_	_	id=s1.u4.w4
+6	revoir	_	_	_	_	_	_	_	id=s1.u4.w5
+
+# sent_id = 1PF0159_5
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u5.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u5.w1
+

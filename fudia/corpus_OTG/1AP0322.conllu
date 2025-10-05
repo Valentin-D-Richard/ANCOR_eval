@@ -1,0 +1,36 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0322_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0322_1
+# text = c' est possible d' avoir dix plans de la ville
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	expl:subj	_	_none=|id=s1.u1.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u1.w1
+3	possible	possible	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u1.w2
+4	d'	de	ADP	_	_	5	mark	_	_none=|id=s1.u1.w3
+5	avoir	avoir	VERB	_	VerbForm=Inf	3	advcl	_	id=s1.u1.w4
+6	dix	dix	NUM	_	Number=Plur	7	nummod	_	_none=|id=s1.u1.w5
+7	plans	plan	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	id=s1.u1.w6
+8	de	de	ADP	_	_	10	case	_	_none=|id=s1.u1.w7
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	id=s1.u1.w8
+10	ville	ville	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	id=s1.u1.w9
+
+# sent_id = 1AP0322_2
+# text = oui voilà
+1	oui	oui	INTJ	_	_	2	discourse	_	_none=|id=s1.u2.w0
+2	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u2.w1
+
+# sent_id = 1AP0322_3
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1AP0322_4
+# text = je vous en prie au revoir
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u4.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u4.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u4.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w3
+5	au	au	ADP	_	_	6	case	_	_none=|id=s1.u4.w4
+6	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	4	advmod	_	id=s1.u4.w5
+

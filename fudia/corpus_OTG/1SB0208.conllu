@@ -1,0 +1,33 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0208_0
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1SB0208_1
+# text = est ce que vous avez les programmes de la cinémathèque
+1	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	id=s1.u1.w0
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u1.w1
+3	que	que	SCONJ	_	_	5	mark	_	_none=|id=s1.u1.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_none=|id=s1.u1.w3
+5	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	_none=|id=s1.u1.w4
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	id=s1.u1.w5
+7	programmes	programme	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	id=s1.u1.w6
+8	de	de	ADP	_	_	10	case	_	_none=|id=s1.u1.w7
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	id=s1.u1.w8
+10	cinémathèque	cinémathèque	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	id=s1.u1.w9
+
+# sent_id = 1SB0208_2
+# text = voilà
+1	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u2.w0
+
+# sent_id = 1SB0208_3
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1SB0208_4
+# text = je vous en prie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u4.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u4.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u4.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w3
+

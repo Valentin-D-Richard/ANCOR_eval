@@ -1,0 +1,72 @@
+# sent_id = 1SB0403_0
+# text = est ce que vous avez un plan de Grenoble avec le plan du quartier Europôle
+1	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	id=s1.u0.w0
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u0.w1
+3	que	que	SCONJ	_	_	5	mark	_	_none=|id=s1.u0.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_none=|id=s1.u0.w3
+5	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	_none=|id=s1.u0.w4
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_none=|id=s1.u0.w5
+7	plan	plan	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	id=s1.u0.w6
+8	de	de	ADP	_	_	9	case	_	_none=|id=s1.u0.w7
+9	Grenoble	Grenoble	PROPN	_	_	7	nmod	_	id=s1.u0.w8
+10	avec	avec	ADP	_	_	12	case	_	_none=|id=s1.u0.w9
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	id=s1.u0.w10
+12	plan	plan	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	id=s1.u0.w11
+13	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	id=s1.u0.w12
+14	quartier	quartier	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_none=|id=s1.u0.w13
+15	Europôle	Europôle	PROPN	_	_	14	flat:name	_	id=s1.u0.w14
+
+# sent_id = 1SB0403_1
+# text = j' ai le plan du Grenoble avec e l' indication du quartier Europôle
+1	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u1.w1
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_none=|id=s1.u1.w2
+4	plan	plan	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_none=|id=s1.u1.w3
+5	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_none=|id=s1.u1.w4
+6	Grenoble	Grenoble	PROPN	_	_	4	nmod	_	_none=|id=s1.u1.w5
+7	avec	avec	ADP	_	_	10	case	_	_none=|id=s1.u1.w6
+8	e	e	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	id=s1.u1.w7
+9	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	id=s1.u1.w8
+10	indication	indication	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	id=s1.u1.w9
+11	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	id=s1.u1.w10
+12	quartier	quartier	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	id=s1.u1.w11
+13	Europôle	Europôle	PROPN	_	_	12	nmod:appos	_	id=s1.u1.w12
+
+# sent_id = 1SB0403_2
+# text = ouais mais e vous n' avez pas un plan où il y aurait les immeubles c' est nul même en petit
+1	ouais	ouais	INTJ	_	_	18	discourse	_	_none=|id=s1.u2.w0
+2	mais	mais	CCONJ	_	_	6	cc	_	_none=|id=s1.u2.w1
+3	e	e	SCONJ	_	_	6	mark	_	_none=|id=s1.u2.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_none=|id=s1.u2.w3
+5	n'	ne	ADV	_	Polarity=Neg	6	advmod	_	_none=|id=s1.u2.w4
+6	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	18	advcl	_	_none=|id=s1.u2.w5
+7	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	_none=|id=s1.u2.w6
+8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_none=|id=s1.u2.w7
+9	plan	plan	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_none=|id=s1.u2.w8
+10	où	où	PRON	_	PronType=Rel	13	obl:mod	_	_none=|id=s1.u2.w9
+11	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	expl:subj	_	_none=|id=s1.u2.w10
+12	y	y	PRON	_	Person=3|PronType=Prs	13	expl:comp	_	id=s1.u2.w11
+13	aurait	auraoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	id=s1.u2.w12
+14	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	15	det	_	id=s1.u2.w13
+15	immeubles	immeuble	NOUN	_	Gender=Masc|Number=Plur	13	obj	_	id=s1.u2.w14
+16	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	18	nsubj	_	_none=|id=s1.u2.w15
+17	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	id=s1.u2.w16
+18	nul	nul	ADJ	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u2.w17
+19	même	même	ADV	_	_	21	advmod	_	_none=|id=s1.u2.w18
+20	en	en	ADP	_	_	21	case	_	_none=|id=s1.u2.w19
+21	petit	petit	ADJ	_	Gender=Masc|Number=Sing	18	obl:mod	_	_none=|id=s1.u2.w20
+
+# sent_id = 1SB0403_3
+# text = oh non
+1	oh	oh	INTJ	_	_	2	discourse	_	_none=|id=s1.u3.w0
+2	non	non	ADV	_	Polarity=Neg	0	root	_	_none=|id=s1.u3.w1
+
+# sent_id = 1SB0403_4
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u4.w0
+
+# sent_id = 1SB0403_5
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u5.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u5.w1
+

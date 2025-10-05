@@ -1,0 +1,40 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0479_0
+# text = monsieur bonjour
+1	monsieur	_	_	_	_	_	_	_	id=s1.u0.w0
+2	bonjour	_	_	_	_	_	_	_	id=s1.u0.w1
+
+# sent_id = 1PF0479_1
+# text = moi je cherche le le coin Cargo
+1	moi	_	_	_	_	_	_	_	id=s1.u1.w0
+2	je	_	_	_	_	_	_	_	id=s1.u1.w1
+3	cherche	_	_	_	_	_	_	_	id=s1.u1.w2
+4	le	_	_	_	_	_	_	_	id=s1.u1.w3
+5	le	_	_	_	_	_	_	_	id=s1.u1.w4
+6	coin	_	_	_	_	_	_	_	id=s1.u1.w5
+7	Cargo	_	_	_	_	_	_	_	id=s1.u1.w6
+
+# sent_id = 1PF0479_2
+# text = le Cargo il est là là où il y a la la la demoiselle ou la dame là voyez au revoir
+1	le	_	_	_	_	_	_	_	id=s1.u2.w0
+2	Cargo	_	_	_	_	_	_	_	id=s1.u2.w1
+3	il	_	_	_	_	_	_	_	id=s1.u2.w2
+4	est	_	_	_	_	_	_	_	id=s1.u2.w3
+5	là	_	_	_	_	_	_	_	id=s1.u2.w4
+6	là	_	_	_	_	_	_	_	id=s1.u2.w5
+7	où	_	_	_	_	_	_	_	id=s1.u2.w6
+8	il	_	_	_	_	_	_	_	id=s1.u2.w7
+9	y	_	_	_	_	_	_	_	id=s1.u2.w8
+10	a	_	_	_	_	_	_	_	id=s1.u2.w9
+11	la	_	_	_	_	_	_	_	id=s1.u2.w10
+12	la	_	_	_	_	_	_	_	id=s1.u2.w11
+13	la	_	_	_	_	_	_	_	id=s1.u2.w12
+14	demoiselle	_	_	_	_	_	_	_	id=s1.u2.w13
+15	ou	_	_	_	_	_	_	_	id=s1.u2.w14
+16	la	_	_	_	_	_	_	_	id=s1.u2.w15
+17	dame	_	_	_	_	_	_	_	id=s1.u2.w16
+18	là	_	_	_	_	_	_	_	id=s1.u2.w17
+19	voyez	_	_	_	_	_	_	_	id=s1.u2.w18
+20	au	_	_	_	_	_	_	_	id=s1.u2.w19
+21	revoir	_	_	_	_	_	_	_	id=s1.u2.w20
+

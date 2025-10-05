@@ -1,0 +1,80 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0534_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AG0534_1
+# text = bonjour je voudrais savoir où est ce que je peux m' adresser pour avoir une carte de tram avec les lignes de tram et les bus
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	je	_	_	_	_	_	_	_	id=s1.u1.w1
+3	voudrais	_	_	_	_	_	_	_	id=s1.u1.w2
+4	savoir	_	_	_	_	_	_	_	id=s1.u1.w3
+5	où	_	_	_	_	_	_	_	id=s1.u1.w4
+6	est	_	_	_	_	_	_	_	id=s1.u1.w5
+7	ce	_	_	_	_	_	_	_	id=s1.u1.w6
+8	que	_	_	_	_	_	_	_	id=s1.u1.w7
+9	je	_	_	_	_	_	_	_	id=s1.u1.w8
+10	peux	_	_	_	_	_	_	_	id=s1.u1.w9
+11	m'	_	_	_	_	_	_	_	id=s1.u1.w10
+12	adresser	_	_	_	_	_	_	_	id=s1.u1.w11
+13	pour	_	_	_	_	_	_	_	id=s1.u1.w12
+14	avoir	_	_	_	_	_	_	_	id=s1.u1.w13
+15	une	_	_	_	_	_	_	_	id=s1.u1.w14
+16	carte	_	_	_	_	_	_	_	id=s1.u1.w15
+17	de	_	_	_	_	_	_	_	id=s1.u1.w16
+18	tram	_	_	_	_	_	_	_	id=s1.u1.w17
+19	avec	_	_	_	_	_	_	_	id=s1.u1.w18
+20	les	_	_	_	_	_	_	_	id=s1.u1.w19
+21	lignes	_	_	_	_	_	_	_	id=s1.u1.w20
+22	de	_	_	_	_	_	_	_	id=s1.u1.w21
+23	tram	_	_	_	_	_	_	_	id=s1.u1.w22
+24	et	_	_	_	_	_	_	_	id=s1.u1.w23
+25	les	_	_	_	_	_	_	_	id=s1.u1.w24
+26	bus	_	_	_	_	_	_	_	id=s1.u1.w25
+
+# sent_id = 1AG0534_2
+# text = au TAG là où il y a beaucoup de monde qui attend
+1	au	_	_	_	_	_	_	_	id=s1.u2.w0
+2	TAG	_	_	_	_	_	_	_	id=s1.u2.w1
+3	là	_	_	_	_	_	_	_	id=s1.u2.w2
+4	où	_	_	_	_	_	_	_	id=s1.u2.w3
+5	il	_	_	_	_	_	_	_	id=s1.u2.w4
+6	y	_	_	_	_	_	_	_	id=s1.u2.w5
+7	a	_	_	_	_	_	_	_	id=s1.u2.w6
+8	beaucoup	_	_	_	_	_	_	_	id=s1.u2.w7
+9	de	_	_	_	_	_	_	_	id=s1.u2.w8
+10	monde	_	_	_	_	_	_	_	id=s1.u2.w9
+11	qui	_	_	_	_	_	_	_	id=s1.u2.w10
+12	attend	_	_	_	_	_	_	_	id=s1.u2.w11
+
+# sent_id = 1AG0534_3
+# text = où il y a beaucoup de monde
+1	où	_	_	_	_	_	_	_	id=s1.u3.w0
+2	il	_	_	_	_	_	_	_	id=s1.u3.w1
+3	y	_	_	_	_	_	_	_	id=s1.u3.w2
+4	a	_	_	_	_	_	_	_	id=s1.u3.w3
+5	beaucoup	_	_	_	_	_	_	_	id=s1.u3.w4
+6	de	_	_	_	_	_	_	_	id=s1.u3.w5
+7	monde	_	_	_	_	_	_	_	id=s1.u3.w6
+
+# sent_id = 1AG0534_4
+# text = voilà
+1	voilà	_	_	_	_	_	_	_	id=s1.u4.w0
+
+# sent_id = 1AG0534_5
+# text = bon ben voilà
+1	bon	_	_	_	_	_	_	_	id=s1.u5.w0
+2	ben	_	_	_	_	_	_	_	id=s1.u5.w1
+3	voilà	_	_	_	_	_	_	_	id=s1.u5.w2
+
+# sent_id = 1AG0534_6
+# text = c' est uniquement là
+1	c'	_	_	_	_	_	_	_	id=s1.u6.w0
+2	est	_	_	_	_	_	_	_	id=s1.u6.w1
+3	uniquement	_	_	_	_	_	_	_	id=s1.u6.w2
+4	là	_	_	_	_	_	_	_	id=s1.u6.w3
+
+# sent_id = 1AG0534_7
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u7.w0
+

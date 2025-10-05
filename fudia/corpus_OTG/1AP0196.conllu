@@ -1,0 +1,26 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0196_1
+# text = il me faudrait un plan comme ça s' il vous plaît je vous remercie
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_none=|id=s1.u1.w0
+2	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	3	iobj	_	_none=|id=s1.u1.w1
+3	faudrait	falloir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	id=s1.u1.w3
+5	plan	plan	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_none=|id=s1.u1.w4
+6	comme	comme	ADP	_	_	7	case	_	id=s1.u1.w5
+7	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nmod	_	id=s1.u1.w6
+8	s'	se	SCONJ	_	_	11	mark	_	_none=|id=s1.u1.w7
+9	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl:subj	_	_none=|id=s1.u1.w8
+10	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	11	iobj	_	_none=|id=s1.u1.w9
+11	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	discourse	_	_none=|id=s1.u1.w10
+12	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_none=|id=s1.u1.w11
+13	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	14	obj	_	id=s1.u1.w12
+14	remercie	remercier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	id=s1.u1.w13
+
+# sent_id = 1AP0196_2
+# text = je vous en prie monsieur
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u2.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u2.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u2.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w3
+5	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	4	vocative	_	_none=|id=s1.u2.w4
+

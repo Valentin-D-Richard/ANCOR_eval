@@ -1,0 +1,190 @@
+# sent_id = 1SB0300_0
+# text = moi je désirerais savoir e ce qu' il y a comme divertissements qu' on peut pour les petits les enfants e à partir de quatre ans enfin tout ce qui se fait à Grenoble lorsqu' on est une petite fille ils vont dans les environs pour pour l' occuper pendant huit jours
+1	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	_none=|id=s1.u0.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u0.w1
+3	désirerais	désirer	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u0.w2
+4	savoir	savoir	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u0.w3
+5	e	e	INTJ	_	_	4	mark	_	id=s1.u0.w4
+6	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	obj	_	_none=|id=s1.u0.w5
+7	qu'	que	PRON	_	PronType=Rel	10	obj	_	_none=|id=s1.u0.w6
+8	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_none=|id=s1.u0.w7
+9	y	y	PRON	_	Person=3|PronType=Prs	10	expl:comp	_	id=s1.u0.w8
+10	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	id=s1.u0.w9
+11	comme	comme	ADP	_	_	12	case	_	_none=|id=s1.u0.w10
+12	divertissements	divertissement	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	id=s1.u0.w11
+13	qu'	que	SCONJ	_	PronType=Rel	15	obj	_	_none=|id=s1.u0.w12
+14	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	15	nsubj	_	_none=|id=s1.u0.w13
+15	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	acl:relcl	_	_none=|id=s1.u0.w14
+16	pour	pour	ADP	_	_	18	case	_	_none=|id=s1.u0.w15
+17	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	18	det	_	_none=|id=s1.u0.w16
+18	petits	petit	ADJ	_	Gender=Masc|Number=Plur	20	nmod	_	_none=|id=s1.u0.w17
+19	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	20	det	_	_none=|id=s1.u0.w18
+20	enfants	enfant	NOUN	_	Gender=Masc|Number=Plur	23	obl:arg	_	id=s1.u0.w19
+21	e	e	CCONJ	_	_	29	cc	_	_none=|id=s1.u0.w20
+22	à	à	ADP	_	_	23	mark	_	_none=|id=s1.u0.w21
+23	partir	partir	VERB	_	VerbForm=Inf	6	conj	_	_none=|id=s1.u0.w22
+24	de	de	ADP	_	_	26	case	_	_none=|id=s1.u0.w23
+25	quatre	quatre	NUM	_	Number=Plur	26	nummod	_	_none=|id=s1.u0.w24
+26	ans	an	NOUN	_	Gender=Masc|Number=Plur	23	obl:mod	_	id=s1.u0.w25
+27	enfin	enfin	ADV	_	_	23	discourse	_	_none=|id=s1.u0.w26
+28	tout	tout	ADJ	_	Gender=Masc|Number=Sing	29	amod	_	_none=|id=s1.u0.w27
+29	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	conj	_	_none=|id=s1.u0.w28
+30	qui	qui	PRON	_	PronType=Rel	32	nsubj	_	_none=|id=s1.u0.w29
+31	se	se	PRON	_	Person=3|PronType=Prs	29	acl:relcl	_	_none=|id=s1.u0.w30
+32	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	fixed	_	id=s1.u0.w31
+33	à	à	ADP	_	_	34	case	_	id=s1.u0.w32
+34	Grenoble	Grenoble	PROPN	_	_	32	obl:mod	_	_none=|id=s1.u0.w33
+35	lorsqu'	lorsque	SCONJ	_	_	40	mark	_	_none=|id=s1.u0.w34
+36	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	40	nsubj	_	_none=|id=s1.u0.w35
+37	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	cop	_	id=s1.u0.w36
+38	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	40	det	_	id=s1.u0.w37
+39	petite	petit	ADJ	_	Gender=Fem|Number=Sing	40	amod	_	_none=|id=s1.u0.w38
+40	fille	fille	NOUN	_	Gender=Fem|Number=Sing	49	advcl	_	id=s1.u0.w39
+41	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	42	nsubj	_	_none=|id=s1.u0.w40
+42	vont	aller	VERB	ETRE	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	acl:relcl	_	id=s1.u0.w41
+43	dans	dans	ADP	_	_	45	case	_	_none=|id=s1.u0.w42
+44	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	45	det	_	id=s1.u0.w43
+45	environs	environ	NOUN	_	Gender=Masc|Number=Plur	42	obl:arg	_	id=s1.u0.w44
+46	pour	pour	ADP	_	_	49	reparandum	_	_none=|id=s1.u0.w45
+47	pour	pour	ADP	_	_	49	mark	_	_none=|id=s1.u0.w46
+48	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	49	obj	_	_none=|id=s1.u0.w47
+49	occuper	occuper	VERB	_	VerbForm=Inf	42	advcl	_	id=s1.u0.w48
+50	pendant	pendant	ADP	_	_	52	case	_	_none=|id=s1.u0.w49
+51	huit	huit	NUM	_	Number=Plur	52	nummod	_	_none=|id=s1.u0.w50
+52	jours	jour	NOUN	_	Gender=Masc|Number=Plur	49	obl:mod	_	id=s1.u0.w51
+
+# sent_id = 1SB0300_2
+# text = ah d' accord il y a le cirque jusqu' au au jusqu' au six octobre
+1	ah	ah	INTJ	_	_	6	discourse	_	id=s1.u2.w0
+2	d'	de	ADP	_	_	6	discourse	_	_none=|id=s1.u2.w1
+3	accord	accord	NOUN	_	Gender=Masc|Number=Sing	2	fixed	_	id=s1.u2.w2
+4	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	_none=|id=s1.u2.w3
+5	y	y	PRON	_	Person=3|PronType=Prs	6	expl:comp	_	id=s1.u2.w4
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w5
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	id=s1.u2.w6
+8	cirque	cirque	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	id=s1.u2.w7
+9	jusqu'	jusque	ADP	_	_	15	reparandum	_	_none=|id=s1.u2.w8
+10	au	au	ADP	_	_	11	case	_	_none=|id=s1.u2.w9
+11	au	au	DET	_	_	15	reparandum	_	_none=|id=s1.u2.w10
+12	jusqu'	jusque	ADV	_	_	15	advmod	_	_none=|id=s1.u2.w11
+13	au	au	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_none=|id=s1.u2.w12
+14	six	six	NUM	_	Number=Plur	15	nummod	_	_none=|id=s1.u2.w13
+15	octobre	octobre	NOUN	_	Gender=Masc|Number=Sing	6	obl:mod	_	_none=|id=s1.u2.w14
+
+# sent_id = 1SB0300_3
+# text = oui mais elle vient à partir du vingt
+1	oui	oui	INTJ	_	_	4	discourse	_	_none=|id=s1.u3.w0
+2	mais	mais	CCONJ	_	_	1	cc	_	_none=|id=s1.u3.w1
+3	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	id=s1.u3.w2
+4	vient	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u3.w3
+5	à	à	ADP	_	_	6	mark	_	id=s1.u3.w4
+6	partir	partir	VERB	_	VerbForm=Inf	4	xcomp	_	id=s1.u3.w5
+7	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_none=|id=s1.u3.w6
+8	vingt	vingt	NUM	_	Gender=Masc|Number=Sing	6	obl:mod	_	_none=|id=s1.u3.w7
+
+# sent_id = 1SB0300_4
+# text = d' accord donc voilà là vous avez les différents sites touristiques susceptibles de les intéresser
+1	d'	de	ADP	_	_	2	case	_	_none=|id=s1.u4.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	7	discourse	_	id=s1.u4.w1
+3	donc	donc	ADV	_	_	7	cc	_	_none=|id=s1.u4.w2
+4	voilà	voilà	VERB	_	_	7	discourse	_	_none=|id=s1.u4.w3
+5	là	là	ADV	_	_	7	advmod	_	_none=|id=s1.u4.w4
+6	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_none=|id=s1.u4.w5
+7	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w6
+8	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	id=s1.u4.w7
+9	différents	différent	DET	_	Gender=Masc|Number=Plur	10	amod	_	id=s1.u4.w8
+10	sites	site	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	id=s1.u4.w9
+11	touristiques	touristique	ADJ	_	Gender=Masc|Number=Plur	10	amod	_	id=s1.u4.w10
+12	susceptibles	susceptible	ADJ	_	Gender=Masc|Number=Plur	10	acl	_	id=s1.u4.w11
+13	de	de	ADP	_	_	15	mark	_	_none=|id=s1.u4.w12
+14	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	15	obj	_	id=s1.u4.w13
+15	intéresser	intéresser	VERB	_	VerbForm=Inf	12	advcl	_	id=s1.u4.w14
+
+# sent_id = 1SB0300_5
+# text = et puis surtout même les éventuellement les les pièces de théâtre ou le e spectacle pour enfant de quatre ans quoi
+1	et	et	CCONJ	_	_	9	cc	_	_none=|id=s1.u5.w0
+2	puis	puis	CCONJ	_	_	1	fixed	_	id=s1.u5.w1
+3	surtout	surtout	ADV	_	_	9	advmod	_	_none=|id=s1.u5.w2
+4	même	même	ADV	_	_	5	advmod	_	_none=|id=s1.u5.w3
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	reparandum	_	_none=|id=s1.u5.w4
+6	éventuellement	éventuellement	ADV	_	_	9	advmod	_	_none=|id=s1.u5.w5
+7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	reparandum	_	id=s1.u5.w6
+8	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_none=|id=s1.u5.w7
+9	pièces	pièce	NOUN	_	Gender=Fem|Number=Plur	0	root	_	id=s1.u5.w8
+10	de	de	ADP	_	_	11	case	_	id=s1.u5.w9
+11	théâtre	théâtre	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_none=|id=s1.u5.w10
+12	ou	ou	CCONJ	_	_	15	cc	_	id=s1.u5.w11
+13	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	id=s1.u5.w12
+14	e	e	ADJ	_	Gender=Masc|Number=Sing	15	conj	_	id=s1.u5.w13
+15	spectacle	spectacle	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	id=s1.u5.w14
+16	pour	pour	ADP	_	_	17	case	_	_none=|id=s1.u5.w15
+17	enfant	enfant	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	id=s1.u5.w16
+18	de	de	ADP	_	_	20	case	_	_none=|id=s1.u5.w17
+19	quatre	quatre	NUM	_	Number=Plur	20	nummod	_	id=s1.u5.w18
+20	ans	an	NOUN	_	Gender=Masc|Number=Plur	17	nmod	_	id=s1.u5.w19
+21	quoi	quoi	INTJ	_	_	9	discourse	_	_none=|id=s1.u5.w20
+
+# sent_id = 1SB0300_7
+# text = voilà vous les et en ce qui concerne les loisirs enfants vous les retrouvez ici et le public enfant
+1	voilà	voilà	VERB	_	_	14	discourse	_	_none=|id=s1.u7.w0
+2	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	4	reparandum	_	_none=|id=s1.u7.w1
+3	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	14	reparandum	_	id=s1.u7.w2
+4	et	et	CCONJ	_	_	14	cc	_	_none=|id=s1.u7.w3
+5	en	en	ADP	_	_	6	case	_	_none=|id=s1.u7.w4
+6	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	obl:mod	_	_none=|id=s1.u7.w5
+7	qui	qui	PRON	_	PronType=Rel	8	nsubj	_	_none=|id=s1.u7.w6
+8	concerne	concerner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	id=s1.u7.w7
+9	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	id=s1.u7.w8
+10	loisirs	loisir	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_none=|id=s1.u7.w9
+11	enfants	enfant	NOUN	_	Gender=Masc|Number=Plur	10	amod	_	id=s1.u7.w10
+12	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	14	nsubj	_	id=s1.u7.w11
+13	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	14	obj	_	id=s1.u7.w12
+14	retrouvez	retrouver	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u7.w13
+15	ici	ici	ADV	_	_	14	advmod	_	_none=|id=s1.u7.w14
+16	et	et	CCONJ	_	_	18	cc	_	_none=|id=s1.u7.w15
+17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_none=|id=s1.u7.w16
+18	public	public	NOUN	_	Gender=Masc|Number=Sing	14	conj	_	id=s1.u7.w17
+19	enfant	enfant	PUNCT	_	_	14	punct	_	id=s1.u7.w18
+
+# sent_id = 1SB0300_8
+# text = ah ok oh oui
+1	ah	ah	INTJ	_	_	0	root	_	_none=|id=s1.u8.w0
+2	ok	ok	INTJ	_	_	1	fixed	_	_none=|id=s1.u8.w1
+3	oh	oh	INTJ	_	_	4	discourse	_	_none=|id=s1.u8.w2
+4	oui	oui	INTJ	_	_	1	conj	_	_none=|id=s1.u8.w3
+
+# sent_id = 1SB0300_9
+# text = voilà
+1	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u9.w0
+
+# sent_id = 1SB0300_10
+# text = merci beaucoup
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u10.w0
+2	beaucoup	beaucoup	ADV	_	_	1	advmod	_	_none=|id=s1.u10.w1
+
+# sent_id = 1SB0300_11
+# text = je vous en prie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u11.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u11.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u11.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u11.w3
+
+# sent_id = 1SB0300_12
+# text = et bien je vous souhaite bonne journée
+1	et	et	CCONJ	_	_	5	cc	_	_none=|id=s1.u12.w0
+2	bien	bien	ADV	_	_	5	advmod	_	_none=|id=s1.u12.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u12.w2
+4	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	5	iobj	_	id=s1.u12.w3
+5	souhaite	souhaiter	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u12.w4
+6	bonne	bon	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	id=s1.u12.w5
+7	journée	journée	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	id=s1.u12.w6
+
+# sent_id = 1SB0300_13
+# text = merci monsieur au revoir vous aussi
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u13.w0
+2	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	_none=|id=s1.u13.w1
+3	au	au	ADP	_	_	4	mark	_	_none=|id=s1.u13.w2
+4	revoir	revoir	VERB	_	VerbForm=Inf	1	advcl	_	_none=|id=s1.u13.w3
+5	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	obl:mod	_	id=s1.u13.w4
+6	aussi	aussi	ADV	_	_	4	advmod	_	_none=|id=s1.u13.w5
+

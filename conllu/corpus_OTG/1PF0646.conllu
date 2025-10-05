@@ -1,0 +1,26 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0646_0
+# text = bonjour j' aimerais avoir le plan de Grenoble s' il vous plaît
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+2	j'	_	_	_	_	_	_	_	id=s1.u0.w1
+3	aimerais	_	_	_	_	_	_	_	id=s1.u0.w2
+4	avoir	_	_	_	_	_	_	_	id=s1.u0.w3
+5	le	_	_	_	_	_	_	_	id=s1.u0.w4
+6	plan	_	_	_	_	_	_	_	id=s1.u0.w5
+7	de	_	_	_	_	_	_	_	id=s1.u0.w6
+8	Grenoble	_	_	_	_	_	_	_	id=s1.u0.w7
+9	s'	_	_	_	_	_	_	_	id=s1.u0.w8
+10	il	_	_	_	_	_	_	_	id=s1.u0.w9
+11	vous	_	_	_	_	_	_	_	id=s1.u0.w10
+12	plaît	_	_	_	_	_	_	_	id=s1.u0.w11
+
+# sent_id = 1PF0646_1
+# text = voilà
+1	voilà	_	_	_	_	_	_	_	id=s1.u1.w0
+
+# sent_id = 1PF0646_2
+# text = je vous remercie
+1	je	_	_	_	_	_	_	_	id=s1.u2.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u2.w1
+3	remercie	_	_	_	_	_	_	_	id=s1.u2.w2
+

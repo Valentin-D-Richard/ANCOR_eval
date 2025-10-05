@@ -1,0 +1,65 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0126_0
+# text = est ce que vous avez un plan des pistes cyclables de Grenoble
+1	est	_	_	_	_	_	_	_	id=s1.u0.w0
+2	ce	_	_	_	_	_	_	_	id=s1.u0.w1
+3	que	_	_	_	_	_	_	_	id=s1.u0.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u0.w3
+5	avez	_	_	_	_	_	_	_	id=s1.u0.w4
+6	un	_	_	_	_	_	_	_	id=s1.u0.w5
+7	plan	_	_	_	_	_	_	_	id=s1.u0.w6
+8	des	_	_	_	_	_	_	_	id=s1.u0.w7
+9	pistes	_	_	_	_	_	_	_	id=s1.u0.w8
+10	cyclables	_	_	_	_	_	_	_	id=s1.u0.w9
+11	de	_	_	_	_	_	_	_	id=s1.u0.w10
+12	Grenoble	_	_	_	_	_	_	_	id=s1.u0.w11
+
+# sent_id = 1SB0126_1
+# text = ils sont en rupture de stock ils vont rééditent le document et il sort e hum il sort dans un mois
+1	ils	_	_	_	_	_	_	_	id=s1.u1.w0
+2	sont	_	_	_	_	_	_	_	id=s1.u1.w1
+3	en	_	_	_	_	_	_	_	id=s1.u1.w2
+4	rupture	_	_	_	_	_	_	_	id=s1.u1.w3
+5	de	_	_	_	_	_	_	_	id=s1.u1.w4
+6	stock	_	_	_	_	_	_	_	id=s1.u1.w5
+7	ils	_	_	_	_	_	_	_	id=s1.u1.w6
+8	vont	_	_	_	_	_	_	_	id=s1.u1.w7
+9	rééditent	_	_	_	_	_	_	_	id=s1.u1.w8
+10	le	_	_	_	_	_	_	_	id=s1.u1.w9
+11	document	_	_	_	_	_	_	_	id=s1.u1.w10
+12	et	_	_	_	_	_	_	_	id=s1.u1.w11
+13	il	_	_	_	_	_	_	_	id=s1.u1.w12
+14	sort	_	_	_	_	_	_	_	id=s1.u1.w13
+15	e	_	_	_	_	_	_	_	id=s1.u1.w14
+16	hum	_	_	_	_	_	_	_	id=s1.u1.w15
+17	il	_	_	_	_	_	_	_	id=s1.u1.w16
+18	sort	_	_	_	_	_	_	_	id=s1.u1.w17
+19	dans	_	_	_	_	_	_	_	id=s1.u1.w18
+20	un	_	_	_	_	_	_	_	id=s1.u1.w19
+21	mois	_	_	_	_	_	_	_	id=s1.u1.w20
+
+# sent_id = 1SB0126_2
+# text = d' accord
+1	d'	_	_	_	_	_	_	_	id=s1.u2.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u2.w1
+
+# sent_id = 1SB0126_3
+# text = pas avant
+1	pas	_	_	_	_	_	_	_	id=s1.u3.w0
+2	avant	_	_	_	_	_	_	_	id=s1.u3.w1
+
+# sent_id = 1SB0126_4
+# text = merci au revoir
+1	merci	_	_	_	_	_	_	_	id=s1.u4.w0
+2	au	_	_	_	_	_	_	_	id=s1.u4.w1
+3	revoir	_	_	_	_	_	_	_	id=s1.u4.w2
+
+# sent_id = 1SB0126_5
+# text = je vous en prie au revoir
+1	je	_	_	_	_	_	_	_	id=s1.u5.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u5.w1
+3	en	_	_	_	_	_	_	_	id=s1.u5.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u5.w3
+5	au	_	_	_	_	_	_	_	id=s1.u5.w4
+6	revoir	_	_	_	_	_	_	_	id=s1.u5.w5
+

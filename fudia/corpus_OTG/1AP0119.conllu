@@ -1,0 +1,314 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0119_0
+# text = un renseignement pour visiter le truc du chocolat e le palais du chocolat je fais comment
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u0.w0
+2	renseignement	renseignement	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w1
+3	pour	pour	ADP	_	_	4	mark	_	_none=|id=s1.u0.w2
+4	visiter	visiter	VERB	_	VerbForm=Inf	15	advcl	_	_none=|id=s1.u0.w3
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_none=|id=s1.u0.w4
+6	truc	truc	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_none=|id=s1.u0.w5
+7	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_none=|id=s1.u0.w6
+8	chocolat	chocolat	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_none=|id=s1.u0.w7
+9	e	e	CCONJ	_	_	11	cc	_	id=s1.u0.w8
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	id=s1.u0.w9
+11	palais	palais	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	id=s1.u0.w10
+12	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_none=|id=s1.u0.w11
+13	chocolat	chocolat	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	id=s1.u0.w12
+14	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	id=s1.u0.w13
+15	fais	faire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	ClauseType=Int|id=s1.u0.w14
+16	comment	comment	ADV	_	PronType=Int	15|15	advmod|cue:wh	_	_none=|id=s1.u0.w15|PhraseType=Int
+
+# sent_id = 1AP0119_1
+# text = oui alors e bon si vous n' avez pas de voiture bien sûr faut vous renseigner pour les bus à la gare routière hein mais e il y a des départs pour les il n' y a pas de problème il est sur la Côte Saint André le palais du chocolat
+1	oui	oui	ADV	_	_	14	discourse	_	_none=|id=s1.u1.w0
+2	alors	alors	ADV	_	_	14	discourse	_	_none=|id=s1.u1.w1
+3	e	e	X	_	_	14	discourse	_	_none=|id=s1.u1.w2
+4	bon	bon	INTJ	_	Gender=Masc|Number=Sing	8	discourse	_	_none=|id=s1.u1.w3
+5	si	si	SCONJ	_	_	8	mark	_	_none=|id=s1.u1.w4
+6	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	8	nsubj	_	_none=|id=s1.u1.w5
+7	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	_none=|id=s1.u1.w6
+8	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	14	advcl	_	_none=|id=s1.u1.w7
+9	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	_none=|id=s1.u1.w8
+10	de	de	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_none=|id=s1.u1.w9
+11	voiture	voiture	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	id=s1.u1.w10
+12	bien	bien	ADV	_	_	14	advmod	_	_none=|id=s1.u1.w11
+13	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	12	fixed	_	_none=|id=s1.u1.w12
+14	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w13
+15	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	16	iobj	_	id=s1.u1.w14
+16	renseigner	renseigner	VERB	_	VerbForm=Inf	14	ccomp	_	id=s1.u1.w15
+17	pour	pour	ADP	_	_	19	case	_	_none=|id=s1.u1.w16
+18	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	19	det	_	id=s1.u1.w17
+19	bus	bus	NOUN	_	Gender=Masc|Number=Plur	16	obl:mod	_	_none=|id=s1.u1.w18
+20	à	à	ADP	_	_	22	case	_	_none=|id=s1.u1.w19
+21	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	id=s1.u1.w20
+22	gare	gare	NOUN	_	Gender=Fem|Number=Sing	19	nmod	_	id=s1.u1.w21
+23	routière	routière	ADJ	_	Gender=Fem|Number=Sing	22	amod	_	_none=|id=s1.u1.w22
+24	hein	hein	INTJ	_	_	22	discourse	_	_none=|id=s1.u1.w23
+25	mais	mais	CCONJ	_	_	29	cc	_	_none=|id=s1.u1.w24
+26	e	e	PRON	_	_	29	discourse	_	id=s1.u1.w25
+27	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	expl:subj	_	_none=|id=s1.u1.w26
+28	y	y	PRON	_	Person=3|PronType=Prs	29	expl:comp	_	id=s1.u1.w27
+29	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	conj	_	id=s1.u1.w28
+30	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	31	det	_	id=s1.u1.w29
+31	départs	départ	NOUN	_	Gender=Masc|Number=Plur	29	obj	_	id=s1.u1.w30
+32	pour	pour	ADP	_	_	37	mark	_	_none=|id=s1.u1.w31
+33	les	le	PRON	_	Definite=Def|Number=Plur|PronType=Art	37	reparandum	_	id=s1.u1.w32
+34	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	37	expl:subj	_	_none=|id=s1.u1.w33
+35	n'	ne	ADV	_	Polarity=Neg	37	advmod	_	_none=|id=s1.u1.w34
+36	y	y	PRON	_	Person=3|PronType=Prs	37	expl:comp	_	_none=|id=s1.u1.w35
+37	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_none=|id=s1.u1.w36
+38	pas	pas	ADV	_	Polarity=Neg	37	advmod	_	_none=|id=s1.u1.w37
+39	de	de	ADP	_	Definite=Ind|Number=Sing|PronType=Art	40	case	_	_none=|id=s1.u1.w38
+40	problème	problème	NOUN	_	Gender=Masc|Number=Sing	37	obj	_	id=s1.u1.w39
+41	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	42	nsubj	_	_none=|id=s1.u1.w40
+42	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	acl:relcl	_	id=s1.u1.w41
+43	sur	sur	ADP	_	_	45	case	_	id=s1.u1.w42
+44	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	45	det	_	id=s1.u1.w43
+45	Côte	Côte	PROPN	_	_	42	obl:arg	_	id=s1.u1.w44
+46	Saint	Saint	PROPN	_	_	45	nmod:appos	_	_none=|id=s1.u1.w45
+47	André	André	PROPN	_	_	46	flat:name	_	id=s1.u1.w46
+48	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	49	det	_	id=s1.u1.w47
+49	palais	palais	NOUN	_	Gender=Masc|Number=Sing	42	xcomp	_	id=s1.u1.w48
+50	du	du	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	51	det	_	id=s1.u1.w49
+51	chocolat	chocolat	NOUN	_	Gender=Masc|Number=Sing	49	nmod	_	id=s1.u1.w50
+
+# sent_id = 1AP0119_2
+# text = la gare routière d' accord
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	id=s1.u2.w0
+2	gare	gare	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u2.w1
+3	routière	routièr	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	id=s1.u2.w2
+4	d'	de	ADP	_	_	5	case	_	_none=|id=s1.u2.w3
+5	accord	accord	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	id=s1.u2.w4
+
+# sent_id = 1AP0119_3
+# text = il est où s' il vous plaît e
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_none=|id=s1.u3.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u3.w1
+3	où	où	PRON	_	PronType=Rel	0	root	_	id=s1.u3.w2
+4	s'	se	SCONJ	_	_	7	mark	_	_none=|id=s1.u3.w3
+5	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	_none=|id=s1.u3.w4
+6	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	7	iobj	_	_none=|id=s1.u3.w5
+7	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	discourse	_	id=s1.u3.w6
+8	e	e	INTJ	_	_	3	dep	_	_none=|id=s1.u3.w7
+
+# sent_id = 1AP0119_4
+# text = ah ben je connais bien
+1	ah	ah	INTJ	_	_	4	discourse	_	_none=|id=s1.u4.w0
+2	ben	ben	INTJ	_	_	4	discourse	_	_none=|id=s1.u4.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u4.w2
+4	connais	connaître	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w3
+5	bien	bien	ADV	_	_	4	advmod	_	_none=|id=s1.u4.w4
+
+# sent_id = 1AP0119_5
+# text = Côte Saint André par contre ils font des choses très sympas regardez alors ça s' appelle " escapade gourmande " c' est à la journée
+1	Côte	côte	PROPN	_	_	7	dislocated	_	_none=|id=s1.u5.w0
+2	Saint	Saint	PROPN	_	_	1	nmod:appos	_	_none=|id=s1.u5.w1
+3	André	André	PROPN	_	_	2	flat:name	_	_none=|id=s1.u5.w2
+4	par	par	ADP	_	_	7	advmod	_	_none=|id=s1.u5.w3
+5	contre	contre	NOUN	_	Gender=Masc|Number=Sing	4	fixed	_	_none=|id=s1.u5.w4
+6	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_none=|id=s1.u5.w5
+7	font	fre	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u5.w6
+8	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	9	det	_	id=s1.u5.w7
+9	choses	chose	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	id=s1.u5.w8
+10	très	très	ADV	_	_	11	advmod	_	_none=|id=s1.u5.w9
+11	sympas	sympa	ADJ	_	Gender=Fem|Number=Plur	9	amod	_	id=s1.u5.w10
+12	regardez	regarir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	discourse	_	_none=|id=s1.u5.w11
+13	alors	alors	ADV	_	_	12	advmod	_	_none=|id=s1.u5.w12
+14	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	nsubj	_	_none=|id=s1.u5.w13
+15	s'	se	PRON	_	Person=3|PronType=Prs	7	dep:comp	_	id=s1.u5.w14
+16	appelle	appeler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	id=s1.u5.w15
+17	escapade	escapade	NOUN	_	Gender=Fem|Number=Sing	15	dislocated	_	id=s1.u5.w17
+18	gourmande	gourmand	ADJ	_	Gender=Fem|Number=Sing	17	amod	_	id=s1.u5.w18
+19	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	20	nsubj	_	id=s1.u5.w20
+20	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	fixed	_	id=s1.u5.w21
+21	à	à	ADP	_	_	23	case	_	_none=|id=s1.u5.w22
+22	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	id=s1.u5.w23
+23	journée	journée	NOUN	_	Gender=Fem|Number=Sing	20	xcomp	_	id=s1.u5.w24
+
+# sent_id = 1AP0119_6
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u6.w0
+
+# sent_id = 1AP0119_7
+# text = de dix heures et demie à seize heures vous êtes prise en charge le prix pour la journée est de cent vingt francs vous avez droit aux visites sur le
+1	de	de	ADP	_	_	3	case	_	_none=|id=s1.u7.w0
+2	dix	dix	NUM	_	Number=Plur	3	nummod	_	_none=|id=s1.u7.w1
+3	heures	heure	NOUN	_	Gender=Fem|Number=Plur	11	obl:mod	_	_none=|id=s1.u7.w2
+4	et	et	CCONJ	_	_	5	cc	_	_none=|id=s1.u7.w3
+5	demie	demie	ADJ	_	Gender=Fem|Number=Sing	3	conj	_	_none=|id=s1.u7.w4
+6	à	à	ADP	_	_	8	case	_	_none=|id=s1.u7.w5
+7	seize	seize	NUM	_	Number=Plur	8	nummod	_	id=s1.u7.w6
+8	heures	heure	NOUN	_	Gender=Fem|Number=Plur	3	conj	_	id=s1.u7.w7
+9	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	11	nsubj:pass	_	id=s1.u7.w8
+10	êtes	être	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_none=|id=s1.u7.w9
+11	prise	prioir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	id=s1.u7.w10
+12	en	en	ADP	_	_	13	case	_	id=s1.u7.w11
+13	charge	charge	NOUN	_	Gender=Fem|Number=Sing	11	obl:arg	_	id=s1.u7.w12
+14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	id=s1.u7.w13
+15	prix	prix	NOUN	_	Gender=Masc|Number=Sing	19	nsubj	_	_none=|id=s1.u7.w14
+16	pour	pour	ADP	_	_	18	case	_	id=s1.u7.w15
+17	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	id=s1.u7.w16
+18	journée	journée	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	id=s1.u7.w17
+19	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	id=s1.u7.w18
+20	de	de	ADP	_	_	23	case	_	_none=|id=s1.u7.w19
+21	cent	cent	NUM	_	Number=Plur	23	nummod	_	_none=|id=s1.u7.w20
+22	vingt	vingt	NUM	_	Number=Plur	21	flat	_	_none=|id=s1.u7.w21
+23	francs	franc	ADJ	_	Gender=Masc|Number=Plur	19	xcomp	_	id=s1.u7.w22
+24	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	25	nsubj	_	id=s1.u7.w23
+25	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	conj	_	_none=|id=s1.u7.w24
+26	droit	droit	NOUN	_	Gender=Masc|Number=Sing	25	obj:lvc	_	_none=|id=s1.u7.w25
+27	aux	au	DET	_	_	28	case	_	id=s1.u7.w26
+28	visites	visite	NOUN	_	Gender=Fem|Number=Plur	26	nmod	_	id=s1.u7.w27
+29	sur	sur	ADP	_	_	23	case	_	_none=|id=s1.u7.w28
+30	le	le	PUNCT	_	_	11	punct	_	id=s1.u7.w29
+
+# sent_id = 1AP0119_8
+# text = guidée oui
+1	guidée	guider	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	id=s1.u8.w0
+2	oui	oui	ADV	_	_	1	discourse	_	_none=|id=s1.u8.w1
+
+# sent_id = 1AP0119_9
+# text = musée
+1	musée	musée	NOUN	_	_	0	root	_	id=s1.u9.w0
+
+# sent_id = 1AP0119_10
+# text = du chocolat visite commentée chez les " Cherry Rocher " la liqueur
+1	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u10.w0
+2	chocolat	chocolat	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u10.w1
+3	visite	visite	NOUN	_	Gender=Fem|Number=Sing	2	appos	_	id=s1.u10.w2
+4	commentée	commenter	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	id=s1.u10.w3
+5	chez	chez	ADP	_	_	7	case	_	_none=|id=s1.u10.w4
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	id=s1.u10.w5
+7	Cherry	Cherry	PROPN	_	_	3	nmod	_	_none=|id=s1.u10.w7
+8	Rocher	Rocher	PROPN	_	_	7	flat:name	_	_none=|id=s1.u10.w8
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	id=s1.u10.w10
+10	liqueur	liqueur	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	id=s1.u10.w11
+
+# sent_id = 1AP0119_11
+# text = oui liqueur
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u11.w0
+2	liqueur	liqueur	ADJ	_	Gender=Masc|Number=Sing	1	punct	_	_none=|id=s1.u11.w1
+
+# sent_id = 1AP0119_12
+# text = et le repas du midi pour cent vingt francs avec le transport ça vaut le coup hein et regardez c' est c' est tout indiqué donc là il y a inscription vous avez le téléphone enfin n' hésitez pas et ça c' est pour le musée en lui-même le palais du chocolat seul par contre je vous conseille fortement si vous ne choisissez pas de participer au programme là de l' " escapade gourmande " de e le contacter parce qu' à cette période il y a des horaires précis à des jours bien précis pour visiter le palais hein
+1	et	et	CCONJ	_	_	14	cc	_	_none=|id=s1.u12.w0
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_none=|id=s1.u12.w1
+3	repas	repas	NOUN	_	Gender=Masc|Number=Sing	14	dislocated	_	_none=|id=s1.u12.w2
+4	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	id=s1.u12.w3
+5	midi	midi	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_none=|id=s1.u12.w4
+6	pour	pour	ADP	_	_	9	case	_	_none=|id=s1.u12.w5
+7	cent	cent	NUM	_	Number=Plur	9	nummod	_	_none=|id=s1.u12.w6
+8	vingt	vingt	NUM	_	Number=Plur	7	flat	_	_none=|id=s1.u12.w7
+9	francs	franc	ADJ	_	Gender=Masc|Number=Plur	3	nmod	_	_none=|id=s1.u12.w8
+10	avec	avec	ADP	_	_	12	case	_	_none=|id=s1.u12.w9
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_none=|id=s1.u12.w10
+12	transport	transport	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_none=|id=s1.u12.w11
+13	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	_none=|id=s1.u12.w12
+14	vaut	vautre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u12.w13
+15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_none=|id=s1.u12.w14
+16	coup	coup	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	_none=|id=s1.u12.w15
+17	hein	hein	INTJ	_	_	14	discourse	_	_none=|id=s1.u12.w16
+18	et	et	CCONJ	_	_	19	cc	_	_none=|id=s1.u12.w17
+19	regardez	regarir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	14	discourse	_	id=s1.u12.w18
+20	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	21	nsubj	_	_none=|id=s1.u12.w19
+21	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	reparandum	_	_none=|id=s1.u12.w20
+22	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	25	nsubj	_	_none=|id=s1.u12.w21
+23	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	id=s1.u12.w22
+24	tout	tout	ADV	_	_	25	advmod	_	_none=|id=s1.u12.w23
+25	indiqué	indiquer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl:relcl	_	_none=|id=s1.u12.w24
+26	donc	donc	ADV	_	_	30	advmod	_	_none=|id=s1.u12.w25
+27	là	là	ADV	_	_	30	advmod	_	_none=|id=s1.u12.w26
+28	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	expl:subj	_	_none=|id=s1.u12.w27
+29	y	y	PRON	_	Person=3|PronType=Prs	30	expl:comp	_	_none=|id=s1.u12.w28
+30	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	advcl	_	id=s1.u12.w29
+31	inscription	inscription	NOUN	_	Gender=Fem|Number=Sing	30	obj	_	id=s1.u12.w30
+32	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	33	nsubj	_	_none=|id=s1.u12.w31
+33	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	25	advcl	_	_none=|id=s1.u12.w32
+34	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	id=s1.u12.w33
+35	téléphone	téléphone	NOUN	_	Gender=Masc|Number=Sing	33	obj	_	_none=|id=s1.u12.w34
+36	enfin	enfin	ADV	_	_	33	discourse	_	_none=|id=s1.u12.w35
+37	n'	ne	ADV	_	Polarity=Neg	38	advmod	_	_none=|id=s1.u12.w36
+38	hésitez	hésiter	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	25	conj	_	_none=|id=s1.u12.w37
+39	pas	pas	ADV	_	Polarity=Neg	38	advmod	_	_none=|id=s1.u12.w38
+40	et	et	CCONJ	_	_	38	cc	_	_none=|id=s1.u12.w39
+41	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	43	dislocated	_	id=s1.u12.w40
+42	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	43	nsubj	_	id=s1.u12.w41
+43	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	conj	_	id=s1.u12.w42
+44	pour	pour	ADP	_	_	46	case	_	_none=|id=s1.u12.w43
+45	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	46	det	_	_none=|id=s1.u12.w44
+46	musée	musée	NOUN	_	Gender=Masc|Number=Sing	43	obl:arg	_	_none=|id=s1.u12.w45
+47	en	en	ADP	_	_	48	case	_	_none=|id=s1.u12.w46
+48	lui-même	lui-même	PRON	_	Number=Sing|Person=3|PronType=Prs	46	nmod	_	_none=|id=s1.u12.w47
+49	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	50	det	_	_none=|id=s1.u12.w48
+50	palais	palais	NOUN	_	Gender=Masc|Number=Sing	46	conj	_	id=s1.u12.w49
+51	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	97	det	_	_none=|id=s1.u12.w50
+52	chocolat	chocolat	NOUN	_	Gender=Masc|Number=Sing	91	nmod	_	_none=|id=s1.u12.w51
+53	seul	seul	ADJ	_	Gender=Masc|Number=Sing	50	amod	_	_none=|id=s1.u12.w52
+54	par	par	ADP	_	_	58	advmod	_	_none=|id=s1.u12.w53
+55	contre	contre	NOUN	_	_	54	fixed	_	id=s1.u12.w54
+56	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	58	nsubj	_	_none=|id=s1.u12.w55
+57	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	58	iobj	_	id=s1.u12.w56
+58	conseille	conseiller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	conj	_	_none=|id=s1.u12.w57
+59	fortement	fortement	ADV	_	_	58	advmod	_	_none=|id=s1.u12.w58
+60	si	si	SCONJ	_	_	63	mark	_	_none=|id=s1.u12.w59
+61	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	63	nsubj	_	id=s1.u12.w60
+62	ne	ne	ADV	_	Polarity=Neg	63	advmod	_	_none=|id=s1.u12.w61
+63	choisissez	choisisser	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	25	advcl	_	id=s1.u12.w62
+64	pas	pas	ADV	_	Polarity=Neg	63	advmod	_	_none=|id=s1.u12.w63
+65	de	de	ADP	_	_	66	mark	_	_none=|id=s1.u12.w64
+66	participer	participer	VERB	_	VerbForm=Inf	43	ccomp	_	id=s1.u12.w65
+67	au	au	DET	_	_	68	det	_	_none=|id=s1.u12.w66
+68	programme	programme	NOUN	_	Gender=Masc|Number=Sing	66	obl:arg	_	_none=|id=s1.u12.w67
+69	là	là	ADV	_	_	68	advmod	_	_none=|id=s1.u12.w68
+70	de	de	ADP	_	_	72	case	_	id=s1.u12.w69
+71	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	72	det	_	id=s1.u12.w70
+72	escapade	escapade	NOUN	_	Gender=Fem|Number=Sing	68	nmod	_	id=s1.u12.w72
+73	gourmande	gourmand	ADJ	_	Gender=Fem|Number=Sing	72	amod	_	id=s1.u12.w73
+74	de	de	ADP	_	_	77	mark	_	_none=|id=s1.u12.w75
+75	e	e	PRON	_	_	77	obj	_	id=s1.u12.w76
+76	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	77	obj	_	id=s1.u12.w77
+77	contacter	contacter	VERB	_	VerbForm=Inf	43	ccomp	_	id=s1.u12.w78
+78	parce	parce	ADV	_	_	85	mark	_	_none=|id=s1.u12.w79
+79	qu'	que	SCONJ	_	_	78	fixed	_	id=s1.u12.w80
+80	à	à	ADP	_	_	82	case	_	id=s1.u12.w81
+81	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	82	det	_	id=s1.u12.w82
+82	période	période	NOUN	_	Gender=Fem|Number=Sing	33	obl:mod	_	id=s1.u12.w83
+83	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	85	expl:subj	_	_none=|id=s1.u12.w84
+84	y	y	PRON	_	Person=3|PronType=Prs	85	expl:comp	_	id=s1.u12.w85
+85	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	advcl	_	id=s1.u12.w86
+86	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	87	det	_	id=s1.u12.w87
+87	horaires	horaire	NOUN	_	Gender=Masc|Number=Plur	85	obj	_	id=s1.u12.w88
+88	précis	précis	ADJ	_	Gender=Masc|Number=Plur	87	amod	_	id=s1.u12.w89
+89	à	à	ADP	_	_	91	case	_	id=s1.u12.w90
+90	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	91	det	_	id=s1.u12.w91
+91	jours	jour	NOUN	_	Gender=Masc|Number=Plur	43	obl:arg	_	id=s1.u12.w92
+92	bien	bien	ADV	_	_	93	advmod	_	_none=|id=s1.u12.w93
+93	précis	précis	ADJ	_	Gender=Masc|Number=Plur	91	amod	_	id=s1.u12.w94
+94	pour	pour	ADP	_	_	95	mark	_	id=s1.u12.w95
+95	visiter	visiter	VERB	_	VerbForm=Inf	77	advcl	_	id=s1.u12.w96
+96	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	97	det	_	id=s1.u12.w97
+97	palais	palais	NOUN	_	Gender=Masc|Number=Sing	95	obj	_	id=s1.u12.w98
+98	hein	hein	INTJ	_	_	93	discourse	_	_none=|id=s1.u12.w99
+
+# sent_id = 1AP0119_13
+# text = c' est pas cher
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	id=s1.u13.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	id=s1.u13.w1
+3	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	_none=|id=s1.u13.w2
+4	cher	cher	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u13.w3
+
+# sent_id = 1AP0119_18
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u18.w0
+
+# sent_id = 1AP0119_19
+# text = mais je vous en prie madame au revoir
+1	mais	mais	CCONJ	_	_	5	cc	_	_none=|id=s1.u19.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u19.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	5	iobj	_	_none=|id=s1.u19.w2
+4	en	en	PRON	_	Person=3|PronType=Prs	5	iobj	_	_none=|id=s1.u19.w3
+5	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u19.w4
+6	madame	madame	NOUN	_	Gender=Fem|Number=Sing	5	vocative	_	id=s1.u19.w5
+7	au	au	ADP	_	_	8	mark	_	_none=|id=s1.u19.w6
+8	revoir	revoir	VERB	_	VerbForm=Inf	6	acl	_	id=s1.u19.w7
+

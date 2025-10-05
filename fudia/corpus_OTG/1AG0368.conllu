@@ -1,0 +1,24 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0368_0
+# text = je voudrais des listes d' hôtels s' il vous plaît de Grenoble
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u0.w0
+2	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u0.w1
+3	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	4	det	_	id=s1.u0.w2
+4	listes	liste	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	id=s1.u0.w3
+5	d'	de	ADP	_	_	6	case	_	_none=|id=s1.u0.w4
+6	hôtels	hôtel	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	id=s1.u0.w5
+7	s'	se	SCONJ	_	_	10	mark	_	_none=|id=s1.u0.w6
+8	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_none=|id=s1.u0.w7
+9	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	10	iobj	_	_none=|id=s1.u0.w8
+10	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	discourse	_	_none=|id=s1.u0.w9
+11	de	de	ADP	_	_	12	case	_	_none=|id=s1.u0.w10
+12	Grenoble	Grenoble	PROPN	_	_	4	nmod	_	_none=|id=s1.u0.w11
+
+# sent_id = 1AG0368_2
+# text = voilà
+1	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u2.w0
+
+# sent_id = 1AG0368_3
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+

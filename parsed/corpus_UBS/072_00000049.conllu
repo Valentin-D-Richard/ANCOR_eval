@@ -1,0 +1,226 @@
+# sent_id = 072_00000049_0
+# text = U B S bonjour
+1	U	U	PROPN	_	_	4	dep	_	_none=|id=s1.u0.w0
+2	B	B	PROPN	_	_	1	flat:name	_	_none=|id=s1.u0.w1
+3	S	S	PROPN	_	_	1	dep	_	_none=|id=s1.u0.w2
+4	bonjour	bonjour	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w3
+
+# sent_id = 072_00000049_1
+# text = oui Prénom Nom bonjour e j' aimerais joindre e monsieur Nom2 Prénom2
+1	oui	oui	INTJ	_	_	2	discourse	_	_none=|id=s1.u1.w0
+2	Prénom	Prénom	PROPN	_	_	0	root	_	_none=|id=s1.u1.w1
+3	Nom	Nom	PROPN	_	_	2	flat:name	_	_none=|id=s1.u1.w2
+4	bonjour	bonjour	NOUN	_	Gender=Masc|Number=Sing	2	discourse	_	_none=|id=s1.u1.w3
+5	e	e	PRON	_	_	7	mark	_	_none=|id=s1.u1.w4
+6	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_none=|id=s1.u1.w5
+7	aimerais	aimere	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	id=s1.u1.w6
+8	joindre	joindre	VERB	_	VerbForm=Inf	7	xcomp	_	id=s1.u1.w7
+9	e	e	ADP	_	_	10	case	_	id=s1.u1.w8
+10	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	8	obl:arg	_	_none=|id=s1.u1.w9
+11	Nom2	Nom2	PROPN	_	_	10	nmod:appos	_	_none=|id=s1.u1.w10
+12	Prénom2	Prénom2	PROPN	_	_	2	conj	_	_none=|id=s1.u1.w11
+
+# sent_id = 072_00000049_2
+# text = Monsieur Nom2 Prénom2 oui
+1	Monsieur	Monsieur	PROPN	_	_	0	root	_	_none=|id=s1.u2.w0
+2	Nom2	Nom2	PROPN	_	_	1	flat:name	_	_none=|id=s1.u2.w1
+3	Prénom2	Prénom2	PROPN	_	_	1	conj	_	_none=|id=s1.u2.w2
+4	oui	oui	ADV	_	_	3	advmod	_	_none=|id=s1.u2.w3
+
+# sent_id = 072_00000049_3
+# text = c' est possible
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	id=s1.u3.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u3.w1
+3	possible	possible	ADJ	_	Number=Sing	0	root	_	_none=|id=s1.u3.w2
+
+# sent_id = 072_00000049_4
+# text = oui je vais regarder s' il est dans son bureau ou au secrétariat
+1	oui	oui	INTJ	_	_	3	discourse	_	_none=|id=s1.u4.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u4.w1
+3	vais	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w2
+4	regarder	regarder	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u4.w3
+5	s'	si	SCONJ	_	_	7	mark	_	id=s1.u4.w4
+6	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_none=|id=s1.u4.w5
+7	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	id=s1.u4.w6
+8	dans	dans	ADP	_	_	10	case	_	_none=|id=s1.u4.w7
+9	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	10	det	_	_none=|id=s1.u4.w8
+10	bureau	bureau	NOUN	_	Gender=Masc|Number=Sing	7	obl:arg	_	_none=|id=s1.u4.w9
+11	ou	ou	CCONJ	_	_	13	cc	_	id=s1.u4.w10
+12	au	au	DET	_	_	13	det	_	id=s1.u4.w11
+13	secrétariat	secrétariat	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	id=s1.u4.w12
+
+# sent_id = 072_00000049_5
+# text = merci c' est madame Nom3
+1	merci	merci	INTJ	_	_	4	dislocated	_	_none=|id=s1.u5.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	id=s1.u5.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	id=s1.u5.w2
+4	madame	madame	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u5.w3
+5	Nom3	Nom3	PROPN	_	_	4	nmod:appos	_	_none=|id=s1.u5.w4
+
+# sent_id = 072_00000049_6
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u6.w0
+
+# sent_id = 072_00000049_7
+# text = c' est ça oui d' accord
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	id=s1.u7.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u7.w1
+3	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	id=s1.u7.w2
+4	oui	oui	ADV	_	_	3	discourse	_	_none=|id=s1.u7.w3
+5	d'	de	ADP	_	_	4	dep	_	_none=|id=s1.u7.w4
+6	accord	accord	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	id=s1.u7.w5
+
+# sent_id = 072_00000049_8
+# text = je vais vous passer madame Nom3 hein elle va vous dire si e
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u8.w0
+2	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u8.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u8.w2
+4	passer	passer	VERB	_	VerbForm=Inf	2	xcomp	_	id=s1.u8.w3
+5	madame	madame	NOUN	_	Gender=Fem|Number=Sing	4	vocative	_	id=s1.u8.w4
+6	Nom3	Nom3	PROPN	_	_	5	nmod:appos	_	_none=|id=s1.u8.w5
+7	hein	hein	INTJ	_	_	5	discourse	_	_none=|id=s1.u8.w6
+8	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	id=s1.u8.w7
+9	va	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	id=s1.u8.w8
+10	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	11	iobj	_	id=s1.u8.w9
+11	dire	dire	VERB	_	VerbForm=Inf	9	xcomp	_	_none=|id=s1.u8.w10
+12	si	si	SCONJ	_	_	11	obj	_	_none=|id=s1.u8.w11
+13	e	e	INTJ	_	_	12	dep	_	id=s1.u8.w12
+
+# sent_id = 072_00000049_9
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u9.w0
+
+# sent_id = 072_00000049_10
+# text = sonnerie téléphone conv attends est -ce que tu sais où sont les grands plastiques e les sacs poubelles e Prénom4 ou vous les rangez vos grands sacs poubelles Nom5 Prénom5 Nom5 oui elle voudrait des grands sacs poubelles non elle ne répond pas pour le moment
+1	attends	attenre	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	discourse	_	_none=|id=s1.u10.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u10.w1
+3	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	expl:subj	_	id=s1.u10.w2
+4	que	que	SCONJ	_	_	6	mark	_	_none=|id=s1.u10.w3
+5	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_none=|id=s1.u10.w4
+6	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	id=s1.u10.w5
+7	où	où	ADV	_	PronType=Rel	8	obl:mod	_	_none=|id=s1.u10.w6
+8	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_none=|id=s1.u10.w7
+9	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	id=s1.u10.w8
+10	grands	grand	ADJ	_	Gender=Masc|Number=Plur	11	amod	_	_none=|id=s1.u10.w9
+11	plastiques	plastique	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	id=s1.u10.w10
+12	e	e	INTJ	_	_	14	case	_	id=s1.u10.w11
+13	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	14	det	_	id=s1.u10.w12
+14	sacs	sac	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	id=s1.u10.w13
+15	poubelles	poubelle	NOUN	_	Gender=Fem|Number=Plur	14	nmod	_	id=s1.u10.w14
+16	e	e	ADP	_	_	17	case	_	_none=|id=s1.u10.w15
+17	Prénom4	Prénom4	PROPN	_	_	11	appos	_	_none=|id=s1.u10.w16
+18	ou	ou	CCONJ	_	_	21	cc	_	_none=|id=s1.u10.w17
+19	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	21	nsubj	_	_none=|id=s1.u10.w18
+20	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	21	obj	_	_none=|id=s1.u10.w19
+21	rangez	ranger	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	conj	_	id=s1.u10.w20
+22	vos	son	DET	_	Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=2|PronType=Prs	24	det	_	id=s1.u10.w21
+23	grands	grand	ADJ	_	Gender=Masc|Number=Plur	34	amod	_	id=s1.u10.w22
+24	sacs	sac	NOUN	_	Gender=Masc|Number=Plur	31	obj	_	id=s1.u10.w23
+25	poubelles	poubelle	NOUN	_	Gender=Fem|Number=Plur	34	nmod	_	id=s1.u10.w24
+26	Nom5	Nom5	PROPN	_	_	14	reparandum	_	_none=|id=s1.u10.w25
+27	Prénom5	Prénom5	PROPN	_	_	11	appos	_	_none=|id=s1.u10.w26
+28	Nom5	Nom5	PROPN	_	_	14	conj	_	_none=|id=s1.u10.w27
+29	oui	oui	ADV	_	_	21	discourse	_	_none=|id=s1.u10.w28
+30	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	id=s1.u10.w29
+31	voudrait	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	id=s1.u10.w30
+32	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	34	det	_	id=s1.u10.w31
+33	grands	grand	ADJ	_	Gender=Masc|Number=Plur	34	amod	_	id=s1.u10.w32
+34	sacs	sac	NOUN	_	Gender=Masc|Number=Plur	31	obj	_	id=s1.u10.w33
+35	poubelles	poubelle	NOUN	_	Gender=Masc|Number=Plur	34	nmod	_	id=s1.u10.w34
+36	non	non	ADV	_	Polarity=Neg	21	discourse	_	id=s1.u10.w35
+37	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	39	nsubj	_	id=s1.u10.w36
+38	ne	ne	ADV	_	Polarity=Neg	39	advmod	_	_none=|id=s1.u10.w37
+39	répond	répondre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	conj	_	id=s1.u10.w38
+40	pas	pas	ADV	_	Polarity=Neg	39	advmod	_	_none=|id=s1.u10.w39
+41	pour	pour	ADP	_	_	43	case	_	_none=|id=s1.u10.w40
+42	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_none=|id=s1.u10.w41
+43	moment	moment	NOUN	_	Gender=Masc|Number=Sing	39	obl:mod	_	_none=|id=s1.u10.w42
+
+# sent_id = 072_00000049_11
+# text = d' accord je rappelle dans un instant peut être
+1	d'	de	ADP	_	_	4	dep	_	_none=|id=s1.u11.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u11.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	id=s1.u11.w2
+4	rappelle	rappeller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u11.w3
+5	dans	dans	ADP	_	_	7	case	_	_none=|id=s1.u11.w4
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	id=s1.u11.w5
+7	instant	instant	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_none=|id=s1.u11.w6
+8	peut	peut	ADV	_	_	4	advmod	_	_none=|id=s1.u11.w7
+9	être	être	VERB	_	VerbForm=Inf	8	fixed	_	id=s1.u11.w8
+
+# sent_id = 072_00000049_12
+# text = je lui d-
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	id=s1.u12.w0
+2	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_none=|id=s1.u12.w1
+3	d-	dre	VERB	_	_	0	root	_	_none=|id=s1.u12.w2
+
+# sent_id = 072_00000049_13
+# text = oui d' ici un petit quart d' heure
+1	oui	oui	INTJ	_	_	6	discourse	_	_none=|id=s1.u13.w0
+2	d'	de	ADP	_	_	3	case	_	_none=|id=s1.u13.w1
+3	ici	ici	ADV	_	_	6	advmod	_	_none=|id=s1.u13.w2
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_none=|id=s1.u13.w3
+5	petit	petit	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_none=|id=s1.u13.w4
+6	quart	quart	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u13.w5
+7	d'	de	ADP	_	_	8	case	_	_none=|id=s1.u13.w6
+8	heure	heure	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	id=s1.u13.w7
+
+# sent_id = 072_00000049_14
+# text = est -ce qu' il y a une ligne directe pour le son service ou est -ce
+1	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u14.w0
+2	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	1	expl:subj	_	id=s1.u14.w1
+3	qu'	que	SCONJ	_	_	6	mark	_	_none=|id=s1.u14.w2
+4	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	_none=|id=s1.u14.w3
+5	y	y	PRON	_	Person=3|PronType=Prs	6	expl:comp	_	_none=|id=s1.u14.w4
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	id=s1.u14.w5
+7	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	id=s1.u14.w6
+8	ligne	ligne	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	id=s1.u14.w7
+9	directe	direct	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	id=s1.u14.w8
+10	pour	pour	ADP	_	_	13	case	_	_none=|id=s1.u14.w9
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_none=|id=s1.u14.w10
+12	son	son	DET	_	Gender=Masc|Number=Sing	13	det	_	_none=|id=s1.u14.w11
+13	service	service	NOUN	_	Gender=Masc|Number=Sing	6	obl:mod	_	_none=|id=s1.u14.w12
+14	ou	ou	CCONJ	_	_	15	cc	_	id=s1.u14.w13
+15	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	id=s1.u14.w14
+16	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	nsubj	_	id=s1.u14.w15
+
+# sent_id = 072_00000049_15
+# text = 0 2 97
+1	0	0	X	_	_	3	punct	_	_none=|id=s1.u15.w0
+2	2	2	PRON	_	_	1	dep	_	_none=|id=s1.u15.w1
+3	97	97	PROPN	_	_	0	root	_	_none=|id=s1.u15.w2
+
+# sent_id = 072_00000049_16
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u16.w0
+
+# sent_id = 072_00000049_17
+# text = 0 1
+1	0	0	INTJ	_	_	2	reparandum	_	_none=|id=s1.u17.w0
+2	1	1	DET	_	_	0	root	_	_none=|id=s1.u17.w1
+
+# sent_id = 072_00000049_18
+# text = 26
+1	26	26	X	_	_	0	root	_	_none=|id=s1.u18.w0
+
+# sent_id = 072_00000049_19
+# text = 26 73
+1	26	26	CCONJ	_	_	2	dep	_	_none=|id=s1.u19.w0
+2	73	73	INTJ	_	_	0	root	_	_none=|id=s1.u19.w1
+
+# sent_id = 072_00000049_20
+# text = ok merci
+1	ok	ok	INTJ	_	_	0	root	_	_none=|id=s1.u20.w0
+2	merci	merci	INTJ	_	_	1	fixed	_	_none=|id=s1.u20.w1
+
+# sent_id = 072_00000049_21
+# text = au revoir monsieur
+1	au	au	DET	_	_	2	det	_	_none=|id=s1.u21.w0
+2	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u21.w1
+3	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	_none=|id=s1.u21.w2
+
+# sent_id = 072_00000049_22
+# text = bonne journée
+1	bonne	bon	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	id=s1.u22.w0
+2	journée	journée	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u22.w1
+

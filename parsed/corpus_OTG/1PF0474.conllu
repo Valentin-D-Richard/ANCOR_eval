@@ -1,0 +1,28 @@
+# sent_id = 1PF0474_1
+# text = un plan des pistes cyclables de Grenoble s' il vous plaît
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	id=s1.u1.w0
+2	plan	plan	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u1.w1
+3	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	4	det	_	id=s1.u1.w2
+4	pistes	piste	NOUN	_	Gender=Fem|Number=Plur	2	nmod	_	id=s1.u1.w3
+5	cyclables	cyclable	ADJ	_	Number=Plur	4	amod	_	id=s1.u1.w4
+6	de	de	ADP	_	_	7	case	_	_none=|id=s1.u1.w5
+7	Grenoble	Grenoble	PROPN	_	_	4	nmod	_	_none=|id=s1.u1.w6
+8	s'	se	SCONJ	_	_	11	mark	_	_none=|id=s1.u1.w7
+9	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl:subj	_	_none=|id=s1.u1.w8
+10	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	11	iobj	_	_none=|id=s1.u1.w9
+11	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	discourse	_	id=s1.u1.w10
+
+# sent_id = 1PF0474_2
+# text = voilà
+1	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u2.w0
+
+# sent_id = 1PF0474_3
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1PF0474_4
+# text = c' est moi
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_none=|id=s1.u4.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u4.w1
+3	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	_	_none=|id=s1.u4.w2
+

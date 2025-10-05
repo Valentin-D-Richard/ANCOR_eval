@@ -1,0 +1,317 @@
+# sent_id = 2AP0034_1
+# text = je voudrais savoir si où est le la Caisse d' Epargne de Grenoble s' il vous plaît
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	savoir	savoir	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u1.w2
+4	si	si	SCONJ	_	_	5	mark	_	_none=|id=s1.u1.w3
+5	où	où	PRON	_	PronType=Rel	3	ccomp	_	id=s1.u1.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u1.w5
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	reparandum	_	id=s1.u1.w6
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_none=|id=s1.u1.w7
+9	Caisse	Caisse	PROPN	_	Gender=Fem|Number=Sing	5	nsubj	_	id=s1.u1.w8
+10	d'	de	ADP	_	_	11	case	_	id=s1.u1.w9
+11	Epargne	Epargne	PROPN	_	_	9	nmod	_	id=s1.u1.w10
+12	de	de	ADP	_	_	13	case	_	_none=|id=s1.u1.w11
+13	Grenoble	Grenoble	PROPN	_	_	9	nmod	_	_none=|id=s1.u1.w12
+14	s'	s'	SCONJ	_	_	17	mark	_	_none=|id=s1.u1.w13
+15	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	expl:subj	_	_none=|id=s1.u1.w14
+16	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	17	iobj	_	_none=|id=s1.u1.w15
+17	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	discourse	_	_none=|id=s1.u1.w16
+
+# sent_id = 2AP0034_2
+# text = e en vue d' un retrait ou pour vous adresser au guichet
+1	e	êre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w0
+2	en	en	ADP	_	_	3	case	_	_none=|id=s1.u2.w1
+3	vue	vue	NOUN	_	Gender=Fem|Number=Sing	1	obl:arg	_	id=s1.u2.w2
+4	d'	de	ADP	_	_	6	case	_	_none=|id=s1.u2.w3
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	id=s1.u2.w4
+6	retrait	retrait	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_none=|id=s1.u2.w5
+7	ou	ou	CCONJ	_	_	10	cc	_	_none=|id=s1.u2.w6
+8	pour	pour	ADP	_	_	10	mark	_	_none=|id=s1.u2.w7
+9	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	10	iobj	_	id=s1.u2.w8
+10	adresser	adresser	VERB	_	VerbForm=Inf	6	conj	_	id=s1.u2.w9
+11	au	au	ADP	_	_	12	case	_	id=s1.u2.w10
+12	guichet	guichet	NOUN	_	Gender=Masc|Number=Sing	10	obl:mod	_	id=s1.u2.w11
+
+# sent_id = 2AP0034_3
+# text = au guichet
+1	au	au	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u3.w0
+2	guichet	guichet	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u3.w1
+
+# sent_id = 2AP0034_4
+# text = alors il faut aller e en face c' est la Caisse d' Epargne qui est en face de la Banque de France boulevard Edouard Rey voyez par ici alors non oups tombera pas plus bas merci donc on est là d' accord boulevard Edouard Rey donc il y a la Banque de France qui est là et c' est en face hein la Caisse d' Epargne vous passez e oui à pied vous hum coupez par la place de Verdun place Victor Hugo passez place Grenette là après la place Grenette e vous êtes sur des feux vous tombez à des feux place Victor Hugo en face de vous il y a le Quick qui est en face de vous aussi vous empruntez le boulevard de le le trottoir du Quick
+1	alors	alors	ADV	_	_	3	advmod	_	_none=|id=s1.u4.w0
+2	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_none=|id=s1.u4.w1
+3	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w2
+4	aller	aller	VERB	ETRE	VerbForm=Inf	3	ccomp	_	_none=|id=s1.u4.w3
+5	e	e	CCONJ	_	_	7	reparandum	_	_none=|id=s1.u4.w4
+6	en	en	ADP	_	_	7	case	_	_none=|id=s1.u4.w5
+7	face	face	NOUN	_	Gender=Fem|Number=Sing	4	obl:mod	_	id=s1.u4.w6
+8	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	expl:subj	_	id=s1.u4.w7
+9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	id=s1.u4.w8
+10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	id=s1.u4.w9
+11	Caisse	Caisse	PROPN	_	_	4	obl:arg	_	id=s1.u4.w10
+12	d'	de	ADP	_	_	13	case	_	_none=|id=s1.u4.w11
+13	Epargne	Epargne	PROPN	_	_	11	nmod	_	id=s1.u4.w12
+14	qui	qui	PRON	_	PronType=Rel	17	nsubj	_	_none=|id=s1.u4.w13
+15	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	id=s1.u4.w14
+16	en	en	ADP	_	_	17	case	_	_none=|id=s1.u4.w15
+17	face	face	NOUN	_	Gender=Fem|Number=Sing	11	acl:relcl	_	id=s1.u4.w16
+18	de	de	ADP	_	_	20	case	_	_none=|id=s1.u4.w17
+19	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	id=s1.u4.w18
+20	Banque	Banque	PROPN	_	_	17	nmod	_	id=s1.u4.w19
+21	de	de	ADP	_	_	22	case	_	_none=|id=s1.u4.w20
+22	France	France	PROPN	_	_	20	nmod	_	id=s1.u4.w21
+23	boulevard	boulevard	NOUN	_	Gender=Masc|Number=Sing	11	appos	_	_none=|id=s1.u4.w22
+24	Edouard	Edouard	PROPN	_	_	11	flat:name	_	_none=|id=s1.u4.w23
+25	Rey	Rey	PROPN	_	_	23	nmod:appos	_	_none=|id=s1.u4.w24
+26	voyez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	id=s1.u4.w25
+27	par	par	ADP	_	_	28	case	_	_none=|id=s1.u4.w26
+28	ici	ici	ADV	_	_	112	advmod	_	_none=|id=s1.u4.w27
+29	alors	alors	ADV	_	_	26	advmod	_	_none=|id=s1.u4.w28
+30	non	non	ADV	_	Polarity=Neg	26	discourse	_	_none=|id=s1.u4.w29
+31	oups	oups	PRON	_	_	68	dislocated	_	_none=|id=s1.u4.w30
+32	tombera	tomberr	VERB	_	VerbForm=Inf	11	acl:relcl	_	id=s1.u4.w31
+33	pas	pas	ADV	_	Polarity=Neg	94	advmod	_	_none=|id=s1.u4.w32
+34	plus	plus	ADV	_	_	35	advmod	_	_none=|id=s1.u4.w33
+35	bas	bas	ADJ	_	Gender=Masc|Number=Sing	32	advcl	_	_none=|id=s1.u4.w34
+36	merci	merci	INTJ	_	_	68	discourse	_	_none=|id=s1.u4.w35
+37	donc	donc	ADV	_	_	40	advmod	_	_none=|id=s1.u4.w36
+38	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	39	nsubj	_	_none=|id=s1.u4.w37
+39	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	49	cop	_	id=s1.u4.w38
+40	là	là	ADV	_	_	49	advmod	_	_none=|id=s1.u4.w39
+41	d'	de	ADP	_	_	42	case	_	_none=|id=s1.u4.w40
+42	accord	accord	NOUN	_	Gender=Masc|Number=Sing	39	discourse	_	id=s1.u4.w41
+43	boulevard	boulevard	NOUN	_	Gender=Masc|Number=Sing	11	appos	_	_none=|id=s1.u4.w42
+44	Edouard	Edouard	PROPN	_	_	43	nmod:appos	_	_none=|id=s1.u4.w43
+45	Rey	Rey	PROPN	_	_	43	nmod:appos	_	_none=|id=s1.u4.w44
+46	donc	donc	ADV	_	_	68	advmod	_	_none=|id=s1.u4.w45
+47	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	49	expl:subj	_	_none=|id=s1.u4.w46
+48	y	y	PRON	_	Person=3|PronType=Prs	49	expl:comp	_	id=s1.u4.w47
+49	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	id=s1.u4.w48
+50	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	51	det	_	id=s1.u4.w49
+51	Banque	Banque	PROPN	_	Gender=Fem|Number=Sing	112	obj	_	id=s1.u4.w50
+52	de	de	ADP	_	_	80	case	_	id=s1.u4.w51
+53	France	France	PROPN	_	_	125	nmod	_	id=s1.u4.w52
+54	qui	qui	PRON	_	PronType=Rel	56	nsubj	_	_none=|id=s1.u4.w53
+55	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	56	cop	_	id=s1.u4.w54
+56	là	là	ADV	_	_	51	acl:relcl	_	id=s1.u4.w55
+57	et	et	CCONJ	_	_	59	cc	_	_none=|id=s1.u4.w56
+58	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	59	nsubj	_	id=s1.u4.w57
+59	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	56	conj	_	id=s1.u4.w58
+60	en	en	ADP	_	_	61	case	_	_none=|id=s1.u4.w59
+61	face	face	NOUN	_	Gender=Fem|Number=Sing	59	obl:arg	_	id=s1.u4.w60
+62	hein	hein	INTJ	_	_	61	discourse	_	_none=|id=s1.u4.w61
+63	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	64	det	_	id=s1.u4.w62
+64	Caisse	Caisse	PROPN	_	Gender=Fem|Number=Sing	32	nsubj	_	id=s1.u4.w63
+65	d'	de	ADP	_	_	66	case	_	id=s1.u4.w64
+66	Epargne	Epargne	PROPN	_	_	64	nmod	_	id=s1.u4.w65
+67	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	68	nsubj	_	id=s1.u4.w66
+68	passez	passer	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	49	reparandum	_	id=s1.u4.w67
+69	e	e	CCONJ	_	_	70	cc	_	_none=|id=s1.u4.w68
+70	oui	oui	ADV	_	_	99	conj	_	id=s1.u4.w69
+71	à	à	ADP	_	_	72	case	_	_none=|id=s1.u4.w70
+72	pied	pied	NOUN	_	Gender=Masc|Number=Sing	39	obl:mod	_	_none=|id=s1.u4.w71
+73	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	39	nsubj	_	id=s1.u4.w72
+74	hum	hum	INTJ	_	_	49	discourse	_	id=s1.u4.w73
+75	coupez	couper	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	49	ccomp	_	id=s1.u4.w74
+76	par	par	ADP	_	_	78	case	_	id=s1.u4.w75
+77	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	78	det	_	id=s1.u4.w76
+78	place	place	NOUN	_	Gender=Fem|Number=Sing	75	obl:arg	_	id=s1.u4.w77
+79	de	de	ADP	_	_	80	case	_	_none=|id=s1.u4.w78
+80	Verdun	Verdun	PROPN	_	_	78	nmod	_	id=s1.u4.w79
+81	place	place	NOUN	_	Gender=Fem|Number=Sing	26	dislocated	_	id=s1.u4.w80
+82	Victor	Victor	PROPN	_	_	43	nmod:appos	_	id=s1.u4.w81
+83	Hugo	Hugo	PROPN	_	_	82	flat:name	_	id=s1.u4.w82
+84	passez	passer	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	id=s1.u4.w83
+85	place	place	NOUN	_	Gender=Fem|Number=Sing	112	obj	_	id=s1.u4.w84
+86	Grenette	Grenette	PROPN	_	_	85	appos	_	id=s1.u4.w85
+87	là	là	ADV	_	_	11	advmod	_	_none=|id=s1.u4.w86
+88	après	après	ADP	_	_	90	case	_	_none=|id=s1.u4.w87
+89	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	90	det	_	id=s1.u4.w88
+90	place	place	NOUN	_	Gender=Fem|Number=Sing	26	obl:mod	_	id=s1.u4.w89
+91	Grenette	Grenette	PROPN	_	_	32	dislocated	_	_none=|id=s1.u4.w90
+92	e	e	CCONJ	_	_	68	cc	_	_none=|id=s1.u4.w91
+93	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	94	nsubj	_	id=s1.u4.w92
+94	êtes	être	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	49	reparandum	_	_none=|id=s1.u4.w93
+95	sur	sur	ADP	_	_	97	case	_	_none=|id=s1.u4.w94
+96	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	97	det	_	id=s1.u4.w95
+97	feux	feu	NOUN	_	Gender=Masc|Number=Plur	116	xcomp	_	id=s1.u4.w96
+98	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	99	nsubj	_	id=s1.u4.w97
+99	tombez	tomber	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	32	advcl	_	id=s1.u4.w98
+100	à	à	ADP	_	_	102	case	_	_none=|id=s1.u4.w99
+101	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	102	det	_	id=s1.u4.w100
+102	feux	feu	NOUN	_	Gender=Masc|Number=Plur	116	xcomp	_	id=s1.u4.w101
+103	place	place	NOUN	_	Gender=Fem|Number=Sing	11	conj	_	id=s1.u4.w102
+104	Victor	Victor	PROPN	_	_	43	nmod:appos	_	_none=|id=s1.u4.w103
+105	Hugo	Hugo	PROPN	_	_	44	flat:name	_	id=s1.u4.w104
+106	en	en	ADP	_	_	107	case	_	_none=|id=s1.u4.w105
+107	face	face	NOUN	_	Gender=Fem|Number=Sing	112	obl:mod	_	id=s1.u4.w106
+108	de	de	ADP	_	_	109	case	_	_none=|id=s1.u4.w107
+109	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	107	nmod	_	id=s1.u4.w108
+110	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	49	expl:subj	_	_none=|id=s1.u4.w109
+111	y	y	PRON	_	Person=3|PronType=Prs	112	expl:comp	_	id=s1.u4.w110
+112	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	id=s1.u4.w111
+113	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	114	det	_	id=s1.u4.w112
+114	Quick	Quick	PROPN	_	_	112	obj	_	_none=|id=s1.u4.w113
+115	qui	qui	PRON	_	PronType=Rel	116	nsubj	_	_none=|id=s1.u4.w114
+116	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	advcl	_	id=s1.u4.w115
+117	en	en	ADP	_	_	118	case	_	_none=|id=s1.u4.w116
+118	face	face	NOUN	_	Gender=Fem|Number=Sing	116	obl:mod	_	id=s1.u4.w117
+119	de	de	ADP	_	_	120	case	_	_none=|id=s1.u4.w118
+120	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	118	nmod	_	id=s1.u4.w119
+121	aussi	aussi	ADV	_	_	107	advmod	_	_none=|id=s1.u4.w120
+122	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	123	nsubj	_	id=s1.u4.w121
+123	empruntez	emprunter	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	32	conj	_	id=s1.u4.w122
+124	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	125	det	_	id=s1.u4.w123
+125	boulevard	boulevard	NOUN	_	Gender=Masc|Number=Sing	123	obj	_	id=s1.u4.w124
+126	de	de	ADP	_	_	129	case	_	_none=|id=s1.u4.w125
+127	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	129	det	_	id=s1.u4.w126
+128	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	78	det	_	_none=|id=s1.u4.w127
+129	trottoir	trottoir	NOUN	_	Gender=Masc|Number=Sing	78	nmod	_	id=s1.u4.w128
+130	du	du	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	66	det	_	id=s1.u4.w129
+131	Quick	Quick	PROPN	_	_	125	nmod	_	id=s1.u4.w130
+
+# sent_id = 2AP0034_5
+# text = je sais pas où c' est
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u5.w0
+2	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u5.w1
+3	pas	pas	ADV	_	Polarity=Neg	2	advmod	_	_none=|id=s1.u5.w2
+4	où	où	PRON	_	PronType=Rel	2	ccomp	_	id=s1.u5.w3
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	id=s1.u5.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	id=s1.u5.w5
+
+# sent_id = 2AP0034_7
+# text = on y va à pied ou oui
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_none=|id=s1.u7.w0
+2	y	y	PRON	_	Person=3|PronType=Prs	3	iobj	_	id=s1.u7.w1
+3	va	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u7.w2
+4	à	à	ADP	_	_	5	case	_	_none=|id=s1.u7.w3
+5	pied	pied	NOUN	_	Gender=Masc|Number=Plur	3	obl:mod	_	_none=|id=s1.u7.w4
+6	ou	ou	CCONJ	_	_	7	cc	_	_none=|id=s1.u7.w5
+7	oui	oui	ADV	_	_	5	conj	_	id=s1.u7.w6
+
+# sent_id = 2AP0034_9
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u9.w0
+
+# sent_id = 2AP0034_10
+# text = vous traversez vous êtes sur le trottoir du Quick
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	id=s1.u10.w0
+2	traversez	traverser	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	reparandum	_	_none=|id=s1.u10.w1
+3	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	id=s1.u10.w2
+4	êtes	être	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u10.w3
+5	sur	sur	ADP	_	_	7	case	_	_none=|id=s1.u10.w4
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_none=|id=s1.u10.w5
+7	trottoir	trottoir	NOUN	_	Gender=Masc|Number=Sing	4	obl:arg	_	id=s1.u10.w6
+8	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_none=|id=s1.u10.w7
+9	Quick	Quick	PROPN	_	_	7	nmod	_	_none=|id=s1.u10.w8
+
+# sent_id = 2AP0034_11
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u11.w0
+
+# sent_id = 2AP0034_12
+# text = vous le longez vous le remontez le boulevard du Quick jusqu' à arriver au niveau de la Banque de France sur votre droite
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_none=|id=s1.u12.w0
+2	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_none=|id=s1.u12.w1
+3	longez	longer	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	reparandum	_	_none=|id=s1.u12.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	id=s1.u12.w3
+5	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_none=|id=s1.u12.w4
+6	remontez	remonter	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u12.w5
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_none=|id=s1.u12.w6
+8	boulevard	boulevard	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	id=s1.u12.w7
+9	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_none=|id=s1.u12.w8
+10	Quick	Quick	PROPN	_	_	8	nmod	_	_none=|id=s1.u12.w9
+11	jusqu'	jusque	ADP	_	_	13	mark	_	_none=|id=s1.u12.w10
+12	à	à	ADP	_	_	13	mark	_	_none=|id=s1.u12.w11
+13	arriver	arriver	VERB	_	VerbForm=Inf	6	advcl	_	id=s1.u12.w12
+14	au	au	ADP	_	_	15	case	_	_none=|id=s1.u12.w13
+15	niveau	niveau	NOUN	_	Gender=Masc|Number=Sing	13	obl:arg	_	id=s1.u12.w14
+16	de	de	ADP	_	_	18	case	_	id=s1.u12.w15
+17	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	id=s1.u12.w16
+18	Banque	Banque	PROPN	_	Gender=Fem|Number=Sing	15	nmod	_	id=s1.u12.w17
+19	de	de	ADP	_	_	20	case	_	id=s1.u12.w18
+20	France	France	PROPN	_	_	18	nmod	_	id=s1.u12.w19
+21	sur	sur	ADP	_	_	23	case	_	_none=|id=s1.u12.w20
+22	votre	son	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=2|PronType=Prs	23	det	_	id=s1.u12.w21
+23	droite	droite	NOUN	_	Gender=Fem|Number=Sing	13	obl:mod	_	id=s1.u12.w22
+
+# sent_id = 2AP0034_13
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u13.w0
+
+# sent_id = 2AP0034_14
+# text = et la Caisse d' Epargne est en face
+1	et	et	CCONJ	_	_	6	cc	_	_none=|id=s1.u14.w0
+2	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	id=s1.u14.w1
+3	Caisse	Caisse	PROPN	_	_	6	nsubj	_	id=s1.u14.w2
+4	d'	de	ADP	_	_	5	case	_	id=s1.u14.w3
+5	Epargne	Epargne	PROPN	_	_	3	nmod	_	id=s1.u14.w4
+6	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u14.w5
+7	en	en	ADP	_	_	8	case	_	_none=|id=s1.u14.w6
+8	face	face	NOUN	_	Gender=Fem|Number=Sing	6	obl:arg	_	id=s1.u14.w7
+
+# sent_id = 2AP0034_15
+# text = ah d' accord
+1	ah	ah	INTJ	_	_	3	discourse	_	_none=|id=s1.u15.w0
+2	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u15.w1
+3	accord	accord	NOUN	_	Gender=Masc|Number=Sing	2	fixed	_	id=s1.u15.w2
+
+# sent_id = 2AP0034_16
+# text = vous tombez en plein dessus en prenant le le trottoir du Quick
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	id=s1.u16.w0
+2	tombez	tomber	VERB	ETRE	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u16.w1
+3	en	en	ADP	_	_	5	case	_	_none=|id=s1.u16.w2
+4	plein	plein	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_none=|id=s1.u16.w3
+5	dessus	dessus	ADV	_	Gender=Masc|Number=Sing	2	obl:mod	_	_none=|id=s1.u16.w4
+6	en	en	ADP	_	_	7	mark	_	_none=|id=s1.u16.w5
+7	prenant	prener	VERB	_	Tense=Pres|VerbForm=Part	2	advcl	_	id=s1.u16.w6
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	reparandum	_	id=s1.u16.w7
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_none=|id=s1.u16.w8
+10	trottoir	trottoir	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	id=s1.u16.w9
+11	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	id=s1.u16.w10
+12	Quick	Quick	PROPN	_	_	10	nmod	_	id=s1.u16.w11
+
+# sent_id = 2AP0034_17
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u17.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u17.w1
+
+# sent_id = 2AP0034_18
+# text = Quick place Victor Hugo qui est là voilà il y en a vraiment pas pour longtemps d' ici hein
+1	Quick	Quick	ADJ	_	_	2	amod	_	_none=|id=s1.u18.w0
+2	place	place	NOUN	_	Gender=Fem|Number=Sing	12	dislocated	_	id=s1.u18.w1
+3	Victor	Victor	PROPN	_	_	12	dislocated	_	_none=|id=s1.u18.w2
+4	Hugo	Hugo	PROPN	_	_	3	flat:name	_	id=s1.u18.w3
+5	qui	qui	PRON	_	PronType=Rel	6	nsubj	_	_none=|id=s1.u18.w4
+6	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_none=|id=s1.u18.w5
+7	là	là	ADV	_	_	6	advmod	_	id=s1.u18.w6
+8	voilà	voilà	VERB	_	_	12	discourse	_	id=s1.u18.w7
+9	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl:subj	_	_none=|id=s1.u18.w8
+10	y	y	PRON	_	Person=3|PronType=Prs	12	expl:comp	_	id=s1.u18.w9
+11	en	en	PRON	_	Person=3|PronType=Prs	12	obj	_	id=s1.u18.w10
+12	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u18.w11
+13	vraiment	vraiment	ADV	_	_	12	advmod	_	id=s1.u18.w12
+14	pas	pas	ADV	_	Polarity=Neg	12	advmod	_	id=s1.u18.w13
+15	pour	pour	ADP	_	_	16	case	_	_none=|id=s1.u18.w14
+16	longtemps	longtemps	ADV	_	_	12	advmod	_	_none=|id=s1.u18.w15
+17	d'	de	ADP	_	_	16	case	_	_none=|id=s1.u18.w16
+18	ici	ici	ADV	_	_	12	advmod	_	_none=|id=s1.u18.w17
+19	hein	hein	INTJ	_	_	12	discourse	_	_none=|id=s1.u18.w18
+
+# sent_id = 2AP0034_19
+# text = je vous remercie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u19.w0
+2	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	3	obj	_	_none=|id=s1.u19.w1
+3	remercie	remercier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u19.w2
+
+# sent_id = 2AP0034_20
+# text = je vous en prie au revoir
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u20.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u20.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u20.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u20.w3
+5	au	au	ADP	_	_	6	case	_	_none=|id=s1.u20.w4
+6	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	4	advmod	_	id=s1.u20.w5
+

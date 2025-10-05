@@ -1,0 +1,23 @@
+# sent_id = 1AP0041_0
+# text = e moi j' aurais voulu le programme du théâtre municipal
+1	e	e	CCONJ	_	_	5	cc	_	_none=|id=s1.u0.w0
+2	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	5	dislocated	_	_none=|id=s1.u0.w1
+3	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u0.w2
+4	aurais	avoir	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_none=|id=s1.u0.w3
+5	voulu	vouloir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u0.w4
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_none=|id=s1.u0.w5
+7	programme	programme	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_none=|id=s1.u0.w6
+8	du	du	DET	_	_	9	det	_	_none=|id=s1.u0.w7
+9	théâtre	théâtre	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_none=|id=s1.u0.w8
+10	municipal	municipal	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_none=|id=s1.u0.w9
+
+# sent_id = 1AP0041_1
+# text = à côté à la billetterie juste là
+1	à	à	ADP	_	_	2	case	_	_none=|id=s1.u1.w0
+2	côté	côté	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u1.w1
+3	à	à	ADP	_	_	5	case	_	_none=|id=s1.u1.w2
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	id=s1.u1.w3
+5	billetterie	billetterie	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	id=s1.u1.w4
+6	juste	juste	ADV	_	_	7	advmod	_	_none=|id=s1.u1.w5
+7	là	là	ADV	_	_	5	advmod	_	_none=|id=s1.u1.w6
+

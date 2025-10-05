@@ -1,0 +1,69 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0230_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0230_1
+# text = bonjour est ce que vous auriez un plan de Grenoble mais surtout la banlieue avec les listes les les villes les hum rues
+1	bonjour	bonjour	NOUN	_	_	3	dislocated	_	_none=|id=s1.u1.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u1.w1
+3	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u1.w2
+4	que	que	SCONJ	_	_	6	mark	_	_none=|id=s1.u1.w3
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	id=s1.u1.w4
+6	auriez	aurvoir	VERB	_	Mood=Cnd|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_none=|id=s1.u1.w5
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	id=s1.u1.w6
+8	plan	plan	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_none=|id=s1.u1.w7
+9	de	de	ADP	_	_	10	case	_	_none=|id=s1.u1.w8
+10	Grenoble	Grenoble	PROPN	_	_	8	nmod	_	_none=|id=s1.u1.w9
+11	mais	mais	CCONJ	_	_	14	cc	_	_none=|id=s1.u1.w10
+12	surtout	surtout	ADV	_	_	14	advmod	_	_none=|id=s1.u1.w11
+13	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	id=s1.u1.w12
+14	banlieue	banlieue	NOUN	_	Gender=Fem|Number=Sing	8	conj	_	id=s1.u1.w13
+15	avec	avec	ADP	_	_	17	case	_	_none=|id=s1.u1.w14
+16	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	17	det	_	id=s1.u1.w15
+17	listes	liste	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	id=s1.u1.w16
+18	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	19	reparandum	_	id=s1.u1.w17
+19	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	20	det	_	_none=|id=s1.u1.w18
+20	villes	ville	NOUN	_	Gender=Fem|Number=Plur	17	conj	_	id=s1.u1.w19
+21	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	22	det	_	id=s1.u1.w20
+22	hum	hum	INTJ	_	Gender=Fem|Number=Plur	20	discourse	_	id=s1.u1.w21
+23	rues	rue	NOUN	_	Gender=Fem|Number=Plur	17	conj	_	id=s1.u1.w22
+
+# sent_id = 1AP0230_2
+# text = e oui mais e pour la banlieue c' est pas le plan détaillé hein c' est juste une localisation par rapport à Grenoble hein
+1	e	e	CCONJ	_	_	4	reparandum	_	_none=|id=s1.u2.w0
+2	oui	oui	INTJ	_	_	12	discourse	_	_none=|id=s1.u2.w1
+3	mais	mais	CCONJ	_	_	4	reparandum	_	_none=|id=s1.u2.w2
+4	e	e	CCONJ	_	_	12	dislocated	_	_none=|id=s1.u2.w3
+5	pour	pour	ADP	_	_	7	case	_	_none=|id=s1.u2.w4
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	id=s1.u2.w5
+7	banlieue	banlieue	NOUN	_	Gender=Fem|Number=Sing	12	obl:mod	_	_none=|id=s1.u2.w6
+8	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	nsubj	_	_none=|id=s1.u2.w7
+9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	id=s1.u2.w8
+10	pas	pas	ADV	_	Polarity=Neg	12	advmod	_	_none=|id=s1.u2.w9
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_none=|id=s1.u2.w10
+12	plan	plan	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u2.w11
+13	détaillé	détailler	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_none=|id=s1.u2.w12
+14	hein	hein	INTJ	_	_	12	discourse	_	_none=|id=s1.u2.w13
+15	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	19	nsubj	_	id=s1.u2.w14
+16	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	id=s1.u2.w15
+17	juste	juste	ADV	_	_	19	advmod	_	_none=|id=s1.u2.w16
+18	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	id=s1.u2.w17
+19	localisation	localisation	NOUN	_	Gender=Fem|Number=Sing	12	conj	_	id=s1.u2.w18
+20	par	par	ADP	_	_	21	case	_	_none=|id=s1.u2.w19
+21	rapport	rapport	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	id=s1.u2.w20
+22	à	à	ADP	_	_	23	case	_	id=s1.u2.w21
+23	Grenoble	Grenoble	PROPN	_	_	21	nmod	_	id=s1.u2.w22
+24	hein	hein	INTJ	_	_	19	discourse	_	_none=|id=s1.u2.w23
+
+# sent_id = 1AP0230_3
+# text = d' accord merci
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u3.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u3.w1
+3	merci	merci	ADJ	_	_	1	fixed	_	_none=|id=s1.u3.w2
+
+# sent_id = 1AP0230_4
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u4.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u4.w1
+

@@ -1,0 +1,31 @@
+# sent_id = 1AP0134_0
+# text = est ce que vous avez des plans de Grenoble
+1	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	id=s1.u0.w0
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u0.w1
+3	que	que	SCONJ	_	_	5	mark	_	_none=|id=s1.u0.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_none=|id=s1.u0.w3
+5	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	_none=|id=s1.u0.w4
+6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	id=s1.u0.w5
+7	plans	plan	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	id=s1.u0.w6
+8	de	de	ADP	_	_	9	case	_	id=s1.u0.w7
+9	Grenoble	Grenoble	PROPN	_	_	7	nmod	_	id=s1.u0.w8
+
+# sent_id = 1AP0134_1
+# text = bien sûr
+1	bien	bien	ADV	_	_	0	root	_	_none=|id=s1.u1.w0
+2	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u1.w1
+
+# sent_id = 1AP0134_2
+# text = merci bien
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u2.w0
+2	bien	bien	ADV	_	_	1	advmod	_	_none=|id=s1.u2.w1
+
+# sent_id = 1AP0134_3
+# text = je vous en prie au revoir
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u3.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u3.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u3.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u3.w3
+5	au	au	ADP	_	_	6	case	_	_none=|id=s1.u3.w4
+6	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	4	advmod	_	id=s1.u3.w5
+

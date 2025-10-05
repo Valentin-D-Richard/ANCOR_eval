@@ -1,0 +1,66 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0028_0
+# text = bonjour je voudrais savoir où est la Caisse des Allocations Familiales
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+2	je	_	_	_	_	_	_	_	id=s1.u0.w1
+3	voudrais	_	_	_	_	_	_	_	id=s1.u0.w2
+4	savoir	_	_	_	_	_	_	_	id=s1.u0.w3
+5	où	_	_	_	_	_	_	_	id=s1.u0.w4
+6	est	_	_	_	_	_	_	_	id=s1.u0.w5
+7	la	_	_	_	_	_	_	_	id=s1.u0.w6
+8	Caisse	_	_	_	_	_	_	_	id=s1.u0.w7
+9	des	_	_	_	_	_	_	_	id=s1.u0.w8
+10	Allocations	_	_	_	_	_	_	_	id=s1.u0.w9
+11	Familiales	_	_	_	_	_	_	_	id=s1.u0.w10
+
+# sent_id = 1SB0028_1
+# text = rue des alliés
+1	rue	_	_	_	_	_	_	_	id=s1.u1.w0
+2	des	_	_	_	_	_	_	_	id=s1.u1.w1
+3	alliés	_	_	_	_	_	_	_	id=s1.u1.w2
+
+# sent_id = 1SB0028_2
+# text = c' est à dire
+1	c'	_	_	_	_	_	_	_	id=s1.u2.w0
+2	est	_	_	_	_	_	_	_	id=s1.u2.w1
+3	à	_	_	_	_	_	_	_	id=s1.u2.w2
+4	dire	_	_	_	_	_	_	_	id=s1.u2.w3
+
+# sent_id = 1SB0028_3
+# text = rue des alliés après le Cargo après la Chambre d' Agriculture
+1	rue	_	_	_	_	_	_	_	id=s1.u3.w0
+2	des	_	_	_	_	_	_	_	id=s1.u3.w1
+3	alliés	_	_	_	_	_	_	_	id=s1.u3.w2
+4	après	_	_	_	_	_	_	_	id=s1.u3.w3
+5	le	_	_	_	_	_	_	_	id=s1.u3.w4
+6	Cargo	_	_	_	_	_	_	_	id=s1.u3.w5
+7	après	_	_	_	_	_	_	_	id=s1.u3.w6
+8	la	_	_	_	_	_	_	_	id=s1.u3.w7
+9	Chambre	_	_	_	_	_	_	_	id=s1.u3.w8
+10	d'	_	_	_	_	_	_	_	id=s1.u3.w9
+11	Agriculture	_	_	_	_	_	_	_	id=s1.u3.w10
+
+# sent_id = 1SB0028_4
+# text = on est où on est où nous d' accord très bien je vous remercie au revoir
+1	on	_	_	_	_	_	_	_	id=s1.u4.w0
+2	est	_	_	_	_	_	_	_	id=s1.u4.w1
+3	où	_	_	_	_	_	_	_	id=s1.u4.w2
+4	on	_	_	_	_	_	_	_	id=s1.u4.w3
+5	est	_	_	_	_	_	_	_	id=s1.u4.w4
+6	où	_	_	_	_	_	_	_	id=s1.u4.w5
+7	nous	_	_	_	_	_	_	_	id=s1.u4.w6
+8	d'	_	_	_	_	_	_	_	id=s1.u4.w7
+9	accord	_	_	_	_	_	_	_	id=s1.u4.w8
+10	très	_	_	_	_	_	_	_	id=s1.u4.w9
+11	bien	_	_	_	_	_	_	_	id=s1.u4.w10
+12	je	_	_	_	_	_	_	_	id=s1.u4.w11
+13	vous	_	_	_	_	_	_	_	id=s1.u4.w12
+14	remercie	_	_	_	_	_	_	_	id=s1.u4.w13
+15	au	_	_	_	_	_	_	_	id=s1.u4.w14
+16	revoir	_	_	_	_	_	_	_	id=s1.u4.w15
+
+# sent_id = 1SB0028_5
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u5.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u5.w1
+

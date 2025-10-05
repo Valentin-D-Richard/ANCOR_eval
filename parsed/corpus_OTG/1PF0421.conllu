@@ -1,0 +1,64 @@
+# sent_id = 1PF0421_0
+# text = e les cartes c' est là bas la carte e TAG
+1	e	e	CCONJ	_	_	3	case	_	_none=|id=s1.u0.w0
+2	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	_none=|id=s1.u0.w1
+3	cartes	carte	NOUN	_	Gender=Fem|Number=Plur	6	dislocated	_	_none=|id=s1.u0.w2
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_none=|id=s1.u0.w3
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	id=s1.u0.w4
+6	là	là	ADV	_	_	0	root	_	_none=|id=s1.u0.w5
+7	bas	bas	ADJ	_	Gender=Masc|Number=Sing	6	fixed	_	id=s1.u0.w6
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	id=s1.u0.w7
+9	carte	carte	NOUN	_	Gender=Fem|Number=Sing	6	dislocated	_	id=s1.u0.w8
+10	e	e	ADP	_	_	11	case	_	_none=|id=s1.u0.w9
+11	TAG	TAG	PROPN	_	_	9	nmod	_	_none=|id=s1.u0.w10
+
+# sent_id = 1PF0421_1
+# text = oui bien sûr madame c' est là bas
+1	oui	oui	INTJ	_	_	7	discourse	_	_none=|id=s1.u1.w0
+2	bien	bien	ADV	_	_	7	advmod	_	_none=|id=s1.u1.w1
+3	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	2	fixed	_	id=s1.u1.w2
+4	madame	madame	NOUN	_	Gender=Fem|Number=Sing	7	vocative	_	id=s1.u1.w3
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	id=s1.u1.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	id=s1.u1.w5
+7	là	là	ADV	_	_	0	root	_	_none=|id=s1.u1.w6
+8	bas	bas	ADJ	_	Gender=Masc|Number=Sing	7	fixed	_	id=s1.u1.w7
+
+# sent_id = 1PF0421_2
+# text = on peut les prendre avant le premier hein ça a pas d' importance à quelle pas du tout
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	_none=|id=s1.u2.w0
+2	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w1
+3	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	4	obj	_	id=s1.u2.w2
+4	prendre	prendre	VERB	_	VerbForm=Inf	2	xcomp	_	id=s1.u2.w3
+5	avant	avant	ADP	_	_	7	case	_	_none=|id=s1.u2.w4
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_none=|id=s1.u2.w5
+7	premier	premier	ADJ	_	Gender=Masc|Number=Sing	4	obl:mod	_	_none=|id=s1.u2.w6
+8	hein	hein	INTJ	_	_	7	discourse	_	_none=|id=s1.u2.w7
+9	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	nsubj	_	id=s1.u2.w8
+10	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	id=s1.u2.w9
+11	pas	pas	ADV	_	Polarity=Neg	10	advmod	_	id=s1.u2.w10
+12	d'	de	ADP	_	_	13	case	_	id=s1.u2.w11
+13	importance	importance	NOUN	_	Gender=Fem|Number=Sing	10	obj:lvc	_	id=s1.u2.w12
+14	à	à	ADP	_	_	15	case	_	id=s1.u2.w13
+15	quelle	quel	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nmod	_	id=s1.u2.w14
+16	pas	pas	ADV	_	_	15	advmod	_	_none=|id=s1.u2.w15
+17	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_none=|id=s1.u2.w16
+18	tout	tout	NOUN	_	Gender=Masc|Number=Sing	16	obl:mod	_	id=s1.u2.w17
+
+# sent_id = 1PF0421_3
+# text = je sais pas
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u3.w0
+2	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u3.w1
+3	pas	pas	ADV	_	Polarity=Neg	2	advmod	_	_none=|id=s1.u3.w2
+
+# sent_id = 1PF0421_4
+# text = toutes leurs leurs activités c' est bien différent maintenant
+1	toutes	tout	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	id=s1.u4.w0
+2	leurs	son	DET	_	Number=Plur|Number[psor]=Plur|Person[psor]=3|PronType=Prs	3	reparandum	_	id=s1.u4.w1
+3	leurs	son	DET	_	Number=Plur|Number[psor]=Plur|Person[psor]=3|PronType=Prs	4	det	_	_none=|id=s1.u4.w2
+4	activités	activité	NOUN	_	Gender=Fem|Number=Plur	8	dislocated	_	id=s1.u4.w3
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	_none=|id=s1.u4.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	id=s1.u4.w5
+7	bien	bien	ADV	_	_	8	advmod	_	_none=|id=s1.u4.w6
+8	différent	différent	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u4.w7
+9	maintenant	maintenant	ADV	_	_	8	advmod	_	_none=|id=s1.u4.w8
+

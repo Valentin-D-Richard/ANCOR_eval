@@ -1,0 +1,65 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0408_0
+# text = bonjour je vous appelle à l' aide dernière affiche du travail et de la culture qui est superbe puis un paquet de
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+2	je	_	_	_	_	_	_	_	id=s1.u0.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u0.w2
+4	appelle	_	_	_	_	_	_	_	id=s1.u0.w3
+5	à	_	_	_	_	_	_	_	id=s1.u0.w4
+6	l'	_	_	_	_	_	_	_	id=s1.u0.w5
+7	aide	_	_	_	_	_	_	_	id=s1.u0.w6
+8	dernière	_	_	_	_	_	_	_	id=s1.u0.w7
+9	affiche	_	_	_	_	_	_	_	id=s1.u0.w8
+10	du	_	_	_	_	_	_	_	id=s1.u0.w9
+11	travail	_	_	_	_	_	_	_	id=s1.u0.w10
+12	et	_	_	_	_	_	_	_	id=s1.u0.w11
+13	de	_	_	_	_	_	_	_	id=s1.u0.w12
+14	la	_	_	_	_	_	_	_	id=s1.u0.w13
+15	culture	_	_	_	_	_	_	_	id=s1.u0.w14
+16	qui	_	_	_	_	_	_	_	id=s1.u0.w15
+17	est	_	_	_	_	_	_	_	id=s1.u0.w16
+18	superbe	_	_	_	_	_	_	_	id=s1.u0.w17
+19	puis	_	_	_	_	_	_	_	id=s1.u0.w18
+20	un	_	_	_	_	_	_	_	id=s1.u0.w19
+21	paquet	_	_	_	_	_	_	_	id=s1.u0.w20
+22	de	_	_	_	_	_	_	_	id=s1.u0.w21
+
+# sent_id = 1SB0408_1
+# text = 
+
+# sent_id = 1SB0408_2
+# text = 
+
+# sent_id = 1SB0408_3
+# text = ah ben très volontiers oui oui oui génial merci beaucoup
+1	ah	_	_	_	_	_	_	_	id=s1.u3.w0
+2	ben	_	_	_	_	_	_	_	id=s1.u3.w1
+3	très	_	_	_	_	_	_	_	id=s1.u3.w2
+4	volontiers	_	_	_	_	_	_	_	id=s1.u3.w3
+5	oui	_	_	_	_	_	_	_	id=s1.u3.w4
+6	oui	_	_	_	_	_	_	_	id=s1.u3.w5
+7	oui	_	_	_	_	_	_	_	id=s1.u3.w6
+8	génial	_	_	_	_	_	_	_	id=s1.u3.w7
+9	merci	_	_	_	_	_	_	_	id=s1.u3.w8
+10	beaucoup	_	_	_	_	_	_	_	id=s1.u3.w9
+
+# sent_id = 1SB0408_4
+# text = le voilà celle là celle celle de la rentrée
+1	le	_	_	_	_	_	_	_	id=s1.u4.w0
+2	voilà	_	_	_	_	_	_	_	id=s1.u4.w1
+3	celle	_	_	_	_	_	_	_	id=s1.u4.w2
+4	là	_	_	_	_	_	_	_	id=s1.u4.w3
+5	celle	_	_	_	_	_	_	_	id=s1.u4.w4
+6	celle	_	_	_	_	_	_	_	id=s1.u4.w5
+7	de	_	_	_	_	_	_	_	id=s1.u4.w6
+8	la	_	_	_	_	_	_	_	id=s1.u4.w7
+9	rentrée	_	_	_	_	_	_	_	id=s1.u4.w8
+
+# sent_id = 1SB0408_5
+# text = octobre
+1	octobre	_	_	_	_	_	_	_	id=s1.u5.w0
+
+# sent_id = 1SB0408_6
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u6.w0
+

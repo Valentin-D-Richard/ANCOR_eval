@@ -1,0 +1,45 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0084_0
+# text = 
+
+# sent_id = 1AP0084_1
+# text = est ce que vous auriez des plans de Grenoble
+1	est	_	_	_	_	_	_	_	id=s1.u1.w0
+2	ce	_	_	_	_	_	_	_	id=s1.u1.w1
+3	que	_	_	_	_	_	_	_	id=s1.u1.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u1.w3
+5	auriez	_	_	_	_	_	_	_	id=s1.u1.w4
+6	des	_	_	_	_	_	_	_	id=s1.u1.w5
+7	plans	_	_	_	_	_	_	_	id=s1.u1.w6
+8	de	_	_	_	_	_	_	_	id=s1.u1.w7
+9	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w8
+
+# sent_id = 1AP0084_2
+# text = des ou un
+1	des	_	_	_	_	_	_	_	id=s1.u2.w0
+2	ou	_	_	_	_	_	_	_	id=s1.u2.w1
+3	un	_	_	_	_	_	_	_	id=s1.u2.w2
+
+# sent_id = 1AP0084_3
+# text = un
+1	un	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1AP0084_4
+# text = c' est mon dernier
+1	c'	_	_	_	_	_	_	_	id=s1.u4.w0
+2	est	_	_	_	_	_	_	_	id=s1.u4.w1
+3	mon	_	_	_	_	_	_	_	id=s1.u4.w2
+4	dernier	_	_	_	_	_	_	_	id=s1.u4.w3
+
+# sent_id = 1AP0084_5
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u5.w0
+
+# sent_id = 1AP0084_6
+# text = mais je vous en prie
+1	mais	_	_	_	_	_	_	_	id=s1.u6.w0
+2	je	_	_	_	_	_	_	_	id=s1.u6.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u6.w2
+4	en	_	_	_	_	_	_	_	id=s1.u6.w3
+5	prie	_	_	_	_	_	_	_	id=s1.u6.w4
+

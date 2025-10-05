@@ -1,0 +1,102 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0549_0
+# text = bonjour je voudrais me renseigner savoir e pour aller au CAF au Club Alpin Français de Grenoble
+1	bonjour	bonjour	NOUN	_	_	3	discourse	_	_none=|id=s1.u0.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u0.w1
+3	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u0.w2
+4	me	se	PRON	_	Number=Sing|Person=1|PronType=Prs|Reflex=Yes	5	expl:comp	_	_none=|id=s1.u0.w3
+5	renseigner	renseigner	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u0.w4
+6	savoir	savoir	VERB	_	VerbForm=Inf	9	reparandum	_	_none=|id=s1.u0.w5
+7	e	e	CCONJ	_	_	9	cc	_	_none=|id=s1.u0.w6
+8	pour	pour	ADP	_	_	9	mark	_	_none=|id=s1.u0.w7
+9	aller	aller	VERB	ETRE	VerbForm=Inf	5	advcl	_	id=s1.u0.w8
+10	au	au	ADP	_	_	11	det	_	_none=|id=s1.u0.w9
+11	CAF	CAF	PROPN	_	_	9	reparandum	_	_none=|id=s1.u0.w10
+12	au	au	ADP	_	_	13	case	_	_none=|id=s1.u0.w11
+13	Club	Club	PROPN	_	Gender=Masc|Number=Sing	9	obl:arg	_	_none=|id=s1.u0.w12
+14	Alpin	Alpin	PROPN	_	Gender=Masc|Number=Sing	13	amod	_	id=s1.u0.w13
+15	Français	Français	ADJ	_	Gender=Masc	13	amod	_	_none=|id=s1.u0.w14
+16	de	de	ADP	_	_	17	case	_	_none=|id=s1.u0.w15
+17	Grenoble	Grenoble	PROPN	_	_	13	nmod	_	id=s1.u0.w16
+
+# sent_id = 1AG0549_2
+# text = ah le Club Alpin Français c' est à la Caisse d' Allocations Familiales aussi CAF je vais vous donner l' adresse vous avez la maison mère qui est là au trente-deux avenue Félix Viallet et sinon vous avez une une un petit bureau juste à la M J C des Allobroges c' est en face de la hum du musée de Grenoble
+1	ah	ah	INTJ	_	_	7	discourse	_	_none=|id=s1.u2.w0
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_none=|id=s1.u2.w1
+3	Club	Club	PROPN	_	Gender=Masc|Number=Sing	7	nsubj	_	_none=|id=s1.u2.w2
+4	Alpin	Alpin	PROPN	_	_	3	amod	_	_none=|id=s1.u2.w3
+5	Français	Français	ADJ	_	_	3	amod	_	_none=|id=s1.u2.w4
+6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	_none=|id=s1.u2.w5
+7	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w6
+8	à	à	ADP	_	_	10	case	_	_none=|id=s1.u2.w7
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	id=s1.u2.w8
+10	Caisse	Caisse	PROPN	_	_	7	obl:mod	_	_none=|id=s1.u2.w9
+11	d'	de	ADP	_	_	12	case	_	_none=|id=s1.u2.w10
+12	Allocations	Allocations	PROPN	_	Gender=Fem|Number=Plur	10	nmod	_	_none=|id=s1.u2.w11
+13	Familiales	Familiales	ADJ	_	Gender=Fem|Number=Plur	12	amod	_	_none=|id=s1.u2.w12
+14	aussi	aussi	ADV	_	_	10	advmod	_	_none=|id=s1.u2.w13
+15	CAF	caf	PUNCT	_	_	7	punct	_	_none=|id=s1.u2.w14
+16	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_none=|id=s1.u2.w15
+17	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	id=s1.u2.w16
+18	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	17	iobj	_	id=s1.u2.w17
+19	donner	donner	VERB	_	VerbForm=Inf	17	xcomp	_	_none=|id=s1.u2.w18
+20	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	21	det	_	id=s1.u2.w19
+21	adresse	adresse	NOUN	_	Gender=Fem|Number=Sing	23	obj	_	id=s1.u2.w20
+22	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	23	nsubj	_	id=s1.u2.w21
+23	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	ccomp	_	_none=|id=s1.u2.w22
+24	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	id=s1.u2.w23
+25	maison	maison	NOUN	_	Gender=Fem|Number=Sing	23	obj	_	id=s1.u2.w24
+26	mère	mère	NOUN	_	Gender=Fem|Number=Sing	25	appos	_	id=s1.u2.w25
+27	qui	qui	PRON	_	PronType=Rel	28	nsubj	_	_none=|id=s1.u2.w26
+28	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	43	acl:relcl	_	id=s1.u2.w27
+29	là	là	ADV	_	_	28	advmod	_	id=s1.u2.w28
+30	au	au	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	31	case	_	_none=|id=s1.u2.w29
+31	trente-deux	trente-deux	NUM	_	Number=Plur	32	nmod	_	_none=|id=s1.u2.w30
+32	avenue	avenue	NOUN	_	Gender=Fem|Number=Plur	29	obl:mod	_	_none=|id=s1.u2.w31
+33	Félix	Félix	PROPN	_	_	47	flat:name	_	_none=|id=s1.u2.w32
+34	Viallet	Viallet	PROPN	_	_	33	flat:name	_	id=s1.u2.w33
+35	et	et	CCONJ	_	_	38	cc	_	_none=|id=s1.u2.w34
+36	sinon	sinon	ADV	_	_	38	cc	_	_none=|id=s1.u2.w35
+37	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	38	nsubj	_	_none=|id=s1.u2.w36
+38	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	23	conj	_	_none=|id=s1.u2.w37
+39	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	40	det	_	id=s1.u2.w38
+40	une	un	NOUN	_	Gender=Fem|Number=Sing	55	reparandum	_	id=s1.u2.w39
+41	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_none=|id=s1.u2.w40
+42	petit	petit	ADJ	_	Gender=Masc|Number=Sing	43	amod	_	_none=|id=s1.u2.w41
+43	bureau	bureau	NOUN	_	Gender=Masc|Number=Sing	23	obj	_	_none=|id=s1.u2.w42
+44	juste	juste	ADV	_	_	47	advmod	_	_none=|id=s1.u2.w43
+45	à	à	ADP	_	_	47	case	_	_none=|id=s1.u2.w44
+46	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	47	det	_	id=s1.u2.w45
+47	M	M	PROPN	_	_	43	nmod	_	_none=|id=s1.u2.w46
+48	J	J	PROPN	_	_	47	flat:name	_	id=s1.u2.w47
+49	C	C	PROPN	_	_	47	flat:name	_	_none=|id=s1.u2.w48
+50	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	51	det	_	id=s1.u2.w49
+51	Allobroges	Allobroges	PROPN	_	_	47	flat:name	_	id=s1.u2.w50
+52	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	38	nsubj	_	id=s1.u2.w51
+53	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	55	cop	_	id=s1.u2.w52
+54	en	en	ADP	_	_	55	case	_	_none=|id=s1.u2.w53
+55	face	face	NOUN	_	Gender=Fem|Number=Sing	23	obl:mod	_	id=s1.u2.w54
+56	de	de	ADP	_	_	58	case	_	_none=|id=s1.u2.w55
+57	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	58	det	_	id=s1.u2.w56
+58	hum	hum	NOUN	_	Gender=Fem|Number=Sing	55	nmod	_	id=s1.u2.w57
+59	du	du	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	60	det	_	_none=|id=s1.u2.w58
+60	musée	musée	NOUN	_	Gender=Masc|Number=Sing	58	nmod	_	id=s1.u2.w59
+61	de	de	ADP	_	_	62	case	_	id=s1.u2.w60
+62	Grenoble	Grenoble	PROPN	_	_	60	nmod	_	id=s1.u2.w61
+
+# sent_id = 1AG0549_6
+# text = ok
+1	ok	ok	INTJ	_	_	0	root	_	_none=|id=s1.u6.w0
+
+# sent_id = 1AG0549_7
+# text = voilà
+1	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u7.w0
+
+# sent_id = 1AG0549_8
+# text = d' accord merci au revoir
+1	d'	de	ADP	_	_	3	case	_	_none=|id=s1.u8.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u8.w1
+3	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u8.w2
+4	au	au	ADP	_	_	5	case	_	_none=|id=s1.u8.w3
+5	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	3	advcl	_	_none=|id=s1.u8.w4
+

@@ -1,0 +1,76 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2AP0280_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 2AP0280_1
+# text = e est ce que je pourrais consulter le classeur des activités
+1	e	_	_	_	_	_	_	_	id=s1.u1.w0
+2	est	_	_	_	_	_	_	_	id=s1.u1.w1
+3	ce	_	_	_	_	_	_	_	id=s1.u1.w2
+4	que	_	_	_	_	_	_	_	id=s1.u1.w3
+5	je	_	_	_	_	_	_	_	id=s1.u1.w4
+6	pourrais	_	_	_	_	_	_	_	id=s1.u1.w5
+7	consulter	_	_	_	_	_	_	_	id=s1.u1.w6
+8	le	_	_	_	_	_	_	_	id=s1.u1.w7
+9	classeur	_	_	_	_	_	_	_	id=s1.u1.w8
+10	des	_	_	_	_	_	_	_	id=s1.u1.w9
+11	activités	_	_	_	_	_	_	_	id=s1.u1.w10
+
+# sent_id = 2AP0280_2
+# text = oui pour quelles activités
+1	oui	_	_	_	_	_	_	_	id=s1.u2.w0
+2	pour	_	_	_	_	_	_	_	id=s1.u2.w1
+3	quelles	_	_	_	_	_	_	_	id=s1.u2.w2
+4	activités	_	_	_	_	_	_	_	id=s1.u2.w3
+
+# sent_id = 2AP0280_3
+# text = e théâtre danse e
+1	e	_	_	_	_	_	_	_	id=s1.u3.w0
+2	théâtre	_	_	_	_	_	_	_	id=s1.u3.w1
+3	danse	_	_	_	_	_	_	_	id=s1.u3.w2
+4	e	_	_	_	_	_	_	_	id=s1.u3.w3
+
+# sent_id = 2AP0280_4
+# text = hum
+1	hum	_	_	_	_	_	_	_	id=s1.u4.w0
+
+# sent_id = 2AP0280_5
+# text = en fait
+1	en	_	_	_	_	_	_	_	id=s1.u5.w0
+2	fait	_	_	_	_	_	_	_	id=s1.u5.w1
+
+# sent_id = 2AP0280_6
+# text = alors danse théâtre c' en est un autre je crois qu' il y a déjà attendez
+1	alors	_	_	_	_	_	_	_	id=s1.u6.w0
+2	danse	_	_	_	_	_	_	_	id=s1.u6.w1
+3	théâtre	_	_	_	_	_	_	_	id=s1.u6.w2
+4	c'	_	_	_	_	_	_	_	id=s1.u6.w3
+5	en	_	_	_	_	_	_	_	id=s1.u6.w4
+6	est	_	_	_	_	_	_	_	id=s1.u6.w5
+7	un	_	_	_	_	_	_	_	id=s1.u6.w6
+8	autre	_	_	_	_	_	_	_	id=s1.u6.w7
+9	je	_	_	_	_	_	_	_	id=s1.u6.w8
+10	crois	_	_	_	_	_	_	_	id=s1.u6.w9
+11	qu'	_	_	_	_	_	_	_	id=s1.u6.w10
+12	il	_	_	_	_	_	_	_	id=s1.u6.w11
+13	y	_	_	_	_	_	_	_	id=s1.u6.w12
+14	a	_	_	_	_	_	_	_	id=s1.u6.w13
+15	déjà	_	_	_	_	_	_	_	id=s1.u6.w14
+16	attendez	_	_	_	_	_	_	_	id=s1.u6.w15
+
+# sent_id = 2AP0280_7
+# text = je vais déjà regarder celui là et puis e
+1	je	_	_	_	_	_	_	_	id=s1.u7.w0
+2	vais	_	_	_	_	_	_	_	id=s1.u7.w1
+3	déjà	_	_	_	_	_	_	_	id=s1.u7.w2
+4	regarder	_	_	_	_	_	_	_	id=s1.u7.w3
+5	celui	_	_	_	_	_	_	_	id=s1.u7.w4
+6	là	_	_	_	_	_	_	_	id=s1.u7.w5
+7	et	_	_	_	_	_	_	_	id=s1.u7.w6
+8	puis	_	_	_	_	_	_	_	id=s1.u7.w7
+9	e	_	_	_	_	_	_	_	id=s1.u7.w8
+
+# sent_id = 2AP0280_8
+# text = 
+

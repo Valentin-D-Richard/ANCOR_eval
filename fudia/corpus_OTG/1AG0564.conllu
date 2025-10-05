@@ -1,0 +1,42 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0564_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AG0564_1
+# text = oui bonjour e j' aimerais " le 38 " si vous l' avez
+1	oui	oui	INTJ	_	_	5	discourse	_	_none=|id=s1.u1.w0
+2	bonjour	bonjour	INTJ	_	_	1	discourse	_	_none=|id=s1.u1.w1
+3	e	e	CCONJ	_	_	5	cc	_	_none=|id=s1.u1.w2
+4	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u1.w3
+5	aimerais	aimer	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u1.w4
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_none=|id=s1.u1.w6
+7	38	38	X	_	_	5	obj	_	_none=|id=s1.u1.w7
+8	si	si	SCONJ	_	_	11	mark	_	_none=|id=s1.u1.w9
+9	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	11	nsubj	_	_none=|id=s1.u1.w10
+10	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	11	obj	_	_none=|id=s1.u1.w11
+11	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	advcl	_	_none=|id=s1.u1.w12
+
+# sent_id = 1AG0564_2
+# text = j' en ai plus il faut venir le lundi matin
+1	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u2.w0
+2	en	en	PRON	_	Person=3|PronType=Prs	3	obj	_	_none=|id=s1.u2.w1
+3	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w2
+4	plus	plus	ADV	_	_	3	advmod	_	_none=|id=s1.u2.w3
+5	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	_none=|id=s1.u2.w4
+6	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	id=s1.u2.w5
+7	venir	venir	VERB	_	VerbForm=Inf	6	ccomp	_	_none=|id=s1.u2.w6
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_none=|id=s1.u2.w7
+9	lundi	lundi	NOUN	_	Gender=Masc|Number=Sing	7	obl:mod	_	_none=|id=s1.u2.w8
+10	matin	matin	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	id=s1.u2.w9
+
+# sent_id = 1AG0564_3
+# text = vous en avez plus bon très bien
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	id=s1.u3.w0
+2	en	en	PRON	_	Person=3|PronType=Prs	3	obj	_	_none=|id=s1.u3.w1
+3	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u3.w2
+4	plus	plus	ADV	_	_	5	advmod	_	_none=|id=s1.u3.w3
+5	bon	bon	ADJ	_	Gender=Masc|Number=Sing	3	obj	_	_none=|id=s1.u3.w4
+6	très	très	ADV	_	_	7	advmod	_	_none=|id=s1.u3.w5
+7	bien	bien	ADV	_	_	5	advmod	_	_none=|id=s1.u3.w6
+

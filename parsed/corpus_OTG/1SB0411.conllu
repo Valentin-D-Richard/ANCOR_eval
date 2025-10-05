@@ -1,0 +1,41 @@
+# sent_id = 1SB0411_0
+# text = est ce que par hasard vous auriez le programme de l' auditorium de parce que je vois qu' il y a une grande affiche là e
+1	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	id=s1.u0.w0
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u0.w1
+3	que	que	SCONJ	_	_	7	mark	_	_none=|id=s1.u0.w2
+4	par	par	ADP	_	_	5	case	_	_none=|id=s1.u0.w3
+5	hasard	hasard	NOUN	_	Gender=Masc|Number=Sing	7	obl:mod	_	_none=|id=s1.u0.w4
+6	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	id=s1.u0.w5
+7	auriez	aurvoir	VERB	_	Mood=Cnd|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	_none=|id=s1.u0.w6
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	id=s1.u0.w7
+9	programme	programme	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	id=s1.u0.w8
+10	de	de	ADP	_	_	12	case	_	_none=|id=s1.u0.w9
+11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	id=s1.u0.w10
+12	auditorium	auditorium	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_none=|id=s1.u0.w11
+13	de	de	ADP	_	_	17	mark	_	_none=|id=s1.u0.w12
+14	parce	parce	ADV	_	_	17	mark	_	_none=|id=s1.u0.w13
+15	que	que	SCONJ	_	_	14	fixed	_	id=s1.u0.w14
+16	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_none=|id=s1.u0.w15
+17	vois	voir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	id=s1.u0.w16
+18	qu'	que	SCONJ	_	_	21	mark	_	_none=|id=s1.u0.w17
+19	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	expl:subj	_	_none=|id=s1.u0.w18
+20	y	y	PRON	_	Person=3|PronType=Prs	21	expl:comp	_	id=s1.u0.w19
+21	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	ccomp	_	id=s1.u0.w20
+22	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	id=s1.u0.w21
+23	grande	grand	ADJ	_	Gender=Fem|Number=Sing	24	amod	_	id=s1.u0.w22
+24	affiche	affiche	NOUN	_	Gender=Fem|Number=Sing	21	obj	_	id=s1.u0.w23
+25	là	là	ADV	_	_	24	advmod	_	_none=|id=s1.u0.w24
+26	e	e	PUNCT	_	_	2	punct	_	id=s1.u0.w25
+
+# sent_id = 1SB0411_1
+# text = peut être ma collègue
+1	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w0
+2	être	être	AUX	_	VerbForm=Inf	1	fixed	_	_none=|id=s1.u1.w1
+3	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|PronType=Prs	4	det	_	_none=|id=s1.u1.w2
+4	collègue	collègue	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	id=s1.u1.w3
+
+# sent_id = 1SB0411_2
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u2.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u2.w1
+

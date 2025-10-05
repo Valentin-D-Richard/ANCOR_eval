@@ -1,0 +1,42 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0362_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AG0362_1
+# text = bonjour e je les billets pour e les soirées la Fontaine
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	e	_	_	_	_	_	_	_	id=s1.u1.w1
+3	je	_	_	_	_	_	_	_	id=s1.u1.w2
+4	les	_	_	_	_	_	_	_	id=s1.u1.w3
+5	billets	_	_	_	_	_	_	_	id=s1.u1.w4
+6	pour	_	_	_	_	_	_	_	id=s1.u1.w5
+7	e	_	_	_	_	_	_	_	id=s1.u1.w6
+8	les	_	_	_	_	_	_	_	id=s1.u1.w7
+9	soirées	_	_	_	_	_	_	_	id=s1.u1.w8
+10	la	_	_	_	_	_	_	_	id=s1.u1.w9
+11	Fontaine	_	_	_	_	_	_	_	id=s1.u1.w10
+
+# sent_id = 1AG0362_2
+# text = dimanche matin c' est hum hum faut voir avec la billetterie à côté monsieur
+1	dimanche	_	_	_	_	_	_	_	id=s1.u2.w0
+2	matin	_	_	_	_	_	_	_	id=s1.u2.w1
+3	c'	_	_	_	_	_	_	_	id=s1.u2.w2
+4	est	_	_	_	_	_	_	_	id=s1.u2.w3
+5	hum	_	_	_	_	_	_	_	id=s1.u2.w4
+6	hum	_	_	_	_	_	_	_	id=s1.u2.w5
+7	faut	_	_	_	_	_	_	_	id=s1.u2.w6
+8	voir	_	_	_	_	_	_	_	id=s1.u2.w7
+9	avec	_	_	_	_	_	_	_	id=s1.u2.w8
+10	la	_	_	_	_	_	_	_	id=s1.u2.w9
+11	billetterie	_	_	_	_	_	_	_	id=s1.u2.w10
+12	à	_	_	_	_	_	_	_	id=s1.u2.w11
+13	côté	_	_	_	_	_	_	_	id=s1.u2.w12
+14	monsieur	_	_	_	_	_	_	_	id=s1.u2.w13
+
+# sent_id = 1AG0362_3
+# text = 
+
+# sent_id = 1AG0362_4
+# text = 
+

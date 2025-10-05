@@ -1,0 +1,44 @@
+# sent_id = 1SB0190_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1SB0190_1
+# text = excusez moi est ce que vous avez un plan de Grenoble
+1	excusez	excuser	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	discourse	_	id=s1.u1.w0
+2	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	4	dislocated	_	_none=|id=s1.u1.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	id=s1.u1.w2
+4	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	id=s1.u1.w3
+5	que	que	SCONJ	_	PronType=Rel	7	mark	_	_none=|id=s1.u1.w4
+6	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_none=|id=s1.u1.w5
+7	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_none=|id=s1.u1.w6
+8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	id=s1.u1.w7
+9	plan	plan	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_none=|id=s1.u1.w8
+10	de	de	ADP	_	_	11	case	_	id=s1.u1.w9
+11	Grenoble	Grenoble	PROPN	_	_	9	nmod	_	id=s1.u1.w10
+
+# sent_id = 1SB0190_2
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u2.w0
+
+# sent_id = 1SB0190_3
+# text = merci beaucoup
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+2	beaucoup	beaucoup	ADV	_	_	1	advmod	_	_none=|id=s1.u3.w1
+
+# sent_id = 1SB0190_4
+# text = je vous en prie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u4.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u4.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u4.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w3
+
+# sent_id = 1SB0190_5
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u5.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u5.w1
+
+# sent_id = 1SB0190_6
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u6.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u6.w1
+

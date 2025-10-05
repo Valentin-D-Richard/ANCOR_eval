@@ -1,0 +1,26 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0646_0
+# text = bonjour j' aimerais avoir le plan de Grenoble s' il vous plaît
+1	bonjour	bonjour	NOUN	_	_	3	discourse	_	_none=|id=s1.u0.w0
+2	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u0.w1
+3	aimerais	aimer	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u0.w2
+4	avoir	avoir	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u0.w3
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	id=s1.u0.w4
+6	plan	plan	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_none=|id=s1.u0.w5
+7	de	de	ADP	_	_	8	case	_	id=s1.u0.w6
+8	Grenoble	Grenoble	PROPN	_	_	6	nmod	_	id=s1.u0.w7
+9	s'	s'	SCONJ	_	_	12	mark	_	_none=|id=s1.u0.w8
+10	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl:subj	_	_none=|id=s1.u0.w9
+11	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	12	iobj	_	_none=|id=s1.u0.w10
+12	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	discourse	_	_none=|id=s1.u0.w11
+
+# sent_id = 1PF0646_1
+# text = voilà
+1	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u1.w0
+
+# sent_id = 1PF0646_2
+# text = je vous remercie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u2.w0
+2	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	3	obj	_	_none=|id=s1.u2.w1
+3	remercie	remercier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w2
+

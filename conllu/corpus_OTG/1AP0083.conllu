@@ -1,0 +1,40 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0083_0
+# text = pour les billets c' est là ou
+1	pour	_	_	_	_	_	_	_	id=s1.u0.w0
+2	les	_	_	_	_	_	_	_	id=s1.u0.w1
+3	billets	_	_	_	_	_	_	_	id=s1.u0.w2
+4	c'	_	_	_	_	_	_	_	id=s1.u0.w3
+5	est	_	_	_	_	_	_	_	id=s1.u0.w4
+6	là	_	_	_	_	_	_	_	id=s1.u0.w5
+7	ou	_	_	_	_	_	_	_	id=s1.u0.w6
+
+# sent_id = 1AP0083_1
+# text = billet pour
+1	billet	_	_	_	_	_	_	_	id=s1.u1.w0
+2	pour	_	_	_	_	_	_	_	id=s1.u1.w1
+
+# sent_id = 1AP0083_2
+# text = e concert
+1	e	_	_	_	_	_	_	_	id=s1.u2.w0
+2	concert	_	_	_	_	_	_	_	id=s1.u2.w1
+
+# sent_id = 1AP0083_3
+# text = c' est quel concert parce que
+1	c'	_	_	_	_	_	_	_	id=s1.u3.w0
+2	est	_	_	_	_	_	_	_	id=s1.u3.w1
+3	quel	_	_	_	_	_	_	_	id=s1.u3.w2
+4	concert	_	_	_	_	_	_	_	id=s1.u3.w3
+5	parce	_	_	_	_	_	_	_	id=s1.u3.w4
+6	que	_	_	_	_	_	_	_	id=s1.u3.w5
+
+# sent_id = 1AP0083_4
+# text = les Metallica
+1	les	_	_	_	_	_	_	_	id=s1.u4.w0
+2	Metallica	_	_	_	_	_	_	_	id=s1.u4.w1
+
+# sent_id = 1AP0083_5
+# text = à côté
+1	à	_	_	_	_	_	_	_	id=s1.u5.w0
+2	côté	_	_	_	_	_	_	_	id=s1.u5.w1
+

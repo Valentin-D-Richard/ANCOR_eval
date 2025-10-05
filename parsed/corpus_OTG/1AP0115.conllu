@@ -1,0 +1,78 @@
+# sent_id = 1AP0115_1
+# text = je voulais savoir si vous aviez un plan ou une liste des pistes cyclables sur Grenoble et la région
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	voulais	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	savoir	savoir	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u1.w2
+4	si	si	SCONJ	_	_	6	mark	_	_none=|id=s1.u1.w3
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_none=|id=s1.u1.w4
+6	aviez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_none=|id=s1.u1.w5
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_none=|id=s1.u1.w6
+8	plan	plan	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_none=|id=s1.u1.w7
+9	ou	ou	CCONJ	_	_	11	cc	_	id=s1.u1.w8
+10	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	id=s1.u1.w9
+11	liste	liste	NOUN	_	Gender=Fem|Number=Sing	8	conj	_	id=s1.u1.w10
+12	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	13	det	_	id=s1.u1.w11
+13	pistes	piste	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	id=s1.u1.w12
+14	cyclables	cyclable	ADJ	_	Number=Plur	13	acl	_	id=s1.u1.w13
+15	sur	sur	ADP	_	_	16	case	_	_none=|id=s1.u1.w14
+16	Grenoble	Grenoble	PROPN	_	_	13	nmod	_	_none=|id=s1.u1.w15
+17	et	et	CCONJ	_	_	19	cc	_	_none=|id=s1.u1.w16
+18	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	id=s1.u1.w17
+19	région	région	NOUN	_	Gender=Fem|Number=Sing	16	conj	_	id=s1.u1.w18
+
+# sent_id = 1AP0115_2
+# text = plus rupture des stocks
+1	plus	plus	ADV	_	_	2	advmod	_	_none=|id=s1.u2.w0
+2	rupture	rupture	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u2.w1
+3	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	4	det	_	id=s1.u2.w2
+4	stocks	stock	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	id=s1.u2.w3
+
+# sent_id = 1AP0115_3
+# text = vous en ah mais vous en aurez
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_none=|id=s1.u3.w0
+2	en	en	PRON	_	Person=3|PronType=Prs	3	obj	_	_none=|id=s1.u3.w1
+3	ah	ah	VERB	_	_	7	discourse	_	id=s1.u3.w2
+4	mais	mais	CCONJ	_	_	7	cc	_	_none=|id=s1.u3.w3
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	id=s1.u3.w4
+6	en	en	PRON	_	Person=3|PronType=Prs	7	obj	_	id=s1.u3.w5
+7	aurez	auroir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u3.w6
+
+# sent_id = 1AP0115_4
+# text = ben ils sont en train de rééditer le plan donc il faut compter un mois un mois et demi de délai hein
+1	ben	ben	INTJ	_	_	5	discourse	_	_none=|id=s1.u4.w0
+2	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	id=s1.u4.w1
+3	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_none=|id=s1.u4.w2
+4	en	en	ADP	_	_	5	case	_	_none=|id=s1.u4.w3
+5	train	train	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u4.w4
+6	de	de	ADP	_	_	7	mark	_	_none=|id=s1.u4.w5
+7	rééditer	rééditer	VERB	_	VerbForm=Inf	5	acl	_	id=s1.u4.w6
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	id=s1.u4.w7
+9	plan	plan	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_none=|id=s1.u4.w8
+10	donc	donc	ADV	_	_	12	advmod	_	_none=|id=s1.u4.w9
+11	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl:subj	_	_none=|id=s1.u4.w10
+12	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	id=s1.u4.w11
+13	compter	compter	VERB	_	VerbForm=Inf	12	ccomp	_	id=s1.u4.w12
+14	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_none=|id=s1.u4.w13
+15	mois	mois	NOUN	_	Gender=Masc|Number=Sing	17	reparandum	_	_none=|id=s1.u4.w14
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_none=|id=s1.u4.w15
+17	mois	mois	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_none=|id=s1.u4.w16
+18	et	et	CCONJ	_	_	19	cc	_	id=s1.u4.w17
+19	demi	demi	ADJ	_	Gender=Masc|Number=Sing	17	conj	_	id=s1.u4.w18
+20	de	de	ADP	_	_	21	case	_	_none=|id=s1.u4.w19
+21	délai	délai	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	id=s1.u4.w20
+22	hein	hein	INTJ	_	_	5	discourse	_	_none=|id=s1.u4.w21
+
+# sent_id = 1AP0115_5
+# text = d' accord bon merci
+1	d'	de	ADP	_	_	2	case	_	_none=|id=s1.u5.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u5.w1
+3	bon	bon	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_none=|id=s1.u5.w2
+4	merci	merci	INTJ	_	_	1	discourse	_	_none=|id=s1.u5.w3
+
+# sent_id = 1AP0115_6
+# text = désolé au revoir madame
+1	désolé	désolé	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u6.w0
+2	au	au	ADP	_	_	3	case	_	_none=|id=s1.u6.w1
+3	revoir	revoir	VERB	_	VerbForm=Inf	1	advcl	_	id=s1.u6.w2
+4	madame	madame	NOUN	_	Gender=Fem|Number=Sing	3	vocative	_	id=s1.u6.w3
+

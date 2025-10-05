@@ -1,0 +1,105 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0511_0
+# text = excusez moi il y a il y a une un hôtel Balladin près de Grenoble mais
+1	excusez	_	_	_	_	_	_	_	id=s1.u0.w0
+2	moi	_	_	_	_	_	_	_	id=s1.u0.w1
+3	il	_	_	_	_	_	_	_	id=s1.u0.w2
+4	y	_	_	_	_	_	_	_	id=s1.u0.w3
+5	a	_	_	_	_	_	_	_	id=s1.u0.w4
+6	il	_	_	_	_	_	_	_	id=s1.u0.w5
+7	y	_	_	_	_	_	_	_	id=s1.u0.w6
+8	a	_	_	_	_	_	_	_	id=s1.u0.w7
+9	une	_	_	_	_	_	_	_	id=s1.u0.w8
+10	un	_	_	_	_	_	_	_	id=s1.u0.w9
+11	hôtel	_	_	_	_	_	_	_	id=s1.u0.w10
+12	Balladin	_	_	_	_	_	_	_	id=s1.u0.w11
+13	près	_	_	_	_	_	_	_	id=s1.u0.w12
+14	de	_	_	_	_	_	_	_	id=s1.u0.w13
+15	Grenoble	_	_	_	_	_	_	_	id=s1.u0.w14
+16	mais	_	_	_	_	_	_	_	id=s1.u0.w15
+
+# sent_id = 1AG0511_1
+# text = e c' est possible mais s' il ne fait pas partie de nos adhérents on ne l' a pas sur les listes
+1	e	_	_	_	_	_	_	_	id=s1.u1.w0
+2	c'	_	_	_	_	_	_	_	id=s1.u1.w1
+3	est	_	_	_	_	_	_	_	id=s1.u1.w2
+4	possible	_	_	_	_	_	_	_	id=s1.u1.w3
+5	mais	_	_	_	_	_	_	_	id=s1.u1.w4
+6	s'	_	_	_	_	_	_	_	id=s1.u1.w5
+7	il	_	_	_	_	_	_	_	id=s1.u1.w6
+8	ne	_	_	_	_	_	_	_	id=s1.u1.w7
+9	fait	_	_	_	_	_	_	_	id=s1.u1.w8
+10	pas	_	_	_	_	_	_	_	id=s1.u1.w9
+11	partie	_	_	_	_	_	_	_	id=s1.u1.w10
+12	de	_	_	_	_	_	_	_	id=s1.u1.w11
+13	nos	_	_	_	_	_	_	_	id=s1.u1.w12
+14	adhérents	_	_	_	_	_	_	_	id=s1.u1.w13
+15	on	_	_	_	_	_	_	_	id=s1.u1.w14
+16	ne	_	_	_	_	_	_	_	id=s1.u1.w15
+17	l'	_	_	_	_	_	_	_	id=s1.u1.w16
+18	a	_	_	_	_	_	_	_	id=s1.u1.w17
+19	pas	_	_	_	_	_	_	_	id=s1.u1.w18
+20	sur	_	_	_	_	_	_	_	id=s1.u1.w19
+21	les	_	_	_	_	_	_	_	id=s1.u1.w20
+22	listes	_	_	_	_	_	_	_	id=s1.u1.w21
+
+# sent_id = 1AG0511_2
+# text = d' accord
+1	d'	_	_	_	_	_	_	_	id=s1.u2.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u2.w1
+
+# sent_id = 1AG0511_3
+# text = il faut voir e " pages jaunes " je peux vous donner " les pages jaunes " si vous voulez
+1	il	_	_	_	_	_	_	_	id=s1.u3.w0
+2	faut	_	_	_	_	_	_	_	id=s1.u3.w1
+3	voir	_	_	_	_	_	_	_	id=s1.u3.w2
+4	e	_	_	_	_	_	_	_	id=s1.u3.w3
+5	pages	_	_	_	_	_	_	_	id=s1.u3.w5
+6	jaunes	_	_	_	_	_	_	_	id=s1.u3.w6
+7	je	_	_	_	_	_	_	_	id=s1.u3.w8
+8	peux	_	_	_	_	_	_	_	id=s1.u3.w9
+9	vous	_	_	_	_	_	_	_	id=s1.u3.w10
+10	donner	_	_	_	_	_	_	_	id=s1.u3.w11
+11	les	_	_	_	_	_	_	_	id=s1.u3.w13
+12	pages	_	_	_	_	_	_	_	id=s1.u3.w14
+13	jaunes	_	_	_	_	_	_	_	id=s1.u3.w15
+14	si	_	_	_	_	_	_	_	id=s1.u3.w17
+15	vous	_	_	_	_	_	_	_	id=s1.u3.w18
+16	voulez	_	_	_	_	_	_	_	id=s1.u3.w19
+
+# sent_id = 1AG0511_4
+# text = 
+
+# sent_id = 1AG0511_5
+# text = oui je veux bien s' il vous plaît
+1	oui	_	_	_	_	_	_	_	id=s1.u5.w0
+2	je	_	_	_	_	_	_	_	id=s1.u5.w1
+3	veux	_	_	_	_	_	_	_	id=s1.u5.w2
+4	bien	_	_	_	_	_	_	_	id=s1.u5.w3
+5	s'	_	_	_	_	_	_	_	id=s1.u5.w4
+6	il	_	_	_	_	_	_	_	id=s1.u5.w5
+7	vous	_	_	_	_	_	_	_	id=s1.u5.w6
+8	plaît	_	_	_	_	_	_	_	id=s1.u5.w7
+
+# sent_id = 1AG0511_6
+# text = voilà
+1	voilà	_	_	_	_	_	_	_	id=s1.u6.w0
+
+# sent_id = 1AG0511_7
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u7.w0
+
+# sent_id = 1AG0511_8
+# text = de rien je vous laisse ça hein
+1	de	_	_	_	_	_	_	_	id=s1.u8.w0
+2	rien	_	_	_	_	_	_	_	id=s1.u8.w1
+3	je	_	_	_	_	_	_	_	id=s1.u8.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u8.w3
+5	laisse	_	_	_	_	_	_	_	id=s1.u8.w4
+6	ça	_	_	_	_	_	_	_	id=s1.u8.w5
+7	hein	_	_	_	_	_	_	_	id=s1.u8.w6
+
+# sent_id = 1AG0511_9
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u9.w0
+

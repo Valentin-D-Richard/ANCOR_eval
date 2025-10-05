@@ -1,0 +1,69 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2AP0595_1
+# text = est ce que je peux avoir la liste des M J C de Grenoble
+1	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	id=s1.u1.w0
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u1.w1
+3	que	que	SCONJ	_	_	5	mark	_	_none=|id=s1.u1.w2
+4	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u1.w3
+5	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_none=|id=s1.u1.w4
+6	avoir	avoir	VERB	_	VerbForm=Inf	5	xcomp	_	_none=|id=s1.u1.w5
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	id=s1.u1.w6
+8	liste	liste	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	id=s1.u1.w7
+9	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	10	det	_	id=s1.u1.w8
+10	M	M	PROPN	_	_	8	nmod:appos	_	_none=|id=s1.u1.w9
+11	J	J	PROPN	_	_	10	flat:name	_	id=s1.u1.w10
+12	C	C	PROPN	_	_	10	flat:name	_	_none=|id=s1.u1.w11
+13	de	de	ADP	_	_	14	case	_	_none=|id=s1.u1.w12
+14	Grenoble	Grenoble	PROPN	_	_	10	nmod	_	id=s1.u1.w13
+
+# sent_id = 2AP0595_2
+# text = oui bien sûr vous demandez à l' intérieur hein avec les ateliers
+1	oui	oui	INTJ	_	_	5	discourse	_	_none=|id=s1.u2.w0
+2	bien	bien	ADV	_	_	5	advmod	_	_none=|id=s1.u2.w1
+3	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	2	fixed	_	id=s1.u2.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	id=s1.u2.w3
+5	demandez	demander	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w4
+6	à	à	ADP	_	_	8	case	_	_none=|id=s1.u2.w5
+7	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	_none=|id=s1.u2.w6
+8	intérieur	intérieur	NOUN	_	Gender=Masc|Number=Sing	5	obl:arg	_	_none=|id=s1.u2.w7
+9	hein	hein	INTJ	_	_	12	discourse	_	_none=|id=s1.u2.w8
+10	avec	avec	ADP	_	_	12	case	_	_none=|id=s1.u2.w9
+11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	id=s1.u2.w10
+12	ateliers	atelier	NOUN	_	Gender=Masc|Number=Plur	5	obl:mod	_	id=s1.u2.w11
+
+# sent_id = 2AP0595_3
+# text = d' accord très bien et e est ce que vous auriez " le 38 "
+1	d'	de	ADP	_	_	2	case	_	_none=|id=s1.u3.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	8	discourse	_	id=s1.u3.w1
+3	très	très	ADV	_	_	4	advmod	_	_none=|id=s1.u3.w2
+4	bien	bien	ADV	_	_	1	advmod	_	_none=|id=s1.u3.w3
+5	et	et	CCONJ	_	_	8	cc	_	id=s1.u3.w4
+6	e	e	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	id=s1.u3.w5
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	id=s1.u3.w6
+8	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	id=s1.u3.w7
+9	que	que	PRON	_	PronType=Rel	11	obj	_	id=s1.u3.w8
+10	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	11	nsubj	_	id=s1.u3.w9
+11	auriez	aurioir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_none=|id=s1.u3.w10
+12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_none=|id=s1.u3.w12
+13	38	38	NOUN	_	_	8	nmod	_	_none=|id=s1.u3.w13
+
+# sent_id = 2AP0595_4
+# text = non non non
+1	non	non	ADV	_	Polarity=Neg	0	root	_	_none=|id=s1.u4.w0
+2	non	non	ADV	_	Polarity=Neg	1	conj	_	_none=|id=s1.u4.w1
+3	non	non	ADV	_	Polarity=Neg	1	conj	_	_none=|id=s1.u4.w2
+
+# sent_id = 2AP0595_5
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u5.w0
+
+# sent_id = 2AP0595_6
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u6.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u6.w1
+
+# sent_id = 2AP0595_7
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u7.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u7.w1
+

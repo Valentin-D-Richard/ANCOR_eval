@@ -1,0 +1,71 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0432_0
+# text = est ce que vous avez de la documentation sur e Milan et et Turin
+1	est	_	_	_	_	_	_	_	id=s1.u0.w0
+2	ce	_	_	_	_	_	_	_	id=s1.u0.w1
+3	que	_	_	_	_	_	_	_	id=s1.u0.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u0.w3
+5	avez	_	_	_	_	_	_	_	id=s1.u0.w4
+6	de	_	_	_	_	_	_	_	id=s1.u0.w5
+7	la	_	_	_	_	_	_	_	id=s1.u0.w6
+8	documentation	_	_	_	_	_	_	_	id=s1.u0.w7
+9	sur	_	_	_	_	_	_	_	id=s1.u0.w8
+10	e	_	_	_	_	_	_	_	id=s1.u0.w9
+11	Milan	_	_	_	_	_	_	_	id=s1.u0.w10
+12	et	_	_	_	_	_	_	_	id=s1.u0.w11
+13	et	_	_	_	_	_	_	_	id=s1.u0.w12
+14	Turin	_	_	_	_	_	_	_	id=s1.u0.w13
+
+# sent_id = 1PF0432_1
+# text = ah non rien rien du tout
+1	ah	_	_	_	_	_	_	_	id=s1.u1.w0
+2	non	_	_	_	_	_	_	_	id=s1.u1.w1
+3	rien	_	_	_	_	_	_	_	id=s1.u1.w2
+4	rien	_	_	_	_	_	_	_	id=s1.u1.w3
+5	du	_	_	_	_	_	_	_	id=s1.u1.w4
+6	tout	_	_	_	_	_	_	_	id=s1.u1.w5
+
+# sent_id = 1PF0432_2
+# text = l' Italie et pour e m- quelles sont les oui
+1	l'	_	_	_	_	_	_	_	id=s1.u2.w0
+2	Italie	_	_	_	_	_	_	_	id=s1.u2.w1
+3	et	_	_	_	_	_	_	_	id=s1.u2.w2
+4	pour	_	_	_	_	_	_	_	id=s1.u2.w3
+5	e	_	_	_	_	_	_	_	id=s1.u2.w4
+6	m-	_	_	_	_	_	_	_	id=s1.u2.w5
+7	quelles	_	_	_	_	_	_	_	id=s1.u2.w6
+8	sont	_	_	_	_	_	_	_	id=s1.u2.w7
+9	les	_	_	_	_	_	_	_	id=s1.u2.w8
+10	oui	_	_	_	_	_	_	_	id=s1.u2.w9
+
+# sent_id = 1PF0432_3
+# text = moi je peux vous donner l' adresse de l' Office du Touriste italien à Paris
+1	moi	_	_	_	_	_	_	_	id=s1.u3.w0
+2	je	_	_	_	_	_	_	_	id=s1.u3.w1
+3	peux	_	_	_	_	_	_	_	id=s1.u3.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u3.w3
+5	donner	_	_	_	_	_	_	_	id=s1.u3.w4
+6	l'	_	_	_	_	_	_	_	id=s1.u3.w5
+7	adresse	_	_	_	_	_	_	_	id=s1.u3.w6
+8	de	_	_	_	_	_	_	_	id=s1.u3.w7
+9	l'	_	_	_	_	_	_	_	id=s1.u3.w8
+10	Office	_	_	_	_	_	_	_	id=s1.u3.w9
+11	du	_	_	_	_	_	_	_	id=s1.u3.w10
+12	Touriste	_	_	_	_	_	_	_	id=s1.u3.w11
+13	italien	_	_	_	_	_	_	_	id=s1.u3.w12
+14	à	_	_	_	_	_	_	_	id=s1.u3.w13
+15	Paris	_	_	_	_	_	_	_	id=s1.u3.w14
+
+# sent_id = 1PF0432_4
+# text = ah ben oui ça d' accord
+1	ah	_	_	_	_	_	_	_	id=s1.u4.w0
+2	ben	_	_	_	_	_	_	_	id=s1.u4.w1
+3	oui	_	_	_	_	_	_	_	id=s1.u4.w2
+4	ça	_	_	_	_	_	_	_	id=s1.u4.w3
+5	d'	_	_	_	_	_	_	_	id=s1.u4.w4
+6	accord	_	_	_	_	_	_	_	id=s1.u4.w5
+
+# sent_id = 1PF0432_5
+# text = voilà
+1	voilà	_	_	_	_	_	_	_	id=s1.u5.w0
+

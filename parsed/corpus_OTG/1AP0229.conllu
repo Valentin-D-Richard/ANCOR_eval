@@ -1,0 +1,54 @@
+# sent_id = 1AP0229_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0229_1
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u1.w0
+
+# sent_id = 1AP0229_2
+# text = est ce que vous avez une liste des hôpitaux qui se trouvent dans les DOM TOM
+1	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	id=s1.u2.w0
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u2.w1
+3	que	que	SCONJ	_	_	5	mark	_	_none=|id=s1.u2.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_none=|id=s1.u2.w3
+5	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	_none=|id=s1.u2.w4
+6	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	id=s1.u2.w5
+7	liste	liste	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	id=s1.u2.w6
+8	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	9	det	_	id=s1.u2.w7
+9	hôpitaux	hôpitau	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	id=s1.u2.w8
+10	qui	qui	PRON	_	PronType=Rel	12	nsubj	_	_none=|id=s1.u2.w9
+11	se	se	PRON	_	Person=3|PronType=Prs	12	expl:comp	_	id=s1.u2.w10
+12	trouvent	trouver	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	id=s1.u2.w11
+13	dans	dans	ADP	_	_	15	case	_	id=s1.u2.w12
+14	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	15	det	_	id=s1.u2.w13
+15	DOM	dom	PROPN	_	Gender=Masc|Number=Plur	12	obl:mod	_	_none=|id=s1.u2.w14
+16	TOM	TOM	PROPN	_	_	15	flat:name	_	_none=|id=s1.u2.w15
+
+# sent_id = 1AP0229_3
+# text = non pas du tout
+1	non	non	ADV	_	Polarity=Neg	0	root	_	_none=|id=s1.u3.w0
+2	pas	pas	ADV	_	Polarity=Neg	1	advmod	_	id=s1.u3.w1
+3	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_none=|id=s1.u3.w2
+4	tout	tout	NOUN	_	Gender=Masc|Number=Sing	1	obl:mod	_	id=s1.u3.w3
+
+# sent_id = 1AP0229_4
+# text = pas du tout
+1	pas	pas	ADV	_	Polarity=Neg	0	root	_	_none=|id=s1.u4.w0
+2	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_none=|id=s1.u4.w1
+3	tout	tout	NOUN	_	Number=Sing	1	obl:mod	_	id=s1.u4.w2
+
+# sent_id = 1AP0229_5
+# text = non désolé
+1	non	non	ADV	_	Polarity=Neg	2	advmod	_	_none=|id=s1.u5.w0
+2	désolé	désoler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u5.w1
+
+# sent_id = 1AP0229_6
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u6.w0
+
+# sent_id = 1AP0229_7
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u7.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u7.w1
+

@@ -1,0 +1,38 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0448_0
+# text = est ce que vous avez un prospectus pour le théâtre du Rio
+1	est	_	_	_	_	_	_	_	id=s1.u0.w0
+2	ce	_	_	_	_	_	_	_	id=s1.u0.w1
+3	que	_	_	_	_	_	_	_	id=s1.u0.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u0.w3
+5	avez	_	_	_	_	_	_	_	id=s1.u0.w4
+6	un	_	_	_	_	_	_	_	id=s1.u0.w5
+7	prospectus	_	_	_	_	_	_	_	id=s1.u0.w6
+8	pour	_	_	_	_	_	_	_	id=s1.u0.w7
+9	le	_	_	_	_	_	_	_	id=s1.u0.w8
+10	théâtre	_	_	_	_	_	_	_	id=s1.u0.w9
+11	du	_	_	_	_	_	_	_	id=s1.u0.w10
+12	Rio	_	_	_	_	_	_	_	id=s1.u0.w11
+
+# sent_id = 1PF0448_1
+# text = le théâtre le Rio voilà
+1	le	_	_	_	_	_	_	_	id=s1.u1.w0
+2	théâtre	_	_	_	_	_	_	_	id=s1.u1.w1
+3	le	_	_	_	_	_	_	_	id=s1.u1.w2
+4	Rio	_	_	_	_	_	_	_	id=s1.u1.w3
+5	voilà	_	_	_	_	_	_	_	id=s1.u1.w4
+
+# sent_id = 1PF0448_2
+# text = merci bien
+1	merci	_	_	_	_	_	_	_	id=s1.u2.w0
+2	bien	_	_	_	_	_	_	_	id=s1.u2.w1
+
+# sent_id = 1PF0448_3
+# text = le Rio
+1	le	_	_	_	_	_	_	_	id=s1.u3.w0
+2	Rio	_	_	_	_	_	_	_	id=s1.u3.w1
+
+# sent_id = 1PF0448_4
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u4.w0
+

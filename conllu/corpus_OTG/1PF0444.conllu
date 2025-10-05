@@ -1,0 +1,79 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0444_0
+# text = service
+1	service	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1PF0444_1
+# text = un petit renseignement vous savez quelle est l' adresse de Eurauto
+1	un	_	_	_	_	_	_	_	id=s1.u1.w0
+2	petit	_	_	_	_	_	_	_	id=s1.u1.w1
+3	renseignement	_	_	_	_	_	_	_	id=s1.u1.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u1.w3
+5	savez	_	_	_	_	_	_	_	id=s1.u1.w4
+6	quelle	_	_	_	_	_	_	_	id=s1.u1.w5
+7	est	_	_	_	_	_	_	_	id=s1.u1.w6
+8	l'	_	_	_	_	_	_	_	id=s1.u1.w7
+9	adresse	_	_	_	_	_	_	_	id=s1.u1.w8
+10	de	_	_	_	_	_	_	_	id=s1.u1.w9
+11	Eurauto	_	_	_	_	_	_	_	id=s1.u1.w10
+
+# sent_id = 1PF0444_2
+# text = 
+
+# sent_id = 1PF0444_3
+# text = je sais même pas ce que c' est c' est un garage
+1	je	_	_	_	_	_	_	_	id=s1.u3.w0
+2	sais	_	_	_	_	_	_	_	id=s1.u3.w1
+3	même	_	_	_	_	_	_	_	id=s1.u3.w2
+4	pas	_	_	_	_	_	_	_	id=s1.u3.w3
+5	ce	_	_	_	_	_	_	_	id=s1.u3.w4
+6	que	_	_	_	_	_	_	_	id=s1.u3.w5
+7	c'	_	_	_	_	_	_	_	id=s1.u3.w6
+8	est	_	_	_	_	_	_	_	id=s1.u3.w7
+9	c'	_	_	_	_	_	_	_	id=s1.u3.w8
+10	est	_	_	_	_	_	_	_	id=s1.u3.w9
+11	un	_	_	_	_	_	_	_	id=s1.u3.w10
+12	garage	_	_	_	_	_	_	_	id=s1.u3.w11
+
+# sent_id = 1PF0444_4
+# text = c' est un garage oui
+1	c'	_	_	_	_	_	_	_	id=s1.u4.w0
+2	est	_	_	_	_	_	_	_	id=s1.u4.w1
+3	un	_	_	_	_	_	_	_	id=s1.u4.w2
+4	garage	_	_	_	_	_	_	_	id=s1.u4.w3
+5	oui	_	_	_	_	_	_	_	id=s1.u4.w4
+
+# sent_id = 1PF0444_5
+# text = ah oui alors là je vous p- je vous passe " les pages jaunes " hein c' est malheureusement tous les garages de l' agglomération
+1	ah	_	_	_	_	_	_	_	id=s1.u5.w0
+2	oui	_	_	_	_	_	_	_	id=s1.u5.w1
+3	alors	_	_	_	_	_	_	_	id=s1.u5.w2
+4	là	_	_	_	_	_	_	_	id=s1.u5.w3
+5	je	_	_	_	_	_	_	_	id=s1.u5.w4
+6	vous	_	_	_	_	_	_	_	id=s1.u5.w5
+7	p-	_	_	_	_	_	_	_	id=s1.u5.w6
+8	je	_	_	_	_	_	_	_	id=s1.u5.w7
+9	vous	_	_	_	_	_	_	_	id=s1.u5.w8
+10	passe	_	_	_	_	_	_	_	id=s1.u5.w9
+11	les	_	_	_	_	_	_	_	id=s1.u5.w11
+12	pages	_	_	_	_	_	_	_	id=s1.u5.w12
+13	jaunes	_	_	_	_	_	_	_	id=s1.u5.w13
+14	hein	_	_	_	_	_	_	_	id=s1.u5.w15
+15	c'	_	_	_	_	_	_	_	id=s1.u5.w16
+16	est	_	_	_	_	_	_	_	id=s1.u5.w17
+17	malheureusement	_	_	_	_	_	_	_	id=s1.u5.w18
+18	tous	_	_	_	_	_	_	_	id=s1.u5.w19
+19	les	_	_	_	_	_	_	_	id=s1.u5.w20
+20	garages	_	_	_	_	_	_	_	id=s1.u5.w21
+21	de	_	_	_	_	_	_	_	id=s1.u5.w22
+22	l'	_	_	_	_	_	_	_	id=s1.u5.w23
+23	agglomération	_	_	_	_	_	_	_	id=s1.u5.w24
+
+# sent_id = 1PF0444_6
+# text = 
+
+# sent_id = 1PF0444_7
+# text = d' accord
+1	d'	_	_	_	_	_	_	_	id=s1.u7.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u7.w1
+

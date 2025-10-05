@@ -1,0 +1,47 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2PF0437_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 2PF0437_1
+# text = je voudrais un plan sur le site touristique de la Clusaz et de Serre-Chevalier si vous avez
+1	je	_	_	_	_	_	_	_	id=s1.u1.w0
+2	voudrais	_	_	_	_	_	_	_	id=s1.u1.w1
+3	un	_	_	_	_	_	_	_	id=s1.u1.w2
+4	plan	_	_	_	_	_	_	_	id=s1.u1.w3
+5	sur	_	_	_	_	_	_	_	id=s1.u1.w4
+6	le	_	_	_	_	_	_	_	id=s1.u1.w5
+7	site	_	_	_	_	_	_	_	id=s1.u1.w6
+8	touristique	_	_	_	_	_	_	_	id=s1.u1.w7
+9	de	_	_	_	_	_	_	_	id=s1.u1.w8
+10	la	_	_	_	_	_	_	_	id=s1.u1.w9
+11	Clusaz	_	_	_	_	_	_	_	id=s1.u1.w10
+12	et	_	_	_	_	_	_	_	id=s1.u1.w11
+13	de	_	_	_	_	_	_	_	id=s1.u1.w12
+14	Serre-Chevalier	_	_	_	_	_	_	_	id=s1.u1.w13
+15	si	_	_	_	_	_	_	_	id=s1.u1.w14
+16	vous	_	_	_	_	_	_	_	id=s1.u1.w15
+17	avez	_	_	_	_	_	_	_	id=s1.u1.w16
+
+# sent_id = 2PF0437_2
+# text = la Clusaz Serre Serre-Chevalier
+1	la	_	_	_	_	_	_	_	id=s1.u2.w0
+2	Clusaz	_	_	_	_	_	_	_	id=s1.u2.w1
+3	Serre	_	_	_	_	_	_	_	id=s1.u2.w2
+4	Serre-Chevalier	_	_	_	_	_	_	_	id=s1.u2.w3
+
+# sent_id = 2PF0437_3
+# text = parfait je vous remercie au revoir
+1	parfait	_	_	_	_	_	_	_	id=s1.u3.w0
+2	je	_	_	_	_	_	_	_	id=s1.u3.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u3.w2
+4	remercie	_	_	_	_	_	_	_	id=s1.u3.w3
+5	au	_	_	_	_	_	_	_	id=s1.u3.w4
+6	revoir	_	_	_	_	_	_	_	id=s1.u3.w5
+
+# sent_id = 2PF0437_4
+# text = moi au revoir
+1	moi	_	_	_	_	_	_	_	id=s1.u4.w0
+2	au	_	_	_	_	_	_	_	id=s1.u4.w1
+3	revoir	_	_	_	_	_	_	_	id=s1.u4.w2
+

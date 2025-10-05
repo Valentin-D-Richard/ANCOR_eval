@@ -1,0 +1,33 @@
+# sent_id = 1PF0414_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1PF0414_1
+# text = bonjour est ce que vous avez des plans des pistes cyclables
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u1.w1
+3	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u1.w2
+4	que	que	SCONJ	_	PronType=Rel	6	mark	_	_none=|id=s1.u1.w3
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_none=|id=s1.u1.w4
+6	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_none=|id=s1.u1.w5
+7	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	8	det	_	id=s1.u1.w6
+8	plans	plan	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	id=s1.u1.w7
+9	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	10	det	_	id=s1.u1.w8
+10	pistes	piste	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	id=s1.u1.w9
+11	cyclables	cyclable	ADJ	_	Number=Plur	10	amod	_	id=s1.u1.w10
+
+# sent_id = 1PF0414_2
+# text = oui voilà
+1	oui	oui	INTJ	_	_	2	discourse	_	_none=|id=s1.u2.w0
+2	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u2.w1
+
+# sent_id = 1PF0414_3
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1PF0414_4
+# text = c' est moi
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_none=|id=s1.u4.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u4.w1
+3	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	_	_none=|id=s1.u4.w2
+

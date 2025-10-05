@@ -1,0 +1,39 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0143_0
+# text = 
+
+# sent_id = 1AP0143_1
+# text = vous avez un une doc e d' Isine du château d' Isine
+1	vous	_	_	_	_	_	_	_	id=s1.u1.w0
+2	avez	_	_	_	_	_	_	_	id=s1.u1.w1
+3	un	_	_	_	_	_	_	_	id=s1.u1.w2
+4	une	_	_	_	_	_	_	_	id=s1.u1.w3
+5	doc	_	_	_	_	_	_	_	id=s1.u1.w4
+6	e	_	_	_	_	_	_	_	id=s1.u1.w5
+7	d'	_	_	_	_	_	_	_	id=s1.u1.w6
+8	Isine	_	_	_	_	_	_	_	id=s1.u1.w7
+9	du	_	_	_	_	_	_	_	id=s1.u1.w8
+10	château	_	_	_	_	_	_	_	id=s1.u1.w9
+11	d'	_	_	_	_	_	_	_	id=s1.u1.w10
+12	Isine	_	_	_	_	_	_	_	id=s1.u1.w11
+
+# sent_id = 1AP0143_2
+# text = voilà
+1	voilà	_	_	_	_	_	_	_	id=s1.u2.w0
+
+# sent_id = 1AP0143_3
+# text = très bien merci
+1	très	_	_	_	_	_	_	_	id=s1.u3.w0
+2	bien	_	_	_	_	_	_	_	id=s1.u3.w1
+3	merci	_	_	_	_	_	_	_	id=s1.u3.w2
+
+# sent_id = 1AP0143_4
+# text = je vous en prie monsieur au revoir
+1	je	_	_	_	_	_	_	_	id=s1.u4.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u4.w1
+3	en	_	_	_	_	_	_	_	id=s1.u4.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u4.w3
+5	monsieur	_	_	_	_	_	_	_	id=s1.u4.w4
+6	au	_	_	_	_	_	_	_	id=s1.u4.w5
+7	revoir	_	_	_	_	_	_	_	id=s1.u4.w6
+

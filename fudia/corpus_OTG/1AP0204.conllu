@@ -1,0 +1,30 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0204_1
+# text = je voulais de la documentation sur Grenoble sur les choses à visiter les monuments le patrimoine
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	voulais	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	de	de	ADP	_	_	5	det	_	_none=|id=s1.u1.w2
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	fixed	_	id=s1.u1.w3
+5	documentation	documentation	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	id=s1.u1.w4
+6	sur	sur	ADP	_	_	7	case	_	_none=|id=s1.u1.w5
+7	Grenoble	Grenoble	PROPN	_	_	5	nmod	_	id=s1.u1.w6
+8	sur	sur	ADP	_	_	10	case	_	id=s1.u1.w7
+9	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	id=s1.u1.w8
+10	choses	chose	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	id=s1.u1.w9
+11	à	à	ADP	_	_	12	mark	_	_none=|id=s1.u1.w10
+12	visiter	visiter	VERB	_	VerbForm=Inf	10	acl	_	id=s1.u1.w11
+13	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	14	det	_	id=s1.u1.w12
+14	monuments	monument	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	id=s1.u1.w13
+15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_none=|id=s1.u1.w14
+16	patrimoine	patrimoine	NOUN	_	Gender=Masc|Number=Sing	14	conj	_	id=s1.u1.w15
+
+# sent_id = 1AP0204_3
+# text = hum hum voilà merci madame au revoir
+1	hum	hum	INTJ	_	_	3	discourse	_	_none=|id=s1.u3.w0
+2	hum	hum	INTJ	_	_	3	discourse	_	_none=|id=s1.u3.w1
+3	voilà	voilà	VERB	_	_	4	discourse	_	_none=|id=s1.u3.w2
+4	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w3
+5	madame	madame	NOUN	_	Gender=Fem|Number=Sing	4	vocative	_	id=s1.u3.w4
+6	au	au	ADP	_	_	7	case	_	_none=|id=s1.u3.w5
+7	revoir	revoir	VERB	_	Gender=Masc|Number=Sing	5	acl	_	id=s1.u3.w6
+

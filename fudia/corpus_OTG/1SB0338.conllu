@@ -1,0 +1,174 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0338_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1SB0338_1
+# text = est que vous auriez le programme du " café des Arts "
+1	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u1.w0
+2	que	que	SCONJ	_	_	4	mark	_	_none=|id=s1.u1.w1
+3	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	id=s1.u1.w2
+4	auriez	aurvoir	VERB	_	Mood=Cnd|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	ccomp	_	_none=|id=s1.u1.w3
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	id=s1.u1.w4
+6	programme	programme	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	id=s1.u1.w5
+7	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_none=|id=s1.u1.w6
+8	café	café	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_none=|id=s1.u1.w8
+9	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	10	det	_	id=s1.u1.w9
+10	Arts	Arts	PROPN	_	_	8	nmod	_	id=s1.u1.w10
+
+# sent_id = 1SB0338_2
+# text = oui bon
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u2.w0
+2	bon	bon	INTJ	_	_	1	fixed	_	_none=|id=s1.u2.w1
+
+# sent_id = 1SB0338_3
+# text = " café des Arts "
+1	café	café	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u3.w1
+2	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	3	det	_	id=s1.u3.w2
+3	Arts	Arts	PROPN	_	_	1	nmod	_	id=s1.u3.w3
+
+# sent_id = 1SB0338_4
+# text = e d' autres e
+1	e	e	CCONJ	_	_	4	reparandum	_	_none=|id=s1.u4.w0
+2	d'	de	ADP	_	_	3	case	_	_none=|id=s1.u4.w1
+3	autres	autre	PRON	_	Gender=Masc|Number=Plur	4	obl:mod	_	id=s1.u4.w2
+4	e	e	VERB	_	_	0	root	_	_none=|id=s1.u4.w3
+
+# sent_id = 1SB0338_5
+# text = café spectacles éventuellement
+1	café	café	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u5.w0
+2	spectacles	spectacle	NOUN	_	Gender=Masc|Number=Plur	1	compound	_	id=s1.u5.w1
+3	éventuellement	éventuellement	ADV	_	_	1	advmod	_	_none=|id=s1.u5.w2
+
+# sent_id = 1SB0338_6
+# text = il y a ben après il y a " le grenier de la table ronde " mais j' ai pas leur programme
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_none=|id=s1.u6.w0
+2	y	y	PRON	_	Person=3|PronType=Prs	3	expl:comp	_	id=s1.u6.w1
+3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	reparandum	_	id=s1.u6.w2
+4	ben	ben	INTJ	_	_	8	discourse	_	_none=|id=s1.u6.w3
+5	après	après	ADP	_	_	8	advmod	_	_none=|id=s1.u6.w4
+6	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl:subj	_	_none=|id=s1.u6.w5
+7	y	y	PRON	_	Person=3|PronType=Prs	8	expl:comp	_	id=s1.u6.w6
+8	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u6.w7
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_none=|id=s1.u6.w9
+10	grenier	grenier	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	id=s1.u6.w10
+11	de	de	ADP	_	_	13	case	_	_none=|id=s1.u6.w11
+12	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	id=s1.u6.w12
+13	table	table	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	id=s1.u6.w13
+14	ronde	rond	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	id=s1.u6.w14
+15	mais	mais	CCONJ	_	_	17	cc	_	_none=|id=s1.u6.w16
+16	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	id=s1.u6.w17
+17	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	conj	_	id=s1.u6.w18
+18	pas	pas	ADV	_	Polarity=Neg	17	advmod	_	id=s1.u6.w19
+19	leur	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=3|PronType=Prs	20	det	_	_none=|id=s1.u6.w20
+20	programme	programme	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	id=s1.u6.w21
+
+# sent_id = 1SB0338_7
+# text = ouais
+1	ouais	ouais	INTJ	_	_	0	root	_	_none=|id=s1.u7.w0
+
+# sent_id = 1SB0338_8
+# text = il y a " le grenier de la table ronde " j' ai pas le programme sinon après non c' est plus au niveau pub comme " la soupe aux choux " c' est du jazz et restauration rapide
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_none=|id=s1.u8.w0
+2	y	y	PRON	_	Person=3|PronType=Prs	3	expl:comp	_	id=s1.u8.w1
+3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u8.w2
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_none=|id=s1.u8.w4
+5	grenier	grenier	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_none=|id=s1.u8.w5
+6	de	de	ADP	_	_	8	case	_	_none=|id=s1.u8.w6
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	id=s1.u8.w7
+8	table	table	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	id=s1.u8.w8
+9	ronde	rond	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	id=s1.u8.w9
+10	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_none=|id=s1.u8.w11
+11	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_none=|id=s1.u8.w12
+12	pas	pas	ADV	_	Polarity=Neg	11	advmod	_	_none=|id=s1.u8.w13
+13	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	id=s1.u8.w14
+14	programme	programme	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	id=s1.u8.w15
+15	sinon	sinon	ADV	_	_	11	advmod	_	_none=|id=s1.u8.w16
+16	après	après	ADV	_	_	15	advmod	_	_none=|id=s1.u8.w17
+17	non	non	ADV	_	_	15	discourse	_	id=s1.u8.w18
+18	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	19	nsubj	_	_none=|id=s1.u8.w19
+19	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	reparandum	_	id=s1.u8.w20
+20	plus	plus	ADV	_	_	19	advmod	_	_none=|id=s1.u8.w21
+21	au	au	ADP	_	_	22	case	_	_none=|id=s1.u8.w22
+22	niveau	niveau	NOUN	_	Gender=Masc|Number=Sing	19	obl:arg	_	_none=|id=s1.u8.w23
+23	pub	pub	NOUN	_	Gender=Masc|Number=Sing	22	nmod	_	_none=|id=s1.u8.w24
+24	comme	comme	ADP	_	_	26	case	_	_none=|id=s1.u8.w25
+25	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	id=s1.u8.w27
+26	soupe	soupe	NOUN	_	Gender=Fem|Number=Sing	22	nmod	_	id=s1.u8.w28
+27	aux	aux	ADP	_	_	28	case	_	id=s1.u8.w29
+28	choux	chou	NOUN	_	Gender=Masc|Number=Plur	26	nmod	_	id=s1.u8.w30
+29	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	32	nsubj	_	_none=|id=s1.u8.w32
+30	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	cop	_	id=s1.u8.w33
+31	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_none=|id=s1.u8.w34
+32	jazz	jazz	NOUN	_	Gender=Masc|Number=Sing	5	acl:relcl	_	id=s1.u8.w35
+33	et	et	CCONJ	_	_	34	cc	_	id=s1.u8.w36
+34	restauration	restauration	NOUN	_	Gender=Fem|Number=Sing	22	conj	_	id=s1.u8.w37
+35	rapide	rapide	ADJ	_	Number=Sing	34	amod	_	_none=|id=s1.u8.w38
+
+# sent_id = 1SB0338_9
+# text = je le prends je connais pas oui
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u9.w0
+2	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_none=|id=s1.u9.w1
+3	prends	prendre	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u9.w2
+4	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	id=s1.u9.w3
+5	connais	connaître	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	id=s1.u9.w4
+6	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	_none=|id=s1.u9.w5
+7	oui	oui	ADV	_	_	5	discourse	_	_none=|id=s1.u9.w6
+
+# sent_id = 1SB0338_10
+# text = et puis après c' est un peu plus rock c' est " l' entrepôt " mais là ils font pas du tout restauration hein c' est ce que j' ai en programme hein
+1	et	et	CCONJ	_	_	5	cc	_	_none=|id=s1.u10.w0
+2	puis	puis	CCONJ	_	_	1	fixed	_	id=s1.u10.w1
+3	après	après	ADV	_	_	5	advmod	_	_none=|id=s1.u10.w2
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	_none=|id=s1.u10.w3
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_none=|id=s1.u10.w4
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	advmod	_	_none=|id=s1.u10.w5
+7	peu	peu	NOUN	_	Gender=Masc|Number=Sing	6	fixed	_	_none=|id=s1.u10.w6
+8	plus	plus	ADV	_	_	9	advmod	_	_none=|id=s1.u10.w7
+9	rock	rock	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u10.w8
+10	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj	_	id=s1.u10.w9
+11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	id=s1.u10.w10
+12	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	13	det	_	id=s1.u10.w12
+13	entrepôt	entrepôt	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	id=s1.u10.w13
+14	mais	mais	CCONJ	_	_	17	cc	_	_none=|id=s1.u10.w15
+15	là	là	ADV	_	_	25	advmod	_	_none=|id=s1.u10.w16
+16	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	id=s1.u10.w17
+17	font	re	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	_none=|id=s1.u10.w18
+18	pas	pas	ADV	_	_	28	advmod	_	_none=|id=s1.u10.w19
+19	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_none=|id=s1.u10.w20
+20	tout	tout	NOUN	_	Gender=Masc|Number=Sing	18	obl:mod	_	_none=|id=s1.u10.w21
+21	restauration	restauration	NOUN	_	Gender=Fem|Number=Sing	17	obj	_	id=s1.u10.w22
+22	hein	hein	INTJ	_	_	25	discourse	_	id=s1.u10.w23
+23	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	25	nsubj	_	id=s1.u10.w24
+24	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	id=s1.u10.w25
+25	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	17	conj	_	id=s1.u10.w26
+26	que	que	PRON	_	PronType=Rel	28	obj	_	id=s1.u10.w27
+27	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	28	nsubj	_	id=s1.u10.w28
+28	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	id=s1.u10.w29
+29	en	en	ADP	_	_	30	case	_	id=s1.u10.w30
+30	programme	programme	NOUN	_	Gender=Masc|Number=Sing	28	obl:mod	_	id=s1.u10.w31
+31	hein	hein	INTJ	_	_	25	discourse	_	_none=|id=s1.u10.w32
+
+# sent_id = 1SB0338_11
+# text = très bien
+1	très	très	ADV	_	_	2	advmod	_	_none=|id=s1.u11.w0
+2	bien	bien	ADV	_	_	0	root	_	_none=|id=s1.u11.w1
+
+# sent_id = 1SB0338_12
+# text = voilà
+1	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u12.w0
+
+# sent_id = 1SB0338_13
+# text = merci bien
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u13.w0
+2	bien	bien	ADV	_	_	1	advmod	_	_none=|id=s1.u13.w1
+
+# sent_id = 1SB0338_14
+# text = je vous en prie au revoir
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u14.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u14.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u14.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u14.w3
+5	au	au	ADP	_	_	6	case	_	_none=|id=s1.u14.w4
+6	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	4	advmod	_	id=s1.u14.w5
+

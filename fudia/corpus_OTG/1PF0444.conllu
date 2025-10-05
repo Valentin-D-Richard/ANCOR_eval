@@ -1,0 +1,73 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0444_0
+# text = service
+1	service	service	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1PF0444_1
+# text = un petit renseignement vous savez quelle est l' adresse de Eurauto
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_none=|id=s1.u1.w0
+2	petit	petit	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_none=|id=s1.u1.w1
+3	renseignement	renseignement	NOUN	_	Gender=Masc|Number=Sing	5	dislocated	_	_none=|id=s1.u1.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_none=|id=s1.u1.w3
+5	savez	savoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u1.w4
+6	quelle	quel	DET	_	Gender=Fem|Number=Sing|Person=3|PronType=Int	9|9	cue:wh|det	_	id=s1.u1.w5
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	id=s1.u1.w6
+8	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	id=s1.u1.w7
+9	adresse	adresse	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	id=s1.u1.w8|PhraseType=Int
+10	de	de	ADP	_	_	11	case	_	id=s1.u1.w9
+11	Eurauto	Eurauto	PROPN	_	_	9	nmod	_	id=s1.u1.w10
+
+# sent_id = 1PF0444_3
+# text = je sais même pas ce que c' est c' est un garage
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u3.w0
+2	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u3.w1
+3	même	même	ADV	_	_	4	advmod	_	_none=|id=s1.u3.w2
+4	pas	pas	ADV	_	Polarity=Neg	2	advmod	_	_none=|id=s1.u3.w3
+5	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	obj	_	_none=|id=s1.u3.w4
+6	que	que	PRON	_	PronType=Rel	5	acl:relcl	_	id=s1.u3.w5
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_none=|id=s1.u3.w6
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	id=s1.u3.w7
+9	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	nsubj	_	id=s1.u3.w8
+10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	id=s1.u3.w9
+11	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	id=s1.u3.w10
+12	garage	garage	NOUN	_	Gender=Masc|Number=Sing	5	acl:relcl	_	id=s1.u3.w11
+
+# sent_id = 1PF0444_4
+# text = c' est un garage oui
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	id=s1.u4.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	id=s1.u4.w1
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	id=s1.u4.w2
+4	garage	garage	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u4.w3
+5	oui	oui	ADV	_	_	4	discourse	_	_none=|id=s1.u4.w4
+
+# sent_id = 1PF0444_5
+# text = ah oui alors là je vous p- je vous passe " les pages jaunes " hein c' est malheureusement tous les garages de l' agglomération
+1	ah	ah	INTJ	_	_	7	discourse	_	_none=|id=s1.u5.w0
+2	oui	oui	INTJ	_	_	7	discourse	_	_none=|id=s1.u5.w1
+3	alors	alors	ADV	_	_	7	discourse	_	_none=|id=s1.u5.w2
+4	là	là	ADV	_	_	7	advmod	_	_none=|id=s1.u5.w3
+5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_none=|id=s1.u5.w4
+6	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	7	obj	_	id=s1.u5.w5
+7	p-	p-	VERB	_	_	10	reparandum	_	id=s1.u5.w6
+8	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	id=s1.u5.w7
+9	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	10	iobj	_	id=s1.u5.w8
+10	passe	passer	VERB	ETRE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u5.w9
+11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	id=s1.u5.w11
+12	pages	page	NOUN	_	Gender=Fem|Number=Plur	10	obj	_	id=s1.u5.w12
+13	jaunes	jaun	ADJ	_	Gender=Fem|Number=Plur	12	amod	_	id=s1.u5.w13
+14	hein	hein	INTJ	_	_	20	discourse	_	_none=|id=s1.u5.w15
+15	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	20	nsubj	_	_none=|id=s1.u5.w16
+16	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	id=s1.u5.w17
+17	malheureusement	malheureusement	ADV	_	_	20	advmod	_	_none=|id=s1.u5.w18
+18	tous	tout	ADJ	_	Gender=Masc|Number=Plur	20	amod	_	id=s1.u5.w19
+19	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	20	det	_	id=s1.u5.w20
+20	garages	garage	NOUN	_	Gender=Masc|Number=Plur	10	appos	_	id=s1.u5.w21
+21	de	de	ADP	_	_	23	case	_	_none=|id=s1.u5.w22
+22	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	23	det	_	id=s1.u5.w23
+23	agglomération	agglomération	NOUN	_	Gender=Fem|Number=Sing	20	nmod	_	id=s1.u5.w24
+
+# sent_id = 1PF0444_7
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u7.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u7.w1
+

@@ -1,0 +1,47 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0131_0
+# text = madame bonjour
+1	madame	_	_	_	_	_	_	_	id=s1.u0.w0
+2	bonjour	_	_	_	_	_	_	_	id=s1.u0.w1
+
+# sent_id = 1AP0131_1
+# text = bonjour dites j' aurais voulu e un billet pour e
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	dites	_	_	_	_	_	_	_	id=s1.u1.w1
+3	j'	_	_	_	_	_	_	_	id=s1.u1.w2
+4	aurais	_	_	_	_	_	_	_	id=s1.u1.w3
+5	voulu	_	_	_	_	_	_	_	id=s1.u1.w4
+6	e	_	_	_	_	_	_	_	id=s1.u1.w5
+7	un	_	_	_	_	_	_	_	id=s1.u1.w6
+8	billet	_	_	_	_	_	_	_	id=s1.u1.w7
+9	pour	_	_	_	_	_	_	_	id=s1.u1.w8
+10	e	_	_	_	_	_	_	_	id=s1.u1.w9
+
+# sent_id = 1AP0131_2
+# text = " visages du monde "
+1	visages	_	_	_	_	_	_	_	id=s1.u2.w1
+2	du	_	_	_	_	_	_	_	id=s1.u2.w2
+3	monde	_	_	_	_	_	_	_	id=s1.u2.w3
+
+# sent_id = 1AP0131_3
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1AP0131_4
+# text = hum c' est le guichet est juste à côté là
+1	hum	_	_	_	_	_	_	_	id=s1.u4.w0
+2	c'	_	_	_	_	_	_	_	id=s1.u4.w1
+3	est	_	_	_	_	_	_	_	id=s1.u4.w2
+4	le	_	_	_	_	_	_	_	id=s1.u4.w3
+5	guichet	_	_	_	_	_	_	_	id=s1.u4.w4
+6	est	_	_	_	_	_	_	_	id=s1.u4.w5
+7	juste	_	_	_	_	_	_	_	id=s1.u4.w6
+8	à	_	_	_	_	_	_	_	id=s1.u4.w7
+9	côté	_	_	_	_	_	_	_	id=s1.u4.w8
+10	là	_	_	_	_	_	_	_	id=s1.u4.w9
+
+# sent_id = 1AP0131_5
+# text = la Sibérie
+1	la	_	_	_	_	_	_	_	id=s1.u5.w0
+2	Sibérie	_	_	_	_	_	_	_	id=s1.u5.w1
+

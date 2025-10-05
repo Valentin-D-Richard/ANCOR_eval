@@ -1,0 +1,36 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0322_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AP0322_1
+# text = c' est possible d' avoir dix plans de la ville
+1	c'	_	_	_	_	_	_	_	id=s1.u1.w0
+2	est	_	_	_	_	_	_	_	id=s1.u1.w1
+3	possible	_	_	_	_	_	_	_	id=s1.u1.w2
+4	d'	_	_	_	_	_	_	_	id=s1.u1.w3
+5	avoir	_	_	_	_	_	_	_	id=s1.u1.w4
+6	dix	_	_	_	_	_	_	_	id=s1.u1.w5
+7	plans	_	_	_	_	_	_	_	id=s1.u1.w6
+8	de	_	_	_	_	_	_	_	id=s1.u1.w7
+9	la	_	_	_	_	_	_	_	id=s1.u1.w8
+10	ville	_	_	_	_	_	_	_	id=s1.u1.w9
+
+# sent_id = 1AP0322_2
+# text = oui voilà
+1	oui	_	_	_	_	_	_	_	id=s1.u2.w0
+2	voilà	_	_	_	_	_	_	_	id=s1.u2.w1
+
+# sent_id = 1AP0322_3
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1AP0322_4
+# text = je vous en prie au revoir
+1	je	_	_	_	_	_	_	_	id=s1.u4.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u4.w1
+3	en	_	_	_	_	_	_	_	id=s1.u4.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u4.w3
+5	au	_	_	_	_	_	_	_	id=s1.u4.w4
+6	revoir	_	_	_	_	_	_	_	id=s1.u4.w5
+

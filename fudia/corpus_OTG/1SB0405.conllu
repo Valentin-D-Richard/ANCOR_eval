@@ -1,0 +1,18 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0405_0
+# text = un petit plan de Grenoble s' il vous plaît merci
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_none=|id=s1.u0.w0
+2	petit	petit	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_none=|id=s1.u0.w1
+3	plan	plan	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w2
+4	de	de	ADP	_	_	5	case	_	id=s1.u0.w3
+5	Grenoble	Grenoble	PROPN	_	_	3	nmod	_	_none=|id=s1.u0.w4
+6	s'	se	SCONJ	_	_	9	mark	_	_none=|id=s1.u0.w5
+7	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl:subj	_	_none=|id=s1.u0.w6
+8	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	9	iobj	_	_none=|id=s1.u0.w7
+9	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	discourse	_	id=s1.u0.w8
+10	merci	merci	INTJ	_	_	9	dislocated	_	_none=|id=s1.u0.w9
+
+# sent_id = 1SB0405_2
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u2.w0
+

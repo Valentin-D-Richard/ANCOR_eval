@@ -1,0 +1,46 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 052_00000035_0
+# text = U B S Bonjour
+1	U	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	id=s1.u0.w0
+2	B	B	AUX	_	_	4	nsubj	_	_none=|id=s1.u0.w1
+3	S	êre	AUX	_	Person=3|PronType=Prs	4	reparandum	_	id=s1.u0.w2
+4	Bonjour	Bonjour	PROPN	_	_	0	root	_	_none=|id=s1.u0.w3
+
+# sent_id = 052_00000035_1
+# text = bonjour madame excusez- moi de vous déranger j' ai appelé tout à l' heure pour savoir si on pouvait venir récupérer les diplômes de licence et
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	madame	madame	NOUN	_	Gender=Fem|Number=Sing	3	vocative	_	_none=|id=s1.u1.w1
+3	excusez-	excusezr	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	3	obj	_	_none=|id=s1.u1.w3
+5	de	de	ADP	_	_	7	mark	_	_none=|id=s1.u1.w4
+6	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	7	iobj	_	id=s1.u1.w5
+7	déranger	déranger	VERB	_	VerbForm=Inf	3	advcl	_	_none=|id=s1.u1.w6
+8	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_none=|id=s1.u1.w7
+9	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	aux:tense	_	id=s1.u1.w8
+10	appelé	appeler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	id=s1.u1.w9
+11	tout	tout	ADV	_	_	14	advmod	_	_none=|id=s1.u1.w10
+12	à	à	ADP	_	_	14	case	_	_none=|id=s1.u1.w11
+13	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	14	det	_	_none=|id=s1.u1.w12
+14	heure	heure	NOUN	_	Gender=Fem|Number=Sing	10	obl:mod	_	id=s1.u1.w13
+15	pour	pour	ADP	_	_	16	mark	_	_none=|id=s1.u1.w14
+16	savoir	savoir	VERB	_	VerbForm=Inf	10	advcl	_	_none=|id=s1.u1.w15
+17	si	si	SCONJ	_	_	19|19	cue:mark|mark	_	_none=|id=s1.u1.w16
+18	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	19	nsubj	_	_none=|id=s1.u1.w17
+19	pouvait	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	ccomp	_	_none=|id=s1.u1.w18|ClauseType=Int
+20	venir	venir	VERB	_	VerbForm=Inf	16	ccomp	_	_none=|id=s1.u1.w19
+21	récupérer	récupérer	VERB	_	VerbForm=Inf	20	xcomp	_	id=s1.u1.w20
+22	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	23	det	_	id=s1.u1.w21
+23	diplômes	diplôme	NOUN	_	Gender=Masc|Number=Plur	21	obj	_	id=s1.u1.w22
+24	de	de	ADP	_	_	25	case	_	id=s1.u1.w23
+25	licence	licence	NOUN	_	Gender=Fem|Number=Sing	23	nmod	_	id=s1.u1.w24
+26	et	et	PUNCT	_	_	10	punct	_	_none=|id=s1.u1.w25
+
+# sent_id = 052_00000035_2
+# text = je vais vous passer la personne
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u2.w0
+2	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u2.w2
+4	passer	passer	VERB	_	VerbForm=Inf	2	xcomp	_	id=s1.u2.w3
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	id=s1.u2.w4
+6	personne	personne	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	id=s1.u2.w5
+

@@ -1,0 +1,47 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0527_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AG0527_1
+# text = bonjour est ce que vous avez encore des " 38 "
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	est	_	_	_	_	_	_	_	id=s1.u1.w1
+3	ce	_	_	_	_	_	_	_	id=s1.u1.w2
+4	que	_	_	_	_	_	_	_	id=s1.u1.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u1.w4
+6	avez	_	_	_	_	_	_	_	id=s1.u1.w5
+7	encore	_	_	_	_	_	_	_	id=s1.u1.w6
+8	des	_	_	_	_	_	_	_	id=s1.u1.w7
+9	38	_	_	_	_	_	_	_	id=s1.u1.w9
+
+# sent_id = 1AG0527_2
+# text = non plus du tout tout est fini oui mais il faut venir lundi matin en ce moment
+1	non	_	_	_	_	_	_	_	id=s1.u2.w0
+2	plus	_	_	_	_	_	_	_	id=s1.u2.w1
+3	du	_	_	_	_	_	_	_	id=s1.u2.w2
+4	tout	_	_	_	_	_	_	_	id=s1.u2.w3
+5	tout	_	_	_	_	_	_	_	id=s1.u2.w4
+6	est	_	_	_	_	_	_	_	id=s1.u2.w5
+7	fini	_	_	_	_	_	_	_	id=s1.u2.w6
+8	oui	_	_	_	_	_	_	_	id=s1.u2.w7
+9	mais	_	_	_	_	_	_	_	id=s1.u2.w8
+10	il	_	_	_	_	_	_	_	id=s1.u2.w9
+11	faut	_	_	_	_	_	_	_	id=s1.u2.w10
+12	venir	_	_	_	_	_	_	_	id=s1.u2.w11
+13	lundi	_	_	_	_	_	_	_	id=s1.u2.w12
+14	matin	_	_	_	_	_	_	_	id=s1.u2.w13
+15	en	_	_	_	_	_	_	_	id=s1.u2.w14
+16	ce	_	_	_	_	_	_	_	id=s1.u2.w15
+17	moment	_	_	_	_	_	_	_	id=s1.u2.w16
+
+# sent_id = 1AG0527_3
+# text = tous ces lundis toujours hein d' accord
+1	tous	_	_	_	_	_	_	_	id=s1.u3.w0
+2	ces	_	_	_	_	_	_	_	id=s1.u3.w1
+3	lundis	_	_	_	_	_	_	_	id=s1.u3.w2
+4	toujours	_	_	_	_	_	_	_	id=s1.u3.w3
+5	hein	_	_	_	_	_	_	_	id=s1.u3.w4
+6	d'	_	_	_	_	_	_	_	id=s1.u3.w5
+7	accord	_	_	_	_	_	_	_	id=s1.u3.w6
+

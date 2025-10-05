@@ -1,0 +1,41 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0027_0
+# text = bonjour je suis à la recherche d' une carte des transports sur Grenoble
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+2	je	_	_	_	_	_	_	_	id=s1.u0.w1
+3	suis	_	_	_	_	_	_	_	id=s1.u0.w2
+4	à	_	_	_	_	_	_	_	id=s1.u0.w3
+5	la	_	_	_	_	_	_	_	id=s1.u0.w4
+6	recherche	_	_	_	_	_	_	_	id=s1.u0.w5
+7	d'	_	_	_	_	_	_	_	id=s1.u0.w6
+8	une	_	_	_	_	_	_	_	id=s1.u0.w7
+9	carte	_	_	_	_	_	_	_	id=s1.u0.w8
+10	des	_	_	_	_	_	_	_	id=s1.u0.w9
+11	transports	_	_	_	_	_	_	_	id=s1.u0.w10
+12	sur	_	_	_	_	_	_	_	id=s1.u0.w11
+13	Grenoble	_	_	_	_	_	_	_	id=s1.u0.w12
+
+# sent_id = 1SB0027_1
+# text = un plan
+1	un	_	_	_	_	_	_	_	id=s1.u1.w0
+2	plan	_	_	_	_	_	_	_	id=s1.u1.w1
+
+# sent_id = 1SB0027_2
+# text = ouais
+1	ouais	_	_	_	_	_	_	_	id=s1.u2.w0
+
+# sent_id = 1SB0027_3
+# text = voilà
+1	voilà	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1SB0027_4
+# text = merci au revoir
+1	merci	_	_	_	_	_	_	_	id=s1.u4.w0
+2	au	_	_	_	_	_	_	_	id=s1.u4.w1
+3	revoir	_	_	_	_	_	_	_	id=s1.u4.w2
+
+# sent_id = 1SB0027_5
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u5.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u5.w1
+

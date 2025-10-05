@@ -1,0 +1,46 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0487_0
+# text = madame bonjour
+1	madame	_	_	_	_	_	_	_	id=s1.u0.w0
+2	bonjour	_	_	_	_	_	_	_	id=s1.u0.w1
+
+# sent_id = 1PF0487_1
+# text = est ce que vous avez déjà le programme du " café des Arts " pour octobre
+1	est	_	_	_	_	_	_	_	id=s1.u1.w0
+2	ce	_	_	_	_	_	_	_	id=s1.u1.w1
+3	que	_	_	_	_	_	_	_	id=s1.u1.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u1.w3
+5	avez	_	_	_	_	_	_	_	id=s1.u1.w4
+6	déjà	_	_	_	_	_	_	_	id=s1.u1.w5
+7	le	_	_	_	_	_	_	_	id=s1.u1.w6
+8	programme	_	_	_	_	_	_	_	id=s1.u1.w7
+9	du	_	_	_	_	_	_	_	id=s1.u1.w8
+10	café	_	_	_	_	_	_	_	id=s1.u1.w10
+11	des	_	_	_	_	_	_	_	id=s1.u1.w11
+12	Arts	_	_	_	_	_	_	_	id=s1.u1.w12
+13	pour	_	_	_	_	_	_	_	id=s1.u1.w14
+14	octobre	_	_	_	_	_	_	_	id=s1.u1.w15
+
+# sent_id = 1PF0487_2
+# text = le café des actes
+1	le	_	_	_	_	_	_	_	id=s1.u2.w0
+2	café	_	_	_	_	_	_	_	id=s1.u2.w1
+3	des	_	_	_	_	_	_	_	id=s1.u2.w2
+4	actes	_	_	_	_	_	_	_	id=s1.u2.w3
+
+# sent_id = 1PF0487_3
+# text = des Arts
+1	des	_	_	_	_	_	_	_	id=s1.u3.w0
+2	Arts	_	_	_	_	_	_	_	id=s1.u3.w1
+
+# sent_id = 1PF0487_4
+# text = des Arts septembre octobre voilà
+1	des	_	_	_	_	_	_	_	id=s1.u4.w0
+2	Arts	_	_	_	_	_	_	_	id=s1.u4.w1
+3	septembre	_	_	_	_	_	_	_	id=s1.u4.w2
+4	octobre	_	_	_	_	_	_	_	id=s1.u4.w3
+5	voilà	_	_	_	_	_	_	_	id=s1.u4.w4
+
+# sent_id = 1PF0487_5
+# text = 
+

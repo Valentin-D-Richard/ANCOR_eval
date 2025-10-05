@@ -1,0 +1,46 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0494_0
+# text = 
+
+# sent_id = 1PF0494_1
+# text = monsieur j' aimerais avoir une liste des hôtels s' il vous plaît
+1	monsieur	_	_	_	_	_	_	_	id=s1.u1.w0
+2	j'	_	_	_	_	_	_	_	id=s1.u1.w1
+3	aimerais	_	_	_	_	_	_	_	id=s1.u1.w2
+4	avoir	_	_	_	_	_	_	_	id=s1.u1.w3
+5	une	_	_	_	_	_	_	_	id=s1.u1.w4
+6	liste	_	_	_	_	_	_	_	id=s1.u1.w5
+7	des	_	_	_	_	_	_	_	id=s1.u1.w6
+8	hôtels	_	_	_	_	_	_	_	id=s1.u1.w7
+9	s'	_	_	_	_	_	_	_	id=s1.u1.w8
+10	il	_	_	_	_	_	_	_	id=s1.u1.w9
+11	vous	_	_	_	_	_	_	_	id=s1.u1.w10
+12	plaît	_	_	_	_	_	_	_	id=s1.u1.w11
+
+# sent_id = 1PF0494_2
+# text = oui vous voulez un plan
+1	oui	_	_	_	_	_	_	_	id=s1.u2.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u2.w1
+3	voulez	_	_	_	_	_	_	_	id=s1.u2.w2
+4	un	_	_	_	_	_	_	_	id=s1.u2.w3
+5	plan	_	_	_	_	_	_	_	id=s1.u2.w4
+
+# sent_id = 1PF0494_3
+# text = oh ben tant qu' à faire oui
+1	oh	_	_	_	_	_	_	_	id=s1.u3.w0
+2	ben	_	_	_	_	_	_	_	id=s1.u3.w1
+3	tant	_	_	_	_	_	_	_	id=s1.u3.w2
+4	qu'	_	_	_	_	_	_	_	id=s1.u3.w3
+5	à	_	_	_	_	_	_	_	id=s1.u3.w4
+6	faire	_	_	_	_	_	_	_	id=s1.u3.w5
+7	oui	_	_	_	_	_	_	_	id=s1.u3.w6
+
+# sent_id = 1PF0494_4
+# text = voilà
+1	voilà	_	_	_	_	_	_	_	id=s1.u4.w0
+
+# sent_id = 1PF0494_5
+# text = merci beaucoup
+1	merci	_	_	_	_	_	_	_	id=s1.u5.w0
+2	beaucoup	_	_	_	_	_	_	_	id=s1.u5.w1
+

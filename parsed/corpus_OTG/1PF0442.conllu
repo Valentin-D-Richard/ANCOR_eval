@@ -1,0 +1,178 @@
+# sent_id = 1PF0442_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1PF0442_1
+# text = bonjour je cherche e le la " Direction Régionale du temps libre jeunesse et sports " et c' est indiqué
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	cherche	chercher	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	e	e	ADP	_	_	7	case	_	id=s1.u1.w3
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	id=s1.u1.w4
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	id=s1.u1.w5
+7	Direction	Direction	PROPN	_	_	3	obl:arg	_	_none=|id=s1.u1.w7
+8	Régionale	Régionale	PROPN	_	Gender=Fem|Number=Sing	7	amod	_	id=s1.u1.w8
+9	du	du	DET	_	_	10	det	_	_none=|id=s1.u1.w9
+10	temps	temps	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_none=|id=s1.u1.w10
+11	libre	libre	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	_none=|id=s1.u1.w11
+12	jeunesse	jeunesse	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	id=s1.u1.w12
+13	et	et	CCONJ	_	_	14	cc	_	id=s1.u1.w13
+14	sports	sport	NOUN	_	Gender=Masc|Number=Plur	12	conj	_	id=s1.u1.w14
+15	et	et	CCONJ	_	_	18	cc	_	_none=|id=s1.u1.w16
+16	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	18	nsubj	_	_none=|id=s1.u1.w17
+17	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux:pass	_	id=s1.u1.w18
+18	indiqué	indiquer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	id=s1.u1.w19
+
+# sent_id = 1PF0442_2
+# text = la direction régionale il y a longtemps qu' elle y est plus
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	id=s1.u2.w0
+2	direction	direction	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	id=s1.u2.w1
+3	régionale	régional	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	id=s1.u2.w2
+4	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	_none=|id=s1.u2.w3
+5	y	y	PRON	_	Person=3|PronType=Prs	6	expl:comp	_	_none=|id=s1.u2.w4
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w5
+7	longtemps	longtemps	ADV	_	_	6	advmod	_	_none=|id=s1.u2.w6
+8	qu'	que	SCONJ	_	_	11	mark	_	_none=|id=s1.u2.w7
+9	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	id=s1.u2.w8
+10	y	y	PRON	_	Person=3|PronType=Prs	11	iobj	_	id=s1.u2.w9
+11	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	id=s1.u2.w10
+12	plus	plus	ADV	_	_	11	advmod	_	id=s1.u2.w11
+
+# sent_id = 1PF0442_3
+# text = où vous savez pas la nouvelle adresse
+1	où	où	PRON	_	PronType=Rel	3	obl:mod	_	_none=|id=s1.u3.w0
+2	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_none=|id=s1.u3.w1
+3	savez	savoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u3.w2
+4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_none=|id=s1.u3.w3
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	id=s1.u3.w4
+6	nouvelle	nouveau	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	id=s1.u3.w5
+7	adresse	adresse	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	id=s1.u3.w6
+
+# sent_id = 1PF0442_4
+# text = la régionale elle est à Lyon maintenant
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	id=s1.u4.w0
+2	régionale	régional	NOUN	_	Gender=Fem|Number=Sing	4	dislocated	_	id=s1.u4.w1
+3	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	id=s1.u4.w2
+4	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w3
+5	à	à	ADP	_	_	6	case	_	id=s1.u4.w4
+6	Lyon	Lyon	PROPN	_	_	4	obl:arg	_	_none=|id=s1.u4.w5
+7	maintenant	maintenant	ADV	_	_	4	advmod	_	_none=|id=s1.u4.w6
+
+# sent_id = 1PF0442_5
+# text = il y en a plus du tout ici
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	_none=|id=s1.u5.w0
+2	y	y	PRON	_	Person=3|PronType=Prs	4	expl:comp	_	id=s1.u5.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	obj	_	id=s1.u5.w2
+4	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u5.w3
+5	plus	plus	ADV	_	_	4	advmod	_	_none=|id=s1.u5.w4
+6	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	advmod	_	_none=|id=s1.u5.w5
+7	tout	tout	NOUN	_	Gender=Masc|Number=Sing	6	fixed	_	id=s1.u5.w6
+8	ici	ici	ADV	_	_	4	advmod	_	_none=|id=s1.u5.w7
+
+# sent_id = 1PF0442_6
+# text = la départementale qui est ici
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	id=s1.u6.w0
+2	départementale	départementale	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u6.w1
+3	qui	qui	PRON	_	PronType=Rel	4	nsubj	_	_none=|id=s1.u6.w2
+4	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	id=s1.u6.w3
+5	ici	ici	ADV	_	_	2	acl:relcl	_	_none=|id=s1.u6.w4
+
+# sent_id = 1PF0442_7
+# text = et vous savez où elle est
+1	et	et	CCONJ	_	_	3	cc	_	_none=|id=s1.u7.w0
+2	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_none=|id=s1.u7.w1
+3	savez	savoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u7.w2
+4	où	où	PRON	_	PronType=Rel	3	ccomp	_	id=s1.u7.w3
+5	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	id=s1.u7.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	id=s1.u7.w5
+
+# sent_id = 1PF0442_8
+# text = bien sûr elle est avenue Paul Verlaine les directions régionales à Grenoble elles sont toutes parties depuis la décentralisation donc e c' est tout à Lyon maintenant hein capitale régionale alors vous êtes là et vous allez Paul Verlaine c' est ici donc il faut voir les bus si vous avez pas de voiture hein parce que c' est
+1	bien	bien	ADV	_	_	5	advmod	_	_none=|id=s1.u8.w0
+2	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	1	fixed	_	_none=|id=s1.u8.w1
+3	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_none=|id=s1.u8.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	id=s1.u8.w3
+5	avenue	avener	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	id=s1.u8.w4
+6	Paul	Paul	PROPN	_	_	9	appos	_	id=s1.u8.w5
+7	Verlaine	Verlaine	PROPN	_	_	6	flat:name	_	id=s1.u8.w6
+8	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	id=s1.u8.w7
+9	directions	direction	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	id=s1.u8.w8
+10	régionales	régional	ADJ	_	Gender=Fem|Number=Plur	9	amod	_	id=s1.u8.w9
+11	à	à	ADP	_	_	12	case	_	_none=|id=s1.u8.w10
+12	Grenoble	Grenoble	PROPN	_	_	16	obl:mod	_	_none=|id=s1.u8.w11
+13	elles	il	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	_none=|id=s1.u8.w12
+14	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux:tense	_	_none=|id=s1.u8.w13
+15	toutes	tout	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Ind	16	obl:mod	_	_none=|id=s1.u8.w14
+16	parties	partier	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	33	advcl	_	id=s1.u8.w15
+17	depuis	depuis	ADP	_	_	19	case	_	_none=|id=s1.u8.w16
+18	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	id=s1.u8.w17
+19	décentralisation	décentralisation	NOUN	_	Gender=Fem|Number=Sing	26	nmod	_	_none=|id=s1.u8.w18
+20	donc	donc	ADV	_	_	33	cc	_	_none=|id=s1.u8.w19
+21	e	e	PRON	_	_	33	dep	_	id=s1.u8.w20
+22	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	16	nsubj:pass	_	_none=|id=s1.u8.w21
+23	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	cop	_	id=s1.u8.w22
+24	tout	tout	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	23	xcomp	_	_none=|id=s1.u8.w23
+25	à	à	ADP	_	_	26	case	_	_none=|id=s1.u8.w24
+26	Lyon	Lyon	PROPN	_	_	23	obl:mod	_	_none=|id=s1.u8.w25
+27	maintenant	maintenant	ADV	_	_	34	advmod	_	_none=|id=s1.u8.w26
+28	hein	hein	INTJ	_	_	29	discourse	_	_none=|id=s1.u8.w27
+29	capitale	capitale	NOUN	_	Gender=Fem|Number=Sing	34	conj	_	id=s1.u8.w28
+30	régionale	régional	ADJ	_	Gender=Fem|Number=Sing	29	amod	_	_none=|id=s1.u8.w29
+31	alors	alors	ADV	_	_	34	advmod	_	_none=|id=s1.u8.w30
+32	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	33	nsubj	_	_none=|id=s1.u8.w31
+33	êtes	être	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	42	reparandum	_	_none=|id=s1.u8.w32
+34	là	là	ADV	_	_	5	advmod	_	_none=|id=s1.u8.w33
+35	et	et	CCONJ	_	_	37	cc	_	_none=|id=s1.u8.w34
+36	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	37	nsubj	_	_none=|id=s1.u8.w35
+37	allez	aller	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	42	discourse	_	id=s1.u8.w36
+38	Paul	Paul	PROPN	_	_	42	dislocated	_	id=s1.u8.w37
+39	Verlaine	Verlaine	PROPN	_	_	38	flat:name	_	id=s1.u8.w38
+40	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	42	nsubj	_	id=s1.u8.w39
+41	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	cop	_	id=s1.u8.w40
+42	ici	ici	ADV	_	_	5	conj	_	id=s1.u8.w41
+43	donc	donc	ADV	_	_	45	cc	_	_none=|id=s1.u8.w42
+44	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	45	expl:subj	_	_none=|id=s1.u8.w43
+45	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	conj	_	id=s1.u8.w44
+46	voir	voir	VERB	_	VerbForm=Inf	45	ccomp	_	id=s1.u8.w45
+47	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	48	det	_	id=s1.u8.w46
+48	bus	bus	NOUN	_	Gender=Masc|Number=Plur	46	obj	_	id=s1.u8.w47
+49	si	si	SCONJ	_	_	51	mark	_	_none=|id=s1.u8.w48
+50	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	51	nsubj	_	_none=|id=s1.u8.w49
+51	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	59	advcl	_	_none=|id=s1.u8.w50
+52	pas	pas	ADV	_	Polarity=Neg	51	advmod	_	_none=|id=s1.u8.w51
+53	de	de	ADP	_	Definite=Ind|Number=Sing|PronType=Art	54	case	_	_none=|id=s1.u8.w52
+54	voiture	voiture	NOUN	_	Gender=Fem|Number=Sing	51	obj	_	id=s1.u8.w53
+55	hein	hein	INTJ	_	_	51	discourse	_	_none=|id=s1.u8.w54
+56	parce	parce	ADV	_	_	59	mark	_	_none=|id=s1.u8.w55
+57	que	que	SCONJ	_	_	56	fixed	_	id=s1.u8.w56
+58	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	59	nsubj	_	id=s1.u8.w57
+59	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	advcl	_	id=s1.u8.w58
+
+# sent_id = 1PF0442_9
+# text = ouais ça fait une trotte
+1	ouais	ouais	INTJ	_	_	3	discourse	_	_none=|id=s1.u9.w0
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_none=|id=s1.u9.w1
+3	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u9.w2
+4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	id=s1.u9.w3
+5	trotte	trotte	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	id=s1.u9.w4
+
+# sent_id = 1PF0442_10
+# text = l' opposé voilà je vous laisse le plan mademoiselle au revoir
+1	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u10.w0
+2	opposé	opposé	NOUN	_	Gender=Masc|Number=Sing	6	advcl	_	_none=|id=s1.u10.w1
+3	voilà	voilà	VERB	_	_	6	discourse	_	_none=|id=s1.u10.w2
+4	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_none=|id=s1.u10.w3
+5	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	6	iobj	_	id=s1.u10.w4
+6	laisse	laisser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u10.w5
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	id=s1.u10.w6
+8	plan	plan	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	id=s1.u10.w7
+9	mademoiselle	mademoiselle	NOUN	_	Gender=Fem|Number=Sing	8	vocative	_	id=s1.u10.w8
+10	au	au	ADP	_	_	11	case	_	_none=|id=s1.u10.w9
+11	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	6	obl:mod	_	id=s1.u10.w10
+
+# sent_id = 1PF0442_11
+# text = merci au revoir
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u11.w0
+2	au	au	ADP	_	_	3	case	_	_none=|id=s1.u11.w1
+3	revoir	revoir	VERB	_	Gender=Masc|Number=Sing	1	advcl	_	_none=|id=s1.u11.w2
+

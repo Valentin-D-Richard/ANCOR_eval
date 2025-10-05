@@ -1,0 +1,94 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2AP0058_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 2AP0058_1
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+
+# sent_id = 2AP0058_2
+# text = moi je voulais savoir si vous aviez des dates et le programme du salon de la bande dessinée de Chambéry
+1	moi	_	_	_	_	_	_	_	id=s1.u2.w0
+2	je	_	_	_	_	_	_	_	id=s1.u2.w1
+3	voulais	_	_	_	_	_	_	_	id=s1.u2.w2
+4	savoir	_	_	_	_	_	_	_	id=s1.u2.w3
+5	si	_	_	_	_	_	_	_	id=s1.u2.w4
+6	vous	_	_	_	_	_	_	_	id=s1.u2.w5
+7	aviez	_	_	_	_	_	_	_	id=s1.u2.w6
+8	des	_	_	_	_	_	_	_	id=s1.u2.w7
+9	dates	_	_	_	_	_	_	_	id=s1.u2.w8
+10	et	_	_	_	_	_	_	_	id=s1.u2.w9
+11	le	_	_	_	_	_	_	_	id=s1.u2.w10
+12	programme	_	_	_	_	_	_	_	id=s1.u2.w11
+13	du	_	_	_	_	_	_	_	id=s1.u2.w12
+14	salon	_	_	_	_	_	_	_	id=s1.u2.w13
+15	de	_	_	_	_	_	_	_	id=s1.u2.w14
+16	la	_	_	_	_	_	_	_	id=s1.u2.w15
+17	bande	_	_	_	_	_	_	_	id=s1.u2.w16
+18	dessinée	_	_	_	_	_	_	_	id=s1.u2.w17
+19	de	_	_	_	_	_	_	_	id=s1.u2.w18
+20	Chambéry	_	_	_	_	_	_	_	id=s1.u2.w19
+
+# sent_id = 2AP0058_3
+# text = non
+1	non	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 2AP0058_4
+# text = non vous savez pas non
+1	non	_	_	_	_	_	_	_	id=s1.u4.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u4.w1
+3	savez	_	_	_	_	_	_	_	id=s1.u4.w2
+4	pas	_	_	_	_	_	_	_	id=s1.u4.w3
+5	non	_	_	_	_	_	_	_	id=s1.u4.w4
+
+# sent_id = 2AP0058_5
+# text = date ni programme
+1	date	_	_	_	_	_	_	_	id=s1.u5.w0
+2	ni	_	_	_	_	_	_	_	id=s1.u5.w1
+3	programme	_	_	_	_	_	_	_	id=s1.u5.w2
+
+# sent_id = 2AP0058_6
+# text = bien
+1	bien	_	_	_	_	_	_	_	id=s1.u6.w0
+
+# sent_id = 2AP0058_7
+# text = faudrait voir avec l' Office de Chambéry
+1	faudrait	_	_	_	_	_	_	_	id=s1.u7.w0
+2	voir	_	_	_	_	_	_	_	id=s1.u7.w1
+3	avec	_	_	_	_	_	_	_	id=s1.u7.w2
+4	l'	_	_	_	_	_	_	_	id=s1.u7.w3
+5	Office	_	_	_	_	_	_	_	id=s1.u7.w4
+6	de	_	_	_	_	_	_	_	id=s1.u7.w5
+7	Chambéry	_	_	_	_	_	_	_	id=s1.u7.w6
+
+# sent_id = 2AP0058_8
+# text = ouais directement
+1	ouais	_	_	_	_	_	_	_	id=s1.u8.w0
+2	directement	_	_	_	_	_	_	_	id=s1.u8.w1
+
+# sent_id = 2AP0058_9
+# text = l' O T ouais
+1	l'	_	_	_	_	_	_	_	id=s1.u9.w0
+2	O	_	_	_	_	_	_	_	id=s1.u9.w1
+3	T	_	_	_	_	_	_	_	id=s1.u9.w2
+4	ouais	_	_	_	_	_	_	_	id=s1.u9.w3
+
+# sent_id = 2AP0058_10
+# text = bien merci
+1	bien	_	_	_	_	_	_	_	id=s1.u10.w0
+2	merci	_	_	_	_	_	_	_	id=s1.u10.w1
+
+# sent_id = 2AP0058_11
+# text = je vous en prie monsieur au revoir
+1	je	_	_	_	_	_	_	_	id=s1.u11.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u11.w1
+3	en	_	_	_	_	_	_	_	id=s1.u11.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u11.w3
+5	monsieur	_	_	_	_	_	_	_	id=s1.u11.w4
+6	au	_	_	_	_	_	_	_	id=s1.u11.w5
+7	revoir	_	_	_	_	_	_	_	id=s1.u11.w6
+
+# sent_id = 2AP0058_12
+# text = 
+

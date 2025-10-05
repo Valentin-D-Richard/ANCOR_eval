@@ -1,0 +1,29 @@
+# sent_id = 1AG0509_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AG0509_1
+# text = bonjour vous avez un plan des pistes cyclables de Grenoble
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	id=s1.u1.w1
+3	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_none=|id=s1.u1.w3
+5	plan	plan	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_none=|id=s1.u1.w4
+6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	id=s1.u1.w5
+7	pistes	piste	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	id=s1.u1.w6
+8	cyclables	cyclable	ADJ	_	Gender=Fem|Number=Plur	7	amod	_	id=s1.u1.w7
+9	de	de	ADP	_	_	10	case	_	_none=|id=s1.u1.w8
+10	Grenoble	Grenoble	PROPN	_	_	7	nmod	_	_none=|id=s1.u1.w9
+
+# sent_id = 1AG0509_2
+# text = voilà
+1	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u2.w0
+
+# sent_id = 1AG0509_3
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1AG0509_4
+# text = déjà
+1	déjà	déjà	ADV	_	_	0	root	_	_none=|id=s1.u4.w0
+

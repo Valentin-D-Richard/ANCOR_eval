@@ -1,0 +1,58 @@
+# sent_id = 1SB0408_0
+# text = bonjour je vous appelle à l' aide dernière affiche du travail et de la culture qui est superbe puis un paquet de
+1	bonjour	bonjour	INTJ	_	_	4	discourse	_	_none=|id=s1.u0.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u0.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u0.w2
+4	appelle	appeler	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u0.w3
+5	à	à	ADP	_	_	7	case	_	_none=|id=s1.u0.w4
+6	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	id=s1.u0.w5
+7	aide	aide	NOUN	_	Gender=Fem|Number=Sing	4	obl:arg	_	id=s1.u0.w6
+8	dernière	derniè	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	id=s1.u0.w7
+9	affiche	affiche	NOUN	_	Gender=Fem|Number=Sing	4	obl:mod	_	id=s1.u0.w8
+10	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_none=|id=s1.u0.w9
+11	travail	travail	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_none=|id=s1.u0.w10
+12	et	et	CCONJ	_	_	15	cc	_	id=s1.u0.w11
+13	de	de	ADP	_	_	15	case	_	id=s1.u0.w12
+14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	id=s1.u0.w13
+15	culture	culture	NOUN	_	Gender=Fem|Number=Sing	11	conj	_	id=s1.u0.w14
+16	qui	qui	PRON	_	PronType=Rel	18	nsubj	_	_none=|id=s1.u0.w15
+17	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	id=s1.u0.w16
+18	superbe	superbe	ADJ	_	Gender=Masc|Number=Sing	9	acl:relcl	_	id=s1.u0.w17
+19	puis	puis	CCONJ	_	_	21	cc	_	id=s1.u0.w18
+20	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	id=s1.u0.w19
+21	paquet	paquet	NOUN	_	Gender=Masc|Number=Sing	18	conj	_	id=s1.u0.w20
+22	de	de	ADP	_	_	21	dep	_	_none=|id=s1.u0.w21
+
+# sent_id = 1SB0408_3
+# text = ah ben très volontiers oui oui oui génial merci beaucoup
+1	ah	ah	INTJ	_	_	4	discourse	_	_none=|id=s1.u3.w0
+2	ben	ben	INTJ	_	_	4	discourse	_	_none=|id=s1.u3.w1
+3	très	très	ADV	_	_	4	advmod	_	_none=|id=s1.u3.w2
+4	volontiers	volontier	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_none=|id=s1.u3.w3
+5	oui	oui	INTJ	_	_	4	discourse	_	_none=|id=s1.u3.w4
+6	oui	oui	INTJ	_	_	5	conj	_	_none=|id=s1.u3.w5
+7	oui	oui	INTJ	_	_	5	conj	_	_none=|id=s1.u3.w6
+8	génial	génial	ADJ	_	Gender=Masc|Number=Sing	4	discourse	_	_none=|id=s1.u3.w7
+9	merci	merci	INTJ	_	_	4	conj	_	_none=|id=s1.u3.w8
+10	beaucoup	beaucoup	ADV	_	_	9	advmod	_	_none=|id=s1.u3.w9
+
+# sent_id = 1SB0408_4
+# text = le voilà celle là celle celle de la rentrée
+1	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_none=|id=s1.u4.w0
+2	voilà	voilà	VERB	_	_	0	root	_	id=s1.u4.w1
+3	celle	ce	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	reparandum	_	id=s1.u4.w2
+4	là	là	ADV	_	_	5	acl:relcl	_	_none=|id=s1.u4.w3
+5	celle	ce	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	reparandum	_	id=s1.u4.w4
+6	celle	celle	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	obj	_	id=s1.u4.w5
+7	de	de	ADP	_	_	9	case	_	_none=|id=s1.u4.w6
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	id=s1.u4.w7
+9	rentrée	rentrée	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	id=s1.u4.w8
+
+# sent_id = 1SB0408_5
+# text = octobre
+1	octobre	Octobre	VERB	_	_	0	root	_	_none=|id=s1.u5.w0
+
+# sent_id = 1SB0408_6
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u6.w0
+

@@ -1,0 +1,211 @@
+# sent_id = 1SB0289_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1SB0289_1
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u1.w0
+
+# sent_id = 1SB0289_2
+# text = est ce qu' il y a possibilité de e d' avoir un plan de Turin chez vous
+1	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	id=s1.u2.w0
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u2.w1
+3	qu'	que	SCONJ	_	_	6	mark	_	_none=|id=s1.u2.w2
+4	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	_none=|id=s1.u2.w3
+5	y	y	PRON	_	Person=3|PronType=Prs	6	expl:comp	_	_none=|id=s1.u2.w4
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	id=s1.u2.w5
+7	possibilité	possibilité	NOUN	_	Gender=Fem|Number=Sing	6	obj:lvc	_	id=s1.u2.w6
+8	de	de	ADP	_	_	11	reparandum	_	_none=|id=s1.u2.w7
+9	e	e	CCONJ	_	_	11	reparandum	_	_none=|id=s1.u2.w8
+10	d'	de	ADP	_	_	11	mark	_	_none=|id=s1.u2.w9
+11	avoir	avoir	VERB	_	VerbForm=Inf	7	acl	_	_none=|id=s1.u2.w10
+12	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	id=s1.u2.w11
+13	plan	plan	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	id=s1.u2.w12
+14	de	de	ADP	_	_	15	case	_	id=s1.u2.w13
+15	Turin	Turin	PROPN	_	_	13	nmod	_	id=s1.u2.w14
+16	chez	chez	ADP	_	_	17	case	_	_none=|id=s1.u2.w15
+17	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	11	obl:mod	_	id=s1.u2.w16
+
+# sent_id = 1SB0289_3
+# text = non
+1	non	non	ADV	_	Polarity=Neg	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1SB0289_4
+# text = non il faut aller dans les villes mêmes
+1	non	non	ADV	_	_	3	discourse	_	_none=|id=s1.u4.w0
+2	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_none=|id=s1.u4.w1
+3	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w2
+4	aller	aller	VERB	_	VerbForm=Inf	3	ccomp	_	id=s1.u4.w3
+5	dans	dans	ADP	_	_	7	case	_	id=s1.u4.w4
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	id=s1.u4.w5
+7	villes	ville	NOUN	_	Gender=Fem|Number=Plur	4	obl:arg	_	id=s1.u4.w6
+8	mêmes	même	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	_none=|id=s1.u4.w7
+
+# sent_id = 1SB0289_6
+# text = e ou alors le commander auprès de l' office de tourisme italien à Paris
+1	e	e	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	reparandum	_	_none=|id=s1.u6.w0
+2	ou	ou	CCONJ	_	_	5	cc	_	_none=|id=s1.u6.w1
+3	alors	alors	ADV	_	_	2	fixed	_	id=s1.u6.w2
+4	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_none=|id=s1.u6.w3
+5	commander	commander	VERB	_	VerbForm=Inf	0	root	_	id=s1.u6.w4
+6	auprès	auprès	ADV	_	_	5	advmod	_	_none=|id=s1.u6.w5
+7	de	de	ADP	_	_	9	case	_	_none=|id=s1.u6.w6
+8	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	id=s1.u6.w7
+9	office	office	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_none=|id=s1.u6.w8
+10	de	de	ADP	_	_	11	case	_	_none=|id=s1.u6.w9
+11	tourisme	tourisme	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	id=s1.u6.w10
+12	italien	italien	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_none=|id=s1.u6.w11
+13	à	à	ADP	_	_	14	case	_	id=s1.u6.w12
+14	Paris	Paris	PROPN	_	_	9	nmod	_	_none=|id=s1.u6.w13
+
+# sent_id = 1SB0289_7
+# text = ah d' accord vous avez l' adresse s' il vous plaît
+1	ah	ah	INTJ	_	_	5	discourse	_	_none=|id=s1.u7.w0
+2	d'	de	ADP	_	_	5	dep	_	_none=|id=s1.u7.w1
+3	accord	accord	NOUN	_	Gender=Masc|Number=Sing	2	fixed	_	id=s1.u7.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	id=s1.u7.w3
+5	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u7.w4
+6	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	id=s1.u7.w5
+7	adresse	adresse	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	id=s1.u7.w6
+8	s'	se	SCONJ	_	_	11	mark	_	_none=|id=s1.u7.w7
+9	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl:subj	_	_none=|id=s1.u7.w8
+10	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	11	iobj	_	id=s1.u7.w9
+11	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	discourse	_	id=s1.u7.w10
+
+# sent_id = 1SB0289_8
+# text = voilà
+1	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u8.w0
+
+# sent_id = 1SB0289_9
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u9.w0
+
+# sent_id = 1SB0289_10
+# text = je vous en prie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u10.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u10.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u10.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u10.w3
+
+# sent_id = 1SB0289_11
+# text = il faut juste faire une demande écrite
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	_none=|id=s1.u11.w0
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u11.w1
+3	juste	juste	ADV	_	_	2	advmod	_	_none=|id=s1.u11.w2
+4	faire	faire	VERB	_	VerbForm=Inf	2	ccomp	_	_none=|id=s1.u11.w3
+5	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	id=s1.u11.w4
+6	demande	demande	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	id=s1.u11.w5
+7	écrite	écrit	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	id=s1.u11.w6
+
+# sent_id = 1SB0289_12
+# text = voilà ou leur téléphoner oui oui c' est gratuit en règle générale oui oui
+1	voilà	voilà	VERB	_	_	9	discourse	_	_none=|id=s1.u12.w0
+2	ou	ou	CCONJ	_	_	4	cc	_	id=s1.u12.w1
+3	leur	son	PRON	_	Number=Plur|Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u12.w2
+4	téléphoner	téléphoner	VERB	_	VerbForm=Inf	9	advcl	_	id=s1.u12.w3
+5	oui	oui	INTJ	_	_	4	discourse	_	_none=|id=s1.u12.w4
+6	oui	oui	INTJ	_	_	4	discourse	_	_none=|id=s1.u12.w5
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	_none=|id=s1.u12.w6
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	id=s1.u12.w7
+9	gratuit	gratuit	ADJ	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u12.w8
+10	en	en	ADP	_	_	11	case	_	_none=|id=s1.u12.w9
+11	règle	règle	NOUN	_	Gender=Fem|Number=Sing	9	obl:mod	_	id=s1.u12.w10
+12	générale	général	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	id=s1.u12.w11
+13	oui	oui	INTJ	_	_	4	conj	_	_none=|id=s1.u12.w12
+14	oui	oui	INTJ	_	_	13	conj	_	_none=|id=s1.u12.w13
+
+# sent_id = 1SB0289_13
+# text = c' est gratuit c' est
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_none=|id=s1.u13.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u13.w1
+3	gratuit	gratuit	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u13.w2
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	id=s1.u13.w3
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	id=s1.u13.w4
+
+# sent_id = 1SB0289_14
+# text = il faut envoyer une enveloppe timbrée
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	_none=|id=s1.u14.w0
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u14.w1
+3	envoyer	envoyer	VERB	_	VerbForm=Inf	2	ccomp	_	id=s1.u14.w2
+4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	id=s1.u14.w3
+5	enveloppe	enveloppe	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	id=s1.u14.w4
+6	timbrée	timbré	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	id=s1.u14.w5
+
+# sent_id = 1SB0289_15
+# text = même pas
+1	même	même	ADV	_	_	2	advmod	_	_none=|id=s1.u15.w0
+2	pas	pas	ADV	_	Polarity=Neg	0	root	_	_none=|id=s1.u15.w1
+
+# sent_id = 1SB0289_16
+# text = non même pas
+1	non	non	ADV	_	Polarity=Neg	0	root	_	_none=|id=s1.u16.w0
+2	même	même	ADV	_	_	3	advmod	_	_none=|id=s1.u16.w1
+3	pas	pas	ADV	_	Polarity=Neg	1	advmod	_	_none=|id=s1.u16.w2
+
+# sent_id = 1SB0289_17
+# text = non non
+1	non	non	ADV	_	Polarity=Neg	0	root	_	_none=|id=s1.u17.w0
+2	non	non	ADV	_	Polarity=Neg	1	conj	_	_none=|id=s1.u17.w1
+
+# sent_id = 1SB0289_18
+# text = non bon ben d' accord
+1	non	non	ADV	_	Polarity=Neg	0	root	_	_none=|id=s1.u18.w0
+2	bon	bon	INTJ	_	_	1	fixed	_	_none=|id=s1.u18.w1
+3	ben	ben	INTJ	_	_	1	conj	_	_none=|id=s1.u18.w2
+4	d'	de	ADP	_	_	1	dep	_	_none=|id=s1.u18.w3
+5	accord	accord	NOUN	_	Gender=Masc|Number=Sing	4	fixed	_	id=s1.u18.w4
+
+# sent_id = 1SB0289_19
+# text = non non comme le quand les gens e demandent des renseignements auprès de nous on fait rien payer donc eux c' est le même système
+1	non	non	ADV	_	_	25	discourse	_	_none=|id=s1.u19.w0
+2	non	non	ADV	_	_	16	discourse	_	_none=|id=s1.u19.w1
+3	comme	comme	ADP	_	_	9	mark	_	_none=|id=s1.u19.w2
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	dep	_	_none=|id=s1.u19.w3
+5	quand	quand	SCONJ	_	_	9	mark	_	_none=|id=s1.u19.w4
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	id=s1.u19.w5
+7	gens	gens	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	_none=|id=s1.u19.w6
+8	e	e	PRON	_	Person=3|PronType=Prs	9	iobj	_	_none=|id=s1.u19.w7
+9	demandent	demander	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	id=s1.u19.w8
+10	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	11	det	_	id=s1.u19.w9
+11	renseignements	renseignement	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	id=s1.u19.w10
+12	auprès	auprès	ADV	_	_	9	advmod	_	_none=|id=s1.u19.w11
+13	de	de	ADP	_	_	14	case	_	_none=|id=s1.u19.w12
+14	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	12	obl:arg	_	id=s1.u19.w13
+15	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	16	nsubj	_	_none=|id=s1.u19.w14
+16	fait	faire	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	_none=|id=s1.u19.w15
+17	rien	rien	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	16	obj	_	_none=|id=s1.u19.w16
+18	payer	payer	VERB	_	VerbForm=Inf	16	xcomp	_	id=s1.u19.w17
+19	donc	donc	ADV	_	_	20	advmod	_	_none=|id=s1.u19.w18
+20	eux	lui	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	dislocated	_	id=s1.u19.w19
+21	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	25	nsubj	_	_none=|id=s1.u19.w20
+22	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	id=s1.u19.w21
+23	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_none=|id=s1.u19.w22
+24	même	même	ADJ	_	Gender=Masc|Number=Sing	25	amod	_	_none=|id=s1.u19.w23
+25	système	système	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u19.w24
+
+# sent_id = 1SB0289_20
+# text = le même système
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_none=|id=s1.u20.w0
+2	même	même	ADJ	_	Number=Sing	3	amod	_	_none=|id=s1.u20.w1
+3	système	système	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u20.w2
+
+# sent_id = 1SB0289_21
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u21.w0
+
+# sent_id = 1SB0289_22
+# text = je vous remercie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u22.w0
+2	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	3	obj	_	_none=|id=s1.u22.w1
+3	remercie	remercier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u22.w2
+
+# sent_id = 1SB0289_23
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u23.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u23.w1
+
+# sent_id = 1SB0289_24
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u24.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u24.w1
+

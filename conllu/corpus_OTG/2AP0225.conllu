@@ -1,0 +1,49 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2AP0225_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 2AP0225_1
+# text = je voulais savoir si vous aviez un itinéraire sur e Poitiers la Rochelle oui
+1	je	_	_	_	_	_	_	_	id=s1.u1.w0
+2	voulais	_	_	_	_	_	_	_	id=s1.u1.w1
+3	savoir	_	_	_	_	_	_	_	id=s1.u1.w2
+4	si	_	_	_	_	_	_	_	id=s1.u1.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u1.w4
+6	aviez	_	_	_	_	_	_	_	id=s1.u1.w5
+7	un	_	_	_	_	_	_	_	id=s1.u1.w6
+8	itinéraire	_	_	_	_	_	_	_	id=s1.u1.w7
+9	sur	_	_	_	_	_	_	_	id=s1.u1.w8
+10	e	_	_	_	_	_	_	_	id=s1.u1.w9
+11	Poitiers	_	_	_	_	_	_	_	id=s1.u1.w10
+12	la	_	_	_	_	_	_	_	id=s1.u1.w11
+13	Rochelle	_	_	_	_	_	_	_	id=s1.u1.w12
+14	oui	_	_	_	_	_	_	_	id=s1.u1.w13
+
+# sent_id = 2AP0225_2
+# text = un plan
+1	un	_	_	_	_	_	_	_	id=s1.u2.w0
+2	plan	_	_	_	_	_	_	_	id=s1.u2.w1
+
+# sent_id = 2AP0225_3
+# text = la la Rochelle et Poitiers
+1	la	_	_	_	_	_	_	_	id=s1.u3.w0
+2	la	_	_	_	_	_	_	_	id=s1.u3.w1
+3	Rochelle	_	_	_	_	_	_	_	id=s1.u3.w2
+4	et	_	_	_	_	_	_	_	id=s1.u3.w3
+5	Poitiers	_	_	_	_	_	_	_	id=s1.u3.w4
+
+# sent_id = 2AP0225_4
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u4.w0
+
+# sent_id = 2AP0225_5
+# text = mais je vous en prie au revoir
+1	mais	_	_	_	_	_	_	_	id=s1.u5.w0
+2	je	_	_	_	_	_	_	_	id=s1.u5.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u5.w2
+4	en	_	_	_	_	_	_	_	id=s1.u5.w3
+5	prie	_	_	_	_	_	_	_	id=s1.u5.w4
+6	au	_	_	_	_	_	_	_	id=s1.u5.w5
+7	revoir	_	_	_	_	_	_	_	id=s1.u5.w6
+

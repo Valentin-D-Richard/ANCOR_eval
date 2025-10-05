@@ -1,0 +1,53 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0088_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1SB0088_1
+# text = bonjour est ce que vous avez la liste des écoles de danse de Grenoble
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	est	_	_	_	_	_	_	_	id=s1.u1.w1
+3	ce	_	_	_	_	_	_	_	id=s1.u1.w2
+4	que	_	_	_	_	_	_	_	id=s1.u1.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u1.w4
+6	avez	_	_	_	_	_	_	_	id=s1.u1.w5
+7	la	_	_	_	_	_	_	_	id=s1.u1.w6
+8	liste	_	_	_	_	_	_	_	id=s1.u1.w7
+9	des	_	_	_	_	_	_	_	id=s1.u1.w8
+10	écoles	_	_	_	_	_	_	_	id=s1.u1.w9
+11	de	_	_	_	_	_	_	_	id=s1.u1.w10
+12	danse	_	_	_	_	_	_	_	id=s1.u1.w11
+13	de	_	_	_	_	_	_	_	id=s1.u1.w12
+14	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w13
+
+# sent_id = 1SB0088_2
+# text = c' est à consulter sur un un classeur e sur le classeur voilà si vous voulez vous asseoir vous pouvez hein trouvez une petite place
+1	c'	_	_	_	_	_	_	_	id=s1.u2.w0
+2	est	_	_	_	_	_	_	_	id=s1.u2.w1
+3	à	_	_	_	_	_	_	_	id=s1.u2.w2
+4	consulter	_	_	_	_	_	_	_	id=s1.u2.w3
+5	sur	_	_	_	_	_	_	_	id=s1.u2.w4
+6	un	_	_	_	_	_	_	_	id=s1.u2.w5
+7	un	_	_	_	_	_	_	_	id=s1.u2.w6
+8	classeur	_	_	_	_	_	_	_	id=s1.u2.w7
+9	e	_	_	_	_	_	_	_	id=s1.u2.w8
+10	sur	_	_	_	_	_	_	_	id=s1.u2.w9
+11	le	_	_	_	_	_	_	_	id=s1.u2.w10
+12	classeur	_	_	_	_	_	_	_	id=s1.u2.w11
+13	voilà	_	_	_	_	_	_	_	id=s1.u2.w12
+14	si	_	_	_	_	_	_	_	id=s1.u2.w13
+15	vous	_	_	_	_	_	_	_	id=s1.u2.w14
+16	voulez	_	_	_	_	_	_	_	id=s1.u2.w15
+17	vous	_	_	_	_	_	_	_	id=s1.u2.w16
+18	asseoir	_	_	_	_	_	_	_	id=s1.u2.w17
+19	vous	_	_	_	_	_	_	_	id=s1.u2.w18
+20	pouvez	_	_	_	_	_	_	_	id=s1.u2.w19
+21	hein	_	_	_	_	_	_	_	id=s1.u2.w20
+22	trouvez	_	_	_	_	_	_	_	id=s1.u2.w21
+23	une	_	_	_	_	_	_	_	id=s1.u2.w22
+24	petite	_	_	_	_	_	_	_	id=s1.u2.w23
+25	place	_	_	_	_	_	_	_	id=s1.u2.w24
+
+# sent_id = 1SB0088_3
+# text = 
+

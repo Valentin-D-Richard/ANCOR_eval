@@ -1,0 +1,190 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0137_1
+# text = je voudrais quelques renseignements j' ai fait cet été un stage dans une entreprise e qui a pour le tourisme et le transport
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	voudrais	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	quelques	quelque	DET	_	Number=Plur|PronType=Ind	4	det	_	id=s1.u1.w2
+4	renseignements	renseignement	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	id=s1.u1.w3
+5	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_none=|id=s1.u1.w4
+6	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux:tense	_	_none=|id=s1.u1.w5
+7	fait	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_none=|id=s1.u1.w6
+8	cet	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_none=|id=s1.u1.w7
+9	été	été	NOUN	_	Gender=Masc|Number=Sing	7	obl:mod	_	_none=|id=s1.u1.w8
+10	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_none=|id=s1.u1.w9
+11	stage	stage	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_none=|id=s1.u1.w10
+12	dans	dans	ADP	_	_	14	case	_	id=s1.u1.w11
+13	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	id=s1.u1.w12
+14	entreprise	entreprise	NOUN	_	Gender=Fem|Number=Sing	7	obl:mod	_	id=s1.u1.w13
+15	e	e	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	id=s1.u1.w14
+16	qui	qui	PRON	_	PronType=Rel	17	nsubj	_	_none=|id=s1.u1.w15
+17	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	id=s1.u1.w16
+18	pour	pour	ADP	_	_	20	case	_	_none=|id=s1.u1.w17
+19	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_none=|id=s1.u1.w18
+20	tourisme	tourisme	NOUN	_	Gender=Masc|Number=Sing	17	obl:mod	_	_none=|id=s1.u1.w19
+21	et	et	CCONJ	_	_	23	cc	_	_none=|id=s1.u1.w20
+22	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_none=|id=s1.u1.w21
+23	transport	transport	NOUN	_	Gender=Masc|Number=Sing	20	conj	_	id=s1.u1.w22
+
+# sent_id = 1AP0137_2
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u2.w0
+
+# sent_id = 1AP0137_3
+# text = de en autocar
+1	de	de	ADP	_	_	0	root	_	_none=|id=s1.u3.w0
+2	en	en	ADP	_	_	3	case	_	_none=|id=s1.u3.w1
+3	autocar	autocar	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_none=|id=s1.u3.w2
+
+# sent_id = 1AP0137_4
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u4.w0
+
+# sent_id = 1AP0137_5
+# text = là je dois faire un rapport de stage et je cherche des données sur le tourisme e national voir local de la région Rhône-Alpes où est ce que je pourrais me renseigner
+1	là	là	ADV	_	_	3	advmod	_	_none=|id=s1.u5.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u5.w1
+3	dois	devoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u5.w2
+4	faire	faire	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u5.w3
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_none=|id=s1.u5.w4
+6	rapport	rapport	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_none=|id=s1.u5.w5
+7	de	de	ADP	_	_	8	case	_	_none=|id=s1.u5.w6
+8	stage	stage	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	id=s1.u5.w7
+9	et	et	CCONJ	_	_	11	cc	_	_none=|id=s1.u5.w8
+10	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	id=s1.u5.w9
+11	cherche	chercher	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	id=s1.u5.w10
+12	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	13	det	_	id=s1.u5.w11
+13	données	donnée	NOUN	_	Gender=Fem|Number=Plur	11	obj	_	id=s1.u5.w12
+14	sur	sur	ADP	_	_	16	case	_	id=s1.u5.w13
+15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_none=|id=s1.u5.w14
+16	tourisme	tourisme	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_none=|id=s1.u5.w15
+17	e	e	INTJ	_	_	18	amod	_	_none=|id=s1.u5.w16
+18	national	national	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	_none=|id=s1.u5.w17
+19	voir	voir	VERB	_	VerbForm=Inf	18	conj	_	id=s1.u5.w18
+20	local	local	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	_none=|id=s1.u5.w19
+21	de	de	ADP	_	_	23	case	_	_none=|id=s1.u5.w20
+22	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	id=s1.u5.w21
+23	région	région	NOUN	_	Gender=Fem|Number=Sing	18	conj	_	id=s1.u5.w22
+24	Rhône-Alpes	Rhône-alpes	PROPN	_	_	23	flat:name	_	_none=|id=s1.u5.w23
+25	où	où	PRON	_	PronType=Int	27|27	cue:wh|nmod	_	id=s1.u5.w24|PhraseType=Int
+26	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	acl:relcl	_	id=s1.u5.w25
+27	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	dislocated	_	ClauseType=Int|id=s1.u5.w26
+28	que	que	PRON	_	PronType=Rel	32	obj	_	id=s1.u5.w27
+29	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	30	nsubj	_	id=s1.u5.w28
+30	pourrais	pouvoir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	27	acl:relcl	_	id=s1.u5.w29
+31	me	se	PRON	_	Number=Sing|Person=1|PronType=Prs	32	iobj	_	_none=|id=s1.u5.w30
+32	renseigner	renseigner	VERB	_	VerbForm=Inf	30	xcomp	_	id=s1.u5.w31
+
+# sent_id = 1AP0137_6
+# text = il faudrait voir la hum e
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	_none=|id=s1.u6.w0
+2	faudrait	falloir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u6.w1
+3	voir	voir	VERB	_	VerbForm=Inf	2	ccomp	_	id=s1.u6.w2
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	id=s1.u6.w3
+5	hum	hum	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	id=s1.u6.w4
+6	e	e	NOUN	_	_	5	fixed	_	id=s1.u6.w5
+
+# sent_id = 1AP0137_7
+# text = je ren- je voudrais des des chiffres
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u7.w0
+2	ren-	ren-	VERB	_	_	4	reparandum	_	_none=|id=s1.u7.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	id=s1.u7.w2
+4	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u7.w3
+5	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	6	reparandum	_	id=s1.u7.w4
+6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	id=s1.u7.w5
+7	chiffres	chiffre	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	id=s1.u7.w6
+
+# sent_id = 1AP0137_8
+# text = ouais des statistiques donc il faudrait que vous voyez avec soit la Chambre de Commerce et d' Industrie
+1	ouais	ouais	INTJ	_	_	3	discourse	_	_none=|id=s1.u8.w0
+2	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	3	det	_	id=s1.u8.w1
+3	statistiques	statistique	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_none=|id=s1.u8.w2
+4	donc	donc	ADV	_	_	6	advmod	_	_none=|id=s1.u8.w3
+5	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	_none=|id=s1.u8.w4
+6	faudrait	falloir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_none=|id=s1.u8.w5
+7	que	que	SCONJ	_	_	9	mark	_	_none=|id=s1.u8.w6
+8	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	9	nsubj	_	id=s1.u8.w7
+9	voyez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	ccomp	_	id=s1.u8.w8
+10	avec	avec	ADP	_	_	13	case	_	_none=|id=s1.u8.w9
+11	soit	être	CCONJ	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cc	_	id=s1.u8.w10
+12	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	id=s1.u8.w11
+13	Chambre	Chambre	PROPN	_	_	9	obl:mod	_	id=s1.u8.w12
+14	de	de	ADP	_	_	15	case	_	_none=|id=s1.u8.w13
+15	Commerce	Commerce	PROPN	_	Gender=Masc|Number=Sing	13	nmod	_	id=s1.u8.w14
+16	et	et	CCONJ	_	_	18	cc	_	_none=|id=s1.u8.w15
+17	d'	de	ADP	_	_	18	case	_	_none=|id=s1.u8.w16
+18	Industrie	Industrie	PROPN	_	_	15	conj	_	id=s1.u8.w17
+
+# sent_id = 1AP0137_10
+# text = hum hum
+1	hum	hum	INTJ	_	_	0	root	_	_none=|id=s1.u10.w0
+2	hum	hum	INTJ	_	_	1	fixed	_	_none=|id=s1.u10.w1
+
+# sent_id = 1AP0137_11
+# text = soit e le le le le le la Chambre Touristique et Hôtelière de Grenoble
+1	soit	être	CCONJ	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cc	_	_none=|id=s1.u11.w0
+2	e	e	PRON	_	_	1	reparandum	_	_none=|id=s1.u11.w1
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	dep	_	_none=|id=s1.u11.w2
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	reparandum	_	_none=|id=s1.u11.w3
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	reparandum	_	_none=|id=s1.u11.w4
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	dep	_	_none=|id=s1.u11.w5
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	conj	_	_none=|id=s1.u11.w6
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	id=s1.u11.w7
+9	Chambre	Chambre	PROPN	_	Gender=Fem|Number=Sing	0	root	_	_none=|id=s1.u11.w8
+10	Touristique	Touristique	ADJ	_	Number=Sing	9	amod	_	id=s1.u11.w9
+11	et	et	CCONJ	_	_	12	cc	_	id=s1.u11.w10
+12	Hôtelière	Hôtelière	PROPN	_	Gender=Fem|Number=Sing	10	conj	_	id=s1.u11.w11
+13	de	de	ADP	_	_	14	case	_	_none=|id=s1.u11.w12
+14	Grenoble	Grenoble	PROPN	_	_	9	nmod	_	_none=|id=s1.u11.w13
+
+# sent_id = 1AP0137_12
+# text = e où est ce que ça se se trouve ça ouais d' accord
+1	e	e	INTJ	_	_	4	cc	_	_none=|id=s1.u12.w0
+2	où	où	ADV	_	PronType=Int	4|4	advmod|cue:wh	_	id=s1.u12.w1|PhraseType=Int
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	id=s1.u12.w2
+4	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u12.w3|ClauseType=Int
+5	que	que	SCONJ	_	_	8	mark	_	_none=|id=s1.u12.w4
+6	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	id=s1.u12.w5
+7	se	se	PRON	_	Person=3|PronType=Prs	8	expl:pass	_	_none=|id=s1.u12.w6
+8	se	se	PRON	_	Person=3|PronType=Prs	4	acl:relcl	_	_none=|id=s1.u12.w7
+9	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	fixed	_	id=s1.u12.w8
+10	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	dislocated	_	id=s1.u12.w9
+11	ouais	ouais	INTJ	_	_	8	discourse	_	id=s1.u12.w10
+12	d'	d'	ADP	_	_	13	case	_	_none=|id=s1.u12.w11
+13	accord	accord	NOUN	_	Gender=Masc|Number=Sing	8	discourse	_	id=s1.u12.w12
+
+# sent_id = 1AP0137_13
+# text = je vais vous fournir les coordonnées
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u13.w0
+2	vais	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u13.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u13.w2
+4	fournir	fournir	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u13.w3
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	id=s1.u13.w4
+6	coordonnées	coordonnée	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	id=s1.u13.w5
+
+# sent_id = 1AP0137_14
+# text = voilà
+1	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u14.w0
+
+# sent_id = 1AP0137_15
+# text = merci bien
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u15.w0
+2	bien	bien	ADV	_	_	1	advmod	_	_none=|id=s1.u15.w1
+
+# sent_id = 1AP0137_16
+# text = mais je vous en prie
+1	mais	mais	CCONJ	_	_	5	cc	_	_none=|id=s1.u16.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u16.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	5	iobj	_	_none=|id=s1.u16.w2
+4	en	en	PRON	_	Person=3|PronType=Prs	5	iobj	_	_none=|id=s1.u16.w3
+5	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u16.w4
+
+# sent_id = 1AP0137_17
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u17.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u17.w1
+
+# sent_id = 1AP0137_18
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u18.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u18.w1
+

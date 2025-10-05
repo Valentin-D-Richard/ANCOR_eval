@@ -1,0 +1,28 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0544_0
+# text = 
+
+# sent_id = 1AP0544_1
+# text = une carte une carte de la ville merci je vous remercie
+1	une	_	_	_	_	_	_	_	id=s1.u1.w0
+2	carte	_	_	_	_	_	_	_	id=s1.u1.w1
+3	une	_	_	_	_	_	_	_	id=s1.u1.w2
+4	carte	_	_	_	_	_	_	_	id=s1.u1.w3
+5	de	_	_	_	_	_	_	_	id=s1.u1.w4
+6	la	_	_	_	_	_	_	_	id=s1.u1.w5
+7	ville	_	_	_	_	_	_	_	id=s1.u1.w6
+8	merci	_	_	_	_	_	_	_	id=s1.u1.w7
+9	je	_	_	_	_	_	_	_	id=s1.u1.w8
+10	vous	_	_	_	_	_	_	_	id=s1.u1.w9
+11	remercie	_	_	_	_	_	_	_	id=s1.u1.w10
+
+# sent_id = 1AP0544_2
+# text = 
+
+# sent_id = 1AP0544_3
+# text = je vous en prie
+1	je	_	_	_	_	_	_	_	id=s1.u3.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u3.w1
+3	en	_	_	_	_	_	_	_	id=s1.u3.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u3.w3
+

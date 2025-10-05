@@ -1,0 +1,50 @@
+# sent_id = 1SB0022_0
+# text = monsieur
+1	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1SB0022_1
+# text = madame est ce que vous avez des des cartes e bien imprimées distribuées par les sociétés d' autoroute carte de France
+1	madame	madame	NOUN	_	Gender=Fem|Number=Sing	3	dislocated	_	id=s1.u1.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u1.w1
+3	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	id=s1.u1.w2
+4	que	que	PRON	_	PronType=Rel	6	obj	_	id=s1.u1.w3
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	id=s1.u1.w4
+6	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_none=|id=s1.u1.w5
+7	des	un	DET	de	Definite=Ind|Number=Plur|PronType=Art	8	reparandum	_	id=s1.u1.w6
+8	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	9	det	_	id=s1.u1.w7
+9	cartes	carte	NOUN	_	Gender=Fem|Number=Plur	6	dislocated	_	id=s1.u1.w8
+10	e	e	INTJ	_	_	12	advmod	_	_none=|id=s1.u1.w9
+11	bien	bien	ADV	_	_	12	advmod	_	_none=|id=s1.u1.w10
+12	imprimées	imprimer	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	9	acl	_	id=s1.u1.w11
+13	distribuées	distribuer	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	9	acl	_	id=s1.u1.w12
+14	par	par	ADP	_	_	16	case	_	_none=|id=s1.u1.w13
+15	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	16	det	_	id=s1.u1.w14
+16	sociétés	société	NOUN	_	Gender=Fem|Number=Plur	13	obl:mod	_	id=s1.u1.w15
+17	d'	de	ADP	_	_	18	case	_	_none=|id=s1.u1.w16
+18	autoroute	autoroute	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	id=s1.u1.w17
+19	carte	carte	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	id=s1.u1.w18
+20	de	de	ADP	_	_	21	case	_	_none=|id=s1.u1.w19
+21	France	France	PROPN	_	_	19	nmod	_	id=s1.u1.w20
+
+# sent_id = 1SB0022_2
+# text = " bison futé " guide des autoroutes
+1	bison	bison	PRON	_	_	3	nsubj	_	_none=|id=s1.u2.w1
+2	futé	êre	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_none=|id=s1.u2.w2
+3	guide	guide	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u2.w4
+4	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	det	_	id=s1.u2.w5
+5	autoroutes	autoroute	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	id=s1.u2.w6
+
+# sent_id = 1SB0022_3
+# text = d' accord ok merci
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u3.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u3.w1
+3	ok	ok	INTJ	_	_	1	obj	_	_none=|id=s1.u3.w2
+4	merci	merci	INTJ	_	_	1	obj	_	_none=|id=s1.u3.w3
+
+# sent_id = 1SB0022_4
+# text = je vous en prie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u4.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u4.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u4.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w3
+

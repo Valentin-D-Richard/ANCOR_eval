@@ -1,0 +1,29 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0531_0
+# text = bonjour un plan du tram il faut le demander là bas
+1	bonjour	bonjour	NOUN	_	_	3	discourse	_	_none=|id=s1.u0.w0
+2	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_none=|id=s1.u0.w1
+3	plan	plan	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w2
+4	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_none=|id=s1.u0.w3
+5	tram	tram	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	id=s1.u0.w4
+6	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	_none=|id=s1.u0.w5
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	id=s1.u0.w6
+8	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_none=|id=s1.u0.w7
+9	demander	demander	VERB	_	VerbForm=Inf	7	ccomp	_	id=s1.u0.w8
+10	là	là	ADV	_	_	7	advmod	_	_none=|id=s1.u0.w9
+11	bas	bas	NOUN	_	Gender=Masc|Number=Sing	10	fixed	_	id=s1.u0.w10
+
+# sent_id = 1AG0531_1
+# text = là bas
+1	là	là	ADV	_	_	0	root	_	_none=|id=s1.u1.w0
+2	bas	bas	INTJ	_	_	1	fixed	_	id=s1.u1.w1
+
+# sent_id = 1AG0531_2
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u2.w0
+
+# sent_id = 1AG0531_3
+# text = de rien
+1	de	de	ADP	_	_	2	case	_	_none=|id=s1.u3.w0
+2	rien	rien	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	0	root	_	_none=|id=s1.u3.w1
+

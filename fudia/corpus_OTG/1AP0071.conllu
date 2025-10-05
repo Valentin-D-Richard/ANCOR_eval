@@ -1,0 +1,83 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0071_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0071_1
+# text = bonjour e je suis nouvelle arrivante à Grenoble je viens de Bretagne
+1	bonjour	bonjour	INTJ	_	_	5	discourse	_	_none=|id=s1.u1.w0
+2	e	e	CCONJ	_	_	5	cc	_	_none=|id=s1.u1.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u1.w2
+4	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	_	id=s1.u1.w3
+5	nouvelle	nouvelle	ADJ	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u1.w4
+6	arrivante	arrivant	NOUN	_	Gender=Fem|Number=Sing	5	advcl	_	id=s1.u1.w5
+7	à	à	ADP	_	_	8	case	_	id=s1.u1.w6
+8	Grenoble	Grenoble	PROPN	_	_	6	nmod	_	_none=|id=s1.u1.w7
+9	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	id=s1.u1.w8
+10	viens	venir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	id=s1.u1.w9
+11	de	de	ADP	_	_	12	case	_	_none=|id=s1.u1.w10
+12	Bretagne	bretagne	PUNCT	_	_	10	obl:arg	_	_none=|id=s1.u1.w11
+
+# sent_id = 1AP0071_2
+# text = hum
+1	hum	hum	INTJ	_	_	0	root	_	_none=|id=s1.u2.w0
+
+# sent_id = 1AP0071_3
+# text = et la mairie m' a envoyé ici elle m' a dit qu' on avait le droit à une e il nous faut une mallette avec plein d' indications sur le quartier et le plan
+1	et	et	CCONJ	_	_	6	cc	_	_none=|id=s1.u3.w0
+2	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	id=s1.u3.w1
+3	mairie	mairie	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_none=|id=s1.u3.w2
+4	m'	le	PRON	_	Number=Sing|Person=1|PronType=Prs	6	obj	_	_none=|id=s1.u3.w3
+5	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_none=|id=s1.u3.w4
+6	envoyé	envoyer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u3.w5
+7	ici	ici	ADV	_	_	6	advmod	_	_none=|id=s1.u3.w6
+8	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	id=s1.u3.w7
+9	m'	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	11	iobj	_	id=s1.u3.w8
+10	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:tense	_	id=s1.u3.w9
+11	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	id=s1.u3.w10
+12	qu'	que	SCONJ	_	_	14	mark	_	_none=|id=s1.u3.w11
+13	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	_none=|id=s1.u3.w12
+14	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	ccomp	_	_none=|id=s1.u3.w13
+15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_none=|id=s1.u3.w14
+16	droit	droit	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	_none=|id=s1.u3.w15
+17	à	à	ADP	_	_	19	case	_	_none=|id=s1.u3.w16
+18	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	reparandum	_	id=s1.u3.w17
+19	e	e	NOUN	_	_	16	nmod	_	id=s1.u3.w18
+20	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	expl:subj	_	id=s1.u3.w19
+21	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	22	iobj	_	id=s1.u3.w20
+22	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	id=s1.u3.w21
+23	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	id=s1.u3.w22
+24	mallette	mallette	NOUN	_	Gender=Fem|Number=Sing	22	obj	_	id=s1.u3.w23
+25	avec	avec	ADP	_	_	28	case	_	_none=|id=s1.u3.w24
+26	plein	plein	ADV	_	_	28	advmod	_	_none=|id=s1.u3.w25
+27	d'	d'	ADP	_	_	26	obl:arg	_	id=s1.u3.w26
+28	indications	indication	NOUN	_	Gender=Fem|Number=Plur	24	nmod	_	id=s1.u3.w27
+29	sur	sur	ADP	_	_	31	case	_	_none=|id=s1.u3.w28
+30	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_none=|id=s1.u3.w29
+31	quartier	quartier	NOUN	_	Gender=Masc|Number=Sing	28	nmod	_	_none=|id=s1.u3.w30
+32	et	et	CCONJ	_	_	34	cc	_	id=s1.u3.w31
+33	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	id=s1.u3.w32
+34	plan	plan	NOUN	_	Gender=Masc|Number=Sing	31	conj	_	id=s1.u3.w33
+
+# sent_id = 1AP0071_4
+# text = c' est à la TAG que pouvez vous pouvez la retirer là bas en face je vous en prie
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	id=s1.u4.w0
+2	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w1
+3	à	à	ADP	_	_	5	case	_	_none=|id=s1.u4.w2
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	id=s1.u4.w3
+5	TAG	tag	PROPN	_	Gender=Fem|Number=Sing	2	obl:arg	_	id=s1.u4.w4
+6	que	que	SCONJ	_	_	9	mark	_	_none=|id=s1.u4.w5
+7	pouvez	pouvoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	reparandum	_	_none=|id=s1.u4.w6
+8	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	9	nsubj	_	id=s1.u4.w7
+9	pouvez	pouvoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	advcl:cleft	_	_none=|id=s1.u4.w8
+10	la	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	id=s1.u4.w9
+11	retirer	retirer	VERB	_	VerbForm=Inf	9	xcomp	_	id=s1.u4.w10
+12	là	là	ADV	_	_	11	advmod	_	_none=|id=s1.u4.w11
+13	bas	bas	ADJ	_	Gender=Masc|Number=Sing	12	fixed	_	id=s1.u4.w12
+14	en	en	ADP	_	_	15	case	_	_none=|id=s1.u4.w13
+15	face	face	NOUN	_	Gender=Fem|Number=Sing	11	obl:mod	_	id=s1.u4.w14
+16	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_none=|id=s1.u4.w15
+17	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	19	expl:comp	_	_none=|id=s1.u4.w16
+18	en	en	PRON	_	Person=3|PronType=Prs	19	iobj	_	_none=|id=s1.u4.w17
+19	prie	prire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	discourse	_	_none=|id=s1.u4.w18
+

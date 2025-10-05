@@ -1,0 +1,200 @@
+# sent_id = 1PF0445_0
+# text = bonjour j' aimerais savoir où se trouve l' agence France Télécom la plus proche
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u0.w0
+2	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u0.w1
+3	aimerais	aimer	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u0.w2
+4	savoir	savoir	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u0.w3
+5	où	où	PRON	_	PronType=Rel	7	obl:mod	_	id=s1.u0.w4
+6	se	se	PRON	_	Person=3|PronType=Prs	7	expl:pass	_	id=s1.u0.w5
+7	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	id=s1.u0.w6
+8	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	id=s1.u0.w7
+9	agence	agence	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	id=s1.u0.w8
+10	France	France	PROPN	_	_	9	nmod:appos	_	id=s1.u0.w9
+11	Télécom	Télécom	PROPN	_	_	10	flat:name	_	_none=|id=s1.u0.w10
+12	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_none=|id=s1.u0.w11
+13	plus	plus	ADV	_	_	14	advmod	_	_none=|id=s1.u0.w12
+14	proche	proche	ADJ	_	Gender=Fem|Number=Sing	7	advmod	_	_none=|id=s1.u0.w13
+
+# sent_id = 1PF0445_2
+# text = dix boulevard Jean Pain
+1	dix	dix	ADJ	_	Number=Plur	2	amod	_	_none=|id=s1.u2.w0
+2	boulevard	boulevard	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u2.w1
+3	Jean	Jean	PROPN	_	_	2	nmod:appos	_	_none=|id=s1.u2.w2
+4	Pain	Pain	PROPN	_	_	3	flat:name	_	id=s1.u2.w3
+
+# sent_id = 1PF0445_3
+# text = c' est où
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	id=s1.u3.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u3.w1
+3	où	où	PRON	_	PronType=Rel	0	root	_	_none=|id=s1.u3.w2
+
+# sent_id = 1PF0445_4
+# text = en face de l' hôtel après l' hôtel de ville
+1	en	en	ADP	_	_	2	case	_	_none=|id=s1.u4.w0
+2	face	face	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u4.w1
+3	de	de	ADP	_	_	5	case	_	_none=|id=s1.u4.w2
+4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	_none=|id=s1.u4.w3
+5	hôtel	hôtel	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	id=s1.u4.w4
+6	après	après	ADP	_	_	8	case	_	_none=|id=s1.u4.w5
+7	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	_none=|id=s1.u4.w6
+8	hôtel	hôtel	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	id=s1.u4.w7
+9	de	de	ADP	_	_	10	case	_	_none=|id=s1.u4.w8
+10	ville	ville	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	id=s1.u4.w9
+
+# sent_id = 1PF0445_5
+# text = holala c- c' est et il y a Europôle il y en a pas une par hasard
+1	holala	holala	INTJ	_	_	4	discourse	_	_none=|id=s1.u5.w0
+2	c-	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_none=|id=s1.u5.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_none=|id=s1.u5.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	reparandum	_	_none=|id=s1.u5.w3
+5	et	et	CCONJ	_	_	8	cc	_	_none=|id=s1.u5.w4
+6	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl:subj	_	_none=|id=s1.u5.w5
+7	y	y	PRON	_	Person=3|PronType=Prs	8	expl:comp	_	_none=|id=s1.u5.w6
+8	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	reparandum	_	id=s1.u5.w7
+9	Europôle	Europôle	PROPN	_	_	13	dislocated	_	id=s1.u5.w8
+10	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	expl:subj	_	_none=|id=s1.u5.w9
+11	y	y	PRON	_	Person=3|PronType=Prs	13	expl:comp	_	id=s1.u5.w10
+12	en	en	PRON	_	Person=3|PronType=Prs	15	nmod	_	id=s1.u5.w11
+13	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u5.w12
+14	pas	pas	ADV	_	Polarity=Neg	13	advmod	_	id=s1.u5.w13
+15	une	un	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Ind	13	obj	_	id=s1.u5.w14
+16	par	par	ADP	_	_	17	case	_	_none=|id=s1.u5.w15
+17	hasard	hasard	NOUN	_	Gender=Masc|Number=Sing	13	obl:mod	_	id=s1.u5.w16
+
+# sent_id = 1PF0445_6
+# text = à Europôle e j' ai aucune idée je crois pas mais je peux pas vous l' affirmer
+1	à	à	ADP	_	_	2	case	_	_none=|id=s1.u6.w0
+2	Europôle	Europôle	PROPN	_	_	9	obl:mod	_	_none=|id=s1.u6.w1
+3	e	e	CCONJ	_	_	5	cc	_	_none=|id=s1.u6.w2
+4	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u6.w3
+5	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_none=|id=s1.u6.w4
+6	aucune	aucun	DET	_	Gender=Fem|Number=Sing|PronType=Neg	7	det	_	_none=|id=s1.u6.w5
+7	idée	idée	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	id=s1.u6.w6
+8	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	id=s1.u6.w7
+9	crois	croire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u6.w8
+10	pas	pas	ADV	_	_	9	advmod	_	_none=|id=s1.u6.w9
+11	mais	mais	CCONJ	_	_	13	cc	_	_none=|id=s1.u6.w10
+12	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_none=|id=s1.u6.w11
+13	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	conj	_	_none=|id=s1.u6.w12
+14	pas	pas	ADV	_	Polarity=Neg	13	advmod	_	_none=|id=s1.u6.w13
+15	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	17	iobj	_	id=s1.u6.w14
+16	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	17	obj	_	id=s1.u6.w15
+17	affirmer	affirmer	VERB	_	VerbForm=Inf	13	xcomp	_	id=s1.u6.w16
+
+# sent_id = 1PF0445_7
+# text = oui e c' est vers l' hôtel de ville
+1	oui	oui	INTJ	_	_	4	discourse	_	_none=|id=s1.u7.w0
+2	e	e	CCONJ	_	_	1	cc	_	_none=|id=s1.u7.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	id=s1.u7.w2
+4	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u7.w3
+5	vers	vers	ADP	_	_	7	case	_	_none=|id=s1.u7.w4
+6	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	_none=|id=s1.u7.w5
+7	hôtel	hôtel	NOUN	_	Gender=Masc|Number=Sing	4	obl:arg	_	_none=|id=s1.u7.w6
+8	de	de	ADP	_	_	9	case	_	_none=|id=s1.u7.w7
+9	ville	ville	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	id=s1.u7.w8
+
+# sent_id = 1PF0445_8
+# text = ben vous êtes moins loin de l' hôtel de ville que de la gare hein
+1	ben	ben	INTJ	_	_	3	discourse	_	_none=|id=s1.u8.w0
+2	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	id=s1.u8.w1
+3	êtes	être	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u8.w2
+4	moins	moins	ADV	_	_	5	advmod	_	_none=|id=s1.u8.w3
+5	loin	loin	ADV	_	_	3	advmod	_	_none=|id=s1.u8.w4
+6	de	de	ADP	_	_	8	case	_	_none=|id=s1.u8.w5
+7	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	_none=|id=s1.u8.w6
+8	hôtel	hôtel	NOUN	_	Gender=Masc|Number=Sing	5	obl:arg	_	_none=|id=s1.u8.w7
+9	de	de	ADP	_	_	10	case	_	_none=|id=s1.u8.w8
+10	ville	ville	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	id=s1.u8.w9
+11	que	que	SCONJ	_	_	14	case	_	_none=|id=s1.u8.w10
+12	de	de	ADP	_	_	14	case	_	_none=|id=s1.u8.w11
+13	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	id=s1.u8.w12
+14	gare	gare	NOUN	_	Gender=Fem|Number=Sing	8	conj	_	id=s1.u8.w13
+15	hein	hein	INTJ	_	_	3	discourse	_	_none=|id=s1.u8.w14
+
+# sent_id = 1PF0445_9
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u9.w0
+
+# sent_id = 1PF0445_10
+# text = l' hôtel de ville e
+1	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u10.w0
+2	hôtel	hôtel	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u10.w1
+3	de	de	ADP	_	_	4	case	_	_none=|id=s1.u10.w2
+4	ville	ville	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	id=s1.u10.w3
+5	e	e	CCONJ	_	_	2	cc	_	_none=|id=s1.u10.w4
+
+# sent_id = 1PF0445_11
+# text = je prends le tram là et puis ouais je vais à pied
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	id=s1.u11.w0
+2	prends	prendre	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u11.w1
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	id=s1.u11.w2
+4	tram	tram	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_none=|id=s1.u11.w3
+5	là	là	ADV	_	_	2	advmod	_	_none=|id=s1.u11.w4
+6	et	et	CCONJ	_	_	10	cc	_	_none=|id=s1.u11.w5
+7	puis	puis	CCONJ	_	_	6	fixed	_	id=s1.u11.w6
+8	ouais	ouais	INTJ	_	_	10	discourse	_	_none=|id=s1.u11.w7
+9	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_none=|id=s1.u11.w8
+10	vais	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	id=s1.u11.w9
+11	à	à	ADP	_	_	12	case	_	_none=|id=s1.u11.w10
+12	pied	pied	NOUN	_	Gender=Masc|Number=Plur	10	obl:mod	_	_none=|id=s1.u11.w11
+
+# sent_id = 1PF0445_13
+# text = là vous allez à pieds là
+1	là	là	ADV	_	_	3	advmod	_	_none=|id=s1.u13.w0
+2	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	id=s1.u13.w1
+3	allez	aller	VERB	ETRE	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u13.w2
+4	à	à	ADP	_	_	5	case	_	_none=|id=s1.u13.w3
+5	pieds	pied	NOUN	_	Gender=Masc|Number=Plur	3	obl:mod	_	id=s1.u13.w4
+6	là	là	ADV	_	_	3	advmod	_	_none=|id=s1.u13.w5
+
+# sent_id = 1PF0445_14
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u14.w0
+
+# sent_id = 1PF0445_15
+# text = c' est vous voyez la place de Verdun
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	id=s1.u15.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	reparandum	_	id=s1.u15.w1
+3	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	id=s1.u15.w2
+4	voyez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u15.w3
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	id=s1.u15.w4
+6	place	place	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	id=s1.u15.w5
+7	de	de	ADP	_	_	8	case	_	_none=|id=s1.u15.w6
+8	Verdun	Verdun	PROPN	_	_	6	nmod	_	id=s1.u15.w7
+
+# sent_id = 1PF0445_16
+# text = ouais
+1	ouais	ouais	INTJ	_	_	0	root	_	_none=|id=s1.u16.w0
+
+# sent_id = 1PF0445_17
+# text = le rectorat c' est à côté du rectorat
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u17.w0
+2	rectorat	rectorat	NOUN	_	Gender=Masc|Number=Sing	4	dislocated	_	_none=|id=s1.u17.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	id=s1.u17.w2
+4	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u17.w3
+5	à	à	ADP	_	_	6	case	_	_none=|id=s1.u17.w4
+6	côté	côté	NOUN	_	Gender=Masc|Number=Sing	4	obl:arg	_	id=s1.u17.w5
+7	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	id=s1.u17.w6
+8	rectorat	rectorat	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	id=s1.u17.w7
+
+# sent_id = 1PF0445_18
+# text = à côté du rectorat ouais ben j- e
+1	à	à	ADP	_	_	2	case	_	_none=|id=s1.u18.w0
+2	côté	côté	NOUN	_	Gender=Masc|Number=Sing	8	obl:mod	_	_none=|id=s1.u18.w1
+3	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_none=|id=s1.u18.w2
+4	rectorat	rectorat	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_none=|id=s1.u18.w3
+5	ouais	ouais	INTJ	_	_	4	discourse	_	_none=|id=s1.u18.w4
+6	ben	ben	INTJ	_	_	4	discourse	_	_none=|id=s1.u18.w5
+7	j-	il	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_none=|id=s1.u18.w6
+8	e	êre	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u18.w7
+
+# sent_id = 1PF0445_19
+# text = du rectorat ouais dans le grand bâtiment
+1	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u19.w0
+2	rectorat	rectorat	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u19.w1
+3	ouais	ouais	INTJ	_	_	2	discourse	_	_none=|id=s1.u19.w2
+4	dans	dans	ADP	_	_	7	case	_	_none=|id=s1.u19.w3
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_none=|id=s1.u19.w4
+6	grand	grand	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_none=|id=s1.u19.w5
+7	bâtiment	bâtiment	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_none=|id=s1.u19.w6
+

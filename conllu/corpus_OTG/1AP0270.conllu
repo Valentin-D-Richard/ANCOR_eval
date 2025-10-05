@@ -1,0 +1,38 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0270_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AP0270_1
+# text = est ce que je pourrais avoir un plan s' il vous plaît
+1	est	_	_	_	_	_	_	_	id=s1.u1.w0
+2	ce	_	_	_	_	_	_	_	id=s1.u1.w1
+3	que	_	_	_	_	_	_	_	id=s1.u1.w2
+4	je	_	_	_	_	_	_	_	id=s1.u1.w3
+5	pourrais	_	_	_	_	_	_	_	id=s1.u1.w4
+6	avoir	_	_	_	_	_	_	_	id=s1.u1.w5
+7	un	_	_	_	_	_	_	_	id=s1.u1.w6
+8	plan	_	_	_	_	_	_	_	id=s1.u1.w7
+9	s'	_	_	_	_	_	_	_	id=s1.u1.w8
+10	il	_	_	_	_	_	_	_	id=s1.u1.w9
+11	vous	_	_	_	_	_	_	_	id=s1.u1.w10
+12	plaît	_	_	_	_	_	_	_	id=s1.u1.w11
+
+# sent_id = 1AP0270_2
+# text = bien sûr
+1	bien	_	_	_	_	_	_	_	id=s1.u2.w0
+2	sûr	_	_	_	_	_	_	_	id=s1.u2.w1
+
+# sent_id = 1AP0270_3
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1AP0270_4
+# text = mais je vous en prie madame
+1	mais	_	_	_	_	_	_	_	id=s1.u4.w0
+2	je	_	_	_	_	_	_	_	id=s1.u4.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u4.w2
+4	en	_	_	_	_	_	_	_	id=s1.u4.w3
+5	prie	_	_	_	_	_	_	_	id=s1.u4.w4
+6	madame	_	_	_	_	_	_	_	id=s1.u4.w5
+

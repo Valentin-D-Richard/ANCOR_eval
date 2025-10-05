@@ -1,0 +1,49 @@
+# sent_id = 1SB0088_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1SB0088_1
+# text = bonjour est ce que vous avez la liste des écoles de danse de Grenoble
+1	bonjour	bonjour	NOUN	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u1.w1
+3	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u1.w2
+4	que	que	SCONJ	_	_	6	mark	_	_none=|id=s1.u1.w3
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_none=|id=s1.u1.w4
+6	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_none=|id=s1.u1.w5
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	id=s1.u1.w6
+8	liste	liste	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	id=s1.u1.w7
+9	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	10	det	_	id=s1.u1.w8
+10	écoles	école	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	id=s1.u1.w9
+11	de	de	ADP	_	_	12	case	_	id=s1.u1.w10
+12	danse	danse	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	id=s1.u1.w11
+13	de	de	ADP	_	_	14	case	_	_none=|id=s1.u1.w12
+14	Grenoble	Grenoble	PROPN	_	_	10	nmod	_	_none=|id=s1.u1.w13
+
+# sent_id = 1SB0088_2
+# text = c' est à consulter sur un un classeur e sur le classeur voilà si vous voulez vous asseoir vous pouvez hein trouvez une petite place
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	id=s1.u2.w0
+2	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w1
+3	à	à	ADP	_	_	4	mark	_	_none=|id=s1.u2.w2
+4	consulter	consulter	VERB	_	VerbForm=Inf	2	ccomp	_	id=s1.u2.w3
+5	sur	sur	ADP	_	_	8	case	_	_none=|id=s1.u2.w4
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	reparandum	_	_none=|id=s1.u2.w5
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_none=|id=s1.u2.w6
+8	classeur	classeur	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_none=|id=s1.u2.w7
+9	e	e	CCONJ	_	_	12	cc	_	_none=|id=s1.u2.w8
+10	sur	sur	ADP	_	_	12	case	_	_none=|id=s1.u2.w9
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_none=|id=s1.u2.w10
+12	classeur	classeur	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	id=s1.u2.w11
+13	voilà	voilà	VERB	_	_	20	discourse	_	_none=|id=s1.u2.w12
+14	si	si	SCONJ	_	_	16	mark	_	_none=|id=s1.u2.w13
+15	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	16	nsubj	_	_none=|id=s1.u2.w14
+16	voulez	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	20	advcl	_	_none=|id=s1.u2.w15
+17	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	18	obj	_	id=s1.u2.w16
+18	asseoir	asseoir	VERB	_	VerbForm=Inf	16	xcomp	_	_none=|id=s1.u2.w17
+19	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	20	nsubj	_	_none=|id=s1.u2.w18
+20	pouvez	pouvoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	22	reparandum	_	_none=|id=s1.u2.w19
+21	hein	hein	INTJ	_	_	22	discourse	_	_none=|id=s1.u2.w20
+22	trouvez	trouver	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	ccomp	_	id=s1.u2.w21
+23	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	25	det	_	id=s1.u2.w22
+24	petite	petit	ADJ	_	Gender=Fem|Number=Sing	25	amod	_	id=s1.u2.w23
+25	place	place	NOUN	_	Gender=Fem|Number=Sing	22	obj	_	id=s1.u2.w24
+

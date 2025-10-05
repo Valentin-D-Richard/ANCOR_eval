@@ -1,0 +1,196 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0137_0
+# text = 
+
+# sent_id = 1AP0137_1
+# text = je voudrais quelques renseignements j' ai fait cet été un stage dans une entreprise e qui a pour le tourisme et le transport
+1	je	_	_	_	_	_	_	_	id=s1.u1.w0
+2	voudrais	_	_	_	_	_	_	_	id=s1.u1.w1
+3	quelques	_	_	_	_	_	_	_	id=s1.u1.w2
+4	renseignements	_	_	_	_	_	_	_	id=s1.u1.w3
+5	j'	_	_	_	_	_	_	_	id=s1.u1.w4
+6	ai	_	_	_	_	_	_	_	id=s1.u1.w5
+7	fait	_	_	_	_	_	_	_	id=s1.u1.w6
+8	cet	_	_	_	_	_	_	_	id=s1.u1.w7
+9	été	_	_	_	_	_	_	_	id=s1.u1.w8
+10	un	_	_	_	_	_	_	_	id=s1.u1.w9
+11	stage	_	_	_	_	_	_	_	id=s1.u1.w10
+12	dans	_	_	_	_	_	_	_	id=s1.u1.w11
+13	une	_	_	_	_	_	_	_	id=s1.u1.w12
+14	entreprise	_	_	_	_	_	_	_	id=s1.u1.w13
+15	e	_	_	_	_	_	_	_	id=s1.u1.w14
+16	qui	_	_	_	_	_	_	_	id=s1.u1.w15
+17	a	_	_	_	_	_	_	_	id=s1.u1.w16
+18	pour	_	_	_	_	_	_	_	id=s1.u1.w17
+19	le	_	_	_	_	_	_	_	id=s1.u1.w18
+20	tourisme	_	_	_	_	_	_	_	id=s1.u1.w19
+21	et	_	_	_	_	_	_	_	id=s1.u1.w20
+22	le	_	_	_	_	_	_	_	id=s1.u1.w21
+23	transport	_	_	_	_	_	_	_	id=s1.u1.w22
+
+# sent_id = 1AP0137_2
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u2.w0
+
+# sent_id = 1AP0137_3
+# text = de en autocar
+1	de	_	_	_	_	_	_	_	id=s1.u3.w0
+2	en	_	_	_	_	_	_	_	id=s1.u3.w1
+3	autocar	_	_	_	_	_	_	_	id=s1.u3.w2
+
+# sent_id = 1AP0137_4
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u4.w0
+
+# sent_id = 1AP0137_5
+# text = là je dois faire un rapport de stage et je cherche des données sur le tourisme e national voir local de la région Rhône-Alpes où est ce que je pourrais me renseigner
+1	là	_	_	_	_	_	_	_	id=s1.u5.w0
+2	je	_	_	_	_	_	_	_	id=s1.u5.w1
+3	dois	_	_	_	_	_	_	_	id=s1.u5.w2
+4	faire	_	_	_	_	_	_	_	id=s1.u5.w3
+5	un	_	_	_	_	_	_	_	id=s1.u5.w4
+6	rapport	_	_	_	_	_	_	_	id=s1.u5.w5
+7	de	_	_	_	_	_	_	_	id=s1.u5.w6
+8	stage	_	_	_	_	_	_	_	id=s1.u5.w7
+9	et	_	_	_	_	_	_	_	id=s1.u5.w8
+10	je	_	_	_	_	_	_	_	id=s1.u5.w9
+11	cherche	_	_	_	_	_	_	_	id=s1.u5.w10
+12	des	_	_	_	_	_	_	_	id=s1.u5.w11
+13	données	_	_	_	_	_	_	_	id=s1.u5.w12
+14	sur	_	_	_	_	_	_	_	id=s1.u5.w13
+15	le	_	_	_	_	_	_	_	id=s1.u5.w14
+16	tourisme	_	_	_	_	_	_	_	id=s1.u5.w15
+17	e	_	_	_	_	_	_	_	id=s1.u5.w16
+18	national	_	_	_	_	_	_	_	id=s1.u5.w17
+19	voir	_	_	_	_	_	_	_	id=s1.u5.w18
+20	local	_	_	_	_	_	_	_	id=s1.u5.w19
+21	de	_	_	_	_	_	_	_	id=s1.u5.w20
+22	la	_	_	_	_	_	_	_	id=s1.u5.w21
+23	région	_	_	_	_	_	_	_	id=s1.u5.w22
+24	Rhône-Alpes	_	_	_	_	_	_	_	id=s1.u5.w23
+25	où	_	_	_	_	_	_	_	id=s1.u5.w24
+26	est	_	_	_	_	_	_	_	id=s1.u5.w25
+27	ce	_	_	_	_	_	_	_	id=s1.u5.w26
+28	que	_	_	_	_	_	_	_	id=s1.u5.w27
+29	je	_	_	_	_	_	_	_	id=s1.u5.w28
+30	pourrais	_	_	_	_	_	_	_	id=s1.u5.w29
+31	me	_	_	_	_	_	_	_	id=s1.u5.w30
+32	renseigner	_	_	_	_	_	_	_	id=s1.u5.w31
+
+# sent_id = 1AP0137_6
+# text = il faudrait voir la hum e
+1	il	_	_	_	_	_	_	_	id=s1.u6.w0
+2	faudrait	_	_	_	_	_	_	_	id=s1.u6.w1
+3	voir	_	_	_	_	_	_	_	id=s1.u6.w2
+4	la	_	_	_	_	_	_	_	id=s1.u6.w3
+5	hum	_	_	_	_	_	_	_	id=s1.u6.w4
+6	e	_	_	_	_	_	_	_	id=s1.u6.w5
+
+# sent_id = 1AP0137_7
+# text = je ren- je voudrais des des chiffres
+1	je	_	_	_	_	_	_	_	id=s1.u7.w0
+2	ren-	_	_	_	_	_	_	_	id=s1.u7.w1
+3	je	_	_	_	_	_	_	_	id=s1.u7.w2
+4	voudrais	_	_	_	_	_	_	_	id=s1.u7.w3
+5	des	_	_	_	_	_	_	_	id=s1.u7.w4
+6	des	_	_	_	_	_	_	_	id=s1.u7.w5
+7	chiffres	_	_	_	_	_	_	_	id=s1.u7.w6
+
+# sent_id = 1AP0137_8
+# text = ouais des statistiques donc il faudrait que vous voyez avec soit la Chambre de Commerce et d' Industrie
+1	ouais	_	_	_	_	_	_	_	id=s1.u8.w0
+2	des	_	_	_	_	_	_	_	id=s1.u8.w1
+3	statistiques	_	_	_	_	_	_	_	id=s1.u8.w2
+4	donc	_	_	_	_	_	_	_	id=s1.u8.w3
+5	il	_	_	_	_	_	_	_	id=s1.u8.w4
+6	faudrait	_	_	_	_	_	_	_	id=s1.u8.w5
+7	que	_	_	_	_	_	_	_	id=s1.u8.w6
+8	vous	_	_	_	_	_	_	_	id=s1.u8.w7
+9	voyez	_	_	_	_	_	_	_	id=s1.u8.w8
+10	avec	_	_	_	_	_	_	_	id=s1.u8.w9
+11	soit	_	_	_	_	_	_	_	id=s1.u8.w10
+12	la	_	_	_	_	_	_	_	id=s1.u8.w11
+13	Chambre	_	_	_	_	_	_	_	id=s1.u8.w12
+14	de	_	_	_	_	_	_	_	id=s1.u8.w13
+15	Commerce	_	_	_	_	_	_	_	id=s1.u8.w14
+16	et	_	_	_	_	_	_	_	id=s1.u8.w15
+17	d'	_	_	_	_	_	_	_	id=s1.u8.w16
+18	Industrie	_	_	_	_	_	_	_	id=s1.u8.w17
+
+# sent_id = 1AP0137_9
+# text = 
+
+# sent_id = 1AP0137_10
+# text = hum hum
+1	hum	_	_	_	_	_	_	_	id=s1.u10.w0
+2	hum	_	_	_	_	_	_	_	id=s1.u10.w1
+
+# sent_id = 1AP0137_11
+# text = soit e le le le le le la Chambre Touristique et Hôtelière de Grenoble
+1	soit	_	_	_	_	_	_	_	id=s1.u11.w0
+2	e	_	_	_	_	_	_	_	id=s1.u11.w1
+3	le	_	_	_	_	_	_	_	id=s1.u11.w2
+4	le	_	_	_	_	_	_	_	id=s1.u11.w3
+5	le	_	_	_	_	_	_	_	id=s1.u11.w4
+6	le	_	_	_	_	_	_	_	id=s1.u11.w5
+7	le	_	_	_	_	_	_	_	id=s1.u11.w6
+8	la	_	_	_	_	_	_	_	id=s1.u11.w7
+9	Chambre	_	_	_	_	_	_	_	id=s1.u11.w8
+10	Touristique	_	_	_	_	_	_	_	id=s1.u11.w9
+11	et	_	_	_	_	_	_	_	id=s1.u11.w10
+12	Hôtelière	_	_	_	_	_	_	_	id=s1.u11.w11
+13	de	_	_	_	_	_	_	_	id=s1.u11.w12
+14	Grenoble	_	_	_	_	_	_	_	id=s1.u11.w13
+
+# sent_id = 1AP0137_12
+# text = e où est ce que ça se se trouve ça ouais d' accord
+1	e	_	_	_	_	_	_	_	id=s1.u12.w0
+2	où	_	_	_	_	_	_	_	id=s1.u12.w1
+3	est	_	_	_	_	_	_	_	id=s1.u12.w2
+4	ce	_	_	_	_	_	_	_	id=s1.u12.w3
+5	que	_	_	_	_	_	_	_	id=s1.u12.w4
+6	ça	_	_	_	_	_	_	_	id=s1.u12.w5
+7	se	_	_	_	_	_	_	_	id=s1.u12.w6
+8	se	_	_	_	_	_	_	_	id=s1.u12.w7
+9	trouve	_	_	_	_	_	_	_	id=s1.u12.w8
+10	ça	_	_	_	_	_	_	_	id=s1.u12.w9
+11	ouais	_	_	_	_	_	_	_	id=s1.u12.w10
+12	d'	_	_	_	_	_	_	_	id=s1.u12.w11
+13	accord	_	_	_	_	_	_	_	id=s1.u12.w12
+
+# sent_id = 1AP0137_13
+# text = je vais vous fournir les coordonnées
+1	je	_	_	_	_	_	_	_	id=s1.u13.w0
+2	vais	_	_	_	_	_	_	_	id=s1.u13.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u13.w2
+4	fournir	_	_	_	_	_	_	_	id=s1.u13.w3
+5	les	_	_	_	_	_	_	_	id=s1.u13.w4
+6	coordonnées	_	_	_	_	_	_	_	id=s1.u13.w5
+
+# sent_id = 1AP0137_14
+# text = voilà
+1	voilà	_	_	_	_	_	_	_	id=s1.u14.w0
+
+# sent_id = 1AP0137_15
+# text = merci bien
+1	merci	_	_	_	_	_	_	_	id=s1.u15.w0
+2	bien	_	_	_	_	_	_	_	id=s1.u15.w1
+
+# sent_id = 1AP0137_16
+# text = mais je vous en prie
+1	mais	_	_	_	_	_	_	_	id=s1.u16.w0
+2	je	_	_	_	_	_	_	_	id=s1.u16.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u16.w2
+4	en	_	_	_	_	_	_	_	id=s1.u16.w3
+5	prie	_	_	_	_	_	_	_	id=s1.u16.w4
+
+# sent_id = 1AP0137_17
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u17.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u17.w1
+
+# sent_id = 1AP0137_18
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u18.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u18.w1
+

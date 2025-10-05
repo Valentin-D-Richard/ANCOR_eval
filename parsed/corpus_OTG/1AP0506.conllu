@@ -1,0 +1,44 @@
+# sent_id = 1AP0506_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0506_1
+# text = bonjour je voudrais deux affiches de Grenoble e du " Dauphiné Libéré " avec les spectacles et loisirs de Grenoble s' il vous plaît
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	deux	deux	NUM	_	Number=Plur	5	nummod	_	id=s1.u1.w3
+5	affiches	affiche	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	id=s1.u1.w4
+6	de	de	ADP	_	_	7	case	_	_none=|id=s1.u1.w5
+7	Grenoble	Grenoble	PROPN	_	_	5	nmod	_	_none=|id=s1.u1.w6
+8	e	e	CCONJ	_	_	10	cc	_	id=s1.u1.w7
+9	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_none=|id=s1.u1.w8
+10	Dauphiné	Dauphiné	PROPN	_	Gender=Masc|Number=Sing	7	conj	_	id=s1.u1.w10
+11	Libéré	Libéré	PROPN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	amod	_	_none=|id=s1.u1.w11
+12	avec	avec	ADP	_	_	14	case	_	id=s1.u1.w13
+13	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	14	det	_	id=s1.u1.w14
+14	spectacles	spectacle	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	id=s1.u1.w15
+15	et	et	CCONJ	_	_	16	cc	_	id=s1.u1.w16
+16	loisirs	loisir	NOUN	_	Gender=Masc|Number=Plur	14	conj	_	id=s1.u1.w17
+17	de	de	ADP	_	_	18	case	_	id=s1.u1.w18
+18	Grenoble	Grenoble	PROPN	_	_	14	nmod	_	_none=|id=s1.u1.w19
+19	s'	s'	SCONJ	_	_	22	mark	_	_none=|id=s1.u1.w20
+20	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	expl:subj	_	_none=|id=s1.u1.w21
+21	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	22	iobj	_	_none=|id=s1.u1.w22
+22	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	discourse	_	id=s1.u1.w23
+
+# sent_id = 1AP0506_3
+# text = tenez
+1	tenez	tneir	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1AP0506_4
+# text = merci madame
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u4.w0
+2	madame	madame	NOUN	_	Gender=Fem|Number=Sing	1	vocative	_	id=s1.u4.w1
+
+# sent_id = 1AP0506_5
+# text = au revoir madame
+1	au	au	ADP	_	_	0	root	_	_none=|id=s1.u5.w0
+2	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u5.w1
+3	madame	madame	NOUN	_	Gender=Fem|Number=Sing	1	vocative	_	id=s1.u5.w2
+

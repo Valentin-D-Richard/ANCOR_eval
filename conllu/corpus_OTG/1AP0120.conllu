@@ -1,0 +1,86 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0120_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AP0120_1
+# text = bonjour je recherche en fait une documentation sur e ce qu' il y a à visiter dans Grenoble
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	je	_	_	_	_	_	_	_	id=s1.u1.w1
+3	recherche	_	_	_	_	_	_	_	id=s1.u1.w2
+4	en	_	_	_	_	_	_	_	id=s1.u1.w3
+5	fait	_	_	_	_	_	_	_	id=s1.u1.w4
+6	une	_	_	_	_	_	_	_	id=s1.u1.w5
+7	documentation	_	_	_	_	_	_	_	id=s1.u1.w6
+8	sur	_	_	_	_	_	_	_	id=s1.u1.w7
+9	e	_	_	_	_	_	_	_	id=s1.u1.w8
+10	ce	_	_	_	_	_	_	_	id=s1.u1.w9
+11	qu'	_	_	_	_	_	_	_	id=s1.u1.w10
+12	il	_	_	_	_	_	_	_	id=s1.u1.w11
+13	y	_	_	_	_	_	_	_	id=s1.u1.w12
+14	a	_	_	_	_	_	_	_	id=s1.u1.w13
+15	à	_	_	_	_	_	_	_	id=s1.u1.w14
+16	visiter	_	_	_	_	_	_	_	id=s1.u1.w15
+17	dans	_	_	_	_	_	_	_	id=s1.u1.w16
+18	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w17
+
+# sent_id = 1AP0120_2
+# text = ouais
+1	ouais	_	_	_	_	_	_	_	id=s1.u2.w0
+
+# sent_id = 1AP0120_3
+# text = ce que vous avez de plus complet si possible
+1	ce	_	_	_	_	_	_	_	id=s1.u3.w0
+2	que	_	_	_	_	_	_	_	id=s1.u3.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u3.w2
+4	avez	_	_	_	_	_	_	_	id=s1.u3.w3
+5	de	_	_	_	_	_	_	_	id=s1.u3.w4
+6	plus	_	_	_	_	_	_	_	id=s1.u3.w5
+7	complet	_	_	_	_	_	_	_	id=s1.u3.w6
+8	si	_	_	_	_	_	_	_	id=s1.u3.w7
+9	possible	_	_	_	_	_	_	_	id=s1.u3.w8
+
+# sent_id = 1AP0120_4
+# text = d' accord là et puis les alentours
+1	d'	_	_	_	_	_	_	_	id=s1.u4.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u4.w1
+3	là	_	_	_	_	_	_	_	id=s1.u4.w2
+4	et	_	_	_	_	_	_	_	id=s1.u4.w3
+5	puis	_	_	_	_	_	_	_	id=s1.u4.w4
+6	les	_	_	_	_	_	_	_	id=s1.u4.w5
+7	alentours	_	_	_	_	_	_	_	id=s1.u4.w6
+
+# sent_id = 1AP0120_5
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u5.w0
+
+# sent_id = 1AP0120_6
+# text = oui voilà
+1	oui	_	_	_	_	_	_	_	id=s1.u6.w0
+2	voilà	_	_	_	_	_	_	_	id=s1.u6.w1
+
+# sent_id = 1AP0120_7
+# text = c' est super merci
+1	c'	_	_	_	_	_	_	_	id=s1.u7.w0
+2	est	_	_	_	_	_	_	_	id=s1.u7.w1
+3	super	_	_	_	_	_	_	_	id=s1.u7.w2
+4	merci	_	_	_	_	_	_	_	id=s1.u7.w3
+
+# sent_id = 1AP0120_8
+# text = et ben je vous en prie bonne fin de journée au revoir
+1	et	_	_	_	_	_	_	_	id=s1.u8.w0
+2	ben	_	_	_	_	_	_	_	id=s1.u8.w1
+3	je	_	_	_	_	_	_	_	id=s1.u8.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u8.w3
+5	en	_	_	_	_	_	_	_	id=s1.u8.w4
+6	prie	_	_	_	_	_	_	_	id=s1.u8.w5
+7	bonne	_	_	_	_	_	_	_	id=s1.u8.w6
+8	fin	_	_	_	_	_	_	_	id=s1.u8.w7
+9	de	_	_	_	_	_	_	_	id=s1.u8.w8
+10	journée	_	_	_	_	_	_	_	id=s1.u8.w9
+11	au	_	_	_	_	_	_	_	id=s1.u8.w10
+12	revoir	_	_	_	_	_	_	_	id=s1.u8.w11
+
+# sent_id = 1AP0120_9
+# text = 
+

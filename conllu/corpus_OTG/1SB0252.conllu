@@ -1,0 +1,124 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0252_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1SB0252_1
+# text = vous avez plus du tout plus rien sur la bibliothèque municipale des dépliants avec les horaires ou quoi que ce soit
+1	vous	_	_	_	_	_	_	_	id=s1.u1.w0
+2	avez	_	_	_	_	_	_	_	id=s1.u1.w1
+3	plus	_	_	_	_	_	_	_	id=s1.u1.w2
+4	du	_	_	_	_	_	_	_	id=s1.u1.w3
+5	tout	_	_	_	_	_	_	_	id=s1.u1.w4
+6	plus	_	_	_	_	_	_	_	id=s1.u1.w5
+7	rien	_	_	_	_	_	_	_	id=s1.u1.w6
+8	sur	_	_	_	_	_	_	_	id=s1.u1.w7
+9	la	_	_	_	_	_	_	_	id=s1.u1.w8
+10	bibliothèque	_	_	_	_	_	_	_	id=s1.u1.w9
+11	municipale	_	_	_	_	_	_	_	id=s1.u1.w10
+12	des	_	_	_	_	_	_	_	id=s1.u1.w11
+13	dépliants	_	_	_	_	_	_	_	id=s1.u1.w12
+14	avec	_	_	_	_	_	_	_	id=s1.u1.w13
+15	les	_	_	_	_	_	_	_	id=s1.u1.w14
+16	horaires	_	_	_	_	_	_	_	id=s1.u1.w15
+17	ou	_	_	_	_	_	_	_	id=s1.u1.w16
+18	quoi	_	_	_	_	_	_	_	id=s1.u1.w17
+19	que	_	_	_	_	_	_	_	id=s1.u1.w18
+20	ce	_	_	_	_	_	_	_	id=s1.u1.w19
+21	soit	_	_	_	_	_	_	_	id=s1.u1.w20
+
+# sent_id = 1SB0252_2
+# text = 
+
+# sent_id = 1SB0252_3
+# text = 
+
+# sent_id = 1SB0252_4
+# text = ma collègue vient de demander là je suis non j' en ai plus plus du tout
+1	ma	_	_	_	_	_	_	_	id=s1.u4.w0
+2	collègue	_	_	_	_	_	_	_	id=s1.u4.w1
+3	vient	_	_	_	_	_	_	_	id=s1.u4.w2
+4	de	_	_	_	_	_	_	_	id=s1.u4.w3
+5	demander	_	_	_	_	_	_	_	id=s1.u4.w4
+6	là	_	_	_	_	_	_	_	id=s1.u4.w5
+7	je	_	_	_	_	_	_	_	id=s1.u4.w6
+8	suis	_	_	_	_	_	_	_	id=s1.u4.w7
+9	non	_	_	_	_	_	_	_	id=s1.u4.w8
+10	j'	_	_	_	_	_	_	_	id=s1.u4.w9
+11	en	_	_	_	_	_	_	_	id=s1.u4.w10
+12	ai	_	_	_	_	_	_	_	id=s1.u4.w11
+13	plus	_	_	_	_	_	_	_	id=s1.u4.w12
+14	plus	_	_	_	_	_	_	_	id=s1.u4.w13
+15	du	_	_	_	_	_	_	_	id=s1.u4.w14
+16	tout	_	_	_	_	_	_	_	id=s1.u4.w15
+
+# sent_id = 1SB0252_5
+# text = vous en aurez quand vous savez pas
+1	vous	_	_	_	_	_	_	_	id=s1.u5.w0
+2	en	_	_	_	_	_	_	_	id=s1.u5.w1
+3	aurez	_	_	_	_	_	_	_	id=s1.u5.w2
+4	quand	_	_	_	_	_	_	_	id=s1.u5.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u5.w4
+6	savez	_	_	_	_	_	_	_	id=s1.u5.w5
+7	pas	_	_	_	_	_	_	_	id=s1.u5.w6
+
+# sent_id = 1SB0252_6
+# text = je sais pas quand e ben il faut qu' on passera il faudra qu' on passe à la bibliothèque
+1	je	_	_	_	_	_	_	_	id=s1.u6.w0
+2	sais	_	_	_	_	_	_	_	id=s1.u6.w1
+3	pas	_	_	_	_	_	_	_	id=s1.u6.w2
+4	quand	_	_	_	_	_	_	_	id=s1.u6.w3
+5	e	_	_	_	_	_	_	_	id=s1.u6.w4
+6	ben	_	_	_	_	_	_	_	id=s1.u6.w5
+7	il	_	_	_	_	_	_	_	id=s1.u6.w6
+8	faut	_	_	_	_	_	_	_	id=s1.u6.w7
+9	qu'	_	_	_	_	_	_	_	id=s1.u6.w8
+10	on	_	_	_	_	_	_	_	id=s1.u6.w9
+11	passera	_	_	_	_	_	_	_	id=s1.u6.w10
+12	il	_	_	_	_	_	_	_	id=s1.u6.w11
+13	faudra	_	_	_	_	_	_	_	id=s1.u6.w12
+14	qu'	_	_	_	_	_	_	_	id=s1.u6.w13
+15	on	_	_	_	_	_	_	_	id=s1.u6.w14
+16	passe	_	_	_	_	_	_	_	id=s1.u6.w15
+17	à	_	_	_	_	_	_	_	id=s1.u6.w16
+18	la	_	_	_	_	_	_	_	id=s1.u6.w17
+19	bibliothèque	_	_	_	_	_	_	_	id=s1.u6.w18
+
+# sent_id = 1SB0252_7
+# text = la semaine prochaine normalement c' est possible
+1	la	_	_	_	_	_	_	_	id=s1.u7.w0
+2	semaine	_	_	_	_	_	_	_	id=s1.u7.w1
+3	prochaine	_	_	_	_	_	_	_	id=s1.u7.w2
+4	normalement	_	_	_	_	_	_	_	id=s1.u7.w3
+5	c'	_	_	_	_	_	_	_	id=s1.u7.w4
+6	est	_	_	_	_	_	_	_	id=s1.u7.w5
+7	possible	_	_	_	_	_	_	_	id=s1.u7.w6
+
+# sent_id = 1SB0252_8
+# text = e oui
+1	e	_	_	_	_	_	_	_	id=s1.u8.w0
+2	oui	_	_	_	_	_	_	_	id=s1.u8.w1
+
+# sent_id = 1SB0252_9
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u9.w0
+
+# sent_id = 1SB0252_10
+# text = oui oui ça peut être possible
+1	oui	_	_	_	_	_	_	_	id=s1.u10.w0
+2	oui	_	_	_	_	_	_	_	id=s1.u10.w1
+3	ça	_	_	_	_	_	_	_	id=s1.u10.w2
+4	peut	_	_	_	_	_	_	_	id=s1.u10.w3
+5	être	_	_	_	_	_	_	_	id=s1.u10.w4
+6	possible	_	_	_	_	_	_	_	id=s1.u10.w5
+
+# sent_id = 1SB0252_11
+# text = oui merci
+1	oui	_	_	_	_	_	_	_	id=s1.u11.w0
+2	merci	_	_	_	_	_	_	_	id=s1.u11.w1
+
+# sent_id = 1SB0252_12
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u12.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u12.w1
+

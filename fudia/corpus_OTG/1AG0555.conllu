@@ -1,0 +1,106 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0555_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AG0555_1
+# text = bonjour est ce que vous avez " le 38 "
+1	bonjour	bonjour	NOUN	_	_	3	dislocated	_	_none=|id=s1.u1.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u1.w1
+3	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	id=s1.u1.w2
+4	que	que	PRON	_	PronType=Rel	6	obj	_	id=s1.u1.w3
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	id=s1.u1.w4
+6	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_none=|id=s1.u1.w5
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	obj	_	_none=|id=s1.u1.w7
+8	38	38	NOUN	_	_	6	dislocated	_	_none=|id=s1.u1.w8
+
+# sent_id = 1AG0555_2
+# text = non plus depuis ce matin il faut venir le lundi matin et très tôt
+1	non	non	ADV	_	Polarity=Neg	7	advmod	_	_none=|id=s1.u2.w0
+2	plus	plus	ADV	_	_	1	advmod	_	id=s1.u2.w1
+3	depuis	depuis	ADP	_	_	5	case	_	_none=|id=s1.u2.w2
+4	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	id=s1.u2.w3
+5	matin	matin	NOUN	_	Gender=Masc|Number=Sing	7	obl:mod	_	_none=|id=s1.u2.w4
+6	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	_none=|id=s1.u2.w5
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w6
+8	venir	venir	VERB	_	VerbForm=Inf	7	ccomp	_	_none=|id=s1.u2.w7
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_none=|id=s1.u2.w8
+10	lundi	lundi	NOUN	_	Gender=Masc|Number=Sing	8	obl:mod	_	_none=|id=s1.u2.w9
+11	matin	matin	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_none=|id=s1.u2.w10
+12	et	et	CCONJ	_	_	14	cc	_	_none=|id=s1.u2.w11
+13	très	très	ADV	_	_	14	advmod	_	_none=|id=s1.u2.w12
+14	tôt	tôt	ADV	_	_	10	conj	_	_none=|id=s1.u2.w13
+
+# sent_id = 1AG0555_4
+# text = la dernière fois on m' a dit de venir l' après-midi
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_none=|id=s1.u4.w0
+2	dernière	dernier	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_none=|id=s1.u4.w1
+3	fois	fois	NOUN	_	Gender=Fem|Number=Sing	7	obl:mod	_	id=s1.u4.w2
+4	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	nsubj	_	_none=|id=s1.u4.w3
+5	m'	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	7	iobj	_	_none=|id=s1.u4.w4
+6	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	_none=|id=s1.u4.w5
+7	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u4.w6
+8	de	de	ADP	_	_	9	mark	_	_none=|id=s1.u4.w7
+9	venir	venir	VERB	_	VerbForm=Inf	7	ccomp	_	_none=|id=s1.u4.w8
+10	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	11	det	_	id=s1.u4.w9
+11	après-midi	après-midi	NOUN	_	Gender=Masc|Number=Sing	9	obl:mod	_	_none=|id=s1.u4.w10
+
+# sent_id = 1AG0555_5
+# text = ah ben non on le reçoit lundi matin donc e c' est plus sûr de venir le lundi matin parce qu' en ce moment comme les tous les étudiants cherchent des apparts à louer c' est l' euphorie générale
+1	ah	ah	INTJ	_	_	6	discourse	_	_none=|id=s1.u5.w0
+2	ben	ben	INTJ	_	_	6	discourse	_	_none=|id=s1.u5.w1
+3	non	non	ADV	_	_	6	discourse	_	_none=|id=s1.u5.w2
+4	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	nsubj	_	_none=|id=s1.u5.w3
+5	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_none=|id=s1.u5.w4
+6	reçoit	reçoire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_none=|id=s1.u5.w5
+7	lundi	lundi	NOUN	_	Gender=Masc|Number=Sing	6	advmod	_	_none=|id=s1.u5.w6
+8	matin	matin	NOUN	_	Gender=Masc|Number=Sing	7	fixed	_	id=s1.u5.w7
+9	donc	donc	ADV	_	_	14	cc	_	_none=|id=s1.u5.w8
+10	e	e	PRON	_	_	6	dislocated	_	id=s1.u5.w9
+11	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	_none=|id=s1.u5.w10
+12	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	id=s1.u5.w11
+13	plus	plus	ADV	_	_	14	advmod	_	_none=|id=s1.u5.w12
+14	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u5.w13
+15	de	de	ADP	_	_	16	mark	_	_none=|id=s1.u5.w14
+16	venir	venir	VERB	_	VerbForm=Inf	14	advcl	_	id=s1.u5.w15
+17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_none=|id=s1.u5.w16
+18	lundi	lundi	NOUN	_	Gender=Masc|Number=Sing	16	obl:mod	_	_none=|id=s1.u5.w17
+19	matin	matin	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	_none=|id=s1.u5.w18
+20	parce	parce	ADV	_	_	38	mark	_	_none=|id=s1.u5.w19
+21	qu'	que	SCONJ	_	_	20	fixed	_	id=s1.u5.w20
+22	en	en	ADP	_	_	24	case	_	_none=|id=s1.u5.w21
+23	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	24	det	_	_none=|id=s1.u5.w22
+24	moment	moment	NOUN	_	Gender=Masc|Number=Sing	30	obl:mod	_	_none=|id=s1.u5.w23
+25	comme	comme	SCONJ	_	_	30	mark	_	_none=|id=s1.u5.w24
+26	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	28	reparandum	_	id=s1.u5.w25
+27	tous	tout	ADJ	_	Gender=Masc|Number=Plur	29	nmod	_	_none=|id=s1.u5.w26
+28	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	29	det	_	_none=|id=s1.u5.w27
+29	étudiants	étudiant	NOUN	_	Gender=Masc|Number=Plur	30	nsubj	_	_none=|id=s1.u5.w28
+30	cherchent	chercher	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	38	acl	_	_none=|id=s1.u5.w29
+31	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	32	det	_	id=s1.u5.w30
+32	apparts	appart	NOUN	_	Gender=Masc|Number=Plur	30	obj	_	id=s1.u5.w31
+33	à	à	ADP	_	_	34	mark	_	_none=|id=s1.u5.w32
+34	louer	louer	VERB	_	VerbForm=Inf	32	acl	_	id=s1.u5.w33
+35	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	38	nsubj	_	id=s1.u5.w34
+36	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	38	cop	_	id=s1.u5.w35
+37	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	38	det	_	id=s1.u5.w36
+38	euphorie	euphorie	NOUN	_	Gender=Fem|Number=Sing	14	advcl	_	id=s1.u5.w37
+39	générale	général	ADJ	_	Gender=Fem|Number=Sing	38	amod	_	id=s1.u5.w38
+
+# sent_id = 1AG0555_6
+# text = ok d' accord ben merci
+1	ok	ok	ADJ	_	_	2	discourse	_	_none=|id=s1.u6.w0
+2	d'	de	ADP	_	_	3	case	_	_none=|id=s1.u6.w1
+3	accord	accord	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u6.w2
+4	ben	ben	ADV	_	_	3	discourse	_	_none=|id=s1.u6.w3
+5	merci	merci	INTJ	_	_	2	obj	_	_none=|id=s1.u6.w4
+
+# sent_id = 1AG0555_7
+# text = je vous en prie au revoir
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u7.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u7.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u7.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u7.w3
+5	au	au	ADP	_	_	6	case	_	_none=|id=s1.u7.w4
+6	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	4	advmod	_	id=s1.u7.w5
+

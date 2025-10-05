@@ -1,0 +1,57 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0182_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0182_1
+# text = bonjour je voudrais savoir si vous avez le plan des pistes cyclables
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	savoir	savoir	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u1.w3
+5	si	si	SCONJ	_	_	7|7	cue:mark|mark	_	_none=|id=s1.u1.w4
+6	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_none=|id=s1.u1.w5
+7	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	ccomp	_	_none=|id=s1.u1.w6|ClauseType=Int
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	id=s1.u1.w7
+9	plan	plan	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	id=s1.u1.w8
+10	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	11	det	_	id=s1.u1.w9
+11	pistes	piste	NOUN	_	Gender=Fem|Number=Plur	9	nmod	_	id=s1.u1.w10
+12	cyclables	cyclable	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	id=s1.u1.w11
+
+# sent_id = 1AP0182_2
+# text = plus on l' aura pas avant un mois maintenant parce qu' il est en réédition
+1	plus	plus	ADV	_	_	4	advmod	_	_none=|id=s1.u2.w0
+2	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	_none=|id=s1.u2.w1
+3	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obj	_	_none=|id=s1.u2.w2
+4	aura	auoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w3
+5	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	_none=|id=s1.u2.w4
+6	avant	avant	ADP	_	_	8	case	_	_none=|id=s1.u2.w5
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_none=|id=s1.u2.w6
+8	mois	mois	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_none=|id=s1.u2.w7
+9	maintenant	maintenant	ADV	_	_	8	advmod	_	_none=|id=s1.u2.w8
+10	parce	parce	ADV	_	_	15	mark	_	_none=|id=s1.u2.w9
+11	qu'	que	SCONJ	_	_	10	fixed	_	id=s1.u2.w10
+12	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_none=|id=s1.u2.w11
+13	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	id=s1.u2.w12
+14	en	en	ADP	_	_	15	case	_	id=s1.u2.w13
+15	réédition	réédition	NOUN	_	Gender=Fem|Number=Sing	4	advcl	_	id=s1.u2.w14
+
+# sent_id = 1AP0182_3
+# text = d' accord ben j' attendrai
+1	d'	de	ADP	_	_	2	case	_	_none=|id=s1.u3.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	5	discourse	_	id=s1.u3.w1
+3	ben	ben	INTJ	_	_	2	discourse	_	_none=|id=s1.u3.w2
+4	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u3.w3
+5	attendrai	attendrare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u3.w4
+
+# sent_id = 1AP0182_4
+# text = très bien
+1	très	très	ADV	_	_	2	advmod	_	_none=|id=s1.u4.w0
+2	bien	bien	ADV	_	_	0	root	_	_none=|id=s1.u4.w1
+
+# sent_id = 1AP0182_5
+# text = merci au revoir
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u5.w0
+2	au	au	ADP	_	_	3	case	_	_none=|id=s1.u5.w1
+3	revoir	revoir	VERB	_	Gender=Masc|Number=Sing	1	advcl	_	_none=|id=s1.u5.w2
+

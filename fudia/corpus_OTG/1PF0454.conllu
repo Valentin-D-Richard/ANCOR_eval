@@ -1,0 +1,51 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0454_0
+# text = bonjour mademoiselle
+1	bonjour	bonjour	NOUN	_	_	0	root	_	_none=|id=s1.u0.w0
+2	mademoiselle	mademoiseer	NOUN	_	Gender=Fem|Number=Sing	1	vocative	_	id=s1.u0.w1
+
+# sent_id = 1PF0454_1
+# text = pour les étudiants on nous a dit de venir là pour récupérer un plan de vélo de la ville
+1	pour	pour	ADP	_	_	3	case	_	_none=|id=s1.u1.w0
+2	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	id=s1.u1.w1
+3	étudiants	étudiant	NOUN	_	Number=Plur	7	obl:mod	_	_none=|id=s1.u1.w2
+4	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	nsubj	_	_none=|id=s1.u1.w3
+5	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	7	iobj	_	_none=|id=s1.u1.w4
+6	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	_none=|id=s1.u1.w5
+7	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u1.w6
+8	de	de	ADP	_	_	9	mark	_	_none=|id=s1.u1.w7
+9	venir	venir	VERB	_	VerbForm=Inf	7	ccomp	_	id=s1.u1.w8
+10	là	là	ADV	_	_	9	advmod	_	id=s1.u1.w9
+11	pour	pour	ADP	_	_	12	mark	_	_none=|id=s1.u1.w10
+12	récupérer	récupérer	VERB	_	VerbForm=Inf	9	advcl	_	id=s1.u1.w11
+13	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	id=s1.u1.w12
+14	plan	plan	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_none=|id=s1.u1.w13
+15	de	de	ADP	_	_	16	case	_	_none=|id=s1.u1.w14
+16	vélo	vélo	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	id=s1.u1.w15
+17	de	de	ADP	_	_	19	case	_	_none=|id=s1.u1.w16
+18	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	id=s1.u1.w17
+19	ville	ville	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	id=s1.u1.w18
+
+# sent_id = 1PF0454_2
+# text = c' est pas e pour les étudiants spécialement c' est pour tout le monde hein
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	id=s1.u2.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	id=s1.u2.w1
+3	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	id=s1.u2.w2
+4	e		PRON	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w3
+5	pour	pour	ADP	_	_	7	case	_	_none=|id=s1.u2.w4
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	id=s1.u2.w5
+7	étudiants	étudiant	NOUN	_	Gender=Masc|Number=Plur	4	obl:mod	_	id=s1.u2.w6
+8	spécialement	spécialement	ADV	_	_	4	advmod	_	_none=|id=s1.u2.w7
+9	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	nsubj	_	id=s1.u2.w8
+10	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	id=s1.u2.w9
+11	pour	pour	ADP	_	_	14	case	_	_none=|id=s1.u2.w10
+12	tout	tout	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	_none=|id=s1.u2.w11
+13	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	id=s1.u2.w12
+14	monde	monde	NOUN	_	Gender=Masc|Number=Sing	10	obl:arg	_	_none=|id=s1.u2.w13
+15	hein	hein	INTJ	_	_	4	discourse	_	_none=|id=s1.u2.w14
+
+# sent_id = 1PF0454_3
+# text = ouais merci
+1	ouais	ouais	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+2	merci	merci	INTJ	_	_	1	dep	_	_none=|id=s1.u3.w1
+

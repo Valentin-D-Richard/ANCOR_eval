@@ -1,0 +1,58 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 3SB0122_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 3SB0122_1
+# text = bonjour est ce que vous avez la documentation hiver déjà de l' Alpe d' Huez
+1	bonjour	bonjour	NOUN	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u1.w1
+3	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u1.w2
+4	que	que	SCONJ	_	_	6	mark	_	_none=|id=s1.u1.w3
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_none=|id=s1.u1.w4
+6	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_none=|id=s1.u1.w5
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	id=s1.u1.w6
+8	documentation	documentation	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	id=s1.u1.w7
+9	hiver	hiver	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_none=|id=s1.u1.w8
+10	déjà	déjà	ADV	_	_	9	advmod	_	_none=|id=s1.u1.w9
+11	de	de	ADP	_	_	13	case	_	_none=|id=s1.u1.w10
+12	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	13	det	_	id=s1.u1.w11
+13	Alpe	Alpe	PROPN	_	_	8	nmod	_	id=s1.u1.w12
+14	d'	de	ADP	_	_	15	case	_	_none=|id=s1.u1.w13
+15	Huez	Huez	PROPN	_	_	13	nmod	_	id=s1.u1.w14
+
+# sent_id = 3SB0122_2
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u2.w0
+
+# sent_id = 3SB0122_3
+# text = Megève et Valloire
+1	Megève	Megève	PROPN	_	_	0	root	_	_none=|id=s1.u3.w0
+2	et	et	CCONJ	_	_	3	cc	_	_none=|id=s1.u3.w1
+3	Valloire	Valloire	PROPN	_	_	1	conj	_	id=s1.u3.w2
+
+# sent_id = 3SB0122_4
+# text = Valloire on l' a pas reçu Megève Alpe d' Huez
+1	Valloire	Valloire	PROPN	_	_	6	dislocated	_	_none=|id=s1.u4.w0
+2	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	nsubj	_	_none=|id=s1.u4.w1
+3	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	6	obj	_	_none=|id=s1.u4.w2
+4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_none=|id=s1.u4.w3
+5	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	_none=|id=s1.u4.w4
+6	reçu	reçer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u4.w5
+7	Megève	Megève	PROPN	_	_	6	dislocated	_	id=s1.u4.w6
+8	Alpe	Alpe	PROPN	_	_	7	flat:name	_	id=s1.u4.w7
+9	d'	de	ADP	_	_	10	case	_	_none=|id=s1.u4.w8
+10	Huez	Huez	PROPN	_	_	8	nmod	_	id=s1.u4.w9
+
+# sent_id = 3SB0122_5
+# text = merci beaucoup
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u5.w0
+2	beaucoup	beaucoup	ADV	_	_	1	advmod	_	_none=|id=s1.u5.w1
+
+# sent_id = 3SB0122_6
+# text = je vous en prie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u6.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u6.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u6.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u6.w3
+

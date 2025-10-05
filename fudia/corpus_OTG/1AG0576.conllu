@@ -1,0 +1,46 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0576_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AG0576_1
+# text = bonjour j' aurais voulu savoir ce qu' il y avait à visiter sur Grenoble avoir des documents
+1	bonjour	bonjour	INTJ	_	_	4	discourse	_	_none=|id=s1.u1.w0
+2	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u1.w1
+3	aurais	avoir	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_none=|id=s1.u1.w2
+4	voulu	vouloir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u1.w3
+5	savoir	savoir	VERB	_	VerbForm=Inf	4	xcomp	_	_none=|id=s1.u1.w4
+6	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	obj	_	_none=|id=s1.u1.w5
+7	qu'	que	PRON	_	PronType=Rel	10	obj	_	id=s1.u1.w6
+8	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_none=|id=s1.u1.w7
+9	y	y	PRON	_	Person=3|PronType=Prs	10	expl:comp	_	id=s1.u1.w8
+10	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	acl:relcl	_	_none=|id=s1.u1.w9
+11	à	à	ADP	_	_	12	mark	_	_none=|id=s1.u1.w10
+12	visiter	visiter	VERB	_	VerbForm=Inf	10	xcomp	_	id=s1.u1.w11
+13	sur	sur	ADP	_	_	14	case	_	_none=|id=s1.u1.w12
+14	Grenoble	Grenoble	PROPN	_	_	12	obl:mod	_	_none=|id=s1.u1.w13
+15	avoir	avoir	VERB	_	VerbForm=Inf	10	ccomp	_	_none=|id=s1.u1.w14
+16	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	17	det	_	id=s1.u1.w15
+17	documents	document	NOUN	_	Gender=Masc|Number=Plur	15	obj	_	id=s1.u1.w16
+
+# sent_id = 1AG0576_2
+# text = oui là vous avez tout ce qu' il faut voir sur Grenoble et un plan voilà de rien
+1	oui	oui	INTJ	_	_	4	discourse	_	_none=|id=s1.u2.w0
+2	là	là	ADV	_	_	4	advmod	_	_none=|id=s1.u2.w1
+3	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	id=s1.u2.w2
+4	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w3
+5	tout	tout	ADJ	_	_	6	amod	_	_none=|id=s1.u2.w4
+6	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	obj	_	_none=|id=s1.u2.w5
+7	qu'	que	PRON	_	PronType=Rel	10	obj	_	_none=|id=s1.u2.w6
+8	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl:subj	_	_none=|id=s1.u2.w7
+9	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	id=s1.u2.w8
+10	voir	voir	VERB	_	VerbForm=Inf	9	xcomp	_	_none=|id=s1.u2.w9
+11	sur	sur	ADP	_	_	12	case	_	id=s1.u2.w10
+12	Grenoble	Grenoble	PROPN	_	_	10	obl:mod	_	_none=|id=s1.u2.w11
+13	et	et	CCONJ	_	_	15	cc	_	_none=|id=s1.u2.w12
+14	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	id=s1.u2.w13
+15	plan	plan	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	id=s1.u2.w14
+16	voilà	voilà	VERB	_	_	15	discourse	_	id=s1.u2.w15
+17	de	de	ADP	_	_	18	case	_	_none=|id=s1.u2.w16
+18	rien	rien	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	9	obj	_	id=s1.u2.w17
+

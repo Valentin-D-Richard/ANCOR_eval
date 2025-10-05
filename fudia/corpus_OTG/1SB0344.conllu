@@ -1,0 +1,55 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0344_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1SB0344_1
+# text = bonjour je cherche une auto école sur ou dans le coin de du " cerf rouge " je pourrais savoir où je peux en trouver une
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	cherche	chercher	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u1.w2
+4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	id=s1.u1.w3
+5	auto	auto	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	id=s1.u1.w4
+6	école	école	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	id=s1.u1.w5
+7	sur	sur	ADP	_	_	11	reparandum	_	_none=|id=s1.u1.w6
+8	ou	ou	CCONJ	_	_	11	cc	_	id=s1.u1.w7
+9	dans	dans	ADP	_	_	11	case	_	_none=|id=s1.u1.w8
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_none=|id=s1.u1.w9
+11	coin	coin	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_none=|id=s1.u1.w10
+12	de	de	ADP	_	_	14	case	_	_none=|id=s1.u1.w11
+13	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_none=|id=s1.u1.w12
+14	cerf	cerf	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_none=|id=s1.u1.w14
+15	rouge	rouge	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	_none=|id=s1.u1.w15
+16	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_none=|id=s1.u1.w17
+17	pourrais	pouvoir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_none=|id=s1.u1.w18
+18	savoir	savoir	VERB	_	VerbForm=Inf	17	xcomp	_	_none=|id=s1.u1.w19
+19	où	où	PRON	_	PronType=Rel	23	obl:mod	_	id=s1.u1.w20
+20	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	21	nsubj	_	id=s1.u1.w21
+21	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	ccomp	_	_none=|id=s1.u1.w22
+22	en	en	PRON	_	Person=3|PronType=Prs	23	obj	_	id=s1.u1.w23
+23	trouver	trouver	VERB	_	VerbForm=Inf	21	xcomp	_	id=s1.u1.w24
+24	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	obj	_	id=s1.u1.w25
+
+# sent_id = 1SB0344_3
+# text = aut- une auto école il faut que je vous prête l' annuaire je sais pas
+1	aut-	aut-	NOUN	_	_	3	reparandum	_	_none=|id=s1.u3.w0
+2	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	id=s1.u3.w1
+3	auto	auto	NOUN	_	Gender=Fem|Number=Sing	6	dislocated	_	_none=|id=s1.u3.w2
+4	école	école	NOUN	_	Gender=Fem|Number=Sing	3	punct	_	id=s1.u3.w3
+5	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	_none=|id=s1.u3.w4
+6	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u3.w5
+7	que	que	SCONJ	_	_	10	mark	_	_none=|id=s1.u3.w6
+8	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	id=s1.u3.w7
+9	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	10	iobj	_	id=s1.u3.w8
+10	prête	prêter	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	ccomp	_	id=s1.u3.w9
+11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	id=s1.u3.w10
+12	annuaire	annuaire	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	id=s1.u3.w11
+13	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_none=|id=s1.u3.w12
+14	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	discourse	_	id=s1.u3.w13
+15	pas	pas	ADV	_	Polarity=Neg	14	advmod	_	_none=|id=s1.u3.w14
+
+# sent_id = 1SB0344_5
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u5.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u5.w1
+

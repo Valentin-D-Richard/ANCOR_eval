@@ -1,0 +1,76 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0142_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0142_1
+# text = je voudrais faire de la danse plutôt du modern jazz est ce que vous avez la liste des endroits où on peut en faire
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	faire	faire	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u1.w2
+4	de	de	ADP	_	_	6	det	_	_none=|id=s1.u1.w3
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	fixed	_	id=s1.u1.w4
+6	danse	danse	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	id=s1.u1.w5
+7	plutôt	plutôt	ADV	_	_	10	advmod	_	_none=|id=s1.u1.w6
+8	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_none=|id=s1.u1.w7
+9	modern	modern	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	_none=|id=s1.u1.w8
+10	jazz	jazz	NOUN	_	Gender=Masc|Number=Sing	12	dislocated	_	id=s1.u1.w9
+11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	id=s1.u1.w10
+12	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	dislocated	_	id=s1.u1.w11
+13	que	que	PRON	_	PronType=Rel	15	dep:comp	_	_none=|id=s1.u1.w12
+14	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	15	nsubj	_	_none=|id=s1.u1.w13
+15	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_none=|id=s1.u1.w14
+16	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	id=s1.u1.w15
+17	liste	liste	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	id=s1.u1.w16
+18	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	19	det	_	id=s1.u1.w17
+19	endroits	endroit	NOUN	_	Gender=Masc|Number=Plur	17	nmod	_	id=s1.u1.w18
+20	où	où	PRON	_	PronType=Rel	22	obl:mod	_	_none=|id=s1.u1.w19
+21	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	22	nsubj	_	_none=|id=s1.u1.w20
+22	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	id=s1.u1.w21
+23	en	en	PRON	_	Person=3|PronType=Prs	24	obj	_	id=s1.u1.w22
+24	faire	faire	VERB	_	VerbForm=Inf	22	xcomp	_	id=s1.u1.w23
+
+# sent_id = 1AP0142_2
+# text = il faut consulter
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	_none=|id=s1.u2.w0
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w1
+3	consulter	consulter	VERB	_	VerbForm=Inf	2	ccomp	_	id=s1.u2.w2
+
+# sent_id = 1AP0142_3
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u3.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u3.w1
+
+# sent_id = 1AP0142_4
+# text = c' est un classeur que je vous laisse consulter vous pouvez vous asseoir là bas à droite si vous voulez si vous avez besoin de quoi noter n' hésitez pas
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	id=s1.u4.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	id=s1.u4.w1
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	id=s1.u4.w2
+4	classeur	classeur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u4.w3
+5	que	que	PRON	_	PronType=Rel	8	obj	_	_none=|id=s1.u4.w4
+6	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_none=|id=s1.u4.w5
+7	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	8	iobj	_	id=s1.u4.w6
+8	laisse	laisser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_none=|id=s1.u4.w7
+9	consulter	consulter	VERB	_	VerbForm=Inf	8	xcomp	_	id=s1.u4.w8
+10	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	11	nsubj	_	id=s1.u4.w9
+11	pouvez	pouvoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	advcl:cleft	_	_none=|id=s1.u4.w10
+12	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	13	obj	_	id=s1.u4.w11
+13	asseoir	asseoir	VERB	_	VerbForm=Inf	11	xcomp	_	id=s1.u4.w12
+14	là	là	ADV	_	_	13	advmod	_	_none=|id=s1.u4.w13
+15	bas	bas	ADJ	_	Gender=Masc|Number=Sing	14	fixed	_	_none=|id=s1.u4.w14
+16	à	à	ADP	_	_	17	case	_	_none=|id=s1.u4.w15
+17	droite	droite	NOUN	_	Gender=Fem|Number=Sing	14	obl:mod	_	id=s1.u4.w16
+18	si	si	SCONJ	_	_	20	mark	_	_none=|id=s1.u4.w17
+19	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	20	nsubj	_	_none=|id=s1.u4.w18
+20	voulez	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	advcl	_	_none=|id=s1.u4.w19
+21	si	si	SCONJ	_	_	23	mark	_	_none=|id=s1.u4.w20
+22	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	23	nsubj	_	_none=|id=s1.u4.w21
+23	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	advcl	_	_none=|id=s1.u4.w22
+24	besoin	besoin	NOUN	_	Gender=Masc|Number=Sing	23	obj:lvc	_	_none=|id=s1.u4.w23
+25	de	de	ADP	_	_	27	mark	_	_none=|id=s1.u4.w24
+26	quoi	quoi	PRON	_	Person=3|PronType=Ind	27	obj	_	id=s1.u4.w25
+27	noter	noter	VERB	_	VerbForm=Inf	24	xcomp	_	id=s1.u4.w26
+28	n'	ne	ADV	_	Polarity=Neg	23	advmod	_	id=s1.u4.w27
+29	hésitez	hésiter	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	20	conj	_	_none=|id=s1.u4.w28
+30	pas	pas	ADV	_	Polarity=Neg	29	advmod	_	_none=|id=s1.u4.w29
+

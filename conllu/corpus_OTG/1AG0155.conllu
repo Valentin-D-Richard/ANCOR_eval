@@ -1,0 +1,55 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0155_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AG0155_1
+# text = bonjour je voudrais avoir un renseignement je ne suis pas d' ici je cherche un des restaurants où l' on puisse écouter de la musique des choses comme ça où est ce que je pourrais avoir tout ça
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	je	_	_	_	_	_	_	_	id=s1.u1.w1
+3	voudrais	_	_	_	_	_	_	_	id=s1.u1.w2
+4	avoir	_	_	_	_	_	_	_	id=s1.u1.w3
+5	un	_	_	_	_	_	_	_	id=s1.u1.w4
+6	renseignement	_	_	_	_	_	_	_	id=s1.u1.w5
+7	je	_	_	_	_	_	_	_	id=s1.u1.w6
+8	ne	_	_	_	_	_	_	_	id=s1.u1.w7
+9	suis	_	_	_	_	_	_	_	id=s1.u1.w8
+10	pas	_	_	_	_	_	_	_	id=s1.u1.w9
+11	d'	_	_	_	_	_	_	_	id=s1.u1.w10
+12	ici	_	_	_	_	_	_	_	id=s1.u1.w11
+13	je	_	_	_	_	_	_	_	id=s1.u1.w12
+14	cherche	_	_	_	_	_	_	_	id=s1.u1.w13
+15	un	_	_	_	_	_	_	_	id=s1.u1.w14
+16	des	_	_	_	_	_	_	_	id=s1.u1.w15
+17	restaurants	_	_	_	_	_	_	_	id=s1.u1.w16
+18	où	_	_	_	_	_	_	_	id=s1.u1.w17
+19	l'	_	_	_	_	_	_	_	id=s1.u1.w18
+20	on	_	_	_	_	_	_	_	id=s1.u1.w19
+21	puisse	_	_	_	_	_	_	_	id=s1.u1.w20
+22	écouter	_	_	_	_	_	_	_	id=s1.u1.w21
+23	de	_	_	_	_	_	_	_	id=s1.u1.w22
+24	la	_	_	_	_	_	_	_	id=s1.u1.w23
+25	musique	_	_	_	_	_	_	_	id=s1.u1.w24
+26	des	_	_	_	_	_	_	_	id=s1.u1.w25
+27	choses	_	_	_	_	_	_	_	id=s1.u1.w26
+28	comme	_	_	_	_	_	_	_	id=s1.u1.w27
+29	ça	_	_	_	_	_	_	_	id=s1.u1.w28
+30	où	_	_	_	_	_	_	_	id=s1.u1.w29
+31	est	_	_	_	_	_	_	_	id=s1.u1.w30
+32	ce	_	_	_	_	_	_	_	id=s1.u1.w31
+33	que	_	_	_	_	_	_	_	id=s1.u1.w32
+34	je	_	_	_	_	_	_	_	id=s1.u1.w33
+35	pourrais	_	_	_	_	_	_	_	id=s1.u1.w34
+36	avoir	_	_	_	_	_	_	_	id=s1.u1.w35
+37	tout	_	_	_	_	_	_	_	id=s1.u1.w36
+38	ça	_	_	_	_	_	_	_	id=s1.u1.w37
+
+# sent_id = 1AG0155_2
+# text = là dedans
+1	là	_	_	_	_	_	_	_	id=s1.u2.w0
+2	dedans	_	_	_	_	_	_	_	id=s1.u2.w1
+
+# sent_id = 1AG0155_3
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u3.w0
+

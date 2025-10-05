@@ -1,0 +1,63 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0080_0
+# text = madame bonjour
+1	madame	madame	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u0.w0
+2	bonjour	bonjour	NOUN	_	_	1	nmod	_	_none=|id=s1.u0.w1
+
+# sent_id = 1AP0080_1
+# text = je voudrais savoir pour les journées de la science est ce qu' il y a un programme ou comment ça se passe
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	savoir	savoir	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u1.w2
+4	pour	pour	ADP	_	_	6	case	_	_none=|id=s1.u1.w3
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	id=s1.u1.w4
+6	journées	journée	NOUN	_	Gender=Fem|Number=Plur	11	nmod	_	id=s1.u1.w5
+7	de	de	ADP	_	_	9	case	_	_none=|id=s1.u1.w6
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	id=s1.u1.w7
+9	science	science	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	id=s1.u1.w8
+10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	id=s1.u1.w9
+11	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	ccomp	_	_none=|id=s1.u1.w10
+12	qu'	que	PRON	_	PronType=Rel	15	obj	_	_none=|id=s1.u1.w11
+13	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	expl:subj	_	_none=|id=s1.u1.w12
+14	y	y	PRON	_	Person=3|PronType=Prs	15	expl:comp	_	id=s1.u1.w13
+15	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	id=s1.u1.w14
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_none=|id=s1.u1.w15
+17	programme	programme	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	id=s1.u1.w16
+18	ou	ou	CCONJ	_	_	22	cc	_	id=s1.u1.w17
+19	comment	comment	ADV	_	PronType=Int	22|22	advmod|cue:wh	_	_none=|id=s1.u1.w18|PhraseType=Int
+20	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	22	nsubj	_	id=s1.u1.w19
+21	se	se	PRON	_	Person=3|PronType=Prs	22	expl:comp	_	id=s1.u1.w20
+22	passe	passer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	ClauseType=Int|id=s1.u1.w21
+
+# sent_id = 1AP0080_2
+# text = " sciences en fêtes "
+1	sciences	science	NOUN	_	Gender=Fem|Number=Plur	0	root	_	id=s1.u2.w1
+2	en	en	ADP	_	_	3	case	_	_none=|id=s1.u2.w2
+3	fêtes	fête	NOUN	_	Gender=Fem|Number=Plur	1	nmod	_	id=s1.u2.w3
+
+# sent_id = 1AP0080_3
+# text = " sciences en fêtes " oui
+1	sciences	science	NOUN	_	Gender=Fem|Number=Plur	0	root	_	id=s1.u3.w1
+2	en	en	ADP	_	_	3	case	_	id=s1.u3.w2
+3	fêtes	fête	NOUN	_	Gender=Fem|Number=Plur	1	nmod	_	id=s1.u3.w3
+4	oui	oui	INTJ	_	_	1	discourse	_	_none=|id=s1.u3.w5
+
+# sent_id = 1AP0080_4
+# text = voilà
+1	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u4.w0
+
+# sent_id = 1AP0080_5
+# text = merci beaucoup
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u5.w0
+2	beaucoup	beaucoup	ADV	_	_	1	advmod	_	_none=|id=s1.u5.w1
+
+# sent_id = 1AP0080_6
+# text = mais je vous en prie au revoir
+1	mais	mais	CCONJ	_	_	5	cc	_	_none=|id=s1.u6.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u6.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	5	iobj	_	_none=|id=s1.u6.w2
+4	en	en	PRON	_	Person=3|PronType=Prs	5	iobj	_	_none=|id=s1.u6.w3
+5	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u6.w4
+6	au	au	ADP	_	_	7	case	_	_none=|id=s1.u6.w5
+7	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	5	advcl	_	id=s1.u6.w6
+

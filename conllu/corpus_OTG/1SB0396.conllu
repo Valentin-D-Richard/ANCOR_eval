@@ -1,0 +1,22 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0396_0
+# text = monsieur
+1	monsieur	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1SB0396_1
+# text = vendez des cartes téléphoniques
+1	vendez	_	_	_	_	_	_	_	id=s1.u1.w0
+2	des	_	_	_	_	_	_	_	id=s1.u1.w1
+3	cartes	_	_	_	_	_	_	_	id=s1.u1.w2
+4	téléphoniques	_	_	_	_	_	_	_	id=s1.u1.w3
+
+# sent_id = 1SB0396_2
+# text = e oui écoutez
+1	e	_	_	_	_	_	_	_	id=s1.u2.w0
+2	oui	_	_	_	_	_	_	_	id=s1.u2.w1
+3	écoutez	_	_	_	_	_	_	_	id=s1.u2.w2
+
+# sent_id = 1SB0396_3
+# text = bien
+1	bien	_	_	_	_	_	_	_	id=s1.u3.w0
+

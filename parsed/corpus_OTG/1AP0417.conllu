@@ -1,0 +1,46 @@
+# sent_id = 1AP0417_1
+# text = je voulais voir s' il y avait un plan de Grenoble
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	voulais	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	voir	voir	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u1.w2
+4	s'	si	SCONJ	_	_	7	mark	_	_none=|id=s1.u1.w3
+5	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	_none=|id=s1.u1.w4
+6	y	y	PRON	_	Person=3|PronType=Prs	7	expl:comp	_	_none=|id=s1.u1.w5
+7	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_none=|id=s1.u1.w6
+8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_none=|id=s1.u1.w7
+9	plan	plan	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_none=|id=s1.u1.w8
+10	de	de	ADP	_	_	11	case	_	id=s1.u1.w9
+11	Grenoble	Grenoble	PROPN	_	_	9	nmod	_	id=s1.u1.w10
+
+# sent_id = 1AP0417_2
+# text = bien sûr
+1	bien	bien	ADV	_	_	0	root	_	_none=|id=s1.u2.w0
+2	sûr	sûr	ADJ	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u2.w1
+
+# sent_id = 1AP0417_3
+# text = combien je vous dois
+1	combien	combien	ADV	_	PronType=Int	4	obj	_	_none=|id=s1.u3.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u3.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u3.w2
+4	dois	devoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u3.w3
+
+# sent_id = 1AP0417_4
+# text = rien madame
+1	rien	rien	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	0	root	_	_none=|id=s1.u4.w0
+2	madame	madame	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	_none=|id=s1.u4.w1
+
+# sent_id = 1AP0417_5
+# text = je vous remercie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u5.w0
+2	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	3	obj	_	_none=|id=s1.u5.w1
+3	remercie	remercier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u5.w2
+
+# sent_id = 1AP0417_6
+# text = je vous en prie au revoir
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u6.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u6.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u6.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u6.w3
+5	au	au	ADP	_	_	6	case	_	_none=|id=s1.u6.w4
+6	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	4	advmod	_	id=s1.u6.w5
+

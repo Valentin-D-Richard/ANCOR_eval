@@ -1,0 +1,46 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 060_0000003d_0
+# text = U B S bonjour
+1	U	_	_	_	_	_	_	_	id=s1.u0.w0
+2	B	_	_	_	_	_	_	_	id=s1.u0.w1
+3	S	_	_	_	_	_	_	_	id=s1.u0.w2
+4	bonjour	_	_	_	_	_	_	_	id=s1.u0.w3
+
+# sent_id = 060_0000003d_1
+# text = oui bonjour madame j' aurais voulu avoir des renseignements pour e l- l' inscription en A E S administration économique et sociale
+1	oui	_	_	_	_	_	_	_	id=s1.u1.w0
+2	bonjour	_	_	_	_	_	_	_	id=s1.u1.w1
+3	madame	_	_	_	_	_	_	_	id=s1.u1.w2
+4	j'	_	_	_	_	_	_	_	id=s1.u1.w3
+5	aurais	_	_	_	_	_	_	_	id=s1.u1.w4
+6	voulu	_	_	_	_	_	_	_	id=s1.u1.w5
+7	avoir	_	_	_	_	_	_	_	id=s1.u1.w6
+8	des	_	_	_	_	_	_	_	id=s1.u1.w7
+9	renseignements	_	_	_	_	_	_	_	id=s1.u1.w8
+10	pour	_	_	_	_	_	_	_	id=s1.u1.w9
+11	e	_	_	_	_	_	_	_	id=s1.u1.w10
+12	l-	_	_	_	_	_	_	_	id=s1.u1.w11
+13	l'	_	_	_	_	_	_	_	id=s1.u1.w12
+14	inscription	_	_	_	_	_	_	_	id=s1.u1.w13
+15	en	_	_	_	_	_	_	_	id=s1.u1.w14
+16	A	_	_	_	_	_	_	_	id=s1.u1.w15
+17	E	_	_	_	_	_	_	_	id=s1.u1.w16
+18	S	_	_	_	_	_	_	_	id=s1.u1.w17
+19	administration	_	_	_	_	_	_	_	id=s1.u1.w18
+20	économique	_	_	_	_	_	_	_	id=s1.u1.w19
+21	et	_	_	_	_	_	_	_	id=s1.u1.w20
+22	sociale	_	_	_	_	_	_	_	id=s1.u1.w21
+
+# sent_id = 060_0000003d_2
+# text = Nom oui oui conservez je vais vous passer la personne
+1	Nom	_	_	_	_	_	_	_	id=s1.u2.w0
+2	oui	_	_	_	_	_	_	_	id=s1.u2.w1
+3	oui	_	_	_	_	_	_	_	id=s1.u2.w2
+4	conservez	_	_	_	_	_	_	_	id=s1.u2.w3
+5	je	_	_	_	_	_	_	_	id=s1.u2.w4
+6	vais	_	_	_	_	_	_	_	id=s1.u2.w5
+7	vous	_	_	_	_	_	_	_	id=s1.u2.w6
+8	passer	_	_	_	_	_	_	_	id=s1.u2.w7
+9	la	_	_	_	_	_	_	_	id=s1.u2.w8
+10	personne	_	_	_	_	_	_	_	id=s1.u2.w9
+

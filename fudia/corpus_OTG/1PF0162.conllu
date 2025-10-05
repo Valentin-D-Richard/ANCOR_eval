@@ -1,0 +1,150 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0162_0
+# text = madame
+1	madame	madame	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1PF0162_1
+# text = voir je crois vous avez un petit fascicule sur les activités enfin les spectacles les expositions tout ça du mois sur Grenoble et la région
+1	voir	voir	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u1.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	crois	croire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	id=s1.u1.w3
+5	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_none=|id=s1.u1.w4
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_none=|id=s1.u1.w5
+7	petit	petit	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_none=|id=s1.u1.w6
+8	fascicule	fascicule	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	id=s1.u1.w7
+9	sur	sur	ADP	_	_	11	case	_	_none=|id=s1.u1.w8
+10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	id=s1.u1.w9
+11	activités	activité	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	id=s1.u1.w10
+12	enfin	enfin	ADV	_	_	11	discourse	_	_none=|id=s1.u1.w11
+13	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	14	det	_	id=s1.u1.w12
+14	spectacles	spectacle	NOUN	_	Gender=Masc|Number=Plur	8	appos	_	id=s1.u1.w13
+15	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	16	det	_	id=s1.u1.w14
+16	expositions	exposition	NOUN	_	Gender=Fem|Number=Plur	8	conj	_	id=s1.u1.w15
+17	tout	tout	ADJ	_	Gender=Masc|Number=Sing	18	amod	_	_none=|id=s1.u1.w16
+18	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	conj	_	id=s1.u1.w17
+19	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_none=|id=s1.u1.w18
+20	mois	mois	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_none=|id=s1.u1.w19
+21	sur	sur	ADP	_	_	22	case	_	_none=|id=s1.u1.w20
+22	Grenoble	Grenoble	PROPN	_	_	5	obl:mod	_	_none=|id=s1.u1.w21
+23	et	et	CCONJ	_	_	25	cc	_	_none=|id=s1.u1.w22
+24	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	id=s1.u1.w23
+25	région	région	NOUN	_	Gender=Fem|Number=Sing	22	conj	_	id=s1.u1.w24
+
+# sent_id = 1PF0162_2
+# text = il est où le livre des annonces de je vous en prie madame
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_none=|id=s1.u2.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u2.w1
+3	où	où	PRON	_	PronType=Rel	0	root	_	id=s1.u2.w2
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_none=|id=s1.u2.w3
+5	livre	livre	NOUN	_	Gender=Masc|Number=Sing	3	dislocated	_	_none=|id=s1.u2.w4
+6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	id=s1.u2.w5
+7	annonces	annonce	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	id=s1.u2.w6
+8	de	de	ADP	_	_	12	mark	_	_none=|id=s1.u2.w7
+9	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_none=|id=s1.u2.w8
+10	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	12	iobj	_	_none=|id=s1.u2.w9
+11	en	en	PRON	_	Person=3|PronType=Prs	12	iobj	_	_none=|id=s1.u2.w10
+12	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	discourse	_	_none=|id=s1.u2.w11
+13	madame	madame	NOUN	_	Gender=Fem|Number=Sing	12	vocative	_	id=s1.u2.w12
+
+# sent_id = 1PF0162_3
+# text = voilà tout y est là aussi
+1	voilà	voilà	VERB	_	_	4	discourse	_	_none=|id=s1.u3.w0
+2	tout	tout	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	dislocated	_	_none=|id=s1.u3.w1
+3	y	y	PRON	_	Person=3|PronType=Prs	4	nsubj	_	id=s1.u3.w2
+4	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u3.w3
+5	là	là	ADV	_	_	4	obl:arg	_	_none=|id=s1.u3.w4
+6	aussi	aussi	ADV	_	_	4	advmod	_	_none=|id=s1.u3.w5
+
+# sent_id = 1PF0162_4
+# text = tout y est ah ah ah ah ah tout y est
+1	tout	tout	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_none=|id=s1.u4.w0
+2	y	y	PRON	_	Person=3|PronType=Prs	3	expl:comp	_	_none=|id=s1.u4.w1
+3	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	reparandum	_	id=s1.u4.w2
+4	ah	ah	INTJ	_	_	3	discourse	_	_none=|id=s1.u4.w3
+5	ah	ah	INTJ	_	_	3	discourse	_	_none=|id=s1.u4.w4
+6	ah	ah	INTJ	_	_	3	discourse	_	_none=|id=s1.u4.w5
+7	ah	ah	INTJ	_	_	11	discourse	_	_none=|id=s1.u4.w6
+8	ah	ah	INTJ	_	_	11	discourse	_	_none=|id=s1.u4.w7
+9	tout	tout	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	11	nsubj	_	_none=|id=s1.u4.w8
+10	y	y	PRON	_	Person=3|PronType=Prs	11	iobj	_	id=s1.u4.w9
+11	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w10
+
+# sent_id = 1PF0162_6
+# text = tout ce qui vous a été annoncé quoi c' est ça
+1	tout	tout	ADJ	_	_	2	amod	_	_none=|id=s1.u6.w0
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	dislocated	_	_none=|id=s1.u6.w1
+3	qui	qui	PRON	_	PronType=Rel	7	nsubj	_	_none=|id=s1.u6.w2
+4	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	7	iobj	_	_none=|id=s1.u6.w3
+5	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	_none=|id=s1.u6.w4
+6	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	aux:pass	_	_none=|id=s1.u6.w5
+7	annoncé	annoncer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_none=|id=s1.u6.w6|ClauseType=Int
+8	quoi	quoi	PRON	_	Person=3|PronType=Int	7|7	cue:wh|obj	_	id=s1.u6.w7|PhraseType=Int
+9	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	id=s1.u6.w8
+10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	id=s1.u6.w9
+11	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	id=s1.u6.w10
+
+# sent_id = 1PF0162_7
+# text = ça c' est fait par e le " Grenoble contact " ça c' est " le petit bulletin " et nous nous avons une affiche qui est produit Office du Tourisme qui a rien avoir encore avec ça et qui est mensuelle
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	dislocated	_	_none=|id=s1.u7.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj:pass	_	_none=|id=s1.u7.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_none=|id=s1.u7.w2
+4	fait	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u7.w3
+5	par	par	ADP	_	_	8	case	_	_none=|id=s1.u7.w4
+6	e	e	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	id=s1.u7.w5
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_none=|id=s1.u7.w6
+8	Grenoble	Grenoble	PROPN	_	_	4	obl:arg	_	_none=|id=s1.u7.w8
+9	contact	contact	NOUN	_	Gender=Masc|Number=Sing	8	flat:name	_	id=s1.u7.w9
+10	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	dislocated	_	id=s1.u7.w11
+11	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	nsubj	_	_none=|id=s1.u7.w12
+12	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	id=s1.u7.w13
+13	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_none=|id=s1.u7.w15
+14	petit	petit	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	_none=|id=s1.u7.w16
+15	bulletin	bulletin	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	id=s1.u7.w17
+16	et	et	CCONJ	_	_	19	cc	_	_none=|id=s1.u7.w19
+17	nous	il	PRON	_	Number=Plur|Person=1|PronType=Prs	19	nsubj	_	id=s1.u7.w20
+18	nous	il	PRON	_	Number=Plur|Person=1|PronType=Prs	19	nsubj	_	id=s1.u7.w21
+19	avons	avoir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	conj	_	id=s1.u7.w22
+20	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	id=s1.u7.w23
+21	affiche	affiche	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	id=s1.u7.w24
+22	qui	qui	PRON	_	PronType=Rel	29	nsubj	_	_none=|id=s1.u7.w25
+23	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux:pass	_	_none=|id=s1.u7.w26
+24	produit	produire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	acl:relcl	_	_none=|id=s1.u7.w27
+25	Office	Office	PROPN	_	_	24	nsubj:pass	_	_none=|id=s1.u7.w28
+26	du	de	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	id=s1.u7.w29
+27	Tourisme	Tourisme	PROPN	_	_	25	nmod	_	_none=|id=s1.u7.w30
+28	qui	qui	PRON	_	PronType=Rel	29	nsubj	_	_none=|id=s1.u7.w31
+29	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux:tense	_	_none=|id=s1.u7.w32
+30	rien	rien	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	31	obl:mod	_	_none=|id=s1.u7.w33
+31	avoir	avoir	VERB	_	VerbForm=Inf	29	xcomp	_	_none=|id=s1.u7.w34
+32	encore	encore	ADV	_	_	31	advmod	_	_none=|id=s1.u7.w35
+33	avec	avec	ADP	_	_	34	case	_	_none=|id=s1.u7.w36
+34	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	31	obl:mod	_	id=s1.u7.w37
+35	et	et	CCONJ	_	_	38	cc	_	id=s1.u7.w38
+36	qui	qui	PRON	_	PronType=Rel	38	nsubj	_	id=s1.u7.w39
+37	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	38	cop	_	id=s1.u7.w40
+38	mensuelle	mensuell	ADJ	_	Gender=Fem|Number=Sing	24	conj	_	id=s1.u7.w41
+
+# sent_id = 1PF0162_9
+# text = ah c' est gentil voilà avec tout ça je vais me régaler merci
+1	ah	ah	INTJ	_	_	4	discourse	_	id=s1.u9.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_none=|id=s1.u9.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	id=s1.u9.w2
+4	gentil	gentil	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u9.w3
+5	voilà	voilà	VERB	_	_	4	discourse	_	id=s1.u9.w4
+6	avec	avec	ADP	_	_	8	case	_	_none=|id=s1.u9.w5
+7	tout	tout	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_none=|id=s1.u9.w6
+8	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	obl:mod	_	_none=|id=s1.u9.w7
+9	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_none=|id=s1.u9.w8
+10	vais	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	id=s1.u9.w9
+11	me	le	PRON	_	Number=Sing|Person=1|PronType=Prs	12	obj	_	_none=|id=s1.u9.w10
+12	régaler	régaler	VERB	_	VerbForm=Inf	10	xcomp	_	id=s1.u9.w11
+13	merci	merci	INTJ	_	_	10	discourse	_	_none=|id=s1.u9.w12
+
+# sent_id = 1PF0162_10
+# text = je vous en prie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u10.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u10.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u10.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u10.w3
+

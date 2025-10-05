@@ -1,0 +1,51 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0308_0
+# text = 
+
+# sent_id = 1AP0308_1
+# text = est ce que vous auriez des prospectus sur le musée Dauphinois
+1	est	_	_	_	_	_	_	_	id=s1.u1.w0
+2	ce	_	_	_	_	_	_	_	id=s1.u1.w1
+3	que	_	_	_	_	_	_	_	id=s1.u1.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u1.w3
+5	auriez	_	_	_	_	_	_	_	id=s1.u1.w4
+6	des	_	_	_	_	_	_	_	id=s1.u1.w5
+7	prospectus	_	_	_	_	_	_	_	id=s1.u1.w6
+8	sur	_	_	_	_	_	_	_	id=s1.u1.w7
+9	le	_	_	_	_	_	_	_	id=s1.u1.w8
+10	musée	_	_	_	_	_	_	_	id=s1.u1.w9
+11	Dauphinois	_	_	_	_	_	_	_	id=s1.u1.w10
+
+# sent_id = 1AP0308_2
+# text = ah juste un petit dépliant une petite plaquette c' est tout
+1	ah	_	_	_	_	_	_	_	id=s1.u2.w0
+2	juste	_	_	_	_	_	_	_	id=s1.u2.w1
+3	un	_	_	_	_	_	_	_	id=s1.u2.w2
+4	petit	_	_	_	_	_	_	_	id=s1.u2.w3
+5	dépliant	_	_	_	_	_	_	_	id=s1.u2.w4
+6	une	_	_	_	_	_	_	_	id=s1.u2.w5
+7	petite	_	_	_	_	_	_	_	id=s1.u2.w6
+8	plaquette	_	_	_	_	_	_	_	id=s1.u2.w7
+9	c'	_	_	_	_	_	_	_	id=s1.u2.w8
+10	est	_	_	_	_	_	_	_	id=s1.u2.w9
+11	tout	_	_	_	_	_	_	_	id=s1.u2.w10
+
+# sent_id = 1AP0308_3
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1AP0308_4
+# text = je vous en prie
+1	je	_	_	_	_	_	_	_	id=s1.u4.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u4.w1
+3	en	_	_	_	_	_	_	_	id=s1.u4.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u4.w3
+
+# sent_id = 1AP0308_5
+# text = au revoir
+1	au	_	_	_	_	_	_	_	id=s1.u5.w0
+2	revoir	_	_	_	_	_	_	_	id=s1.u5.w1
+
+# sent_id = 1AP0308_6
+# text = 
+

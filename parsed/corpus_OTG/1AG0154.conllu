@@ -1,0 +1,81 @@
+# sent_id = 1AG0154_0
+# text = je peux m' occuper de quelqu'un
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u0.w0
+2	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u0.w1
+3	m'	me	PRON	_	Number=Sing|Person=1|PronType=Prs	4	iobj	_	_none=|id=s1.u0.w2
+4	occuper	occuper	VERB	_	VerbForm=Inf	2	xcomp	_	id=s1.u0.w3
+5	de	de	ADP	_	_	6	case	_	_none=|id=s1.u0.w4
+6	quelqu'un	quelqu'un	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	obl:arg	_	_none=|id=s1.u0.w5
+
+# sent_id = 1AG0154_1
+# text = moi je veux bien c' est je cherche une carte des massifs montagneux de Grenoble
+1	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	_none=|id=s1.u1.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	discourse	_	_none=|id=s1.u1.w2
+4	bien	bien	ADV	_	_	3	advmod	_	_none=|id=s1.u1.w3
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	id=s1.u1.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	reparandum	_	id=s1.u1.w5
+7	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	id=s1.u1.w6
+8	cherche	chercher	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u1.w7
+9	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	id=s1.u1.w8
+10	carte	carte	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	id=s1.u1.w9
+11	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	12	det	_	id=s1.u1.w10
+12	massifs	massif	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	id=s1.u1.w11
+13	montagneux	montagneu	ADJ	_	Gender=Masc|Number=Plur	12	amod	_	id=s1.u1.w12
+14	de	de	ADP	_	_	15	case	_	_none=|id=s1.u1.w13
+15	Grenoble	Grenoble	PROPN	_	_	12	nmod	_	id=s1.u1.w14
+
+# sent_id = 1AG0154_2
+# text = e il faudra monter à " info montagne " parce que moi j' ai ça et j' ai peur que ce soit pas assez compliqué à moins que ça vous suffise
+1	e	e	INTJ	_	_	3	expl:subj	_	id=s1.u2.w0
+2	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_none=|id=s1.u2.w1
+3	faudra	faudlloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w2
+4	monter	monter	VERB	_	VerbForm=Inf	3	ccomp	_	_none=|id=s1.u2.w3
+5	à	à	ADP	_	_	6	case	_	id=s1.u2.w4
+6	info	info	NOUN	_	Gender=Fem|Number=Sing	4	obl:arg	_	id=s1.u2.w6
+7	montagne	montagne	NOUN	_	Gender=Fem|Number=Sing	4	obl:arg	_	id=s1.u2.w7
+8	parce	parce	ADV	_	_	12	mark	_	_none=|id=s1.u2.w9
+9	que	que	SCONJ	_	_	8	fixed	_	id=s1.u2.w10
+10	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	12	dislocated	_	_none=|id=s1.u2.w11
+11	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_none=|id=s1.u2.w12
+12	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	reparandum	_	_none=|id=s1.u2.w13
+13	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	obj	_	_none=|id=s1.u2.w14
+14	et	et	CCONJ	_	_	16	cc	_	_none=|id=s1.u2.w15
+15	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_none=|id=s1.u2.w16
+16	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_none=|id=s1.u2.w17
+17	peur	peur	NOUN	_	Gender=Fem|Number=Sing	16	obj:lvc	_	id=s1.u2.w18
+18	que	que	SCONJ	_	_	23	mark	_	_none=|id=s1.u2.w19
+19	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	23	nsubj	_	_none=|id=s1.u2.w20
+20	soit	être	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_none=|id=s1.u2.w21
+21	pas	pas	ADV	_	_	23	advmod	_	_none=|id=s1.u2.w22
+22	assez	assez	ADV	_	_	23	advmod	_	_none=|id=s1.u2.w23
+23	compliqué	compliqué	ADJ	_	Gender=Masc|Number=Sing	17	ccomp	_	_none=|id=s1.u2.w24
+24	à	à	ADP	_	_	25	case	_	_none=|id=s1.u2.w25
+25	moins	moins	ADV	_	_	23	obl:mod	_	_none=|id=s1.u2.w26
+26	que	que	SCONJ	_	_	29	mark	_	_none=|id=s1.u2.w27
+27	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	29	nsubj	_	_none=|id=s1.u2.w28
+28	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	29	iobj	_	id=s1.u2.w29
+29	suffise	suffire	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	acl	_	id=s1.u2.w30
+
+# sent_id = 1AG0154_3
+# text = je vais déjà prendre ça sinon il faut que je monte
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u3.w0
+2	vais	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u3.w1
+3	déjà	déjà	ADV	_	_	2	advmod	_	_none=|id=s1.u3.w2
+4	prendre	prendre	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u3.w3
+5	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	obj	_	id=s1.u3.w4
+6	sinon	sinon	CCONJ	_	_	8	cc	_	_none=|id=s1.u3.w5
+7	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl:subj	_	_none=|id=s1.u3.w6
+8	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	id=s1.u3.w7
+9	que	que	SCONJ	_	_	11	mark	_	id=s1.u3.w8
+10	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	id=s1.u3.w9
+11	monte	monter	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	ccomp	_	id=s1.u3.w10
+
+# sent_id = 1AG0154_4
+# text = oui " info montagne " voilà madame
+1	oui	oui	INTJ	_	_	2	discourse	_	_none=|id=s1.u4.w0
+2	info	info	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u4.w2
+3	montagne	montagne	NOUN	_	Gender=Fem|Number=Sing	2	compound	_	id=s1.u4.w3
+4	voilà	voilà	VERB	_	_	2	discourse	_	id=s1.u4.w5
+5	madame	madame	NOUN	_	Gender=Fem|Number=Sing	4	vocative	_	id=s1.u4.w6
+

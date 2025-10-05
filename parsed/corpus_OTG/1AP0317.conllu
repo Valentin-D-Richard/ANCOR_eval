@@ -1,0 +1,61 @@
+# sent_id = 1AP0317_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0317_1
+# text = bonjour est ce que vous avez une liste des M J C e
+1	bonjour	bonjour	NOUN	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u1.w1
+3	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u1.w2
+4	que	que	SCONJ	_	_	6	mark	_	_none=|id=s1.u1.w3
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	id=s1.u1.w4
+6	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_none=|id=s1.u1.w5
+7	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	id=s1.u1.w6
+8	liste	liste	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	id=s1.u1.w7
+9	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	10	det	_	id=s1.u1.w8
+10	M	M	PROPN	_	_	8	nmod	_	_none=|id=s1.u1.w9
+11	J	J	PROPN	_	_	10	flat:name	_	_none=|id=s1.u1.w10
+12	C	C	PROPN	_	_	10	flat:name	_	_none=|id=s1.u1.w11
+13	e	e	PUNCT	_	_	3	dep	_	id=s1.u1.w12
+
+# sent_id = 1AP0317_2
+# text = oui ah donc là vous avez les listes des M J C avec leurs coordonnées et les ateliers qu' elles proposent hein
+1	oui	oui	INTJ	_	_	6	discourse	_	_none=|id=s1.u2.w0
+2	ah	ah	INTJ	_	_	6	discourse	_	_none=|id=s1.u2.w1
+3	donc	donc	ADV	_	_	6	advmod	_	_none=|id=s1.u2.w2
+4	là	là	ADV	_	_	6	advmod	_	_none=|id=s1.u2.w3
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	id=s1.u2.w4
+6	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w5
+7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	id=s1.u2.w6
+8	listes	liste	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	id=s1.u2.w7
+9	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	10	det	_	id=s1.u2.w8
+10	M	M	PROPN	_	_	8	nmod	_	_none=|id=s1.u2.w9
+11	J	J	PROPN	_	_	10	flat:name	_	id=s1.u2.w10
+12	C	C	PROPN	_	_	10	flat:name	_	_none=|id=s1.u2.w11
+13	avec	avec	ADP	_	_	15	case	_	_none=|id=s1.u2.w12
+14	leurs	son	DET	_	Number=Plur|Number[psor]=Plur|Person[psor]=3|PronType=Prs	15	det	_	id=s1.u2.w13
+15	coordonnées	coordonnée	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	id=s1.u2.w14
+16	et	et	CCONJ	_	_	18	cc	_	id=s1.u2.w15
+17	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	18	det	_	id=s1.u2.w16
+18	ateliers	atelier	NOUN	_	Gender=Masc|Number=Plur	15	conj	_	id=s1.u2.w17
+19	qu'	que	PRON	_	PronType=Rel	21	obj	_	id=s1.u2.w18
+20	elles	il	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	id=s1.u2.w19
+21	proposent	proposer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	id=s1.u2.w20
+22	hein	hein	INTJ	_	_	6	discourse	_	_none=|id=s1.u2.w21
+
+# sent_id = 1AP0317_3
+# text = d' accord merci beaucoup
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u3.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u3.w1
+3	merci	merci	INTJ	_	_	1	obj	_	_none=|id=s1.u3.w2
+4	beaucoup	beaucoup	ADV	_	_	3	advmod	_	_none=|id=s1.u3.w3
+
+# sent_id = 1AP0317_4
+# text = je vous en prie au revoir
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u4.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u4.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u4.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w3
+5	au	au	ADP	_	_	6	case	_	_none=|id=s1.u4.w4
+6	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	4	advmod	_	id=s1.u4.w5
+

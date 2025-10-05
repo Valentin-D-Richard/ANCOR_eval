@@ -1,0 +1,33 @@
+# sent_id = 1AP0227_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0227_1
+# text = bonjour je voudrais avoir les horaires des ouvertures de piscine
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	avoir	avoir	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u1.w3
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	id=s1.u1.w4
+6	horaires	horaire	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	id=s1.u1.w5
+7	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	8	det	_	id=s1.u1.w6
+8	ouvertures	ouverture	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	id=s1.u1.w7
+9	de	de	ADP	_	_	10	case	_	_none=|id=s1.u1.w8
+10	piscine	piscine	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	id=s1.u1.w9
+
+# sent_id = 1AP0227_2
+# text = oui voilà jeune homme
+1	oui	oui	ADV	_	_	2	discourse	_	_none=|id=s1.u2.w0
+2	voilà	voilà	VERB	_	_	0	root	_	id=s1.u2.w1
+3	jeune	jeune	ADJ	_	Number=Sing	4	amod	_	_none=|id=s1.u2.w2
+4	homme	homme	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_none=|id=s1.u2.w3
+
+# sent_id = 1AP0227_3
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1AP0227_4
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u4.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u4.w1
+

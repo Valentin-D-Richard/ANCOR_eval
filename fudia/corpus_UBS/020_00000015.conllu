@@ -1,0 +1,96 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 020_00000015_0
+# text = U B S bonjour
+1	U	U	PROPN	_	_	4	dep	_	_none=|id=s1.u0.w0
+2	B	B	PROPN	_	_	1	flat:name	_	_none=|id=s1.u0.w1
+3	S	S	PROPN	_	_	1	dep	_	_none=|id=s1.u0.w2
+4	bonjour	bonjour	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w3
+
+# sent_id = 020_00000015_1
+# text = oui bonjour madame monsieur Nom Siemens j' aurais voulu parler à Monsieur Nom2 s' il était là
+1	oui	oui	INTJ	_	_	9	discourse	_	_none=|id=s1.u1.w0
+2	bonjour	bonjour	INTJ	_	_	9	discourse	_	_none=|id=s1.u1.w1
+3	madame	madame	NOUN	_	Gender=Fem|Number=Sing	9	dislocated	_	_none=|id=s1.u1.w2
+4	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	9	dislocated	_	_none=|id=s1.u1.w3
+5	Nom	Nom	PROPN	_	_	4	nmod:appos	_	_none=|id=s1.u1.w4
+6	Siemens	Siemens	PROPN	_	_	4	nmod:appos	_	_none=|id=s1.u1.w5
+7	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_none=|id=s1.u1.w6
+8	aurais	avoir	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux:tense	_	_none=|id=s1.u1.w7
+9	voulu	vouloir	VERB	DoubleAux	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u1.w8
+10	parler	parler	VERB	_	VerbForm=Inf	9	xcomp	_	id=s1.u1.w9
+11	à	à	ADP	_	_	12	case	_	id=s1.u1.w10
+12	Monsieur	Monsieur	PROPN	_	_	10	obl:arg	_	_none=|id=s1.u1.w11
+13	Nom2	Nom2	PROPN	_	_	12	flat:name	_	_none=|id=s1.u1.w12
+14	s'	se	SCONJ	_	_	17	mark	_	_none=|id=s1.u1.w13
+15	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_none=|id=s1.u1.w14
+16	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	cop	_	_none=|id=s1.u1.w15
+17	là	là	ADV	_	_	10	advcl	_	_none=|id=s1.u1.w16
+
+# sent_id = 020_00000015_2
+# text = oui j' ai pas bien entendu votre nom monsieur
+1	oui	oui	INTJ	_	_	6	discourse	_	_none=|id=s1.u2.w0
+2	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_none=|id=s1.u2.w1
+3	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_none=|id=s1.u2.w2
+4	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	_none=|id=s1.u2.w3
+5	bien	bien	ADV	_	_	6	advmod	_	_none=|id=s1.u2.w4
+6	entendu	entendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u2.w5
+7	votre	son	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=2|PronType=Prs	8	det	_	_none=|id=s1.u2.w6
+8	nom	nom	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_none=|id=s1.u2.w7
+9	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	6	vocative	_	_none=|id=s1.u2.w8
+
+# sent_id = 020_00000015_3
+# text = monsieur Nom Siemens
+1	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u3.w0
+2	Nom	Nom	PROPN	_	_	1	amod	_	_none=|id=s1.u3.w1
+3	Siemens	Siemens	PROPN	_	_	1	nmod:appos	_	_none=|id=s1.u3.w2
+
+# sent_id = 020_00000015_4
+# text = monsieur Nom Société Siemens c' est ça
+1	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	7	dislocated	_	_none=|id=s1.u4.w0
+2	Nom	Nom	ADJ	_	_	1	amod	_	_none=|id=s1.u4.w1
+3	Société	Société	PROPN	_	_	7	appos	_	id=s1.u4.w2
+4	Siemens	Siemens	PROPN	_	_	3	flat:name	_	id=s1.u4.w3
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	id=s1.u4.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	id=s1.u4.w5
+7	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	id=s1.u4.w6
+
+# sent_id = 020_00000015_5
+# text = de oui
+1	de	de	ADP	_	_	2	case	_	_none=|id=s1.u5.w0
+2	oui	oui	INTJ	_	_	0	root	_	id=s1.u5.w1
+
+# sent_id = 020_00000015_6
+# text = d' accord je vais voir
+1	d'	de	ADP	_	_	4	dep	_	_none=|id=s1.u6.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u6.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u6.w2
+4	vais	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u6.w3
+5	voir	voir	VERB	_	VerbForm=Inf	4	xcomp	_	id=s1.u6.w4
+
+# sent_id = 020_00000015_7
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u7.w0
+
+# sent_id = 020_00000015_8
+# text = allo
+1	allo	allo	ADV	_	_	0	root	_	_none=|id=s1.u8.w0
+
+# sent_id = 020_00000015_9
+# text = oui j' ai en ligne monsieur Nom de la société Siemens
+1	oui	oui	INTJ	_	_	3	discourse	_	_none=|id=s1.u9.w0
+2	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u9.w1
+3	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u9.w2
+4	en	en	ADP	_	_	5	case	_	_none=|id=s1.u9.w3
+5	ligne	ligne	NOUN	_	Gender=Fem|Number=Sing	3	obl:mod	_	id=s1.u9.w4
+6	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_none=|id=s1.u9.w5
+7	Nom	Nom	PROPN	_	_	6	nmod:appos	_	_none=|id=s1.u9.w6
+8	de	de	ADP	_	_	10	case	_	_none=|id=s1.u9.w7
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	id=s1.u9.w8
+10	société	société	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	id=s1.u9.w9
+11	Siemens	Siemens	PROPN	_	_	10	nmod:appos	_	_none=|id=s1.u9.w10
+
+# sent_id = 020_00000015_10
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u10.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u10.w1
+

@@ -1,0 +1,115 @@
+# sent_id = 1AG0565_0
+# text = monsieur
+1	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AG0565_1
+# text = je voudrais prendre la ligne trente-trois on n' a pas de prix non non il y a il y a il y a rien il y a rien
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u1.w0
+2	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	prendre	prendre	VERB	_	VerbForm=Inf	2	xcomp	_	id=s1.u1.w2
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	id=s1.u1.w3
+5	ligne	ligne	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	id=s1.u1.w4
+6	trente-trois	trente-trois	NUM	_	Number=Plur	5	nmod	_	_none=|id=s1.u1.w5
+7	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	9	nsubj	_	_none=|id=s1.u1.w6
+8	n'	ne	ADV	_	Polarity=Neg	9	advmod	_	_none=|id=s1.u1.w7
+9	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	id=s1.u1.w8
+10	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	id=s1.u1.w9
+11	de	de	ADP	_	_	12	case	_	_none=|id=s1.u1.w10
+12	prix	prix	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	id=s1.u1.w11
+13	non	non	ADV	_	_	17	discourse	_	_none=|id=s1.u1.w12
+14	non	non	ADV	_	_	13	conj	_	_none=|id=s1.u1.w13
+15	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	expl:subj	_	_none=|id=s1.u1.w14
+16	y	y	PRON	_	Person=3|PronType=Prs	17	expl:comp	_	_none=|id=s1.u1.w15
+17	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	reparandum	_	id=s1.u1.w16
+18	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	expl:subj	_	_none=|id=s1.u1.w17
+19	y	y	PRON	_	Person=3|PronType=Prs	20	expl:comp	_	id=s1.u1.w18
+20	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	reparandum	_	id=s1.u1.w19
+21	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	expl:subj	_	_none=|id=s1.u1.w20
+22	y	y	PRON	_	Person=3|PronType=Prs	23	expl:comp	_	id=s1.u1.w21
+23	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	id=s1.u1.w22
+24	rien	rien	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	23	obj	_	id=s1.u1.w23
+25	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	expl:subj	_	_none=|id=s1.u1.w24
+26	y	y	PRON	_	Person=3|PronType=Prs	27	expl:comp	_	id=s1.u1.w25
+27	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	id=s1.u1.w26
+28	rien	rien	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	27	obj	_	id=s1.u1.w27
+
+# sent_id = 1AG0565_2
+# text = au TAG qu' il faut s' adresser
+1	au	au	DET	_	_	2	det	_	_none=|id=s1.u2.w0
+2	TAG	TAG	PROPN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u2.w1
+3	qu'	que	PRON	_	PronType=Rel	7	obj	_	_none=|id=s1.u2.w2
+4	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:subj	_	_none=|id=s1.u2.w3
+5	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	id=s1.u2.w4
+6	s'	se	PRON	_	Person=3|PronType=Prs	7	iobj	_	id=s1.u2.w5
+7	adresser	adresser	VERB	_	VerbForm=Inf	5	ccomp	_	id=s1.u2.w6
+
+# sent_id = 1AG0565_3
+# text = mais c' est pas c' est les TAG qui s' occupent de leur prospectus
+1	mais	mais	CCONJ	_	_	3	cc	_	_none=|id=s1.u3.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_none=|id=s1.u3.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	reparandum	_	_none=|id=s1.u3.w2
+4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_none=|id=s1.u3.w3
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	expl:subj	_	id=s1.u3.w4
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	id=s1.u3.w5
+7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	id=s1.u3.w6
+8	TAG	TAG	PROPN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u3.w7
+9	qui	qui	PRON	_	PronType=Rel	11	nsubj	_	_none=|id=s1.u3.w8
+10	s'	se	PRON	_	Person=3|PronType=Prs	11	expl:comp	_	id=s1.u3.w9
+11	occupent	occuper	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	id=s1.u3.w10
+12	de	de	ADP	_	_	14	case	_	_none=|id=s1.u3.w11
+13	leur	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=3|PronType=Prs	14	det	_	id=s1.u3.w12
+14	prospectus	prospectus	NOUN	_	Gender=Masc|Number=Sing	11	obl:arg	_	id=s1.u3.w13
+
+# sent_id = 1AG0565_4
+# text = comment
+1	comment	Comment	NOUN	_	_	0	root	_	_none=|id=s1.u4.w0
+
+# sent_id = 1AG0565_5
+# text = il faut voir avec les TAG
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	_none=|id=s1.u5.w0
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u5.w1
+3	voir	voir	VERB	_	VerbForm=Inf	2	ccomp	_	id=s1.u5.w2
+4	avec	avec	ADP	_	_	6	case	_	_none=|id=s1.u5.w3
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	id=s1.u5.w4
+6	TAG	ta	NOUN	_	Gender=Masc|Number=Plur	3	obl:arg	_	_none=|id=s1.u5.w5
+
+# sent_id = 1AG0565_6
+# text = ah les TAG
+1	ah	ah	INTJ	_	_	3	discourse	_	_none=|id=s1.u6.w0
+2	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	id=s1.u6.w1
+3	TAG	Tag	PROPN	_	Gender=Masc|Number=Plur	0	root	_	_none=|id=s1.u6.w2
+
+# sent_id = 1AG0565_7
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u7.w0
+
+# sent_id = 1AG0565_8
+# text = parce qu' il y a un truc là mais il y a de
+1	parce	parce	ADV	_	_	5	mark	_	_none=|id=s1.u8.w0
+2	qu'	que	SCONJ	_	_	1	fixed	_	id=s1.u8.w1
+3	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:subj	_	_none=|id=s1.u8.w2
+4	y	y	PRON	_	Person=3|PronType=Prs	5	expl:comp	_	_none=|id=s1.u8.w3
+5	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u8.w4
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_none=|id=s1.u8.w5
+7	truc	truc	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_none=|id=s1.u8.w6
+8	là	là	ADV	_	_	5	advmod	_	_none=|id=s1.u8.w7
+9	mais	mais	CCONJ	_	_	12	cc	_	_none=|id=s1.u8.w8
+10	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl:subj	_	_none=|id=s1.u8.w9
+11	y	y	PRON	_	Person=3|PronType=Prs	12	expl:comp	_	id=s1.u8.w10
+12	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	id=s1.u8.w11
+13	de	de	ADP	_	_	12	obj	_	_none=|id=s1.u8.w12
+
+# sent_id = 1AG0565_9
+# text = il faut leur demander ils en ont peut être en réserve
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	_none=|id=s1.u9.w0
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u9.w1
+3	leur	lui	PRON	_	Number=Plur|Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u9.w2
+4	demander	demander	VERB	_	VerbForm=Inf	2	ccomp	_	_none=|id=s1.u9.w3
+5	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	id=s1.u9.w4
+6	en	en	PRON	_	Person=3|PronType=Prs	7	obj	_	id=s1.u9.w5
+7	ont	avoir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_none=|id=s1.u9.w6
+8	peut	peut	ADV	_	VerbForm=Inf	7	advmod	_	_none=|id=s1.u9.w7
+9	être	être	VERB	_	VerbForm=Inf	8	fixed	_	_none=|id=s1.u9.w8
+10	en	en	ADP	_	_	11	case	_	_none=|id=s1.u9.w9
+11	réserve	réserve	NOUN	_	Gender=Fem|Number=Sing	7	obl:mod	_	id=s1.u9.w10
+

@@ -1,0 +1,82 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0115_0
+# text = 
+
+# sent_id = 1AP0115_1
+# text = je voulais savoir si vous aviez un plan ou une liste des pistes cyclables sur Grenoble et la région
+1	je	_	_	_	_	_	_	_	id=s1.u1.w0
+2	voulais	_	_	_	_	_	_	_	id=s1.u1.w1
+3	savoir	_	_	_	_	_	_	_	id=s1.u1.w2
+4	si	_	_	_	_	_	_	_	id=s1.u1.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u1.w4
+6	aviez	_	_	_	_	_	_	_	id=s1.u1.w5
+7	un	_	_	_	_	_	_	_	id=s1.u1.w6
+8	plan	_	_	_	_	_	_	_	id=s1.u1.w7
+9	ou	_	_	_	_	_	_	_	id=s1.u1.w8
+10	une	_	_	_	_	_	_	_	id=s1.u1.w9
+11	liste	_	_	_	_	_	_	_	id=s1.u1.w10
+12	des	_	_	_	_	_	_	_	id=s1.u1.w11
+13	pistes	_	_	_	_	_	_	_	id=s1.u1.w12
+14	cyclables	_	_	_	_	_	_	_	id=s1.u1.w13
+15	sur	_	_	_	_	_	_	_	id=s1.u1.w14
+16	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w15
+17	et	_	_	_	_	_	_	_	id=s1.u1.w16
+18	la	_	_	_	_	_	_	_	id=s1.u1.w17
+19	région	_	_	_	_	_	_	_	id=s1.u1.w18
+
+# sent_id = 1AP0115_2
+# text = plus rupture des stocks
+1	plus	_	_	_	_	_	_	_	id=s1.u2.w0
+2	rupture	_	_	_	_	_	_	_	id=s1.u2.w1
+3	des	_	_	_	_	_	_	_	id=s1.u2.w2
+4	stocks	_	_	_	_	_	_	_	id=s1.u2.w3
+
+# sent_id = 1AP0115_3
+# text = vous en ah mais vous en aurez
+1	vous	_	_	_	_	_	_	_	id=s1.u3.w0
+2	en	_	_	_	_	_	_	_	id=s1.u3.w1
+3	ah	_	_	_	_	_	_	_	id=s1.u3.w2
+4	mais	_	_	_	_	_	_	_	id=s1.u3.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u3.w4
+6	en	_	_	_	_	_	_	_	id=s1.u3.w5
+7	aurez	_	_	_	_	_	_	_	id=s1.u3.w6
+
+# sent_id = 1AP0115_4
+# text = ben ils sont en train de rééditer le plan donc il faut compter un mois un mois et demi de délai hein
+1	ben	_	_	_	_	_	_	_	id=s1.u4.w0
+2	ils	_	_	_	_	_	_	_	id=s1.u4.w1
+3	sont	_	_	_	_	_	_	_	id=s1.u4.w2
+4	en	_	_	_	_	_	_	_	id=s1.u4.w3
+5	train	_	_	_	_	_	_	_	id=s1.u4.w4
+6	de	_	_	_	_	_	_	_	id=s1.u4.w5
+7	rééditer	_	_	_	_	_	_	_	id=s1.u4.w6
+8	le	_	_	_	_	_	_	_	id=s1.u4.w7
+9	plan	_	_	_	_	_	_	_	id=s1.u4.w8
+10	donc	_	_	_	_	_	_	_	id=s1.u4.w9
+11	il	_	_	_	_	_	_	_	id=s1.u4.w10
+12	faut	_	_	_	_	_	_	_	id=s1.u4.w11
+13	compter	_	_	_	_	_	_	_	id=s1.u4.w12
+14	un	_	_	_	_	_	_	_	id=s1.u4.w13
+15	mois	_	_	_	_	_	_	_	id=s1.u4.w14
+16	un	_	_	_	_	_	_	_	id=s1.u4.w15
+17	mois	_	_	_	_	_	_	_	id=s1.u4.w16
+18	et	_	_	_	_	_	_	_	id=s1.u4.w17
+19	demi	_	_	_	_	_	_	_	id=s1.u4.w18
+20	de	_	_	_	_	_	_	_	id=s1.u4.w19
+21	délai	_	_	_	_	_	_	_	id=s1.u4.w20
+22	hein	_	_	_	_	_	_	_	id=s1.u4.w21
+
+# sent_id = 1AP0115_5
+# text = d' accord bon merci
+1	d'	_	_	_	_	_	_	_	id=s1.u5.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u5.w1
+3	bon	_	_	_	_	_	_	_	id=s1.u5.w2
+4	merci	_	_	_	_	_	_	_	id=s1.u5.w3
+
+# sent_id = 1AP0115_6
+# text = désolé au revoir madame
+1	désolé	_	_	_	_	_	_	_	id=s1.u6.w0
+2	au	_	_	_	_	_	_	_	id=s1.u6.w1
+3	revoir	_	_	_	_	_	_	_	id=s1.u6.w2
+4	madame	_	_	_	_	_	_	_	id=s1.u6.w3
+

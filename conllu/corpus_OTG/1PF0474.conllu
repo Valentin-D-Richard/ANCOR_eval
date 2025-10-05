@@ -1,0 +1,32 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0474_0
+# text = 
+
+# sent_id = 1PF0474_1
+# text = un plan des pistes cyclables de Grenoble s' il vous plaît
+1	un	_	_	_	_	_	_	_	id=s1.u1.w0
+2	plan	_	_	_	_	_	_	_	id=s1.u1.w1
+3	des	_	_	_	_	_	_	_	id=s1.u1.w2
+4	pistes	_	_	_	_	_	_	_	id=s1.u1.w3
+5	cyclables	_	_	_	_	_	_	_	id=s1.u1.w4
+6	de	_	_	_	_	_	_	_	id=s1.u1.w5
+7	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w6
+8	s'	_	_	_	_	_	_	_	id=s1.u1.w7
+9	il	_	_	_	_	_	_	_	id=s1.u1.w8
+10	vous	_	_	_	_	_	_	_	id=s1.u1.w9
+11	plaît	_	_	_	_	_	_	_	id=s1.u1.w10
+
+# sent_id = 1PF0474_2
+# text = voilà
+1	voilà	_	_	_	_	_	_	_	id=s1.u2.w0
+
+# sent_id = 1PF0474_3
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1PF0474_4
+# text = c' est moi
+1	c'	_	_	_	_	_	_	_	id=s1.u4.w0
+2	est	_	_	_	_	_	_	_	id=s1.u4.w1
+3	moi	_	_	_	_	_	_	_	id=s1.u4.w2
+

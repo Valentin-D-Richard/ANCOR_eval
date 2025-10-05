@@ -1,0 +1,185 @@
+# sent_id = 1AP0384_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0384_1
+# text = bonjour est ce que vous avez un programme de l' année des musées de Grenoble et des musées Dauphinois s' il vous plaît
+1	bonjour	bonjour	NOUN	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u1.w1
+3	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u1.w2
+4	que	que	SCONJ	_	_	6	mark	_	_none=|id=s1.u1.w3
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_none=|id=s1.u1.w4
+6	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	_	_none=|id=s1.u1.w5
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	id=s1.u1.w6
+8	programme	programme	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_none=|id=s1.u1.w7
+9	de	de	ADP	_	_	11	case	_	_none=|id=s1.u1.w8
+10	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	11	det	_	id=s1.u1.w9
+11	année	année	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	id=s1.u1.w10
+12	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	13	det	_	id=s1.u1.w11
+13	musées	musée	NOUN	_	Gender=Masc|Number=Plur	8	appos	_	id=s1.u1.w12
+14	de	de	ADP	_	_	15	case	_	_none=|id=s1.u1.w13
+15	Grenoble	Grenoble	PROPN	_	_	13	nmod	_	_none=|id=s1.u1.w14
+16	et	et	CCONJ	_	_	18	cc	_	id=s1.u1.w15
+17	des	un	DET	de	Definite=Ind|Number=Plur|PronType=Art	18	det	_	id=s1.u1.w16
+18	musées	musée	NOUN	_	Gender=Masc|Number=Plur	13	conj	_	id=s1.u1.w17
+19	Dauphinois	Dauphinois	PROPN	_	Gender=Masc|Number=Plur	18	amod	_	id=s1.u1.w18
+20	s'	s'	SCONJ	_	_	23	mark	_	_none=|id=s1.u1.w19
+21	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	expl:subj	_	_none=|id=s1.u1.w20
+22	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	23	iobj	_	_none=|id=s1.u1.w21
+23	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	discourse	_	id=s1.u1.w22
+
+# sent_id = 1AP0384_2
+# text = on n' a pas eu sur les musées du musée Dauphinois on va pas tarder à l' avoir on a simplement la petite plaquette et documentation du musée
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj	_	_none=|id=s1.u2.w0
+2	n'	ne	ADV	_	Polarity=Neg	5	advmod	_	_none=|id=s1.u2.w1
+3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_none=|id=s1.u2.w2
+4	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	_none=|id=s1.u2.w3
+5	eu	avoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u2.w4
+6	sur	sur	ADP	_	_	8	case	_	id=s1.u2.w5
+7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	id=s1.u2.w6
+8	musées	musée	NOUN	_	Gender=Masc|Number=Plur	5	obl:mod	_	id=s1.u2.w7
+9	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_none=|id=s1.u2.w8
+10	musée	musée	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_none=|id=s1.u2.w9
+11	Dauphinois	Dauphinois	PROPN	_	_	10	nmod:appos	_	_none=|id=s1.u2.w10
+12	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	13	nsubj	_	_none=|id=s1.u2.w11
+13	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_none=|id=s1.u2.w12
+14	pas	pas	ADV	_	_	13	advmod	_	_none=|id=s1.u2.w13
+15	tarder	tarder	VERB	_	VerbForm=Inf	13	xcomp	_	_none=|id=s1.u2.w14
+16	à	à	ADP	_	_	18	mark	_	_none=|id=s1.u2.w15
+17	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	18	obj	_	id=s1.u2.w16
+18	avoir	avoir	VERB	_	VerbForm=Inf	15	xcomp	_	_none=|id=s1.u2.w17
+19	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	20	nsubj	_	_none=|id=s1.u2.w18
+20	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	id=s1.u2.w19
+21	simplement	simplement	ADV	_	_	20	advmod	_	_none=|id=s1.u2.w20
+22	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	id=s1.u2.w21
+23	petite	petit	ADJ	_	Gender=Fem|Number=Sing	24	amod	_	id=s1.u2.w22
+24	plaquette	plaquette	NOUN	_	Gender=Fem|Number=Sing	20	obj	_	id=s1.u2.w23
+25	et	et	CCONJ	_	_	26	cc	_	id=s1.u2.w24
+26	documentation	documentation	NOUN	_	Gender=Fem|Number=Sing	24	conj	_	id=s1.u2.w25
+27	du	du	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_none=|id=s1.u2.w26
+28	musée	musée	NOUN	_	Gender=Masc|Number=Sing	26	nmod	_	_none=|id=s1.u2.w27
+
+# sent_id = 1AP0384_4
+# text = d' accord mais pas les thèmes des des expositions
+1	d'	de	ADP	_	_	2	case	_	_none=|id=s1.u4.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	6	discourse	_	id=s1.u4.w1
+3	mais	mais	CCONJ	_	_	6	cc	_	_none=|id=s1.u4.w2
+4	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	id=s1.u4.w3
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	id=s1.u4.w4
+6	thèmes	thème	NOUN	_	Gender=Masc|Number=Plur	0	root	_	id=s1.u4.w5
+7	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	8	reparandum	_	id=s1.u4.w6
+8	des	un	DET	conj:reform	Definite=Ind|Number=Plur|PronType=Art	9	det	_	id=s1.u4.w7
+9	expositions	exposition	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	id=s1.u4.w8
+
+# sent_id = 1AP0384_5
+# text = pas les thèmes des expos e mais même je sais pas si non plus le musée vous m' avez dit aussi bien le musée ils nous ont pas laissé leur e d' habitude ils nous envoient une sorte de dossier avec tous tous les imprimés qui concernent les expos qu' on n' a pas encore eus
+1	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_none=|id=s1.u5.w0
+2	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	id=s1.u5.w1
+3	thèmes	thème	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_none=|id=s1.u5.w2
+4	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	det	_	id=s1.u5.w3
+5	expos	expo	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	id=s1.u5.w4
+6	e	e	INTJ	_	_	3	discourse	_	_none=|id=s1.u5.w5
+7	mais	mais	CCONJ	_	_	10	cc	_	_none=|id=s1.u5.w6
+8	même	même	ADV	_	_	20	advmod	_	_none=|id=s1.u5.w7
+9	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_none=|id=s1.u5.w8
+10	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	acl	_	id=s1.u5.w9
+11	pas	pas	ADV	_	_	10	advmod	_	_none=|id=s1.u5.w10
+12	si	si	SCONJ	_	_	10	dep	_	_none=|id=s1.u5.w11
+13	non	non	ADV	_	_	12	advmod	_	_none=|id=s1.u5.w12
+14	plus	plus	ADV	_	_	13	advmod	_	_none=|id=s1.u5.w13
+15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_none=|id=s1.u5.w14
+16	musée	musée	NOUN	_	Gender=Masc|Number=Sing	29	dislocated	_	_none=|id=s1.u5.w15
+17	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	20	nsubj	_	_none=|id=s1.u5.w16
+18	m'	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	20	iobj	_	_none=|id=s1.u5.w17
+19	avez	avoir	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	20	aux:tense	_	_none=|id=s1.u5.w18
+20	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	ccomp	_	_none=|id=s1.u5.w19
+21	aussi	aussi	ADV	_	_	22	advmod	_	_none=|id=s1.u5.w20
+22	bien	bien	ADV	_	_	12	advmod	_	_none=|id=s1.u5.w21
+23	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_none=|id=s1.u5.w22
+24	musée	musée	NOUN	_	Gender=Masc|Number=Sing	29	dislocated	_	_none=|id=s1.u5.w23
+25	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	29	nsubj	_	_none=|id=s1.u5.w24
+26	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	29	iobj	_	_none=|id=s1.u5.w25
+27	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	aux:tense	_	_none=|id=s1.u5.w26
+28	pas	pas	ADV	_	Polarity=Neg	29	advmod	_	_none=|id=s1.u5.w27
+29	laissé	laisser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	ccomp	_	_none=|id=s1.u5.w28
+30	leur	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=3|PronType=Prs	31	det	_	id=s1.u5.w29
+31	e	e	NOUN	_	Gender=Fem|Number=Sing	36	obj	_	id=s1.u5.w30
+32	d'	de	ADP	_	_	33	case	_	_none=|id=s1.u5.w31
+33	habitude	habitude	NOUN	_	Gender=Fem|Number=Sing	36	obl:mod	_	id=s1.u5.w32
+34	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	36	nsubj	_	id=s1.u5.w33
+35	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	36	iobj	_	id=s1.u5.w34
+36	envoient	envoier	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	id=s1.u5.w35
+37	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	38	det	_	id=s1.u5.w36
+38	sorte	sorte	NOUN	_	Gender=Fem|Number=Sing	36	obj	_	id=s1.u5.w37
+39	de	de	ADP	_	_	40	case	_	_none=|id=s1.u5.w38
+40	dossier	dossier	NOUN	_	Gender=Masc|Number=Sing	38	nmod	_	id=s1.u5.w39
+41	avec	avec	ADP	_	_	45	case	_	_none=|id=s1.u5.w40
+42	tous	tout	ADJ	_	Gender=Masc|Number=Plur|PronType=Ind	43	amod	_	id=s1.u5.w41
+43	tous	tout	ADJ	_	Gender=Masc|Number=Plur	45	amod	_	id=s1.u5.w42
+44	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	45	det	_	id=s1.u5.w43
+45	imprimés	imprimé	NOUN	_	Gender=Masc|Number=Plur	38	nmod	_	id=s1.u5.w44
+46	qui	qui	PRON	_	PronType=Rel	47	nsubj	_	id=s1.u5.w45
+47	concernent	concerner	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	45	acl:relcl	_	id=s1.u5.w46
+48	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	49	det	_	id=s1.u5.w47
+49	expos	expo	NOUN	_	Gender=Fem|Number=Plur	47	obj	_	id=s1.u5.w48
+50	qu'	que	PRON	_	PronType=Rel	56	obj	_	id=s1.u5.w49
+51	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	56	nsubj	_	_none=|id=s1.u5.w50
+52	n'	ne	ADV	_	Polarity=Neg	56	advmod	_	_none=|id=s1.u5.w51
+53	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	56	aux:tense	_	_none=|id=s1.u5.w52
+54	pas	pas	ADV	_	Polarity=Neg	56	advmod	_	_none=|id=s1.u5.w53
+55	encore	encore	ADV	_	_	56	advmod	_	_none=|id=s1.u5.w54
+56	eus	avoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	45	acl:relcl	_	_none=|id=s1.u5.w55
+
+# sent_id = 1AP0384_8
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u8.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u8.w1
+
+# sent_id = 1AP0384_9
+# text = alors je peux je peux je peux pas vous laisser c' est la présentation du musée
+1	alors	alors	ADV	_	_	3	advmod	_	_none=|id=s1.u9.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u9.w1
+3	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	reparandum	_	_none=|id=s1.u9.w2
+4	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u9.w3
+5	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	reparandum	_	_none=|id=s1.u9.w4
+6	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_none=|id=s1.u9.w5
+7	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	id=s1.u9.w6
+8	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	_none=|id=s1.u9.w7
+9	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	10	obj	_	id=s1.u9.w8
+10	laisser	laisser	VERB	_	VerbForm=Inf	7	xcomp	_	id=s1.u9.w9
+11	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	id=s1.u9.w10
+12	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	id=s1.u9.w11
+13	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	id=s1.u9.w12
+14	présentation	présentation	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u9.w13
+15	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_none=|id=s1.u9.w14
+16	musée	musée	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	id=s1.u9.w15
+
+# sent_id = 1AP0384_10
+# text = oui d' accord bon
+1	oui	oui	INTJ	_	_	3	discourse	_	_none=|id=s1.u10.w0
+2	d'	de	ADP	_	_	3	case	_	_none=|id=s1.u10.w1
+3	accord	accord	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u10.w2
+4	bon	bon	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_none=|id=s1.u10.w3
+
+# sent_id = 1AP0384_11
+# text = hein
+1	hein	hein	INTJ	_	_	0	root	_	_none=|id=s1.u11.w0
+
+# sent_id = 1AP0384_12
+# text = ben je repasserais peut être alors merci
+1	ben	ben	INTJ	_	_	3	discourse	_	_none=|id=s1.u12.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u12.w1
+3	repasserais	repassera	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u12.w2
+4	peut	peut	ADP	_	_	3	advmod	_	_none=|id=s1.u12.w3
+5	être	être	VERB	_	VerbForm=Inf	4	fixed	_	_none=|id=s1.u12.w4
+6	alors	alors	ADV	_	_	3	advmod	_	_none=|id=s1.u12.w5
+7	merci	merci	INTJ	_	_	3	discourse	_	_none=|id=s1.u12.w6
+
+# sent_id = 1AP0384_14
+# text = je vous en prie monsieur
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u14.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u14.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u14.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u14.w3
+5	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	4	vocative	_	_none=|id=s1.u14.w4
+

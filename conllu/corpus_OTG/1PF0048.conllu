@@ -1,0 +1,65 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0048_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1PF0048_1
+# text = on s' occupe de vous non bonjour
+1	on	_	_	_	_	_	_	_	id=s1.u1.w0
+2	s'	_	_	_	_	_	_	_	id=s1.u1.w1
+3	occupe	_	_	_	_	_	_	_	id=s1.u1.w2
+4	de	_	_	_	_	_	_	_	id=s1.u1.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u1.w4
+6	non	_	_	_	_	_	_	_	id=s1.u1.w5
+7	bonjour	_	_	_	_	_	_	_	id=s1.u1.w6
+
+# sent_id = 1PF0048_2
+# text = e je voudrais rencontrer Prénom Nom pour avoir quelques renseignements sur les dépots-vente e possibles
+1	e	_	_	_	_	_	_	_	id=s1.u2.w0
+2	je	_	_	_	_	_	_	_	id=s1.u2.w1
+3	voudrais	_	_	_	_	_	_	_	id=s1.u2.w2
+4	rencontrer	_	_	_	_	_	_	_	id=s1.u2.w3
+5	Prénom	_	_	_	_	_	_	_	id=s1.u2.w4
+6	Nom	_	_	_	_	_	_	_	id=s1.u2.w5
+7	pour	_	_	_	_	_	_	_	id=s1.u2.w6
+8	avoir	_	_	_	_	_	_	_	id=s1.u2.w7
+9	quelques	_	_	_	_	_	_	_	id=s1.u2.w8
+10	renseignements	_	_	_	_	_	_	_	id=s1.u2.w9
+11	sur	_	_	_	_	_	_	_	id=s1.u2.w10
+12	les	_	_	_	_	_	_	_	id=s1.u2.w11
+13	dépots-vente	_	_	_	_	_	_	_	id=s1.u2.w12
+14	e	_	_	_	_	_	_	_	id=s1.u2.w13
+15	possibles	_	_	_	_	_	_	_	id=s1.u2.w14
+
+# sent_id = 1PF0048_3
+# text = Prénom Nom c' est e la mademoiselle qui est là
+1	Prénom	_	_	_	_	_	_	_	id=s1.u3.w0
+2	Nom	_	_	_	_	_	_	_	id=s1.u3.w1
+3	c'	_	_	_	_	_	_	_	id=s1.u3.w2
+4	est	_	_	_	_	_	_	_	id=s1.u3.w3
+5	e	_	_	_	_	_	_	_	id=s1.u3.w4
+6	la	_	_	_	_	_	_	_	id=s1.u3.w5
+7	mademoiselle	_	_	_	_	_	_	_	id=s1.u3.w6
+8	qui	_	_	_	_	_	_	_	id=s1.u3.w7
+9	est	_	_	_	_	_	_	_	id=s1.u3.w8
+10	là	_	_	_	_	_	_	_	id=s1.u3.w9
+
+# sent_id = 1PF0048_4
+# text = d' accord et e voilà bon je vous remercie en même temps
+1	d'	_	_	_	_	_	_	_	id=s1.u4.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u4.w1
+3	et	_	_	_	_	_	_	_	id=s1.u4.w2
+4	e	_	_	_	_	_	_	_	id=s1.u4.w3
+5	voilà	_	_	_	_	_	_	_	id=s1.u4.w4
+6	bon	_	_	_	_	_	_	_	id=s1.u4.w5
+7	je	_	_	_	_	_	_	_	id=s1.u4.w6
+8	vous	_	_	_	_	_	_	_	id=s1.u4.w7
+9	remercie	_	_	_	_	_	_	_	id=s1.u4.w8
+10	en	_	_	_	_	_	_	_	id=s1.u4.w9
+11	même	_	_	_	_	_	_	_	id=s1.u4.w10
+12	temps	_	_	_	_	_	_	_	id=s1.u4.w11
+
+# sent_id = 1PF0048_5
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u5.w0
+

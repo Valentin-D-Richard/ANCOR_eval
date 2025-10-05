@@ -1,0 +1,82 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 018_00000013_0
+# text = U B S bonjour
+1	U	_	_	_	_	_	_	_	id=s1.u0.w0
+2	B	_	_	_	_	_	_	_	id=s1.u0.w1
+3	S	_	_	_	_	_	_	_	id=s1.u0.w2
+4	bonjour	_	_	_	_	_	_	_	id=s1.u0.w3
+
+# sent_id = 018_00000013_1
+# text = oui bonjour ce serait pour savoir comment obtenir e un dossier de candidature pour le D E S S e droit des affaires droit des P M E
+1	oui	_	_	_	_	_	_	_	id=s1.u1.w0
+2	bonjour	_	_	_	_	_	_	_	id=s1.u1.w1
+3	ce	_	_	_	_	_	_	_	id=s1.u1.w2
+4	serait	_	_	_	_	_	_	_	id=s1.u1.w3
+5	pour	_	_	_	_	_	_	_	id=s1.u1.w4
+6	savoir	_	_	_	_	_	_	_	id=s1.u1.w5
+7	comment	_	_	_	_	_	_	_	id=s1.u1.w6
+8	obtenir	_	_	_	_	_	_	_	id=s1.u1.w7
+9	e	_	_	_	_	_	_	_	id=s1.u1.w8
+10	un	_	_	_	_	_	_	_	id=s1.u1.w9
+11	dossier	_	_	_	_	_	_	_	id=s1.u1.w10
+12	de	_	_	_	_	_	_	_	id=s1.u1.w11
+13	candidature	_	_	_	_	_	_	_	id=s1.u1.w12
+14	pour	_	_	_	_	_	_	_	id=s1.u1.w13
+15	le	_	_	_	_	_	_	_	id=s1.u1.w14
+16	D	_	_	_	_	_	_	_	id=s1.u1.w15
+17	E	_	_	_	_	_	_	_	id=s1.u1.w16
+18	S	_	_	_	_	_	_	_	id=s1.u1.w17
+19	S	_	_	_	_	_	_	_	id=s1.u1.w18
+20	e	_	_	_	_	_	_	_	id=s1.u1.w19
+21	droit	_	_	_	_	_	_	_	id=s1.u1.w20
+22	des	_	_	_	_	_	_	_	id=s1.u1.w21
+23	affaires	_	_	_	_	_	_	_	id=s1.u1.w22
+24	droit	_	_	_	_	_	_	_	id=s1.u1.w23
+25	des	_	_	_	_	_	_	_	id=s1.u1.w24
+26	P	_	_	_	_	_	_	_	id=s1.u1.w25
+27	M	_	_	_	_	_	_	_	id=s1.u1.w26
+28	E	_	_	_	_	_	_	_	id=s1.u1.w27
+
+# sent_id = 018_00000013_2
+# text = e oui je vais vous passer le secr� tariat
+1	e	_	_	_	_	_	_	_	id=s1.u2.w0
+2	oui	_	_	_	_	_	_	_	id=s1.u2.w1
+3	je	_	_	_	_	_	_	_	id=s1.u2.w2
+4	vais	_	_	_	_	_	_	_	id=s1.u2.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u2.w4
+6	passer	_	_	_	_	_	_	_	id=s1.u2.w5
+7	le	_	_	_	_	_	_	_	id=s1.u2.w6
+8	secr�	_	_	_	_	_	_	_	id=s1.u2.w7
+9	tariat	_	_	_	_	_	_	_	id=s1.u2.w8
+
+# sent_id = 018_00000013_3
+# text = d' accord merci
+1	d'	_	_	_	_	_	_	_	id=s1.u3.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u3.w1
+3	merci	_	_	_	_	_	_	_	id=s1.u3.w2
+
+# sent_id = 018_00000013_4
+# text = Prenom oui un dossier e D E S S droit des P M E
+1	Prenom	_	_	_	_	_	_	_	id=s1.u4.w0
+2	oui	_	_	_	_	_	_	_	id=s1.u4.w1
+3	un	_	_	_	_	_	_	_	id=s1.u4.w2
+4	dossier	_	_	_	_	_	_	_	id=s1.u4.w3
+5	e	_	_	_	_	_	_	_	id=s1.u4.w4
+6	D	_	_	_	_	_	_	_	id=s1.u4.w5
+7	E	_	_	_	_	_	_	_	id=s1.u4.w6
+8	S	_	_	_	_	_	_	_	id=s1.u4.w7
+9	S	_	_	_	_	_	_	_	id=s1.u4.w8
+10	droit	_	_	_	_	_	_	_	id=s1.u4.w9
+11	des	_	_	_	_	_	_	_	id=s1.u4.w10
+12	P	_	_	_	_	_	_	_	id=s1.u4.w11
+13	M	_	_	_	_	_	_	_	id=s1.u4.w12
+14	E	_	_	_	_	_	_	_	id=s1.u4.w13
+
+# sent_id = 018_00000013_5
+# text = 
+
+# sent_id = 018_00000013_6
+# text = d' accord
+1	d'	_	_	_	_	_	_	_	id=s1.u6.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u6.w1
+

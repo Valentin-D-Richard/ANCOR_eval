@@ -1,0 +1,29 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0319_0
+# text = bonjour c' est pour savoir si je peux déposer les
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+2	c'	_	_	_	_	_	_	_	id=s1.u0.w1
+3	est	_	_	_	_	_	_	_	id=s1.u0.w2
+4	pour	_	_	_	_	_	_	_	id=s1.u0.w3
+5	savoir	_	_	_	_	_	_	_	id=s1.u0.w4
+6	si	_	_	_	_	_	_	_	id=s1.u0.w5
+7	je	_	_	_	_	_	_	_	id=s1.u0.w6
+8	peux	_	_	_	_	_	_	_	id=s1.u0.w7
+9	déposer	_	_	_	_	_	_	_	id=s1.u0.w8
+10	les	_	_	_	_	_	_	_	id=s1.u0.w9
+
+# sent_id = 1AP0319_1
+# text = oui mettez les sur le " servez -vous "
+1	oui	_	_	_	_	_	_	_	id=s1.u1.w0
+2	mettez	_	_	_	_	_	_	_	id=s1.u1.w1
+3	les	_	_	_	_	_	_	_	id=s1.u1.w2
+4	sur	_	_	_	_	_	_	_	id=s1.u1.w3
+5	le	_	_	_	_	_	_	_	id=s1.u1.w4
+6	servez	_	_	_	_	_	_	_	id=s1.u1.w6
+7	-vous	_	_	_	_	_	_	_	id=s1.u1.w7
+
+# sent_id = 1AP0319_2
+# text = d' accord
+1	d'	_	_	_	_	_	_	_	id=s1.u2.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u2.w1
+

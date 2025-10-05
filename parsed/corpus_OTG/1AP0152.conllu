@@ -1,0 +1,91 @@
+# sent_id = 1AP0152_1
+# text = est ce que le journal de la ville de Grenoble est sorti celui d' octobre le journal de la mairie
+1	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	id=s1.u1.w0
+2	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_none=|id=s1.u1.w1
+3	que	que	SCONJ	_	_	12	mark	_	_none=|id=s1.u1.w2
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_none=|id=s1.u1.w3
+5	journal	journal	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_none=|id=s1.u1.w4
+6	de	de	ADP	_	_	8	case	_	_none=|id=s1.u1.w5
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	id=s1.u1.w6
+8	ville	ville	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	id=s1.u1.w7
+9	de	de	ADP	_	_	10	case	_	_none=|id=s1.u1.w8
+10	Grenoble	Grenoble	PROPN	_	_	8	nmod	_	_none=|id=s1.u1.w9
+11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux:tense	_	_none=|id=s1.u1.w10
+12	sorti	sortir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	id=s1.u1.w11
+13	celui	celui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	obj	_	id=s1.u1.w12
+14	d'	de	ADP	_	_	15	case	_	_none=|id=s1.u1.w13
+15	octobre	octobre	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	_none=|id=s1.u1.w14
+16	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	id=s1.u1.w15
+17	journal	journal	NOUN	_	Gender=Masc|Number=Sing	12	conj	_	id=s1.u1.w16
+18	de	de	ADP	_	_	20	case	_	_none=|id=s1.u1.w17
+19	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	id=s1.u1.w18
+20	mairie	mairie	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	id=s1.u1.w19
+
+# sent_id = 1AP0152_2
+# text = le " Grenoble contact " ah le " les nouvelles " oui mais on en n' a plus nous
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u2.w0
+2	Grenoble	Grenoble	PROPN	_	_	0	root	_	_none=|id=s1.u2.w2
+3	contact	contact	NOUN	_	Gender=Masc|Number=Sing	2	appos	_	id=s1.u2.w3
+4	ah	ah	INTJ	_	_	7	discourse	_	_none=|id=s1.u2.w5
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	reparandum	_	_none=|id=s1.u2.w6
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_none=|id=s1.u2.w8
+7	nouvelles	nouvelle	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	id=s1.u2.w9
+8	oui	oui	ADV	_	_	13	discourse	_	_none=|id=s1.u2.w11
+9	mais	mais	CCONJ	_	_	13	cc	_	_none=|id=s1.u2.w12
+10	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	13	nsubj	_	_none=|id=s1.u2.w13
+11	en	en	PRON	_	Person=3|PronType=Prs	13	obj	_	id=s1.u2.w14
+12	n'	ne	ADV	_	Polarity=Neg	13	advmod	_	id=s1.u2.w15
+13	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	id=s1.u2.w16
+14	plus	plus	ADV	_	Polarity=Neg	13	advmod	_	id=s1.u2.w17
+15	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	13	dislocated	_	id=s1.u2.w18
+
+# sent_id = 1AP0152_3
+# text = journal oui " les nouvelles "
+1	journal	journal	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u3.w0
+2	oui	oui	INTJ	_	_	1	discourse	_	_none=|id=s1.u3.w1
+3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	id=s1.u3.w3
+4	nouvelles	nouvelle	NOUN	_	Gender=Fem|Number=Plur	2	conj	_	id=s1.u3.w4
+
+# sent_id = 1AP0152_4
+# text = vous en n' avez plus vous
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	id=s1.u4.w0
+2	en	en	PRON	_	Person=3|PronType=Prs	4	obj	_	id=s1.u4.w1
+3	n'	ne	ADV	_	Polarity=Neg	4	advmod	_	_none=|id=s1.u4.w2
+4	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w3
+5	plus	plus	ADV	_	Polarity=Neg	4	advmod	_	id=s1.u4.w4
+6	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	4	dislocated	_	id=s1.u4.w5
+
+# sent_id = 1AP0152_5
+# text = il faut les retirer directement à la mairie maintenant
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	_none=|id=s1.u5.w0
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u5.w1
+3	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	4	obj	_	id=s1.u5.w2
+4	retirer	retirer	VERB	_	VerbForm=Inf	2	ccomp	_	id=s1.u5.w3
+5	directement	directement	ADV	_	_	4	advmod	_	_none=|id=s1.u5.w4
+6	à	à	ADP	_	_	8	case	_	_none=|id=s1.u5.w5
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	id=s1.u5.w6
+8	mairie	mairie	NOUN	_	Gender=Fem|Number=Sing	4	obl:mod	_	id=s1.u5.w7
+9	maintenant	maintenant	ADV	_	_	2	advmod	_	_none=|id=s1.u5.w8
+
+# sent_id = 1AP0152_6
+# text = hum c' est trop tard
+1	hum	hum	INTJ	_	_	3	discourse	_	id=s1.u6.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	id=s1.u6.w1
+3	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u6.w2
+4	trop	trop	ADV	_	_	5	advmod	_	_none=|id=s1.u6.w3
+5	tard	tard	ADV	_	_	3	advmod	_	_none=|id=s1.u6.w4
+
+# sent_id = 1AP0152_7
+# text = oh oui
+1	oh	oh	INTJ	_	_	2	discourse	_	_none=|id=s1.u7.w0
+2	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u7.w1
+
+# sent_id = 1AP0152_8
+# text = merci bonsoir
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u8.w0
+2	bonsoir	bonsoir	NOUN	_	Gender=Masc|Number=Sing	1	discourse	_	id=s1.u8.w1
+
+# sent_id = 1AP0152_9
+# text = monsieur
+1	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u9.w0
+

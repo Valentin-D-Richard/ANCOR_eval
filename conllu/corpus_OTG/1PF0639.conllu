@@ -1,0 +1,115 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0639_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1PF0639_1
+# text = bonjour je j' irais des des plaquettes sur e les locations aux Deux-Alpes
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	je	_	_	_	_	_	_	_	id=s1.u1.w1
+3	j'	_	_	_	_	_	_	_	id=s1.u1.w2
+4	irais	_	_	_	_	_	_	_	id=s1.u1.w3
+5	des	_	_	_	_	_	_	_	id=s1.u1.w4
+6	des	_	_	_	_	_	_	_	id=s1.u1.w5
+7	plaquettes	_	_	_	_	_	_	_	id=s1.u1.w6
+8	sur	_	_	_	_	_	_	_	id=s1.u1.w7
+9	e	_	_	_	_	_	_	_	id=s1.u1.w8
+10	les	_	_	_	_	_	_	_	id=s1.u1.w9
+11	locations	_	_	_	_	_	_	_	id=s1.u1.w10
+12	aux	_	_	_	_	_	_	_	id=s1.u1.w11
+13	Deux-Alpes	_	_	_	_	_	_	_	id=s1.u1.w12
+
+# sent_id = 1PF0639_2
+# text = aux Deux-Alpes
+1	aux	_	_	_	_	_	_	_	id=s1.u2.w0
+2	Deux-Alpes	_	_	_	_	_	_	_	id=s1.u2.w1
+
+# sent_id = 1PF0639_3
+# text = ouais
+1	ouais	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1PF0639_4
+# text = été hiver voilà donc c' est la bonne plaquette c' est celle de cette année
+1	été	_	_	_	_	_	_	_	id=s1.u4.w0
+2	hiver	_	_	_	_	_	_	_	id=s1.u4.w1
+3	voilà	_	_	_	_	_	_	_	id=s1.u4.w2
+4	donc	_	_	_	_	_	_	_	id=s1.u4.w3
+5	c'	_	_	_	_	_	_	_	id=s1.u4.w4
+6	est	_	_	_	_	_	_	_	id=s1.u4.w5
+7	la	_	_	_	_	_	_	_	id=s1.u4.w6
+8	bonne	_	_	_	_	_	_	_	id=s1.u4.w7
+9	plaquette	_	_	_	_	_	_	_	id=s1.u4.w8
+10	c'	_	_	_	_	_	_	_	id=s1.u4.w9
+11	est	_	_	_	_	_	_	_	id=s1.u4.w10
+12	celle	_	_	_	_	_	_	_	id=s1.u4.w11
+13	de	_	_	_	_	_	_	_	id=s1.u4.w12
+14	cette	_	_	_	_	_	_	_	id=s1.u4.w13
+15	année	_	_	_	_	_	_	_	id=s1.u4.w14
+
+# sent_id = 1PF0639_5
+# text = il y en a qu' une
+1	il	_	_	_	_	_	_	_	id=s1.u5.w0
+2	y	_	_	_	_	_	_	_	id=s1.u5.w1
+3	en	_	_	_	_	_	_	_	id=s1.u5.w2
+4	a	_	_	_	_	_	_	_	id=s1.u5.w3
+5	qu'	_	_	_	_	_	_	_	id=s1.u5.w4
+6	une	_	_	_	_	_	_	_	id=s1.u5.w5
+
+# sent_id = 1PF0639_6
+# text = ouais pourquoi vous en qu' est ce que vous vouliez exactement
+1	ouais	_	_	_	_	_	_	_	id=s1.u6.w0
+2	pourquoi	_	_	_	_	_	_	_	id=s1.u6.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u6.w2
+4	en	_	_	_	_	_	_	_	id=s1.u6.w3
+5	qu'	_	_	_	_	_	_	_	id=s1.u6.w4
+6	est	_	_	_	_	_	_	_	id=s1.u6.w5
+7	ce	_	_	_	_	_	_	_	id=s1.u6.w6
+8	que	_	_	_	_	_	_	_	id=s1.u6.w7
+9	vous	_	_	_	_	_	_	_	id=s1.u6.w8
+10	vouliez	_	_	_	_	_	_	_	id=s1.u6.w9
+11	exactement	_	_	_	_	_	_	_	id=s1.u6.w10
+
+# sent_id = 1PF0639_7
+# text = ben les locations e pour
+1	ben	_	_	_	_	_	_	_	id=s1.u7.w0
+2	les	_	_	_	_	_	_	_	id=s1.u7.w1
+3	locations	_	_	_	_	_	_	_	id=s1.u7.w2
+4	e	_	_	_	_	_	_	_	id=s1.u7.w3
+5	pour	_	_	_	_	_	_	_	id=s1.u7.w4
+
+# sent_id = 1PF0639_8
+# text = ah non si c' est la plaquette de zone vous avez tout dessus jeune homme hein
+1	ah	_	_	_	_	_	_	_	id=s1.u8.w0
+2	non	_	_	_	_	_	_	_	id=s1.u8.w1
+3	si	_	_	_	_	_	_	_	id=s1.u8.w2
+4	c'	_	_	_	_	_	_	_	id=s1.u8.w3
+5	est	_	_	_	_	_	_	_	id=s1.u8.w4
+6	la	_	_	_	_	_	_	_	id=s1.u8.w5
+7	plaquette	_	_	_	_	_	_	_	id=s1.u8.w6
+8	de	_	_	_	_	_	_	_	id=s1.u8.w7
+9	zone	_	_	_	_	_	_	_	id=s1.u8.w8
+10	vous	_	_	_	_	_	_	_	id=s1.u8.w9
+11	avez	_	_	_	_	_	_	_	id=s1.u8.w10
+12	tout	_	_	_	_	_	_	_	id=s1.u8.w11
+13	dessus	_	_	_	_	_	_	_	id=s1.u8.w12
+14	jeune	_	_	_	_	_	_	_	id=s1.u8.w13
+15	homme	_	_	_	_	_	_	_	id=s1.u8.w14
+16	hein	_	_	_	_	_	_	_	id=s1.u8.w15
+
+# sent_id = 1PF0639_9
+# text = ok ben merci au revoir bonne journée
+1	ok	_	_	_	_	_	_	_	id=s1.u9.w0
+2	ben	_	_	_	_	_	_	_	id=s1.u9.w1
+3	merci	_	_	_	_	_	_	_	id=s1.u9.w2
+4	au	_	_	_	_	_	_	_	id=s1.u9.w3
+5	revoir	_	_	_	_	_	_	_	id=s1.u9.w4
+6	bonne	_	_	_	_	_	_	_	id=s1.u9.w5
+7	journée	_	_	_	_	_	_	_	id=s1.u9.w6
+
+# sent_id = 1PF0639_10
+# text = je vous en prie
+1	je	_	_	_	_	_	_	_	id=s1.u10.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u10.w1
+3	en	_	_	_	_	_	_	_	id=s1.u10.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u10.w3
+

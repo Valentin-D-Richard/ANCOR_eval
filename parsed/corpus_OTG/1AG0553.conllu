@@ -1,0 +1,75 @@
+# sent_id = 1AG0553_1
+# text = madame c' est vrai qu' à une certaine période vous aidiez les étudiants à la recherche d' un logement sur Grenoble est ce que ça existe toujours
+1	madame	madame	NOUN	_	Gender=Fem|Number=Sing	4	vocative	_	_none=|id=s1.u1.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	expl:subj	_	_none=|id=s1.u1.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	id=s1.u1.w2
+4	vrai	vrai	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u1.w3
+5	qu'	que	SCONJ	_	_	11	mark	_	_none=|id=s1.u1.w4
+6	à	à	ADP	_	_	9	case	_	_none=|id=s1.u1.w5
+7	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	id=s1.u1.w6
+8	certaine	certain	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_none=|id=s1.u1.w7
+9	période	période	NOUN	_	Gender=Fem|Number=Sing	11	obl:mod	_	_none=|id=s1.u1.w8
+10	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	11	nsubj	_	_none=|id=s1.u1.w9
+11	aidiez	aider	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	4	csubj	_	_none=|id=s1.u1.w10
+12	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	13	det	_	id=s1.u1.w11
+13	étudiants	étudiant	NOUN	_	Gender=Masc|Number=Plur	11	obj	_	id=s1.u1.w12
+14	à	à	ADP	_	_	16	case	_	id=s1.u1.w13
+15	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	id=s1.u1.w14
+16	recherche	recherche	NOUN	_	Gender=Fem|Number=Sing	11	obl:arg	_	id=s1.u1.w15
+17	d'	de	ADP	_	_	19	case	_	_none=|id=s1.u1.w16
+18	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	id=s1.u1.w17
+19	logement	logement	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	id=s1.u1.w18
+20	sur	sur	ADP	_	_	21	case	_	id=s1.u1.w19
+21	Grenoble	Grenoble	PROPN	_	_	16	nmod	_	id=s1.u1.w20
+22	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	id=s1.u1.w21
+23	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	dislocated	_	id=s1.u1.w22
+24	que	que	SCONJ	_	PronType=Rel	26	obj	_	id=s1.u1.w23
+25	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	26	nsubj	_	id=s1.u1.w24
+26	existe	exister	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	id=s1.u1.w25
+27	toujours	toujours	ADV	_	_	26	advmod	_	_none=|id=s1.u1.w26
+
+# sent_id = 1AG0553_2
+# text = je vais me renseigner maintenant c' est au CRIJ rue Voltaire vous descendez la rue entre ces deux immeubles
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u2.w0
+2	vais	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w1
+3	me	se	PRON	_	Number=Sing|Person=1|PronType=Prs	4	expl:comp	_	_none=|id=s1.u2.w2
+4	renseigner	renseigner	VERB	_	VerbForm=Inf	2	xcomp	_	id=s1.u2.w3
+5	maintenant	maintenant	ADV	_	_	2	advmod	_	_none=|id=s1.u2.w4
+6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	_none=|id=s1.u2.w5
+7	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	id=s1.u2.w6
+8	au	au	DET	_	_	9	case	_	_none=|id=s1.u2.w7
+9	CRIJ	CRIJ	PROPN	_	_	2	obl:arg	_	_none=|id=s1.u2.w8
+10	rue	rue	NOUN	_	Gender=Fem|Number=Sing	9	appos	_	id=s1.u2.w9
+11	Voltaire	Voltaire	PROPN	_	_	10	nmod:appos	_	id=s1.u2.w10
+12	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	13	nsubj	_	id=s1.u2.w11
+13	descendez	descender	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	id=s1.u2.w12
+14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	id=s1.u2.w13
+15	rue	rue	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	id=s1.u2.w14
+16	entre	entre	ADP	_	_	19	case	_	_none=|id=s1.u2.w15
+17	ces	ce	DET	_	Number=Plur|Person=3|PronType=Dem	19	det	_	id=s1.u2.w16
+18	deux	deux	NUM	_	Number=Plur	19	nummod	_	_none=|id=s1.u2.w17
+19	immeubles	immeuble	NOUN	_	Gender=Masc|Number=Plur	13	obl:mod	_	_none=|id=s1.u2.w18
+
+# sent_id = 1AG0553_3
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1AG0553_4
+# text = le CRIJ sur la au huit c' est sur votre gauche
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	id=s1.u4.w0
+2	CRIJ	CRIJ	PROPN	_	_	8	dislocated	_	_none=|id=s1.u4.w1
+3	sur	sur	ADP	_	_	4	case	_	_none=|id=s1.u4.w2
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	id=s1.u4.w3
+5	au	au	ADP	_	_	2	nmod	_	_none=|id=s1.u4.w4
+6	huit	huit	NUM	_	Number=Plur	5	nmod	_	_none=|id=s1.u4.w5
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	_none=|id=s1.u4.w6
+8	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w7
+9	sur	sur	ADP	_	_	11	case	_	_none=|id=s1.u4.w8
+10	votre	son	DET	_	Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=2|PronType=Prs	11	det	_	id=s1.u4.w9
+11	gauche	gauche	NOUN	_	Gender=Fem|Number=Sing	8	obl:arg	_	id=s1.u4.w10
+
+# sent_id = 1AG0553_5
+# text = la gauche
+1	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	id=s1.u5.w0
+2	gauche	gauche	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u5.w1
+

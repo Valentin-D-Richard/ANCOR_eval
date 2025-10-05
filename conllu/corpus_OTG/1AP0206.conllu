@@ -1,0 +1,61 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0206_0
+# text = 
+
+# sent_id = 1AP0206_1
+# text = ben moi je voulais le plan
+1	ben	_	_	_	_	_	_	_	id=s1.u1.w0
+2	moi	_	_	_	_	_	_	_	id=s1.u1.w1
+3	je	_	_	_	_	_	_	_	id=s1.u1.w2
+4	voulais	_	_	_	_	_	_	_	id=s1.u1.w3
+5	le	_	_	_	_	_	_	_	id=s1.u1.w4
+6	plan	_	_	_	_	_	_	_	id=s1.u1.w5
+
+# sent_id = 1AP0206_2
+# text = un plan bien sûr je vais vous montrer où on est quand même
+1	un	_	_	_	_	_	_	_	id=s1.u2.w0
+2	plan	_	_	_	_	_	_	_	id=s1.u2.w1
+3	bien	_	_	_	_	_	_	_	id=s1.u2.w2
+4	sûr	_	_	_	_	_	_	_	id=s1.u2.w3
+5	je	_	_	_	_	_	_	_	id=s1.u2.w4
+6	vais	_	_	_	_	_	_	_	id=s1.u2.w5
+7	vous	_	_	_	_	_	_	_	id=s1.u2.w6
+8	montrer	_	_	_	_	_	_	_	id=s1.u2.w7
+9	où	_	_	_	_	_	_	_	id=s1.u2.w8
+10	on	_	_	_	_	_	_	_	id=s1.u2.w9
+11	est	_	_	_	_	_	_	_	id=s1.u2.w10
+12	quand	_	_	_	_	_	_	_	id=s1.u2.w11
+13	même	_	_	_	_	_	_	_	id=s1.u2.w12
+
+# sent_id = 1AP0206_3
+# text = ah oui
+1	ah	_	_	_	_	_	_	_	id=s1.u3.w0
+2	oui	_	_	_	_	_	_	_	id=s1.u3.w1
+
+# sent_id = 1AP0206_4
+# text = on est là hein voilà
+1	on	_	_	_	_	_	_	_	id=s1.u4.w0
+2	est	_	_	_	_	_	_	_	id=s1.u4.w1
+3	là	_	_	_	_	_	_	_	id=s1.u4.w2
+4	hein	_	_	_	_	_	_	_	id=s1.u4.w3
+5	voilà	_	_	_	_	_	_	_	id=s1.u4.w4
+
+# sent_id = 1AP0206_5
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u5.w0
+
+# sent_id = 1AP0206_6
+# text = mais je vous en prie monsieur au revoir
+1	mais	_	_	_	_	_	_	_	id=s1.u6.w0
+2	je	_	_	_	_	_	_	_	id=s1.u6.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u6.w2
+4	en	_	_	_	_	_	_	_	id=s1.u6.w3
+5	prie	_	_	_	_	_	_	_	id=s1.u6.w4
+6	monsieur	_	_	_	_	_	_	_	id=s1.u6.w5
+7	au	_	_	_	_	_	_	_	id=s1.u6.w6
+8	revoir	_	_	_	_	_	_	_	id=s1.u6.w7
+
+# sent_id = 1AP0206_7
+# text = madame
+1	madame	_	_	_	_	_	_	_	id=s1.u7.w0
+

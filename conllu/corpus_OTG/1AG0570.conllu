@@ -1,0 +1,50 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AG0570_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AG0570_1
+# text = bonjour c' est serait pour les sports sur Grenoble e c' est où que je peux me renseigner e musculation le
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	c'	_	_	_	_	_	_	_	id=s1.u1.w1
+3	est	_	_	_	_	_	_	_	id=s1.u1.w2
+4	serait	_	_	_	_	_	_	_	id=s1.u1.w3
+5	pour	_	_	_	_	_	_	_	id=s1.u1.w4
+6	les	_	_	_	_	_	_	_	id=s1.u1.w5
+7	sports	_	_	_	_	_	_	_	id=s1.u1.w6
+8	sur	_	_	_	_	_	_	_	id=s1.u1.w7
+9	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w8
+10	e	_	_	_	_	_	_	_	id=s1.u1.w9
+11	c'	_	_	_	_	_	_	_	id=s1.u1.w10
+12	est	_	_	_	_	_	_	_	id=s1.u1.w11
+13	où	_	_	_	_	_	_	_	id=s1.u1.w12
+14	que	_	_	_	_	_	_	_	id=s1.u1.w13
+15	je	_	_	_	_	_	_	_	id=s1.u1.w14
+16	peux	_	_	_	_	_	_	_	id=s1.u1.w15
+17	me	_	_	_	_	_	_	_	id=s1.u1.w16
+18	renseigner	_	_	_	_	_	_	_	id=s1.u1.w17
+19	e	_	_	_	_	_	_	_	id=s1.u1.w18
+20	musculation	_	_	_	_	_	_	_	id=s1.u1.w19
+21	le	_	_	_	_	_	_	_	id=s1.u1.w20
+
+# sent_id = 1AG0570_2
+# text = quels sports
+1	quels	_	_	_	_	_	_	_	id=s1.u2.w0
+2	sports	_	_	_	_	_	_	_	id=s1.u2.w1
+
+# sent_id = 1AG0570_3
+# text = e ça c' est les clubs de sport voilà je vous laisse consulter
+1	e	_	_	_	_	_	_	_	id=s1.u3.w0
+2	ça	_	_	_	_	_	_	_	id=s1.u3.w1
+3	c'	_	_	_	_	_	_	_	id=s1.u3.w2
+4	est	_	_	_	_	_	_	_	id=s1.u3.w3
+5	les	_	_	_	_	_	_	_	id=s1.u3.w4
+6	clubs	_	_	_	_	_	_	_	id=s1.u3.w5
+7	de	_	_	_	_	_	_	_	id=s1.u3.w6
+8	sport	_	_	_	_	_	_	_	id=s1.u3.w7
+9	voilà	_	_	_	_	_	_	_	id=s1.u3.w8
+10	je	_	_	_	_	_	_	_	id=s1.u3.w9
+11	vous	_	_	_	_	_	_	_	id=s1.u3.w10
+12	laisse	_	_	_	_	_	_	_	id=s1.u3.w11
+13	consulter	_	_	_	_	_	_	_	id=s1.u3.w12
+

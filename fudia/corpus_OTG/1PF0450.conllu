@@ -1,0 +1,40 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0450_0
+# text = pardon je pourrais avoir un plan s' il vous plaît
+1	pardon	pardon	NOUN	_	_	3	discourse	_	_none=|id=s1.u0.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u0.w1
+3	pourrais	pouvoir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u0.w2
+4	avoir	avoir	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u0.w3
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	id=s1.u0.w4
+6	plan	plan	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_none=|id=s1.u0.w5
+7	s'	se	SCONJ	_	_	10	mark	_	_none=|id=s1.u0.w6
+8	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_none=|id=s1.u0.w7
+9	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	10	iobj	_	_none=|id=s1.u0.w8
+10	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	discourse	_	_none=|id=s1.u0.w9
+
+# sent_id = 1PF0450_1
+# text = un plan
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u1.w0
+2	plan	plan	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u1.w1
+
+# sent_id = 1PF0450_2
+# text = un plan de la ville voilà
+1	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u2.w0
+2	plan	plan	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u2.w1
+3	de	de	ADP	_	_	5	case	_	_none=|id=s1.u2.w2
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	id=s1.u2.w3
+5	ville	ville	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	id=s1.u2.w4
+6	voilà	voilà	VERB	_	_	2	discourse	_	_none=|id=s1.u2.w5
+
+# sent_id = 1PF0450_3
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 1PF0450_4
+# text = je vous en prie mademoiselle
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u4.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u4.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u4.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w3
+5	mademoiselle	mademoiselle	NOUN	_	Gender=Fem|Number=Sing	4	vocative	_	id=s1.u4.w4
+

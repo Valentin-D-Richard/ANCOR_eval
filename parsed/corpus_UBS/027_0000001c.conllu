@@ -1,0 +1,369 @@
+# sent_id = 027_0000001c_0
+# text = U B S bonjour
+1	U	U	PROPN	_	_	4	dep	_	_none=|id=s1.u0.w0
+2	B	B	PROPN	_	_	1	flat:name	_	_none=|id=s1.u0.w1
+3	S	S	PROPN	_	_	1	dep	_	_none=|id=s1.u0.w2
+4	bonjour	bonjour	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w3
+
+# sent_id = 027_0000001c_1
+# text = oui bonjour c' est monsieur Nom j' ai ma fille qui a passé son DEUG l' année dernière et puis e elle voulait récupéré son diplôme alors je sais pas quand est ce qu' elle peut le récupérer
+1	oui	oui	INTJ	_	_	5	discourse	_	_none=|id=s1.u1.w0
+2	bonjour	bonjour	INTJ	_	_	5	discourse	_	_none=|id=s1.u1.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	expl:subj	_	_none=|id=s1.u1.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_none=|id=s1.u1.w3
+5	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	8	dislocated	_	_none=|id=s1.u1.w4
+6	Nom	Nom	PROPN	_	_	5	nmod:appos	_	_none=|id=s1.u1.w5
+7	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_none=|id=s1.u1.w6
+8	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u1.w7
+9	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1|PronType=Prs	10	det	_	id=s1.u1.w8
+10	fille	fille	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	id=s1.u1.w9
+11	qui	qui	PRON	_	PronType=Rel	13	nsubj	_	_none=|id=s1.u1.w10
+12	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:tense	_	_none=|id=s1.u1.w11
+13	passé	passer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl:relcl	_	id=s1.u1.w12
+14	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	15	det	_	_none=|id=s1.u1.w13
+15	DEUG	DEUG	PROPN	_	_	13	obj	_	_none=|id=s1.u1.w14
+16	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	17	det	_	_none=|id=s1.u1.w15
+17	année	année	NOUN	_	Gender=Fem|Number=Sing	13	obl:mod	_	_none=|id=s1.u1.w16
+18	dernière	dernier	ADJ	_	Gender=Fem|Number=Sing	17	amod	_	_none=|id=s1.u1.w17
+19	et	et	CCONJ	_	_	23	cc	_	_none=|id=s1.u1.w18
+20	puis	puis	CCONJ	_	_	19	fixed	_	id=s1.u1.w19
+21	e	e	PRON	_	_	23	dislocated	_	id=s1.u1.w20
+22	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	id=s1.u1.w21
+23	voulait	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	acl:relcl	_	_none=|id=s1.u1.w22
+24	récupéré	récupéré	VERB	_	VerbForm=Inf	23	xcomp	_	id=s1.u1.w23
+25	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	26	det	_	_none=|id=s1.u1.w24
+26	diplôme	diplôme	NOUN	_	Gender=Masc|Number=Sing	24	obj	_	_none=|id=s1.u1.w25
+27	alors	alors	ADV	_	_	29	advmod	_	_none=|id=s1.u1.w26
+28	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	29	nsubj	_	_none=|id=s1.u1.w27
+29	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	23	conj	_	id=s1.u1.w28
+30	pas	pas	ADV	_	Polarity=Neg	29	advmod	_	_none=|id=s1.u1.w29
+31	quand	quand	SCONJ	_	Person=3|PronType=Int	33	acl:relcl	_	_none=|id=s1.u1.w30
+32	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	cop	_	id=s1.u1.w31
+33	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	23	obl:mod	_	_none=|id=s1.u1.w32
+34	qu'	que	SCONJ	_	PronType=Rel	36	mark	_	id=s1.u1.w33
+35	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	36	nsubj	_	id=s1.u1.w34
+36	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	acl:relcl	_	id=s1.u1.w35
+37	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	38	obj	_	_none=|id=s1.u1.w36
+38	récupérer	récupérer	VERB	_	VerbForm=Inf	36	xcomp	_	id=s1.u1.w37
+
+# sent_id = 027_0000001c_2
+# text = elle a passé son e quel DEUG e monsieur
+1	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	id=s1.u2.w0
+2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	id=s1.u2.w1
+3	passé	passer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	id=s1.u2.w2
+4	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	6	reparandum	_	_none=|id=s1.u2.w3
+5	e	e	CCONJ	_	_	6	reparandum	_	_none=|id=s1.u2.w4
+6	quel	quel	DET	_	Gender=Masc|Number=Sing|Person=3|PronType=Int	7	det	_	id=s1.u2.w5
+7	DEUG	DEUG	PROPN	_	_	3	obj	_	_none=|id=s1.u2.w6
+8	e	e	ADP	_	_	9	case	_	_none=|id=s1.u2.w7
+9	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	id=s1.u2.w8
+
+# sent_id = 027_0000001c_3
+# text = le DEUG de e a- ad- administration économique et sociale hein
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_none=|id=s1.u3.w0
+2	DEUG	DEUG	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u3.w1
+3	de	de	ADP	_	_	7	case	_	_none=|id=s1.u3.w2
+4	e	e	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_none=|id=s1.u3.w3
+5	a-	a-	NOUN	_	Gender=Masc|Number=Sing	7	reparandum	_	_none=|id=s1.u3.w4
+6	ad-	ad-	NOUN	_	_	7	reparandum	_	_none=|id=s1.u3.w5
+7	administration	administration	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	id=s1.u3.w6
+8	économique	économique	ADJ	_	Number=Sing	7	amod	_	_none=|id=s1.u3.w7
+9	et	et	CCONJ	_	_	10	cc	_	_none=|id=s1.u3.w8
+10	sociale	sociale	NOUN	_	Gender=Fem|Number=Sing	8	conj	_	id=s1.u3.w9
+11	hein	hein	INTJ	_	_	2	discourse	_	_none=|id=s1.u3.w10
+
+# sent_id = 027_0000001c_4
+# text = c' est chez nous alors e ouais ouais ouais donc c' est à rue de la Loi c' est Vannes centre ouais c' est çà oui que les les sciences ils sont partis à Tohannic et puis bon les gens qui savent pas il viennent récupérer les les DEUG de S V ou S M ici si vous voulez
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_none=|id=s1.u4.w0
+2	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u4.w1
+3	chez	chez	ADP	_	_	4	case	_	_none=|id=s1.u4.w2
+4	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	2	obl:arg	_	_none=|id=s1.u4.w3
+5	alors	alors	ADV	_	_	12	advmod	_	_none=|id=s1.u4.w4
+6	e	e	INTJ	_	_	12	xcomp	_	_none=|id=s1.u4.w5
+7	ouais	ouais	INTJ	_	_	14	discourse	_	_none=|id=s1.u4.w6
+8	ouais	ouais	INTJ	_	_	6	discourse	_	_none=|id=s1.u4.w7
+9	ouais	ouais	INTJ	_	_	6	conj	_	_none=|id=s1.u4.w8
+10	donc	donc	ADV	_	_	12	advmod	_	_none=|id=s1.u4.w9
+11	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	nsubj	_	_none=|id=s1.u4.w10
+12	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	ccomp	_	_none=|id=s1.u4.w11
+13	à	à	ADP	_	_	14	case	_	_none=|id=s1.u4.w12
+14	rue	rue	NOUN	_	Gender=Fem|Number=Sing	12	obl:arg	_	_none=|id=s1.u4.w13
+15	de	de	ADP	_	_	17	case	_	_none=|id=s1.u4.w14
+16	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	id=s1.u4.w15
+17	Loi	Loi	PROPN	_	_	14	nmod	_	_none=|id=s1.u4.w16
+18	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	20	nsubj	_	_none=|id=s1.u4.w17
+19	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	id=s1.u4.w18
+20	Vannes	Vannes	PROPN	_	_	12	conj	_	_none=|id=s1.u4.w19
+21	centre	centre	NOUN	_	Gender=Masc|Number=Sing	20	conj	_	id=s1.u4.w20
+22	ouais	ouais	INTJ	_	_	25	discourse	_	_none=|id=s1.u4.w21
+23	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	25	expl:subj	_	_none=|id=s1.u4.w22
+24	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	id=s1.u4.w23
+25	çà	çà	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	conj	_	id=s1.u4.w24
+26	oui	oui	ADV	_	_	25	advmod	_	_none=|id=s1.u4.w25
+27	que	que	SCONJ	_	_	33	mark	_	_none=|id=s1.u4.w26
+28	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	29	reparandum	_	_none=|id=s1.u4.w27
+29	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	30	det	_	_none=|id=s1.u4.w28
+30	sciences	science	NOUN	_	Gender=Fem|Number=Plur	33	dislocated	_	_none=|id=s1.u4.w29
+31	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	33	nsubj	_	_none=|id=s1.u4.w30
+32	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	33	aux:tense	_	_none=|id=s1.u4.w31
+33	partis	partir	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	25	ccomp	_	id=s1.u4.w32
+34	à	à	ADP	_	_	35	case	_	id=s1.u4.w33
+35	Tohannic	Tohannic	PROPN	_	_	33	obl:arg	_	_none=|id=s1.u4.w34
+36	et	et	CCONJ	_	_	45	cc	_	_none=|id=s1.u4.w35
+37	puis	puis	CCONJ	_	_	36	fixed	_	id=s1.u4.w36
+38	bon	bon	INTJ	_	_	36	fixed	_	_none=|id=s1.u4.w37
+39	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	40	det	_	id=s1.u4.w38
+40	gens	gens	NOUN	_	Gender=Masc|Number=Plur	45	dislocated	_	_none=|id=s1.u4.w39
+41	qui	qui	PRON	_	PronType=Rel	42	nsubj	_	_none=|id=s1.u4.w40
+42	savent	saver	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	40	acl:relcl	_	_none=|id=s1.u4.w41
+43	pas	pas	ADV	_	Polarity=Neg	42	advmod	_	_none=|id=s1.u4.w42
+44	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	45	nsubj	_	_none=|id=s1.u4.w43
+45	viennent	venir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	conj	_	_none=|id=s1.u4.w44
+46	récupérer	récupérer	VERB	_	VerbForm=Inf	45	xcomp	_	id=s1.u4.w45
+47	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	48	reparandum	_	id=s1.u4.w46
+48	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	49	det	_	id=s1.u4.w47
+49	DEUG	DEUG	PROPN	_	Gender=Masc|Number=Plur	46	obj	_	id=s1.u4.w48
+50	de	de	ADP	_	_	35	case	_	_none=|id=s1.u4.w49
+51	S	S	PROPN	_	_	49	nmod	_	_none=|id=s1.u4.w50
+52	V	V	PROPN	_	_	48	nmod	_	id=s1.u4.w51
+53	ou	ou	CCONJ	_	_	40	cc	_	id=s1.u4.w52
+54	S	S	PROPN	_	_	40	appos	_	id=s1.u4.w53
+55	M	M	PROPN	_	_	54	fixed	_	_none=|id=s1.u4.w54
+56	ici	ici	ADV	_	_	45	advmod	_	_none=|id=s1.u4.w55
+57	si	si	SCONJ	_	_	59	mark	_	_none=|id=s1.u4.w56
+58	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	59	nsubj	_	id=s1.u4.w57
+59	voulez	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	45	advcl	_	_none=|id=s1.u4.w58
+
+# sent_id = 027_0000001c_6
+# text = ha oui
+1	ha	ha	INTJ	_	_	2	discourse	_	_none=|id=s1.u6.w0
+2	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u6.w1
+
+# sent_id = 027_0000001c_7
+# text = donc c' est pour çà il faut nous préciser le DEUG donc c' est le DEUG a- ac- économique ouais donc elle peut revenir quand elle veux elle peut venir quand elle veux comment
+1	donc	donc	ADV	_	_	3	advmod	_	_none=|id=s1.u7.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_none=|id=s1.u7.w1
+3	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	reparandum	_	_none=|id=s1.u7.w2
+4	pour	pour	ADP	_	_	5	case	_	_none=|id=s1.u7.w3
+5	çà	çe	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	obl:mod	_	_none=|id=s1.u7.w4
+6	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	_none=|id=s1.u7.w5
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u7.w6
+8	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	9	iobj	_	id=s1.u7.w7
+9	préciser	préciser	VERB	_	VerbForm=Inf	7	ccomp	_	id=s1.u7.w8
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	id=s1.u7.w9
+11	DEUG	DEUG	PROPN	_	_	9	obj	_	_none=|id=s1.u7.w10
+12	donc	donc	ADV	_	_	16	cc	_	_none=|id=s1.u7.w11
+13	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	16	nsubj	_	id=s1.u7.w12
+14	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	id=s1.u7.w13
+15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_none=|id=s1.u7.w14
+16	DEUG	DEUG	PROPN	_	Gender=Masc|Number=Sing	7	conj	_	id=s1.u7.w15
+17	a-	a-	ADJ	_	Gender=Masc|Number=Sing	16	advmod	_	_none=|id=s1.u7.w16
+18	ac-	ac-	NOUN	_	Gender=Masc|Number=Sing	17	amod	_	id=s1.u7.w17
+19	économique	économique	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	_none=|id=s1.u7.w18
+20	ouais	ouais	INTJ	_	_	23	discourse	_	_none=|id=s1.u7.w19
+21	donc	donc	ADV	_	_	23	cc	_	_none=|id=s1.u7.w20
+22	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_none=|id=s1.u7.w21
+23	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_none=|id=s1.u7.w22
+24	revenir	revenir	VERB	_	VerbForm=Inf	23	xcomp	_	id=s1.u7.w23
+25	quand	quand	SCONJ	_	_	27	mark	_	_none=|id=s1.u7.w24
+26	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	_none=|id=s1.u7.w25
+27	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	advcl	_	id=s1.u7.w26
+28	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	29	nsubj	_	id=s1.u7.w27
+29	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	id=s1.u7.w28
+30	venir	venir	VERB	_	VerbForm=Inf	29	xcomp	_	id=s1.u7.w29
+31	quand	quand	SCONJ	_	_	33	mark	_	_none=|id=s1.u7.w30
+32	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	33	nsubj	_	id=s1.u7.w31
+33	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	advcl	_	id=s1.u7.w32
+34	comment	comment	ADV	_	_	33	advmod	_	_none=|id=s1.u7.w33
+
+# sent_id = 027_0000001c_8
+# text = A E S elle a eu oui
+1	A	A	PROPN	_	_	6	dislocated	_	_none=|id=s1.u8.w0
+2	E	E	PROPN	_	_	1	flat:name	_	_none=|id=s1.u8.w1
+3	S	S	PROPN	_	_	1	flat:name	_	_none=|id=s1.u8.w2
+4	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	id=s1.u8.w3
+5	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_none=|id=s1.u8.w4
+6	eu	avoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u8.w5
+7	oui	oui	ADV	_	_	6	obj	_	_none=|id=s1.u8.w6
+
+# sent_id = 027_0000001c_9
+# text = c' est ouvert aujourd'hui par exemple
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj:pass	_	_none=|id=s1.u9.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_none=|id=s1.u9.w1
+3	ouvert	ouverer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u9.w2
+4	aujourd'hui	aujourd'hui	ADV	_	_	3	advmod	_	_none=|id=s1.u9.w3
+5	par	par	ADP	_	_	6	case	_	_none=|id=s1.u9.w4
+6	exemple	exemple	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_none=|id=s1.u9.w5
+
+# sent_id = 027_0000001c_10
+# text = aujourd'hui c' est ouvert par exemple
+1	aujourd'hui	aujourd'hui	ADV	_	_	4	advmod	_	_none=|id=s1.u10.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj:pass	_	_none=|id=s1.u10.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_none=|id=s1.u10.w2
+4	ouvert	ouverer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u10.w3
+5	par	par	ADP	_	_	6	case	_	_none=|id=s1.u10.w4
+6	exemple	exemple	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_none=|id=s1.u10.w5
+
+# sent_id = 027_0000001c_11
+# text = ha oui oui c' est ouvert hein jusqu' à dix sept heure trente
+1	ha	ha	INTJ	_	_	6	discourse	_	id=s1.u11.w0
+2	oui	oui	INTJ	_	_	6	discourse	_	_none=|id=s1.u11.w1
+3	oui	oui	INTJ	_	_	6	discourse	_	_none=|id=s1.u11.w2
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_none=|id=s1.u11.w3
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_none=|id=s1.u11.w4
+6	ouvert	ouverer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u11.w5
+7	hein	hein	INTJ	_	_	6	discourse	_	_none=|id=s1.u11.w6
+8	jusqu'	jusque	ADP	_	_	12	case	_	_none=|id=s1.u11.w7
+9	à	à	ADP	_	_	12	case	_	_none=|id=s1.u11.w8
+10	dix	dix	NUM	_	Number=Plur	12	nummod	_	_none=|id=s1.u11.w9
+11	sept	sep	NUM	_	Number=Plur	10	flat	_	id=s1.u11.w10
+12	heure	heure	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	id=s1.u11.w11
+13	trente	trente	NUM	_	Number=Plur	12	nummod	_	id=s1.u11.w12
+
+# sent_id = 027_0000001c_12
+# text = jusqu' à dix sept heure trente
+1	jusqu'	jusque	ADP	_	_	5	case	_	_none=|id=s1.u12.w0
+2	à	à	ADP	_	_	5	case	_	_none=|id=s1.u12.w1
+3	dix	dix	NUM	_	Number=Plur	5	nummod	_	_none=|id=s1.u12.w2
+4	sept	sep	NUM	_	Number=Plur	3	flat	_	id=s1.u12.w3
+5	heure	heure	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u12.w4
+6	trente	trente	NUM	_	Number=Plur	5	nummod	_	id=s1.u12.w5
+
+# sent_id = 027_0000001c_13
+# text = enfin moi je vais partir tout à l' heure à seize heure parce que je suis en congé mais e elle va passer à quelle heure
+1	enfin	enfin	ADV	_	_	4	discourse	_	_none=|id=s1.u13.w0
+2	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	4	dislocated	_	_none=|id=s1.u13.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u13.w2
+4	vais	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u13.w3
+5	partir	partir	VERB	ETRE	VerbForm=Inf	4	xcomp	_	id=s1.u13.w4
+6	tout	tout	ADV	_	_	9	advmod	_	_none=|id=s1.u13.w5
+7	à	à	ADP	_	_	9	case	_	_none=|id=s1.u13.w6
+8	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	_none=|id=s1.u13.w7
+9	heure	heure	NOUN	_	Gender=Fem|Number=Sing	18	obl:mod	_	id=s1.u13.w8
+10	à	à	ADP	_	_	12	case	_	_none=|id=s1.u13.w9
+11	seize	seize	NUM	_	Number=Plur	12	nummod	_	id=s1.u13.w10
+12	heure	heure	NOUN	_	Gender=Fem|Number=Plur	5	obl:mod	_	id=s1.u13.w11
+13	parce	parce	ADV	_	_	18	mark	_	_none=|id=s1.u13.w12
+14	que	que	SCONJ	_	_	13	fixed	_	id=s1.u13.w13
+15	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	18	nsubj	_	_none=|id=s1.u13.w14
+16	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	cop	_	id=s1.u13.w15
+17	en	en	ADP	_	_	18	case	_	_none=|id=s1.u13.w16
+18	congé	congé	NOUN	_	Gender=Masc|Number=Sing	5	advcl	_	_none=|id=s1.u13.w17
+19	mais	mais	CCONJ	_	_	22	cc	_	_none=|id=s1.u13.w18
+20	e	e	PRON	_	_	22	nsubj	_	id=s1.u13.w19
+21	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	id=s1.u13.w20
+22	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	conj	_	id=s1.u13.w21
+23	passer	passer	VERB	_	VerbForm=Inf	22	xcomp	_	id=s1.u13.w22
+24	à	à	ADP	_	_	26	case	_	id=s1.u13.w23
+25	quelle	quel	DET	_	Gender=Fem|Number=Sing	26	det	_	id=s1.u13.w24
+26	heure	heure	NOUN	_	Gender=Fem|Number=Sing	23	obl:mod	_	id=s1.u13.w25
+
+# sent_id = 027_0000001c_15
+# text = ben e- elle est sur la route de Rennes e pour venir de Rennes là donc e elle va passer ben je sais pas bientôt
+1	ben	ben	INTJ	_	_	4	discourse	_	_none=|id=s1.u15.w0
+2	e-	e-	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_none=|id=s1.u15.w1
+3	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	id=s1.u15.w2
+4	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u15.w3
+5	sur	sur	ADP	_	_	7	case	_	_none=|id=s1.u15.w4
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	id=s1.u15.w5
+7	route	route	NOUN	_	Gender=Fem|Number=Sing	4	obl:arg	_	id=s1.u15.w6
+8	de	de	ADP	_	_	9	case	_	_none=|id=s1.u15.w7
+9	Rennes	Rennes	PROPN	_	_	7	nmod	_	_none=|id=s1.u15.w8
+10	e	e	CCONJ	_	_	12	cc	_	_none=|id=s1.u15.w9
+11	pour	pour	ADP	_	_	12	mark	_	_none=|id=s1.u15.w10
+12	venir	venir	VERB	_	VerbForm=Inf	7	acl	_	_none=|id=s1.u15.w11
+13	de	de	ADP	_	_	14	case	_	_none=|id=s1.u15.w12
+14	Rennes	Rennes	PROPN	_	_	12	obl:arg	_	_none=|id=s1.u15.w13
+15	là	là	ADV	_	_	12	advmod	_	_none=|id=s1.u15.w14
+16	donc	donc	ADV	_	_	19	cc	_	_none=|id=s1.u15.w15
+17	e	e	PRON	_	_	19	reparandum	_	_none=|id=s1.u15.w16
+18	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	id=s1.u15.w17
+19	va	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	id=s1.u15.w18
+20	passer	passer	VERB	_	VerbForm=Inf	19	xcomp	_	id=s1.u15.w19
+21	ben	ben	INTJ	_	_	20	discourse	_	_none=|id=s1.u15.w20
+22	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	23	nsubj	_	id=s1.u15.w21
+23	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	conj	_	id=s1.u15.w22
+24	pas	pas	ADV	_	Polarity=Neg	23	advmod	_	_none=|id=s1.u15.w23
+25	bientôt	bientôt	ADV	_	_	23	advmod	_	_none=|id=s1.u15.w24
+
+# sent_id = 027_0000001c_16
+# text = elle s' adresse e au secrétariat hein qu' elle s' inquiète pas hein
+1	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	id=s1.u16.w0
+2	s'	se	PRON	_	Person=3|PronType=Prs	3	expl:pv	_	id=s1.u16.w1
+3	adresse	adresser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u16.w2
+4	e	e	CCONJ	_	_	3	cc	_	id=s1.u16.w3
+5	au	au	ADP	_	_	6	case	_	_none=|id=s1.u16.w4
+6	secrétariat	secrétariat	NOUN	_	Gender=Masc|Number=Sing	3	obl:arg	_	_none=|id=s1.u16.w5
+7	hein	hein	INTJ	_	_	6	discourse	_	_none=|id=s1.u16.w6
+8	qu'	que	SCONJ	_	PronType=Rel	11	obj	_	_none=|id=s1.u16.w7
+9	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	id=s1.u16.w8
+10	s'	se	PRON	_	Person=3|PronType=Prs	11	expl:comp	_	id=s1.u16.w9
+11	inquiète	inquièer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	id=s1.u16.w10
+12	pas	pas	ADV	_	_	11	advmod	_	_none=|id=s1.u16.w11
+13	hein	hein	INTJ	_	_	3	discourse	_	_none=|id=s1.u16.w12
+
+# sent_id = 027_0000001c_17
+# text = d' accord hé bien je vais lui dire qu' elle peut passer à ce moment là jusqu' à dix sept heure
+1	d'	de	ADP	_	_	6	dep	_	_none=|id=s1.u17.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u17.w1
+3	hé	hé	INTJ	_	_	6	discourse	_	_none=|id=s1.u17.w2
+4	bien	bien	INTJ	_	_	1	fixed	_	_none=|id=s1.u17.w3
+5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_none=|id=s1.u17.w4
+6	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u17.w5
+7	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_none=|id=s1.u17.w6
+8	dire	dire	VERB	_	VerbForm=Inf	6	xcomp	_	_none=|id=s1.u17.w7
+9	qu'	que	SCONJ	_	_	11	mark	_	id=s1.u17.w8
+10	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	id=s1.u17.w9
+11	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	id=s1.u17.w10
+12	passer	passer	VERB	_	VerbForm=Inf	11	xcomp	_	id=s1.u17.w11
+13	à	à	ADP	_	_	15	case	_	_none=|id=s1.u17.w12
+14	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	15	det	_	id=s1.u17.w13
+15	moment	moment	NOUN	_	Gender=Masc|Number=Sing	12	obl:mod	_	_none=|id=s1.u17.w14
+16	là	là	ADV	_	_	15	advmod	_	_none=|id=s1.u17.w15
+17	jusqu'	jusque	ADV	_	_	21	advmod	_	id=s1.u17.w16
+18	à	à	ADP	_	_	21	case	_	_none=|id=s1.u17.w17
+19	dix	dix	NUM	_	Number=Plur	21	nummod	_	_none=|id=s1.u17.w18
+20	sept	sept	NUM	_	Number=Plur	19	flat	_	id=s1.u17.w19
+21	heure	heure	NOUN	_	Gender=Fem|Number=Plur	12	obl:mod	_	id=s1.u17.w20
+
+# sent_id = 027_0000001c_18
+# text = ouais ouais ouais ben e et a dix si il y a personne à l' accueil elle va directement au secrétariat
+1	ouais	ouais	INTJ	_	_	4	discourse	_	_none=|id=s1.u18.w0
+2	ouais	ouais	INTJ	_	_	5	discourse	_	_none=|id=s1.u18.w1
+3	ouais	ouais	INTJ	_	_	5	discourse	_	_none=|id=s1.u18.w2
+4	ben	ben	INTJ	_	_	18	discourse	_	_none=|id=s1.u18.w3
+5	e	e	PRON	_	_	7	reparandum	_	_none=|id=s1.u18.w4
+6	et	et	CCONJ	_	_	7	cc	_	_none=|id=s1.u18.w5
+7	a	avoir	ADP	_	_	4	conj	_	_none=|id=s1.u18.w6
+8	dix	dix	NUM	_	Number=Plur	7	dep	_	_none=|id=s1.u18.w7
+9	si	si	SCONJ	_	_	12	mark	_	_none=|id=s1.u18.w8
+10	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl:subj	_	_none=|id=s1.u18.w9
+11	y	y	PRON	_	Person=3|PronType=Prs	12	expl:comp	_	_none=|id=s1.u18.w10
+12	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	id=s1.u18.w11
+13	personne	personne	PRON	_	Gender=Fem|Number=Sing	12	obj	_	id=s1.u18.w12
+14	à	à	ADP	_	_	16	case	_	_none=|id=s1.u18.w13
+15	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	16	det	_	id=s1.u18.w14
+16	accueil	accueil	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	_none=|id=s1.u18.w15
+17	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	id=s1.u18.w16
+18	va	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u18.w17
+19	directement	directement	ADV	_	_	18	advmod	_	_none=|id=s1.u18.w18
+20	au	au	ADP	_	_	21	case	_	id=s1.u18.w19
+21	secrétariat	secrétariat	NOUN	_	Gender=Masc|Number=Sing	18	obl:arg	_	id=s1.u18.w20
+
+# sent_id = 027_0000001c_19
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u19.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u19.w1
+
+# sent_id = 027_0000001c_20
+# text = voilà au revoir
+1	voilà	voilà	VERB	_	_	0	root	_	id=s1.u20.w0
+2	au	au	ADP	_	_	3	case	_	_none=|id=s1.u20.w1
+3	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	1	advcl	_	_none=|id=s1.u20.w2
+
+# sent_id = 027_0000001c_21
+# text = je vous remercie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u21.w0
+2	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	3	obj	_	_none=|id=s1.u21.w1
+3	remercie	remercier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u21.w2
+

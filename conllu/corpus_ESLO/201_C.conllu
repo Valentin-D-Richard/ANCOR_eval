@@ -1,0 +1,211 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 201_C_0
+# text = 
+
+# sent_id = 201_C_1
+# text = ah ils sont pas là hein ?
+1	ah	_	_	_	_	_	_	_	id=s1.u1.w0
+2	ils	_	_	_	_	_	_	_	id=s1.u1.w1
+3	sont	_	_	_	_	_	_	_	id=s1.u1.w2
+4	pas	_	_	_	_	_	_	_	id=s1.u1.w3
+5	là	_	_	_	_	_	_	_	id=s1.u1.w4
+6	hein	_	_	_	_	_	_	_	id=s1.u1.w5
+
+# sent_id = 201_C_2
+# text = ils sont pas là en ce moment
+1	ils	_	_	_	_	_	_	_	id=s1.u2.w0
+2	sont	_	_	_	_	_	_	_	id=s1.u2.w1
+3	pas	_	_	_	_	_	_	_	id=s1.u2.w2
+4	là	_	_	_	_	_	_	_	id=s1.u2.w3
+5	en	_	_	_	_	_	_	_	id=s1.u2.w4
+6	ce	_	_	_	_	_	_	_	id=s1.u2.w5
+7	moment	_	_	_	_	_	_	_	id=s1.u2.w6
+
+# sent_id = 201_C_3
+# text = ah bon ? ils sont repartis en vacances ou ?
+1	ah	_	_	_	_	_	_	_	id=s1.u3.w0
+2	bon	_	_	_	_	_	_	_	id=s1.u3.w1
+3	ils	_	_	_	_	_	_	_	id=s1.u3.w3
+4	sont	_	_	_	_	_	_	_	id=s1.u3.w4
+5	repartis	_	_	_	_	_	_	_	id=s1.u3.w5
+6	en	_	_	_	_	_	_	_	id=s1.u3.w6
+7	vacances	_	_	_	_	_	_	_	id=s1.u3.w7
+8	ou	_	_	_	_	_	_	_	id=s1.u3.w8
+
+# sent_id = 201_C_4
+# text = pour huit jours je crois hein ? ils reviendront que la semaine prochaine
+1	pour	_	_	_	_	_	_	_	id=s1.u4.w0
+2	huit	_	_	_	_	_	_	_	id=s1.u4.w1
+3	jours	_	_	_	_	_	_	_	id=s1.u4.w2
+4	je	_	_	_	_	_	_	_	id=s1.u4.w3
+5	crois	_	_	_	_	_	_	_	id=s1.u4.w4
+6	hein	_	_	_	_	_	_	_	id=s1.u4.w5
+7	ils	_	_	_	_	_	_	_	id=s1.u4.w7
+8	reviendront	_	_	_	_	_	_	_	id=s1.u4.w8
+9	que	_	_	_	_	_	_	_	id=s1.u4.w9
+10	la	_	_	_	_	_	_	_	id=s1.u4.w10
+11	semaine	_	_	_	_	_	_	_	id=s1.u4.w11
+12	prochaine	_	_	_	_	_	_	_	id=s1.u4.w12
+
+# sent_id = 201_C_5
+# text = ah oui d' accord
+1	ah	_	_	_	_	_	_	_	id=s1.u5.w0
+2	oui	_	_	_	_	_	_	_	id=s1.u5.w1
+3	d'	_	_	_	_	_	_	_	id=s1.u5.w2
+4	accord	_	_	_	_	_	_	_	id=s1.u5.w3
+
+# sent_id = 201_C_6
+# text = ah bon ?
+1	ah	_	_	_	_	_	_	_	id=s1.u6.w0
+2	bon	_	_	_	_	_	_	_	id=s1.u6.w1
+
+# sent_id = 201_C_7
+# text = y a juste à au salon de coiffure que vous pourriez aller voir
+1	y	_	_	_	_	_	_	_	id=s1.u7.w0
+2	a	_	_	_	_	_	_	_	id=s1.u7.w1
+3	juste	_	_	_	_	_	_	_	id=s1.u7.w2
+4	à	_	_	_	_	_	_	_	id=s1.u7.w3
+5	au	_	_	_	_	_	_	_	id=s1.u7.w4
+6	salon	_	_	_	_	_	_	_	id=s1.u7.w5
+7	de	_	_	_	_	_	_	_	id=s1.u7.w6
+8	coiffure	_	_	_	_	_	_	_	id=s1.u7.w7
+9	que	_	_	_	_	_	_	_	id=s1.u7.w8
+10	vous	_	_	_	_	_	_	_	id=s1.u7.w9
+11	pourriez	_	_	_	_	_	_	_	id=s1.u7.w10
+12	aller	_	_	_	_	_	_	_	id=s1.u7.w11
+13	voir	_	_	_	_	_	_	_	id=s1.u7.w12
+
+# sent_id = 201_C_8
+# text = ah oui c' est vrai oui ah oui d' accord eh ben dans huit jours i- ils devront
+1	ah	_	_	_	_	_	_	_	id=s1.u8.w0
+2	oui	_	_	_	_	_	_	_	id=s1.u8.w1
+3	c'	_	_	_	_	_	_	_	id=s1.u8.w2
+4	est	_	_	_	_	_	_	_	id=s1.u8.w3
+5	vrai	_	_	_	_	_	_	_	id=s1.u8.w4
+6	oui	_	_	_	_	_	_	_	id=s1.u8.w5
+7	ah	_	_	_	_	_	_	_	id=s1.u8.w6
+8	oui	_	_	_	_	_	_	_	id=s1.u8.w7
+9	d'	_	_	_	_	_	_	_	id=s1.u8.w8
+10	accord	_	_	_	_	_	_	_	id=s1.u8.w9
+11	eh	_	_	_	_	_	_	_	id=s1.u8.w10
+12	ben	_	_	_	_	_	_	_	id=s1.u8.w11
+13	dans	_	_	_	_	_	_	_	id=s1.u8.w12
+14	huit	_	_	_	_	_	_	_	id=s1.u8.w13
+15	jours	_	_	_	_	_	_	_	id=s1.u8.w14
+16	i-	_	_	_	_	_	_	_	id=s1.u8.w15
+17	ils	_	_	_	_	_	_	_	id=s1.u8.w16
+18	devront	_	_	_	_	_	_	_	id=s1.u8.w17
+
+# sent_id = 201_C_9
+# text = ils seront r- de de retour
+1	ils	_	_	_	_	_	_	_	id=s1.u9.w0
+2	seront	_	_	_	_	_	_	_	id=s1.u9.w1
+3	r-	_	_	_	_	_	_	_	id=s1.u9.w2
+4	de	_	_	_	_	_	_	_	id=s1.u9.w3
+5	de	_	_	_	_	_	_	_	id=s1.u9.w4
+6	retour	_	_	_	_	_	_	_	id=s1.u9.w5
+
+# sent_id = 201_C_10
+# text = ben ils sont partis que pour les travaux alors vous pensez que
+1	ben	_	_	_	_	_	_	_	id=s1.u10.w0
+2	ils	_	_	_	_	_	_	_	id=s1.u10.w1
+3	sont	_	_	_	_	_	_	_	id=s1.u10.w2
+4	partis	_	_	_	_	_	_	_	id=s1.u10.w3
+5	que	_	_	_	_	_	_	_	id=s1.u10.w4
+6	pour	_	_	_	_	_	_	_	id=s1.u10.w5
+7	les	_	_	_	_	_	_	_	id=s1.u10.w6
+8	travaux	_	_	_	_	_	_	_	id=s1.u10.w7
+9	alors	_	_	_	_	_	_	_	id=s1.u10.w8
+10	vous	_	_	_	_	_	_	_	id=s1.u10.w9
+11	pensez	_	_	_	_	_	_	_	id=s1.u10.w10
+12	que	_	_	_	_	_	_	_	id=s1.u10.w11
+
+# sent_id = 201_C_11
+# text = 
+
+# sent_id = 201_C_12
+# text = 
+
+# sent_id = 201_C_13
+# text = 
+
+# sent_id = 201_C_14
+# text = 
+
+# sent_id = 201_C_15
+# text = ben sans quoi vous pouvez aller voir le fils là euh
+1	ben	_	_	_	_	_	_	_	id=s1.u15.w0
+2	sans	_	_	_	_	_	_	_	id=s1.u15.w1
+3	quoi	_	_	_	_	_	_	_	id=s1.u15.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u15.w3
+5	pouvez	_	_	_	_	_	_	_	id=s1.u15.w4
+6	aller	_	_	_	_	_	_	_	id=s1.u15.w5
+7	voir	_	_	_	_	_	_	_	id=s1.u15.w6
+8	le	_	_	_	_	_	_	_	id=s1.u15.w7
+9	fils	_	_	_	_	_	_	_	id=s1.u15.w8
+10	là	_	_	_	_	_	_	_	id=s1.u15.w9
+11	euh	_	_	_	_	_	_	_	id=s1.u15.w10
+
+# sent_id = 201_C_16
+# text = oui oui
+1	oui	_	_	_	_	_	_	_	id=s1.u16.w0
+2	oui	_	_	_	_	_	_	_	id=s1.u16.w1
+
+# sent_id = 201_C_17
+# text = ben il est coiffeuse euh
+1	ben	_	_	_	_	_	_	_	id=s1.u17.w0
+2	il	_	_	_	_	_	_	_	id=s1.u17.w1
+3	est	_	_	_	_	_	_	_	id=s1.u17.w2
+4	coiffeuse	_	_	_	_	_	_	_	id=s1.u17.w3
+5	euh	_	_	_	_	_	_	_	id=s1.u17.w4
+
+# sent_id = 201_C_18
+# text = oui oui
+1	oui	_	_	_	_	_	_	_	id=s1.u18.w0
+2	oui	_	_	_	_	_	_	_	id=s1.u18.w1
+
+# sent_id = 201_C_19
+# text = si vous voulez des des renseignements lui il pourra vous en donner
+1	si	_	_	_	_	_	_	_	id=s1.u19.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u19.w1
+3	voulez	_	_	_	_	_	_	_	id=s1.u19.w2
+4	des	_	_	_	_	_	_	_	id=s1.u19.w3
+5	des	_	_	_	_	_	_	_	id=s1.u19.w4
+6	renseignements	_	_	_	_	_	_	_	id=s1.u19.w5
+7	lui	_	_	_	_	_	_	_	id=s1.u19.w6
+8	il	_	_	_	_	_	_	_	id=s1.u19.w7
+9	pourra	_	_	_	_	_	_	_	id=s1.u19.w8
+10	vous	_	_	_	_	_	_	_	id=s1.u19.w9
+11	en	_	_	_	_	_	_	_	id=s1.u19.w10
+12	donner	_	_	_	_	_	_	_	id=s1.u19.w11
+
+# sent_id = 201_C_20
+# text = 
+
+# sent_id = 201_C_21
+# text = merci monsieur
+1	merci	_	_	_	_	_	_	_	id=s1.u21.w0
+2	monsieur	_	_	_	_	_	_	_	id=s1.u21.w1
+
+# sent_id = 201_C_22
+# text = merci beaucoup
+1	merci	_	_	_	_	_	_	_	id=s1.u22.w0
+2	beaucoup	_	_	_	_	_	_	_	id=s1.u22.w1
+
+# sent_id = 201_C_23
+# text = de rien
+1	de	_	_	_	_	_	_	_	id=s1.u23.w0
+2	rien	_	_	_	_	_	_	_	id=s1.u23.w1
+
+# sent_id = 201_C_24
+# text = 
+
+# sent_id = 201_C_25
+# text = 
+
+# sent_id = 201_C_26
+# text = 
+
+# sent_id = 201_C_27
+# text = 
+

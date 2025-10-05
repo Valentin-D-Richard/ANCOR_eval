@@ -1,0 +1,83 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0214_0
+# text = je viens
+1	je	_	_	_	_	_	_	_	id=s1.u0.w0
+2	viens	_	_	_	_	_	_	_	id=s1.u0.w1
+
+# sent_id = 1SB0214_1
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u1.w0
+
+# sent_id = 1SB0214_2
+# text = pour me renseigner sur les gîtes de montagne
+1	pour	_	_	_	_	_	_	_	id=s1.u2.w0
+2	me	_	_	_	_	_	_	_	id=s1.u2.w1
+3	renseigner	_	_	_	_	_	_	_	id=s1.u2.w2
+4	sur	_	_	_	_	_	_	_	id=s1.u2.w3
+5	les	_	_	_	_	_	_	_	id=s1.u2.w4
+6	gîtes	_	_	_	_	_	_	_	id=s1.u2.w5
+7	de	_	_	_	_	_	_	_	id=s1.u2.w6
+8	montagne	_	_	_	_	_	_	_	id=s1.u2.w7
+
+# sent_id = 1SB0214_3
+# text = les gîtes alors c' est en vente à côté c' est ma collègue et c' est en vente trente francs
+1	les	_	_	_	_	_	_	_	id=s1.u3.w0
+2	gîtes	_	_	_	_	_	_	_	id=s1.u3.w1
+3	alors	_	_	_	_	_	_	_	id=s1.u3.w2
+4	c'	_	_	_	_	_	_	_	id=s1.u3.w3
+5	est	_	_	_	_	_	_	_	id=s1.u3.w4
+6	en	_	_	_	_	_	_	_	id=s1.u3.w5
+7	vente	_	_	_	_	_	_	_	id=s1.u3.w6
+8	à	_	_	_	_	_	_	_	id=s1.u3.w7
+9	côté	_	_	_	_	_	_	_	id=s1.u3.w8
+10	c'	_	_	_	_	_	_	_	id=s1.u3.w9
+11	est	_	_	_	_	_	_	_	id=s1.u3.w10
+12	ma	_	_	_	_	_	_	_	id=s1.u3.w11
+13	collègue	_	_	_	_	_	_	_	id=s1.u3.w12
+14	et	_	_	_	_	_	_	_	id=s1.u3.w13
+15	c'	_	_	_	_	_	_	_	id=s1.u3.w14
+16	est	_	_	_	_	_	_	_	id=s1.u3.w15
+17	en	_	_	_	_	_	_	_	id=s1.u3.w16
+18	vente	_	_	_	_	_	_	_	id=s1.u3.w17
+19	trente	_	_	_	_	_	_	_	id=s1.u3.w18
+20	francs	_	_	_	_	_	_	_	id=s1.u3.w19
+
+# sent_id = 1SB0214_4
+# text = c' est à dire
+1	c'	_	_	_	_	_	_	_	id=s1.u4.w0
+2	est	_	_	_	_	_	_	_	id=s1.u4.w1
+3	à	_	_	_	_	_	_	_	id=s1.u4.w2
+4	dire	_	_	_	_	_	_	_	id=s1.u4.w3
+
+# sent_id = 1SB0214_5
+# text = tous les gîtes de l' Isère
+1	tous	_	_	_	_	_	_	_	id=s1.u5.w0
+2	les	_	_	_	_	_	_	_	id=s1.u5.w1
+3	gîtes	_	_	_	_	_	_	_	id=s1.u5.w2
+4	de	_	_	_	_	_	_	_	id=s1.u5.w3
+5	l'	_	_	_	_	_	_	_	id=s1.u5.w4
+6	Isère	_	_	_	_	_	_	_	id=s1.u5.w5
+
+# sent_id = 1SB0214_6
+# text = ah e ah e
+1	ah	_	_	_	_	_	_	_	id=s1.u6.w0
+2	e	_	_	_	_	_	_	_	id=s1.u6.w1
+3	ah	_	_	_	_	_	_	_	id=s1.u6.w2
+4	e	_	_	_	_	_	_	_	id=s1.u6.w3
+
+# sent_id = 1SB0214_7
+# text = c' est pas l' Isère
+1	c'	_	_	_	_	_	_	_	id=s1.u7.w0
+2	est	_	_	_	_	_	_	_	id=s1.u7.w1
+3	pas	_	_	_	_	_	_	_	id=s1.u7.w2
+4	l'	_	_	_	_	_	_	_	id=s1.u7.w3
+5	Isère	_	_	_	_	_	_	_	id=s1.u7.w4
+
+# sent_id = 1SB0214_8
+# text = si si si mais e
+1	si	_	_	_	_	_	_	_	id=s1.u8.w0
+2	si	_	_	_	_	_	_	_	id=s1.u8.w1
+3	si	_	_	_	_	_	_	_	id=s1.u8.w2
+4	mais	_	_	_	_	_	_	_	id=s1.u8.w3
+5	e	_	_	_	_	_	_	_	id=s1.u8.w4
+

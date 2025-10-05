@@ -1,0 +1,70 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0457_1
+# text = pour la réservation e pour un ticket de cinéma c' est possible en avant-première e demain
+1	pour	pour	ADP	_	_	3	case	_	_none=|id=s1.u1.w0
+2	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	id=s1.u1.w1
+3	réservation	réservation	NOUN	_	Gender=Fem|Number=Sing	12	obl:mod	_	_none=|id=s1.u1.w2
+4	e	e	CCONJ	_	_	7	cc	_	_none=|id=s1.u1.w3
+5	pour	pour	ADP	_	_	7	case	_	_none=|id=s1.u1.w4
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	id=s1.u1.w5
+7	ticket	ticket	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_none=|id=s1.u1.w6
+8	de	de	ADP	_	_	9	case	_	_none=|id=s1.u1.w7
+9	cinéma	cinéma	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_none=|id=s1.u1.w8
+10	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	nsubj	_	_none=|id=s1.u1.w9
+11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	id=s1.u1.w10
+12	possible	possible	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u1.w11
+13	en	en	ADP	_	_	14	case	_	_none=|id=s1.u1.w12
+14	avant-première	avant-première	NOUN	_	Gender=Fem|Number=Sing	12	obl:mod	_	id=s1.u1.w13
+15	e	e	CCONJ	_	_	16	case	_	_none=|id=s1.u1.w14
+16	demain	demain	NOUN	_	Gender=Masc|Number=Sing	14	conj	_	_none=|id=s1.u1.w15
+
+# sent_id = 1PF0457_2
+# text = e nous -n on distribue des contremarques mais il faudrait demander à ma collègue Prénom là parce que j' ai su qu' on avait des qu' on avait des tickets e de de de réduction de choses comme ça mais demandez à Prénom qui est à côté
+1	e	e	ADP	_	_	2	case	_	_none=|id=s1.u2.w0
+2	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	5	obl:mod	_	_none=|id=s1.u2.w1
+3	-n	n	ADV	_	_	2	advmod	_	_none=|id=s1.u2.w2
+4	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nsubj	_	_none=|id=s1.u2.w3
+5	distribue	distribuer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w4
+6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	id=s1.u2.w5
+7	contremarques	contremarque	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	id=s1.u2.w6
+8	mais	mais	CCONJ	_	_	10	cc	_	_none=|id=s1.u2.w7
+9	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_none=|id=s1.u2.w8
+10	faudrait	falloir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_none=|id=s1.u2.w9
+11	demander	demander	VERB	_	VerbForm=Inf	5	advcl	_	_none=|id=s1.u2.w10
+12	à	à	ADP	_	_	14	case	_	_none=|id=s1.u2.w11
+13	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|PronType=Prs	14	det	_	_none=|id=s1.u2.w12
+14	collègue	collègue	NOUN	_	Gender=Fem|Number=Sing	11	obl:arg	_	id=s1.u2.w13
+15	Prénom	Prénom	PROPN	_	_	14	nmod:appos	_	_none=|id=s1.u2.w14
+16	là	là	ADV	_	_	14	advmod	_	_none=|id=s1.u2.w15
+17	parce	parce	ADV	_	_	21	mark	_	_none=|id=s1.u2.w16
+18	que	que	SCONJ	_	_	17	fixed	_	id=s1.u2.w17
+19	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	21	nsubj	_	_none=|id=s1.u2.w18
+20	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	21	aux:tense	_	_none=|id=s1.u2.w19
+21	su	savoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_none=|id=s1.u2.w20
+22	qu'	que	SCONJ	_	_	24	mark	_	_none=|id=s1.u2.w21
+23	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	24	nsubj	_	_none=|id=s1.u2.w22
+24	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	28	reparandum	_	_none=|id=s1.u2.w23
+25	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	24	dep:comp	_	_none=|id=s1.u2.w24
+26	qu'	que	SCONJ	_	_	28	mark	_	_none=|id=s1.u2.w25
+27	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	28	nsubj	_	_none=|id=s1.u2.w26
+28	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	21	ccomp	_	_none=|id=s1.u2.w27
+29	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	30	det	_	id=s1.u2.w28
+30	tickets	ticket	NOUN	_	Gender=Masc|Number=Plur	28	obj	_	id=s1.u2.w29
+31	e	e	CCONJ	_	_	33	dep	_	_none=|id=s1.u2.w30
+32	de	de	PRON	_	_	33	dep	_	_none=|id=s1.u2.w31
+33	de	de	PRON	_	_	35	reparandum	_	_none=|id=s1.u2.w32
+34	de	de	ADP	_	_	35	case	_	_none=|id=s1.u2.w33
+35	réduction	réduction	NOUN	_	Gender=Fem|Number=Sing	28	obj	_	id=s1.u2.w34
+36	de	de	ADP	_	_	37	case	_	id=s1.u2.w35
+37	choses	chose	NOUN	_	Gender=Fem|Number=Plur	35	nmod	_	id=s1.u2.w36
+38	comme	comme	ADP	_	_	39	case	_	_none=|id=s1.u2.w37
+39	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	35	nmod	_	id=s1.u2.w38
+40	mais	mais	CCONJ	_	_	41	cc	_	_none=|id=s1.u2.w39
+41	demandez	demanre	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	11	conj	_	id=s1.u2.w40
+42	à	à	ADP	_	_	43	case	_	_none=|id=s1.u2.w41
+43	Prénom	Prénom	PROPN	_	_	41	obl:arg	_	_none=|id=s1.u2.w42
+44	qui	qui	PRON	_	PronType=Rel	45	nsubj	_	id=s1.u2.w43
+45	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	43	acl:relcl	_	id=s1.u2.w44
+46	à	à	ADP	_	_	47	case	_	_none=|id=s1.u2.w45
+47	côté	côté	NOUN	_	Gender=Masc|Number=Sing	45	obl:arg	_	id=s1.u2.w46
+

@@ -1,0 +1,31 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0179_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1AP0179_1
+# text = bonjour c' est juste pour prendre ça
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	c'	_	_	_	_	_	_	_	id=s1.u1.w1
+3	est	_	_	_	_	_	_	_	id=s1.u1.w2
+4	juste	_	_	_	_	_	_	_	id=s1.u1.w3
+5	pour	_	_	_	_	_	_	_	id=s1.u1.w4
+6	prendre	_	_	_	_	_	_	_	id=s1.u1.w5
+7	ça	_	_	_	_	_	_	_	id=s1.u1.w6
+
+# sent_id = 1AP0179_2
+# text = servez vous
+1	servez	_	_	_	_	_	_	_	id=s1.u2.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u2.w1
+
+# sent_id = 1AP0179_3
+# text = merci
+1	merci	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1AP0179_4
+# text = je vous en prie
+1	je	_	_	_	_	_	_	_	id=s1.u4.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u4.w1
+3	en	_	_	_	_	_	_	_	id=s1.u4.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u4.w3
+

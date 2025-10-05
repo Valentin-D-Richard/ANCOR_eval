@@ -1,0 +1,54 @@
+# sent_id = 1SB0266_0
+# text = bonjour je viens vous porter deux affiches déco pour e la " science en fêtes "
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u0.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u0.w1
+3	viens	venir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u0.w2
+4	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	3	iobj	_	id=s1.u0.w3
+5	porter	porter	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u0.w4
+6	deux	deux	NUM	_	Number=Plur	7	nummod	_	id=s1.u0.w5
+7	affiches	affiche	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	id=s1.u0.w6
+8	déco	déco	NOUN	_	Number=Sing	7	amod	_	_none=|id=s1.u0.w7
+9	pour	pour	ADP	_	_	12	case	_	_none=|id=s1.u0.w8
+10	e	e	DET	_	_	12	det	_	id=s1.u0.w9
+11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	id=s1.u0.w10
+12	science	science	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	id=s1.u0.w12
+13	en	en	ADP	_	_	14	case	_	id=s1.u0.w13
+14	fêtes	fête	NOUN	_	Gender=Fem|Number=Plur	12	nmod	_	id=s1.u0.w14
+
+# sent_id = 1SB0266_2
+# text = ouais génial ah ben oui il faut que je prépare ma petite ouais j' ai dit que je ferai une expo merci bien
+1	ouais	ouais	INTJ	_	_	7	discourse	_	_none=|id=s1.u2.w0
+2	génial	génial	ADJ	_	_	7	discourse	_	_none=|id=s1.u2.w1
+3	ah	ah	INTJ	_	_	7	discourse	_	_none=|id=s1.u2.w2
+4	ben	ben	INTJ	_	_	7	discourse	_	_none=|id=s1.u2.w3
+5	oui	oui	ADV	_	_	7	discourse	_	_none=|id=s1.u2.w4
+6	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	_none=|id=s1.u2.w5
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u2.w6
+8	que	que	SCONJ	_	_	10	mark	_	_none=|id=s1.u2.w7
+9	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_none=|id=s1.u2.w8
+10	prépare	préparer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	ccomp	_	id=s1.u2.w9
+11	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1|PronType=Prs	12	det	_	id=s1.u2.w10
+12	petite	petit	ADJ	_	Gender=Fem|Number=Sing	10	obj	_	id=s1.u2.w11
+13	ouais	ouais	CCONJ	_	_	16	discourse	_	_none=|id=s1.u2.w12
+14	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_none=|id=s1.u2.w13
+15	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	aux:tense	_	_none=|id=s1.u2.w14
+16	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	_none=|id=s1.u2.w15
+17	que	que	SCONJ	_	_	19	mark	_	_none=|id=s1.u2.w16
+18	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_none=|id=s1.u2.w17
+19	ferai	fee	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	16	ccomp	_	id=s1.u2.w18
+20	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	id=s1.u2.w19
+21	expo	expo	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	id=s1.u2.w20
+22	merci	merci	ADV	_	_	16	conj	_	_none=|id=s1.u2.w21
+23	bien	bien	ADV	_	_	22	advmod	_	_none=|id=s1.u2.w22
+
+# sent_id = 1SB0266_3
+# text = merci au revoir
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u3.w0
+2	au	au	ADP	_	_	3	case	_	_none=|id=s1.u3.w1
+3	revoir	revoir	VERB	_	Gender=Masc|Number=Sing	1	advcl	_	_none=|id=s1.u3.w2
+
+# sent_id = 1SB0266_4
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u4.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u4.w1
+

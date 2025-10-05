@@ -1,0 +1,114 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0286_0
+# text = pour la Grèce il y a un musée où ils font une expo sur les météorites et il me semblait les pierres c' est tout près d' ici
+1	pour	_	_	_	_	_	_	_	id=s1.u0.w0
+2	la	_	_	_	_	_	_	_	id=s1.u0.w1
+3	Grèce	_	_	_	_	_	_	_	id=s1.u0.w2
+4	il	_	_	_	_	_	_	_	id=s1.u0.w3
+5	y	_	_	_	_	_	_	_	id=s1.u0.w4
+6	a	_	_	_	_	_	_	_	id=s1.u0.w5
+7	un	_	_	_	_	_	_	_	id=s1.u0.w6
+8	musée	_	_	_	_	_	_	_	id=s1.u0.w7
+9	où	_	_	_	_	_	_	_	id=s1.u0.w8
+10	ils	_	_	_	_	_	_	_	id=s1.u0.w9
+11	font	_	_	_	_	_	_	_	id=s1.u0.w10
+12	une	_	_	_	_	_	_	_	id=s1.u0.w11
+13	expo	_	_	_	_	_	_	_	id=s1.u0.w12
+14	sur	_	_	_	_	_	_	_	id=s1.u0.w13
+15	les	_	_	_	_	_	_	_	id=s1.u0.w14
+16	météorites	_	_	_	_	_	_	_	id=s1.u0.w15
+17	et	_	_	_	_	_	_	_	id=s1.u0.w16
+18	il	_	_	_	_	_	_	_	id=s1.u0.w17
+19	me	_	_	_	_	_	_	_	id=s1.u0.w18
+20	semblait	_	_	_	_	_	_	_	id=s1.u0.w19
+21	les	_	_	_	_	_	_	_	id=s1.u0.w20
+22	pierres	_	_	_	_	_	_	_	id=s1.u0.w21
+23	c'	_	_	_	_	_	_	_	id=s1.u0.w22
+24	est	_	_	_	_	_	_	_	id=s1.u0.w23
+25	tout	_	_	_	_	_	_	_	id=s1.u0.w24
+26	près	_	_	_	_	_	_	_	id=s1.u0.w25
+27	d'	_	_	_	_	_	_	_	id=s1.u0.w26
+28	ici	_	_	_	_	_	_	_	id=s1.u0.w27
+
+# sent_id = 1AP0286_1
+# text = 
+
+# sent_id = 1AP0286_2
+# text = c' est la Casemate
+1	c'	_	_	_	_	_	_	_	id=s1.u2.w0
+2	est	_	_	_	_	_	_	_	id=s1.u2.w1
+3	la	_	_	_	_	_	_	_	id=s1.u2.w2
+4	Casemate	_	_	_	_	_	_	_	id=s1.u2.w3
+
+# sent_id = 1AP0286_3
+# text = et c' est où ça
+1	et	_	_	_	_	_	_	_	id=s1.u3.w0
+2	c'	_	_	_	_	_	_	_	id=s1.u3.w1
+3	est	_	_	_	_	_	_	_	id=s1.u3.w2
+4	où	_	_	_	_	_	_	_	id=s1.u3.w3
+5	ça	_	_	_	_	_	_	_	id=s1.u3.w4
+
+# sent_id = 1AP0286_4
+# text = c' est rue Saint-Laurent vous avez l' adresse là dessus la place Saint-Laurent donc c' est là donc on est là
+1	c'	_	_	_	_	_	_	_	id=s1.u4.w0
+2	est	_	_	_	_	_	_	_	id=s1.u4.w1
+3	rue	_	_	_	_	_	_	_	id=s1.u4.w2
+4	Saint-Laurent	_	_	_	_	_	_	_	id=s1.u4.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u4.w4
+6	avez	_	_	_	_	_	_	_	id=s1.u4.w5
+7	l'	_	_	_	_	_	_	_	id=s1.u4.w6
+8	adresse	_	_	_	_	_	_	_	id=s1.u4.w7
+9	là	_	_	_	_	_	_	_	id=s1.u4.w8
+10	dessus	_	_	_	_	_	_	_	id=s1.u4.w9
+11	la	_	_	_	_	_	_	_	id=s1.u4.w10
+12	place	_	_	_	_	_	_	_	id=s1.u4.w11
+13	Saint-Laurent	_	_	_	_	_	_	_	id=s1.u4.w12
+14	donc	_	_	_	_	_	_	_	id=s1.u4.w13
+15	c'	_	_	_	_	_	_	_	id=s1.u4.w14
+16	est	_	_	_	_	_	_	_	id=s1.u4.w15
+17	là	_	_	_	_	_	_	_	id=s1.u4.w16
+18	donc	_	_	_	_	_	_	_	id=s1.u4.w17
+19	on	_	_	_	_	_	_	_	id=s1.u4.w18
+20	est	_	_	_	_	_	_	_	id=s1.u4.w19
+21	là	_	_	_	_	_	_	_	id=s1.u4.w20
+
+# sent_id = 1AP0286_5
+# text = rue Saint-Laurent
+1	rue	_	_	_	_	_	_	_	id=s1.u5.w0
+2	Saint-Laurent	_	_	_	_	_	_	_	id=s1.u5.w1
+
+# sent_id = 1AP0286_6
+# text = place Saint-Laurent peut être
+1	place	_	_	_	_	_	_	_	id=s1.u6.w0
+2	Saint-Laurent	_	_	_	_	_	_	_	id=s1.u6.w1
+3	peut	_	_	_	_	_	_	_	id=s1.u6.w2
+4	être	_	_	_	_	_	_	_	id=s1.u6.w3
+
+# sent_id = 1AP0286_7
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u7.w0
+
+# sent_id = 1AP0286_8
+# text = et voilà place Saint-Laurent
+1	et	_	_	_	_	_	_	_	id=s1.u8.w0
+2	voilà	_	_	_	_	_	_	_	id=s1.u8.w1
+3	place	_	_	_	_	_	_	_	id=s1.u8.w2
+4	Saint-Laurent	_	_	_	_	_	_	_	id=s1.u8.w3
+
+# sent_id = 1AP0286_9
+# text = ok merci merci au revoir
+1	ok	_	_	_	_	_	_	_	id=s1.u9.w0
+2	merci	_	_	_	_	_	_	_	id=s1.u9.w1
+3	merci	_	_	_	_	_	_	_	id=s1.u9.w2
+4	au	_	_	_	_	_	_	_	id=s1.u9.w3
+5	revoir	_	_	_	_	_	_	_	id=s1.u9.w4
+
+# sent_id = 1AP0286_10
+# text = la rive droite au revoir monsieur
+1	la	_	_	_	_	_	_	_	id=s1.u10.w0
+2	rive	_	_	_	_	_	_	_	id=s1.u10.w1
+3	droite	_	_	_	_	_	_	_	id=s1.u10.w2
+4	au	_	_	_	_	_	_	_	id=s1.u10.w3
+5	revoir	_	_	_	_	_	_	_	id=s1.u10.w4
+6	monsieur	_	_	_	_	_	_	_	id=s1.u10.w5
+

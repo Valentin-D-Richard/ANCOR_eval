@@ -1,0 +1,147 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2AG0584_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 2AG0584_1
+# text = bonjour je voudrais savoir si vous donnez des plans des pistes cyclables de Grenoble merci et e une autre chose mais je sais pas si c' est si ça concerne l' Office du Tourisme
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	je	_	_	_	_	_	_	_	id=s1.u1.w1
+3	voudrais	_	_	_	_	_	_	_	id=s1.u1.w2
+4	savoir	_	_	_	_	_	_	_	id=s1.u1.w3
+5	si	_	_	_	_	_	_	_	id=s1.u1.w4
+6	vous	_	_	_	_	_	_	_	id=s1.u1.w5
+7	donnez	_	_	_	_	_	_	_	id=s1.u1.w6
+8	des	_	_	_	_	_	_	_	id=s1.u1.w7
+9	plans	_	_	_	_	_	_	_	id=s1.u1.w8
+10	des	_	_	_	_	_	_	_	id=s1.u1.w9
+11	pistes	_	_	_	_	_	_	_	id=s1.u1.w10
+12	cyclables	_	_	_	_	_	_	_	id=s1.u1.w11
+13	de	_	_	_	_	_	_	_	id=s1.u1.w12
+14	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w13
+15	merci	_	_	_	_	_	_	_	id=s1.u1.w14
+16	et	_	_	_	_	_	_	_	id=s1.u1.w15
+17	e	_	_	_	_	_	_	_	id=s1.u1.w16
+18	une	_	_	_	_	_	_	_	id=s1.u1.w17
+19	autre	_	_	_	_	_	_	_	id=s1.u1.w18
+20	chose	_	_	_	_	_	_	_	id=s1.u1.w19
+21	mais	_	_	_	_	_	_	_	id=s1.u1.w20
+22	je	_	_	_	_	_	_	_	id=s1.u1.w21
+23	sais	_	_	_	_	_	_	_	id=s1.u1.w22
+24	pas	_	_	_	_	_	_	_	id=s1.u1.w23
+25	si	_	_	_	_	_	_	_	id=s1.u1.w24
+26	c'	_	_	_	_	_	_	_	id=s1.u1.w25
+27	est	_	_	_	_	_	_	_	id=s1.u1.w26
+28	si	_	_	_	_	_	_	_	id=s1.u1.w27
+29	ça	_	_	_	_	_	_	_	id=s1.u1.w28
+30	concerne	_	_	_	_	_	_	_	id=s1.u1.w29
+31	l'	_	_	_	_	_	_	_	id=s1.u1.w30
+32	Office	_	_	_	_	_	_	_	id=s1.u1.w31
+33	du	_	_	_	_	_	_	_	id=s1.u1.w32
+34	Tourisme	_	_	_	_	_	_	_	id=s1.u1.w33
+
+# sent_id = 2AG0584_2
+# text = 
+
+# sent_id = 2AG0584_3
+# text = oui
+1	oui	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 2AG0584_4
+# text = j' ai e trois amies anglaises qui voudraient venir e passer une année en France
+1	j'	_	_	_	_	_	_	_	id=s1.u4.w0
+2	ai	_	_	_	_	_	_	_	id=s1.u4.w1
+3	e	_	_	_	_	_	_	_	id=s1.u4.w2
+4	trois	_	_	_	_	_	_	_	id=s1.u4.w3
+5	amies	_	_	_	_	_	_	_	id=s1.u4.w4
+6	anglaises	_	_	_	_	_	_	_	id=s1.u4.w5
+7	qui	_	_	_	_	_	_	_	id=s1.u4.w6
+8	voudraient	_	_	_	_	_	_	_	id=s1.u4.w7
+9	venir	_	_	_	_	_	_	_	id=s1.u4.w8
+10	e	_	_	_	_	_	_	_	id=s1.u4.w9
+11	passer	_	_	_	_	_	_	_	id=s1.u4.w10
+12	une	_	_	_	_	_	_	_	id=s1.u4.w11
+13	année	_	_	_	_	_	_	_	id=s1.u4.w12
+14	en	_	_	_	_	_	_	_	id=s1.u4.w13
+15	France	_	_	_	_	_	_	_	id=s1.u4.w14
+
+# sent_id = 2AG0584_5
+# text = hum
+1	hum	_	_	_	_	_	_	_	id=s1.u5.w0
+
+# sent_id = 2AG0584_6
+# text = donc dans la région peut être mais qui voudraient trouver un travail elles sont
+1	donc	_	_	_	_	_	_	_	id=s1.u6.w0
+2	dans	_	_	_	_	_	_	_	id=s1.u6.w1
+3	la	_	_	_	_	_	_	_	id=s1.u6.w2
+4	région	_	_	_	_	_	_	_	id=s1.u6.w3
+5	peut	_	_	_	_	_	_	_	id=s1.u6.w4
+6	être	_	_	_	_	_	_	_	id=s1.u6.w5
+7	mais	_	_	_	_	_	_	_	id=s1.u6.w6
+8	qui	_	_	_	_	_	_	_	id=s1.u6.w7
+9	voudraient	_	_	_	_	_	_	_	id=s1.u6.w8
+10	trouver	_	_	_	_	_	_	_	id=s1.u6.w9
+11	un	_	_	_	_	_	_	_	id=s1.u6.w10
+12	travail	_	_	_	_	_	_	_	id=s1.u6.w11
+13	elles	_	_	_	_	_	_	_	id=s1.u6.w12
+14	sont	_	_	_	_	_	_	_	id=s1.u6.w13
+
+# sent_id = 2AG0584_7
+# text = 
+
+# sent_id = 2AG0584_8
+# text = elles sont e étudiantes
+1	elles	_	_	_	_	_	_	_	id=s1.u8.w0
+2	sont	_	_	_	_	_	_	_	id=s1.u8.w1
+3	e	_	_	_	_	_	_	_	id=s1.u8.w2
+4	étudiantes	_	_	_	_	_	_	_	id=s1.u8.w3
+
+# sent_id = 2AG0584_9
+# text = elles sont étudiantes
+1	elles	_	_	_	_	_	_	_	id=s1.u9.w0
+2	sont	_	_	_	_	_	_	_	id=s1.u9.w1
+3	étudiantes	_	_	_	_	_	_	_	id=s1.u9.w2
+
+# sent_id = 2AG0584_10
+# text = faut voir au CRIJ vous descendez rue Voltaire au huit C R I J CRIJ oui c' est là entre les deux immeubles il y a une rue qui descend
+1	faut	_	_	_	_	_	_	_	id=s1.u10.w0
+2	voir	_	_	_	_	_	_	_	id=s1.u10.w1
+3	au	_	_	_	_	_	_	_	id=s1.u10.w2
+4	CRIJ	_	_	_	_	_	_	_	id=s1.u10.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u10.w4
+6	descendez	_	_	_	_	_	_	_	id=s1.u10.w5
+7	rue	_	_	_	_	_	_	_	id=s1.u10.w6
+8	Voltaire	_	_	_	_	_	_	_	id=s1.u10.w7
+9	au	_	_	_	_	_	_	_	id=s1.u10.w8
+10	huit	_	_	_	_	_	_	_	id=s1.u10.w9
+11	C	_	_	_	_	_	_	_	id=s1.u10.w10
+12	R	_	_	_	_	_	_	_	id=s1.u10.w11
+13	I	_	_	_	_	_	_	_	id=s1.u10.w12
+14	J	_	_	_	_	_	_	_	id=s1.u10.w13
+15	CRIJ	_	_	_	_	_	_	_	id=s1.u10.w14
+16	oui	_	_	_	_	_	_	_	id=s1.u10.w15
+17	c'	_	_	_	_	_	_	_	id=s1.u10.w16
+18	est	_	_	_	_	_	_	_	id=s1.u10.w17
+19	là	_	_	_	_	_	_	_	id=s1.u10.w18
+20	entre	_	_	_	_	_	_	_	id=s1.u10.w19
+21	les	_	_	_	_	_	_	_	id=s1.u10.w20
+22	deux	_	_	_	_	_	_	_	id=s1.u10.w21
+23	immeubles	_	_	_	_	_	_	_	id=s1.u10.w22
+24	il	_	_	_	_	_	_	_	id=s1.u10.w23
+25	y	_	_	_	_	_	_	_	id=s1.u10.w24
+26	a	_	_	_	_	_	_	_	id=s1.u10.w25
+27	une	_	_	_	_	_	_	_	id=s1.u10.w26
+28	rue	_	_	_	_	_	_	_	id=s1.u10.w27
+29	qui	_	_	_	_	_	_	_	id=s1.u10.w28
+30	descend	_	_	_	_	_	_	_	id=s1.u10.w29
+
+# sent_id = 2AG0584_11
+# text = 
+
+# sent_id = 2AG0584_12
+# text = CRIJ d' accord merci
+1	CRIJ	_	_	_	_	_	_	_	id=s1.u12.w0
+2	d'	_	_	_	_	_	_	_	id=s1.u12.w1
+3	accord	_	_	_	_	_	_	_	id=s1.u12.w2
+4	merci	_	_	_	_	_	_	_	id=s1.u12.w3
+

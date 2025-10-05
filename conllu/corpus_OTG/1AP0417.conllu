@@ -1,0 +1,50 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0417_0
+# text = 
+
+# sent_id = 1AP0417_1
+# text = je voulais voir s' il y avait un plan de Grenoble
+1	je	_	_	_	_	_	_	_	id=s1.u1.w0
+2	voulais	_	_	_	_	_	_	_	id=s1.u1.w1
+3	voir	_	_	_	_	_	_	_	id=s1.u1.w2
+4	s'	_	_	_	_	_	_	_	id=s1.u1.w3
+5	il	_	_	_	_	_	_	_	id=s1.u1.w4
+6	y	_	_	_	_	_	_	_	id=s1.u1.w5
+7	avait	_	_	_	_	_	_	_	id=s1.u1.w6
+8	un	_	_	_	_	_	_	_	id=s1.u1.w7
+9	plan	_	_	_	_	_	_	_	id=s1.u1.w8
+10	de	_	_	_	_	_	_	_	id=s1.u1.w9
+11	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w10
+
+# sent_id = 1AP0417_2
+# text = bien sûr
+1	bien	_	_	_	_	_	_	_	id=s1.u2.w0
+2	sûr	_	_	_	_	_	_	_	id=s1.u2.w1
+
+# sent_id = 1AP0417_3
+# text = combien je vous dois
+1	combien	_	_	_	_	_	_	_	id=s1.u3.w0
+2	je	_	_	_	_	_	_	_	id=s1.u3.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u3.w2
+4	dois	_	_	_	_	_	_	_	id=s1.u3.w3
+
+# sent_id = 1AP0417_4
+# text = rien madame
+1	rien	_	_	_	_	_	_	_	id=s1.u4.w0
+2	madame	_	_	_	_	_	_	_	id=s1.u4.w1
+
+# sent_id = 1AP0417_5
+# text = je vous remercie
+1	je	_	_	_	_	_	_	_	id=s1.u5.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u5.w1
+3	remercie	_	_	_	_	_	_	_	id=s1.u5.w2
+
+# sent_id = 1AP0417_6
+# text = je vous en prie au revoir
+1	je	_	_	_	_	_	_	_	id=s1.u6.w0
+2	vous	_	_	_	_	_	_	_	id=s1.u6.w1
+3	en	_	_	_	_	_	_	_	id=s1.u6.w2
+4	prie	_	_	_	_	_	_	_	id=s1.u6.w3
+5	au	_	_	_	_	_	_	_	id=s1.u6.w4
+6	revoir	_	_	_	_	_	_	_	id=s1.u6.w5
+

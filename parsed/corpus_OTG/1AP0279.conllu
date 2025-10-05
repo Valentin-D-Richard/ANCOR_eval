@@ -1,0 +1,36 @@
+# sent_id = 1AP0279_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AP0279_1
+# text = bonjour le plan de Grenoble s' il vous plaît
+1	bonjour	bonjour	NOUN	_	_	0	root	_	_none=|id=s1.u1.w0
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_none=|id=s1.u1.w1
+3	plan	plan	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	_none=|id=s1.u1.w2
+4	de	de	ADP	_	_	5	case	_	_none=|id=s1.u1.w3
+5	Grenoble	Grenoble	PROPN	_	_	3	nmod	_	_none=|id=s1.u1.w4
+6	s'	se	SCONJ	_	_	9	mark	_	_none=|id=s1.u1.w5
+7	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl:subj	_	_none=|id=s1.u1.w6
+8	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	9	iobj	_	_none=|id=s1.u1.w7
+9	plaît	plaire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	discourse	_	_none=|id=s1.u1.w8
+
+# sent_id = 1AP0279_2
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u2.w0
+
+# sent_id = 1AP0279_3
+# text = vous m' en donnez deux même merci
+1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	id=s1.u3.w0
+2	m'	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	4	iobj	_	_none=|id=s1.u3.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	obj	_	id=s1.u3.w2
+4	donnez	donner	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u3.w3
+5	deux	deux	NUM	_	Number=Plur	4	obl:mod	_	id=s1.u3.w4
+6	même	même	ADV	_	_	5	amod	_	_none=|id=s1.u3.w5
+7	merci	merci	INTJ	_	_	4	discourse	_	_none=|id=s1.u3.w6
+
+# sent_id = 1AP0279_4
+# text = au revoir monsieur
+1	au	au	DET	_	_	2	det	_	_none=|id=s1.u4.w0
+2	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u4.w1
+3	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	_none=|id=s1.u4.w2
+

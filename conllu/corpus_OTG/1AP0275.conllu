@@ -1,0 +1,40 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1AP0275_0
+# text = 
+
+# sent_id = 1AP0275_1
+# text = madame est ce que vous auriez quelque chose sur Thonon-les-Bains
+1	madame	_	_	_	_	_	_	_	id=s1.u1.w0
+2	est	_	_	_	_	_	_	_	id=s1.u1.w1
+3	ce	_	_	_	_	_	_	_	id=s1.u1.w2
+4	que	_	_	_	_	_	_	_	id=s1.u1.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u1.w4
+6	auriez	_	_	_	_	_	_	_	id=s1.u1.w5
+7	quelque	_	_	_	_	_	_	_	id=s1.u1.w6
+8	chose	_	_	_	_	_	_	_	id=s1.u1.w7
+9	sur	_	_	_	_	_	_	_	id=s1.u1.w8
+10	Thonon-les-Bains	_	_	_	_	_	_	_	id=s1.u1.w9
+
+# sent_id = 1AP0275_2
+# text = on va regarder voilà
+1	on	_	_	_	_	_	_	_	id=s1.u2.w0
+2	va	_	_	_	_	_	_	_	id=s1.u2.w1
+3	regarder	_	_	_	_	_	_	_	id=s1.u2.w2
+4	voilà	_	_	_	_	_	_	_	id=s1.u2.w3
+
+# sent_id = 1AP0275_3
+# text = ah ben voilà merci beaucoup madame au revoir
+1	ah	_	_	_	_	_	_	_	id=s1.u3.w0
+2	ben	_	_	_	_	_	_	_	id=s1.u3.w1
+3	voilà	_	_	_	_	_	_	_	id=s1.u3.w2
+4	merci	_	_	_	_	_	_	_	id=s1.u3.w3
+5	beaucoup	_	_	_	_	_	_	_	id=s1.u3.w4
+6	madame	_	_	_	_	_	_	_	id=s1.u3.w5
+7	au	_	_	_	_	_	_	_	id=s1.u3.w6
+8	revoir	_	_	_	_	_	_	_	id=s1.u3.w7
+
+# sent_id = 1AP0275_4
+# text = monsieur merci
+1	monsieur	_	_	_	_	_	_	_	id=s1.u4.w0
+2	merci	_	_	_	_	_	_	_	id=s1.u4.w1
+

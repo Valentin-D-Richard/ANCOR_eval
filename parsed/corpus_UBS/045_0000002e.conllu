@@ -1,0 +1,82 @@
+# sent_id = 045_0000002e_0
+# text = U B S bonjour
+1	U	U	PROPN	_	_	4	dep	_	_none=|id=s1.u0.w0
+2	B	B	PROPN	_	_	1	flat:name	_	_none=|id=s1.u0.w1
+3	S	S	PROPN	_	_	1	dep	_	_none=|id=s1.u0.w2
+4	bonjour	bonjour	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w3
+
+# sent_id = 045_0000002e_1
+# text = bonjour madame excusez moi de vous déranger e en fait je vous appelle parce que j' ai passé ma maîtrise e donc à l' U B S l' année dernière
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	madame	madame	NOUN	_	Gender=Fem|Number=Sing	3	vocative	_	_none=|id=s1.u1.w1
+3	excusez	excuser	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	3	iobj	_	_none=|id=s1.u1.w3
+5	de	de	ADP	_	_	7	mark	_	_none=|id=s1.u1.w4
+6	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	7	iobj	_	id=s1.u1.w5
+7	déranger	déranger	VERB	_	VerbForm=Inf	3	ccomp	_	_none=|id=s1.u1.w6
+8	e	e	CCONJ	_	_	13	cc	_	_none=|id=s1.u1.w7
+9	en	en	ADP	_	_	13	discourse	_	_none=|id=s1.u1.w8
+10	fait	fait	NOUN	_	Gender=Masc|Number=Sing	9	fixed	_	id=s1.u1.w9
+11	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	id=s1.u1.w10
+12	vous	le	PRON	_	Number=Plur|Person=2|PronType=Prs	13	obj	_	id=s1.u1.w11
+13	appelle	appeler	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	id=s1.u1.w12
+14	parce	parce	ADV	_	_	18	mark	_	_none=|id=s1.u1.w13
+15	que	que	SCONJ	_	_	14	fixed	_	id=s1.u1.w14
+16	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	18	nsubj	_	_none=|id=s1.u1.w15
+17	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	aux:tense	_	_none=|id=s1.u1.w16
+18	passé	passer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	_	_none=|id=s1.u1.w17
+19	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1|PronType=Prs	20	det	_	id=s1.u1.w18
+20	maîtrise	maîtrise	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	id=s1.u1.w19
+21	e	e	CCONJ	_	_	25	cc	_	_none=|id=s1.u1.w20
+22	donc	donc	ADV	_	_	25	cc	_	_none=|id=s1.u1.w21
+23	à	à	ADP	_	_	25	case	_	_none=|id=s1.u1.w22
+24	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	25	det	_	id=s1.u1.w23
+25	U	U	PROPN	_	_	20	conj	_	_none=|id=s1.u1.w24
+26	B	B	PROPN	_	_	25	flat:name	_	_none=|id=s1.u1.w25
+27	S	S	PROPN	_	_	25	fixed	_	_none=|id=s1.u1.w26
+28	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	29	det	_	_none=|id=s1.u1.w27
+29	année	année	NOUN	_	Gender=Fem|Number=Sing	18	obl:mod	_	_none=|id=s1.u1.w28
+30	dernière	dernier	ADJ	_	Gender=Fem|Number=Sing	29	amod	_	_none=|id=s1.u1.w29
+
+# sent_id = 045_0000002e_2
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u2.w0
+
+# sent_id = 045_0000002e_3
+# text = de droit et je voulais savoir si les diplômes e on pouvait les v- venir les retirer en fait les diplômes
+1	de	de	ADP	_	_	2	case	_	_none=|id=s1.u3.w0
+2	droit	droit	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_none=|id=s1.u3.w1
+3	et	et	CCONJ	_	_	5	cc	_	_none=|id=s1.u3.w2
+4	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u3.w3
+5	voulais	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_none=|id=s1.u3.w4
+6	savoir	savoir	VERB	_	VerbForm=Inf	5	xcomp	_	_none=|id=s1.u3.w5
+7	si	si	SCONJ	_	_	12	mark	_	_none=|id=s1.u3.w6
+8	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	id=s1.u3.w7
+9	diplômes	diplôme	NOUN	_	Gender=Masc|Number=Plur	12	dislocated	_	id=s1.u3.w8
+10	e	e	PRON	_	_	12	reparandum	_	_none=|id=s1.u3.w9
+11	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	12	nsubj	_	_none=|id=s1.u3.w10
+12	pouvait	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	ccomp	_	_none=|id=s1.u3.w11
+13	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	14	obj	_	id=s1.u3.w12
+14	v-	v-	X	_	_	15	reparandum	_	id=s1.u3.w13
+15	venir	venir	VERB	_	VerbForm=Inf	12	xcomp	_	_none=|id=s1.u3.w14
+16	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	17	obj	_	id=s1.u3.w15
+17	retirer	retirer	VERB	_	VerbForm=Inf	15	xcomp	_	id=s1.u3.w16
+18	en	en	ADP	_	_	19	case	_	_none=|id=s1.u3.w17
+19	fait	fait	NOUN	_	Gender=Masc|Number=Sing	17	discourse	_	id=s1.u3.w18
+20	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	21	det	_	id=s1.u3.w19
+21	diplômes	diplôme	NOUN	_	Gender=Masc|Number=Plur	17	obj	_	id=s1.u3.w20
+
+# sent_id = 045_0000002e_4
+# text = je vais vous passer la personne concerné
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u4.w0
+2	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w1
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	id=s1.u4.w2
+4	passer	passer	VERB	_	VerbForm=Inf	2	xcomp	_	id=s1.u4.w3
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	id=s1.u4.w4
+6	personne	personne	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	id=s1.u4.w5
+7	concerné	concerné	ADJ	_	Gender=Masc|Number=Sing	6	nmod	_	id=s1.u4.w6
+
+# sent_id = 045_0000002e_5
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u5.w0
+

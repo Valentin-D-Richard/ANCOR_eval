@@ -1,0 +1,388 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 057_0000003a_0
+# text = U B S bonjour
+1	U	U	PROPN	_	_	4	dep	_	_none=|id=s1.u0.w0
+2	B	B	PROPN	_	_	1	flat:name	_	_none=|id=s1.u0.w1
+3	S	S	PROPN	_	_	1	dep	_	_none=|id=s1.u0.w2
+4	bonjour	bonjour	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u0.w3
+
+# sent_id = 057_0000003a_1
+# text = oui bonjour madame excusez- moi de vous déranger en fait je suis étudiant et en fait j' aurais voulu savoir e les formations qui e qu' il y avait au niveau des troisièmes cycles avec le nouveau master qui va se mettre en place en gestion en fait ce que vous aviez
+1	oui	oui	INTJ	_	_	4	discourse	_	_none=|id=s1.u1.w0
+2	bonjour	bonjour	INTJ	_	_	4	discourse	_	_none=|id=s1.u1.w1
+3	madame	madame	NOUN	_	Gender=Fem|Number=Sing	4	vocative	_	_none=|id=s1.u1.w2
+4	excusez-	excusre	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w3
+5	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	4	iobj	_	_none=|id=s1.u1.w4
+6	de	de	ADP	_	_	8	mark	_	_none=|id=s1.u1.w5
+7	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	8	iobj	_	id=s1.u1.w6
+8	déranger	déranger	VERB	_	VerbForm=Inf	4	advcl	_	_none=|id=s1.u1.w7
+9	en	en	ADP	_	_	13	advmod	_	_none=|id=s1.u1.w8
+10	fait	fait	NOUN	_	Gender=Masc|Number=Sing	9	fixed	_	id=s1.u1.w9
+11	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_none=|id=s1.u1.w10
+12	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	cop	_	id=s1.u1.w11
+13	étudiant	étudiant	ADJ	_	Gender=Masc|Number=Sing	4	ccomp	_	_none=|id=s1.u1.w12
+14	et	et	CCONJ	_	_	19	cc	_	_none=|id=s1.u1.w13
+15	en	en	ADP	_	_	16	case	_	_none=|id=s1.u1.w14
+16	fait	fait	NOUN	_	Gender=Masc|Number=Sing	19	obl:mod	_	id=s1.u1.w15
+17	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_none=|id=s1.u1.w16
+18	aurais	avoir	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	aux:tense	_	_none=|id=s1.u1.w17
+19	voulu	vouloir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	conj	_	_none=|id=s1.u1.w18
+20	savoir	savoir	VERB	_	VerbForm=Inf	19	xcomp	_	_none=|id=s1.u1.w19
+21	e	e	DET	_	_	23	det	_	id=s1.u1.w20
+22	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	23	det	_	id=s1.u1.w21
+23	formations	formation	NOUN	_	Gender=Fem|Number=Plur	20	obj	_	id=s1.u1.w22
+24	qui	qui	PRON	_	PronType=Rel	29	nsubj	_	_none=|id=s1.u1.w23
+25	e	êre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	_none=|id=s1.u1.w24
+26	qu'	que	SCONJ	_	_	29	mark	_	_none=|id=s1.u1.w25
+27	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	expl:subj	_	_none=|id=s1.u1.w26
+28	y	y	PRON	_	Person=3|PronType=Prs	29	expl:comp	_	_none=|id=s1.u1.w27
+29	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	advcl	_	_none=|id=s1.u1.w28
+30	au	au	DET	_	_	31	case	_	_none=|id=s1.u1.w29
+31	niveau	niveau	NOUN	_	Gender=Masc|Number=Sing	29	obl:mod	_	_none=|id=s1.u1.w30
+32	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	34	det	_	id=s1.u1.w31
+33	troisièmes	troisième	ADJ	_	Gender=Masc|Number=Plur	34	amod	_	_none=|id=s1.u1.w32
+34	cycles	cycle	NOUN	_	Gender=Masc|Number=Plur	31	nmod	_	id=s1.u1.w33
+35	avec	avec	ADP	_	_	38	case	_	_none=|id=s1.u1.w34
+36	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	_none=|id=s1.u1.w35
+37	nouveau	nouveau	ADJ	_	Gender=Masc|Number=Sing	38	amod	_	_none=|id=s1.u1.w36
+38	master	master	NOUN	_	Gender=Masc|Number=Sing	31	nmod	_	_none=|id=s1.u1.w37
+39	qui	qui	PRON	_	PronType=Rel	40	nsubj	_	_none=|id=s1.u1.w38
+40	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	38	acl:relcl	_	id=s1.u1.w39
+41	se	se	PRON	_	Person=3|PronType=Prs	42	expl:pass	_	_none=|id=s1.u1.w40
+42	mettre	mettre	VERB	_	VerbForm=Inf	40	xcomp	_	_none=|id=s1.u1.w41
+43	en	en	ADP	_	_	44	case	_	_none=|id=s1.u1.w42
+44	place	place	NOUN	_	Gender=Fem|Number=Sing	42	obl:mod	_	id=s1.u1.w43
+45	en	en	ADP	_	_	46	case	_	_none=|id=s1.u1.w44
+46	gestion	gestion	NOUN	_	Gender=Fem|Number=Sing	42	obl:mod	_	id=s1.u1.w45
+47	en	en	ADP	_	_	16	case	_	_none=|id=s1.u1.w46
+48	fait	fait	NOUN	_	Gender=Masc|Number=Sing	49	discourse	_	_none=|id=s1.u1.w47
+49	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	40	obj	_	id=s1.u1.w48
+50	que	que	PRON	_	PronType=Rel	52	obj	_	id=s1.u1.w49
+51	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	52	nsubj	_	id=s1.u1.w50
+52	aviez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	49	acl:relcl	_	_none=|id=s1.u1.w51
+
+# sent_id = 057_0000003a_2
+# text = I- I U P sciences de gestion
+1	I-	I-	PROPN	_	_	2	reparandum	_	_none=|id=s1.u2.w0
+2	I	I	PROPN	_	_	5	conj	_	_none=|id=s1.u2.w1
+3	U	U	PROPN	_	_	2	flat:name	_	_none=|id=s1.u2.w2
+4	P	P	PROPN	_	_	2	flat:name	_	_none=|id=s1.u2.w3
+5	sciences	science	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_none=|id=s1.u2.w4
+6	de	de	ADP	_	_	7	case	_	_none=|id=s1.u2.w5
+7	gestion	gestion	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	id=s1.u2.w6
+
+# sent_id = 057_0000003a_3
+# text = comment
+1	comment	Comment	NOUN	_	_	0	root	_	_none=|id=s1.u3.w0
+
+# sent_id = 057_0000003a_4
+# text = I U P sciences de gestion
+1	I	I	PROPN	_	_	4	nsubj	_	_none=|id=s1.u4.w0
+2	U	U	PROPN	_	_	1	reparandum	_	_none=|id=s1.u4.w1
+3	P	P	PROPN	_	_	1	flat:name	_	_none=|id=s1.u4.w2
+4	sciences	science	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_none=|id=s1.u4.w3
+5	de	de	ADP	_	_	6	case	_	_none=|id=s1.u4.w4
+6	gestion	gestion	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	id=s1.u4.w5
+
+# sent_id = 057_0000003a_5
+# text = non pour savoir ce que vous aviez en en master en fait
+1	non	non	ADV	_	Polarity=Neg	3	discourse	_	_none=|id=s1.u5.w0
+2	pour	pour	ADP	_	_	3	mark	_	_none=|id=s1.u5.w1
+3	savoir	savoir	VERB	_	VerbForm=Inf	0	root	_	_none=|id=s1.u5.w2
+4	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	obj	_	id=s1.u5.w3
+5	que	que	PRON	_	PronType=Rel	7	obj	_	id=s1.u5.w4
+6	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	id=s1.u5.w5
+7	aviez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_none=|id=s1.u5.w6
+8	en	en	ADP	_	_	10	case	_	_none=|id=s1.u5.w7
+9	en	en	ADP	_	_	10	case	_	_none=|id=s1.u5.w8
+10	master	master	NOUN	_	Gender=Masc|Number=Sing	7	obl:mod	_	id=s1.u5.w9
+11	en	en	ADP	_	_	12	case	_	_none=|id=s1.u5.w10
+12	fait	fait	NOUN	_	Gender=Masc|Number=Sing	3	discourse	_	_none=|id=s1.u5.w11
+
+# sent_id = 057_0000003a_6
+# text = oui conservez je vais vous passer je v- je vais vous passer une personne hein conservez
+1	oui	oui	ADV	_	_	4	discourse	_	_none=|id=s1.u6.w0
+2	conservez	conser	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	discourse	_	_none=|id=s1.u6.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u6.w2
+4	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	reparandum	_	id=s1.u6.w3
+5	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	6	iobj	_	id=s1.u6.w4
+6	passer	passer	VERB	_	VerbForm=Inf	10	reparandum	_	_none=|id=s1.u6.w5
+7	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_none=|id=s1.u6.w6
+8	v-	v-	VERB	_	_	10	reparandum	_	id=s1.u6.w7
+9	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_none=|id=s1.u6.w8
+10	vais	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u6.w9
+11	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	12	iobj	_	id=s1.u6.w10
+12	passer	passer	VERB	_	VerbForm=Inf	10	xcomp	_	id=s1.u6.w11
+13	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	id=s1.u6.w12
+14	personne	personne	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	id=s1.u6.w13
+15	hein	hein	INTJ	_	_	16	discourse	_	_none=|id=s1.u6.w14
+16	conservez	conserver	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	discourse	_	_none=|id=s1.u6.w15
+
+# sent_id = 057_0000003a_7
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u7.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u7.w1
+
+# sent_id = 057_0000003a_8
+# text = qu' est -ce qui fait où c' est que j' ai mis ma feuille c' est pas le S U I O qui peut les renseigner et c' est vous autrement oui est -ce que vous pouvez rappeler la semaine prochaine parce qu' ils n' ont pas eu toutes les informations e
+1	qu'	que	PRON	_	ExtPos=PRON|Person=3|PronType=Int	0	root	_	ClauseType=Int|id=s1.u8.w0|PhraseType=Int
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	fixed	_	id=s1.u8.w1
+3	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	1	fixed	_	_none=|id=s1.u8.w2
+4	qui	qui	PRON	_	PronType=Rel	1	fixed	_	_none=|id=s1.u8.w3
+5	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	id=s1.u8.w4
+6	où	où	PRON	_	PronType=Rel	8	obl:mod	_	_none=|id=s1.u8.w5
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	_none=|id=s1.u8.w6
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	reparandum	_	_none=|id=s1.u8.w7
+9	que	que	SCONJ	_	_	12	mark	_	_none=|id=s1.u8.w8
+10	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_none=|id=s1.u8.w9
+11	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux:tense	_	_none=|id=s1.u8.w10
+12	mis	mettre	VERB	_	Tense=Past|VerbForm=Part	8	advcl:cleft	_	_none=|id=s1.u8.w11
+13	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1|PronType=Prs	14	det	_	id=s1.u8.w12
+14	feuille	feuille	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	id=s1.u8.w13
+15	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	19	nsubj	_	_none=|id=s1.u8.w14
+16	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	id=s1.u8.w15
+17	pas	pas	ADV	_	Polarity=Neg	19	advmod	_	_none=|id=s1.u8.w16
+18	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_none=|id=s1.u8.w17
+19	S	S	PROPN	_	Gender=Masc|Number=Sing	1	acl:relcl	_	_none=|id=s1.u8.w18
+20	U	U	PROPN	_	_	19	conj	_	_none=|id=s1.u8.w19
+21	I	I	PROPN	_	_	19	flat:name	_	_none=|id=s1.u8.w20
+22	O	O	PROPN	_	_	19	nsubj	_	_none=|id=s1.u8.w21
+23	qui	qui	PRON	_	PronType=Rel	24	nsubj	_	_none=|id=s1.u8.w22
+24	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	advcl:cleft	_	_none=|id=s1.u8.w23
+25	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	26	obj	_	_none=|id=s1.u8.w24
+26	renseigner	renseigner	VERB	_	VerbForm=Inf	24	xcomp	_	id=s1.u8.w25
+27	et	et	CCONJ	_	_	30	cc	_	_none=|id=s1.u8.w26
+28	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	30	expl:subj	_	_none=|id=s1.u8.w27
+29	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	id=s1.u8.w28
+30	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	19	conj	_	id=s1.u8.w29
+31	autrement	autrement	ADV	_	_	30	advmod	_	_none=|id=s1.u8.w30
+32	oui	oui	ADV	_	_	31	discourse	_	_none=|id=s1.u8.w31
+33	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	ClauseType=Int|id=s1.u8.w32
+34	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	33|33	cue:mark|expl:subj	_	id=s1.u8.w33
+35	que	que	SCONJ	_	_	33	mark	_	id=s1.u8.w34
+36	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	37	nsubj	_	_none=|id=s1.u8.w35
+37	pouvez	pouvoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	33	ccomp	_	_none=|id=s1.u8.w36
+38	rappeler	rappeler	VERB	_	VerbForm=Inf	37	xcomp	_	id=s1.u8.w37
+39	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	id=s1.u8.w38
+40	semaine	semaine	NOUN	_	Gender=Fem|Number=Sing	38	obl:mod	_	id=s1.u8.w39
+41	prochaine	prochain	ADJ	_	Gender=Fem|Number=Sing	40	amod	_	id=s1.u8.w40
+42	parce	parce	ADV	_	_	48	mark	_	_none=|id=s1.u8.w41
+43	qu'	que	SCONJ	_	_	42	fixed	_	id=s1.u8.w42
+44	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	48	nsubj	_	_none=|id=s1.u8.w43
+45	n'	ne	ADV	_	_	48	advmod	_	_none=|id=s1.u8.w44
+46	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	48	aux:tense	_	_none=|id=s1.u8.w45
+47	pas	pas	ADV	_	Polarity=Neg	48	advmod	_	_none=|id=s1.u8.w46
+48	eu	avoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	37	advcl	_	_none=|id=s1.u8.w47
+49	toutes	tout	ADJ	_	Gender=Fem|Number=Plur	51	amod	_	id=s1.u8.w48
+50	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	51	det	_	id=s1.u8.w49
+51	informations	information	NOUN	_	Gender=Fem|Number=Plur	48	obj	_	id=s1.u8.w50
+52	e	e	NOUN	_	_	33	dep	_	id=s1.u8.w51
+
+# sent_id = 057_0000003a_9
+# text = d' accord parce que en fait les dates d' inscription c' est quand la clôture
+1	d'	de	ADP	_	_	2	case	_	_none=|id=s1.u9.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u9.w1
+3	parce	parce	ADV	_	_	15	mark	_	_none=|id=s1.u9.w2
+4	que	que	SCONJ	_	_	3	fixed	_	id=s1.u9.w3
+5	en	en	ADP	_	_	15	discourse	_	_none=|id=s1.u9.w4
+6	fait	fait	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	_none=|id=s1.u9.w5
+7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	id=s1.u9.w6
+8	dates	date	NOUN	_	Gender=Masc|Number=Plur	15	dislocated	_	_none=|id=s1.u9.w7
+9	d'	de	ADP	_	_	10	case	_	_none=|id=s1.u9.w8
+10	inscription	inscription	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	id=s1.u9.w9
+11	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	nsubj	_	_none=|id=s1.u9.w10
+12	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	id=s1.u9.w11
+13	quand	quand	ADV	_	PronType=Int	15|15	advmod|cue:wh	_	_none=|id=s1.u9.w12|PhraseType=Int
+14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	id=s1.u9.w13
+15	clôture	clôtur	NOUN	_	Gender=Fem|Number=Sing	2	ccomp	_	ClauseType=Int|id=s1.u9.w14
+
+# sent_id = 057_0000003a_10
+# text = c' est pour les la date d' inscription c' est ça
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_none=|id=s1.u10.w0
+2	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	reparandum	_	_none=|id=s1.u10.w1
+3	pour	pour	ADP	_	_	4	dep:comp	_	_none=|id=s1.u10.w2
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	xcomp	_	id=s1.u10.w3
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	id=s1.u10.w4
+6	date	date	NOUN	_	Gender=Fem|Number=Sing	2	obl:mod	_	id=s1.u10.w5
+7	d'	de	ADP	_	_	8	case	_	_none=|id=s1.u10.w6
+8	inscription	inscription	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	id=s1.u10.w7
+9	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	id=s1.u10.w8
+10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	id=s1.u10.w9
+11	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	id=s1.u10.w10
+
+# sent_id = 057_0000003a_11
+# text = e ouais pour s' inscrire par exemple s' il y a un master qui m' intéresse il y a un master qui l' intéresse et il voudrait s' inscrire e
+1	e	e	INTJ	_	_	2	discourse	_	_none=|id=s1.u11.w0
+2	ouais	ouais	INTJ	_	_	0	root	_	_none=|id=s1.u11.w1
+3	pour	pour	ADP	_	_	5	mark	_	_none=|id=s1.u11.w2
+4	s'	se	PRON	_	Person=3|PronType=Prs	5	dep:comp	_	id=s1.u11.w3
+5	inscrire	inscrire	VERB	_	VerbForm=Inf	2	advcl	_	_none=|id=s1.u11.w4
+6	par	par	ADP	_	_	7	case	_	_none=|id=s1.u11.w5
+7	exemple	exemple	NOUN	_	Gender=Masc|Number=Sing	11	obl:mod	_	_none=|id=s1.u11.w6
+8	s'	se	SCONJ	_	_	11	mark	_	_none=|id=s1.u11.w7
+9	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl:subj	_	_none=|id=s1.u11.w8
+10	y	y	PRON	_	Person=3|PronType=Prs	11	expl:comp	_	_none=|id=s1.u11.w9
+11	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	advcl	_	id=s1.u11.w10
+12	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	id=s1.u11.w11
+13	master	master	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_none=|id=s1.u11.w12
+14	qui	qui	PRON	_	PronType=Rel	16	nsubj	_	_none=|id=s1.u11.w13
+15	m'	le	PRON	_	Number=Sing|Person=1|PronType=Prs	16	obj	_	_none=|id=s1.u11.w14
+16	intéresse	intéresser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	id=s1.u11.w15
+17	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	expl:subj	_	_none=|id=s1.u11.w16
+18	y	y	PRON	_	Person=3|PronType=Prs	19	expl:comp	_	id=s1.u11.w17
+19	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	id=s1.u11.w18
+20	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	id=s1.u11.w19
+21	master	master	NOUN	_	Gender=Masc|Number=Sing	19	obj	_	id=s1.u11.w20
+22	qui	qui	PRON	_	PronType=Rel	24	nsubj	_	_none=|id=s1.u11.w21
+23	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	24	obj	_	_none=|id=s1.u11.w22
+24	intéresse	intéresser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	id=s1.u11.w23
+25	et	et	CCONJ	_	_	27	cc	_	_none=|id=s1.u11.w24
+26	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	_none=|id=s1.u11.w25
+27	voudrait	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	conj	_	_none=|id=s1.u11.w26
+28	s'	le	PRON	_	Person=3|PronType=Prs|Reflex=Yes	29	obj	_	id=s1.u11.w27
+29	inscrire	inscrire	VERB	_	VerbForm=Inf	27	xcomp	_	id=s1.u11.w28
+30	e	e	CCONJ	_	_	19	cc	_	id=s1.u11.w29
+
+# sent_id = 057_0000003a_12
+# text = c' est quand la date but- la date butoir e S G E G oui
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	id=s1.u12.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u12.w1
+3	quand	quand	SCONJ	_	_	2	advmod	_	_none=|id=s1.u12.w2
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	id=s1.u12.w3
+5	date	date	NOUN	_	Gender=Fem|Number=Sing	8	reparandum	_	id=s1.u12.w4
+6	but-	but-	NOUN	_	Gender=Masc|Number=Sing	5	compound	_	id=s1.u12.w5
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	id=s1.u12.w6
+8	date	date	NOUN	_	Gender=Fem|Number=Sing	2	xcomp	_	id=s1.u12.w7
+9	butoir	butoir	NOUN	_	Gender=Masc|Number=Sing	8	amod	_	id=s1.u12.w8
+10	e	e	CCONJ	_	_	11	dep	_	_none=|id=s1.u12.w9
+11	S	S	PROPN	_	_	8	nmod:appos	_	_none=|id=s1.u12.w10
+12	G	G	PROPN	_	_	11	flat:name	_	_none=|id=s1.u12.w11
+13	E	E	PROPN	_	_	11	flat:name	_	_none=|id=s1.u12.w12
+14	G	G	PROPN	_	_	11	flat:name	_	_none=|id=s1.u12.w13
+15	oui	oui	INTJ	_	_	11	discourse	_	_none=|id=s1.u12.w14
+
+# sent_id = 057_0000003a_13
+# text = comment
+1	comment	Comment	NOUN	_	_	0	root	_	_none=|id=s1.u13.w0
+
+# sent_id = 057_0000003a_14
+# text = c' est en S- S G E G
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	id=s1.u14.w0
+2	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u14.w1
+3	en	en	ADP	_	_	4	case	_	_none=|id=s1.u14.w2
+4	S-	S-	PROPN	_	_	2	obl:arg	_	_none=|id=s1.u14.w3
+5	S	S	PROPN	_	_	4	dep	_	_none=|id=s1.u14.w4
+6	G	G	PROPN	_	_	5	flat:name	_	_none=|id=s1.u14.w5
+7	E	E	PROPN	_	_	5	flat:name	_	_none=|id=s1.u14.w6
+8	G	G	PROPN	_	_	5	flat:name	_	_none=|id=s1.u14.w7
+
+# sent_id = 057_0000003a_15
+# text = ça veux dire quoi S
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	_none=|id=s1.u15.w0
+2	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u15.w1|ClauseType=Int
+3	dire	dire	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u15.w2
+4	quoi	quoi	PRON	_	Person=3|PronType=Int	2|3	cue:wh|obj	_	id=s1.u15.w3|PhraseType=Int
+5	S	S	PROPN	_	_	2	dep	_	_none=|id=s1.u15.w4
+
+# sent_id = 057_0000003a_16
+# text = en droit
+1	en	en	ADP	_	_	2	case	_	_none=|id=s1.u16.w0
+2	droit	droit	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u16.w1
+
+# sent_id = 057_0000003a_17
+# text = c' est en économie gestion en fait
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	id=s1.u17.w0
+2	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u17.w1
+3	en	en	ADP	_	_	4	case	_	_none=|id=s1.u17.w2
+4	économie	économie	NOUN	_	Gender=Fem|Number=Sing	2	obl:arg	_	id=s1.u17.w3
+5	gestion	gestion	NOUN	_	Gender=Fem|Number=Sing	4	compound	_	id=s1.u17.w4
+6	en	en	ADP	_	_	4	discourse	_	_none=|id=s1.u17.w5
+7	fait	fait	NOUN	_	Gender=Masc|Number=Sing	6	fixed	_	id=s1.u17.w6
+
+# sent_id = 057_0000003a_18
+# text = économie et gestion donc
+1	économie	économie	NOUN	_	Gender=Fem|Number=Sing	0	root	_	id=s1.u18.w0
+2	et	et	CCONJ	_	_	3	cc	_	_none=|id=s1.u18.w1
+3	gestion	gestion	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	id=s1.u18.w2
+4	donc	donc	ADV	_	_	1	advmod	_	_none=|id=s1.u18.w3
+
+# sent_id = 057_0000003a_19
+# text = je voulais e savoir ce qu' il y avait en fait comme offre de formation
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_none=|id=s1.u19.w0
+2	voulais	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_none=|id=s1.u19.w1
+3	e	e	PRON	_	_	4	mark	_	id=s1.u19.w2
+4	savoir	savoir	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u19.w3
+5	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	obj	_	_none=|id=s1.u19.w4
+6	qu'	que	PRON	_	PronType=Rel	9	obj	_	id=s1.u19.w5
+7	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl:subj	_	_none=|id=s1.u19.w6
+8	y	y	PRON	_	Person=3|PronType=Prs	9	expl:comp	_	id=s1.u19.w7
+9	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	acl:relcl	_	id=s1.u19.w8
+10	en	en	ADP	_	_	9	advmod	_	_none=|id=s1.u19.w9
+11	fait	fait	NOUN	_	Gender=Masc|Number=Sing	10	fixed	_	id=s1.u19.w10
+12	comme	comme	ADP	_	_	13	case	_	_none=|id=s1.u19.w11
+13	offre	offre	NOUN	_	Gender=Fem|Number=Sing	9	obl:mod	_	id=s1.u19.w12
+14	de	de	ADP	_	_	15	case	_	_none=|id=s1.u19.w13
+15	formation	formation	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	id=s1.u19.w14
+
+# sent_id = 057_0000003a_20
+# text = oui ben conservez je vais vous passer une autre personne hein
+1	oui	oui	INTJ	_	_	5	discourse	_	_none=|id=s1.u20.w0
+2	ben	ben	INTJ	_	_	3	discourse	_	_none=|id=s1.u20.w1
+3	conservez	conser	VERB	_	Number=Plur	5	discourse	_	_none=|id=s1.u20.w2
+4	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u20.w3
+5	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u20.w4
+6	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	7	iobj	_	id=s1.u20.w5
+7	passer	passer	VERB	_	VerbForm=Inf	5	xcomp	_	id=s1.u20.w6
+8	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	id=s1.u20.w7
+9	autre	autre	ADJ	_	Number=Sing	10	amod	_	id=s1.u20.w8
+10	personne	personne	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	id=s1.u20.w9
+11	hein	hein	INTJ	_	_	5	discourse	_	_none=|id=s1.u20.w10
+
+# sent_id = 057_0000003a_21
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u21.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u21.w1
+
+# sent_id = 057_0000003a_23
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u23.w0
+
+# sent_id = 057_0000003a_24
+# text = il doit peut- être savoir qui est ce qui pourrait me oui à tout à l' heure oui
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_none=|id=s1.u24.w0
+2	doit	devoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u24.w1
+3	peut-	peut-	ADV	_	_	2	advmod	_	_none=|id=s1.u24.w2
+4	être	être	ADV	_	VerbForm=Inf	2	advmod	_	id=s1.u24.w3
+5	savoir	savoir	VERB	_	VerbForm=Inf	2	xcomp	_	_none=|id=s1.u24.w4
+6	qui	qui	PRON	_	PronType=Int	8|8	cue:wh|nsubj	_	id=s1.u24.w5|PhraseType=Int
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	id=s1.u24.w6
+8	ce	ce	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	5	ccomp	_	ClauseType=Int|id=s1.u24.w7
+9	qui	qui	PRON	_	PronType=Rel	10	nsubj	_	_none=|id=s1.u24.w8
+10	pourrait	pouvoir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_none=|id=s1.u24.w9
+11	me	le	PRON	_	Number=Sing|Person=1|PronType=Prs	10	obj	_	_none=|id=s1.u24.w10
+12	oui	oui	ADV	_	_	10	obj	_	_none=|id=s1.u24.w11
+13	à	à	ADP	_	_	14	case	_	_none=|id=s1.u24.w12
+14	tout	tout	ADV	_	Gender=Masc|Number=Sing	11	obl:mod	_	_none=|id=s1.u24.w13
+15	à	à	ADP	_	_	17	case	_	_none=|id=s1.u24.w14
+16	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	17	det	_	_none=|id=s1.u24.w15
+17	heure	heure	NOUN	_	Gender=Fem|Number=Sing	11	obl:mod	_	id=s1.u24.w16
+18	oui	oui	INTJ	_	_	17	discourse	_	_none=|id=s1.u24.w17
+
+# sent_id = 057_0000003a_25
+# text = oui
+1	oui	oui	INTJ	_	_	0	root	_	_none=|id=s1.u25.w0
+
+# sent_id = 057_0000003a_26
+# text = oui je te passe une communication
+1	oui	oui	INTJ	_	_	4	discourse	_	_none=|id=s1.u26.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u26.w1
+3	te	lui	PRON	_	Number=Sing|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u26.w2
+4	passe	passer	VERB	ETRE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u26.w3
+5	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	id=s1.u26.w4
+6	communication	communication	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	id=s1.u26.w5
+
+# sent_id = 057_0000003a_27
+# text = d' accord
+1	d'	de	ADP	_	_	0	root	_	_none=|id=s1.u27.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u27.w1
+

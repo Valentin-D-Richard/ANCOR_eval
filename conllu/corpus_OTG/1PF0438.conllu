@@ -1,0 +1,64 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0438_0
+# text = est ce que vous avez " le 38 " s' il vous plaît
+1	est	_	_	_	_	_	_	_	id=s1.u0.w0
+2	ce	_	_	_	_	_	_	_	id=s1.u0.w1
+3	que	_	_	_	_	_	_	_	id=s1.u0.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u0.w3
+5	avez	_	_	_	_	_	_	_	id=s1.u0.w4
+6	le	_	_	_	_	_	_	_	id=s1.u0.w6
+7	38	_	_	_	_	_	_	_	id=s1.u0.w7
+8	s'	_	_	_	_	_	_	_	id=s1.u0.w9
+9	il	_	_	_	_	_	_	_	id=s1.u0.w10
+10	vous	_	_	_	_	_	_	_	id=s1.u0.w11
+11	plaît	_	_	_	_	_	_	_	id=s1.u0.w12
+
+# sent_id = 1PF0438_1
+# text = " le 38 "
+1	le	_	_	_	_	_	_	_	id=s1.u1.w1
+2	38	_	_	_	_	_	_	_	id=s1.u1.w2
+
+# sent_id = 1PF0438_2
+# text = e pas vu j' avais pas vu qu' il était là hein
+1	e	_	_	_	_	_	_	_	id=s1.u2.w0
+2	pas	_	_	_	_	_	_	_	id=s1.u2.w1
+3	vu	_	_	_	_	_	_	_	id=s1.u2.w2
+4	j'	_	_	_	_	_	_	_	id=s1.u2.w3
+5	avais	_	_	_	_	_	_	_	id=s1.u2.w4
+6	pas	_	_	_	_	_	_	_	id=s1.u2.w5
+7	vu	_	_	_	_	_	_	_	id=s1.u2.w6
+8	qu'	_	_	_	_	_	_	_	id=s1.u2.w7
+9	il	_	_	_	_	_	_	_	id=s1.u2.w8
+10	était	_	_	_	_	_	_	_	id=s1.u2.w9
+11	là	_	_	_	_	_	_	_	id=s1.u2.w10
+12	hein	_	_	_	_	_	_	_	id=s1.u2.w11
+
+# sent_id = 1PF0438_3
+# text = monsieur
+1	monsieur	_	_	_	_	_	_	_	id=s1.u3.w0
+
+# sent_id = 1PF0438_4
+# text = mais c' est pas grave hein
+1	mais	_	_	_	_	_	_	_	id=s1.u4.w0
+2	c'	_	_	_	_	_	_	_	id=s1.u4.w1
+3	est	_	_	_	_	_	_	_	id=s1.u4.w2
+4	pas	_	_	_	_	_	_	_	id=s1.u4.w3
+5	grave	_	_	_	_	_	_	_	id=s1.u4.w4
+6	hein	_	_	_	_	_	_	_	id=s1.u4.w5
+
+# sent_id = 1PF0438_5
+# text = merci beaucoup je vous remercie merci beaucoup
+1	merci	_	_	_	_	_	_	_	id=s1.u5.w0
+2	beaucoup	_	_	_	_	_	_	_	id=s1.u5.w1
+3	je	_	_	_	_	_	_	_	id=s1.u5.w2
+4	vous	_	_	_	_	_	_	_	id=s1.u5.w3
+5	remercie	_	_	_	_	_	_	_	id=s1.u5.w4
+6	merci	_	_	_	_	_	_	_	id=s1.u5.w5
+7	beaucoup	_	_	_	_	_	_	_	id=s1.u5.w6
+
+# sent_id = 1PF0438_6
+# text = moi au revoir
+1	moi	_	_	_	_	_	_	_	id=s1.u6.w0
+2	au	_	_	_	_	_	_	_	id=s1.u6.w1
+3	revoir	_	_	_	_	_	_	_	id=s1.u6.w2
+

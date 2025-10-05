@@ -1,0 +1,192 @@
+# sent_id = 1AG0563_1
+# text = ce serait pour avoir quelques renseignements e sur les bons restaurants de Grenoble et des environs genre " macarons Michelin " e
+1	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	id=s1.u1.w0
+2	serait	être	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w1
+3	pour	pour	ADP	_	_	4	mark	_	_none=|id=s1.u1.w2
+4	avoir	avoir	VERB	_	VerbForm=Inf	2	advcl	_	_none=|id=s1.u1.w3
+5	quelques	quelque	DET	_	Number=Plur|PronType=Ind	6	det	_	id=s1.u1.w4
+6	renseignements	renseignement	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	id=s1.u1.w5
+7	e	e	INTJ	_	_	11	reparandum	_	id=s1.u1.w6
+8	sur	sur	ADP	_	_	11	case	_	id=s1.u1.w7
+9	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	id=s1.u1.w8
+10	bons	bon	ADJ	_	Gender=Masc|Number=Plur	11	amod	_	id=s1.u1.w9
+11	restaurants	restaurant	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	id=s1.u1.w10
+12	de	de	ADP	_	_	13	case	_	_none=|id=s1.u1.w11
+13	Grenoble	Grenoble	PROPN	_	_	11	nmod	_	_none=|id=s1.u1.w12
+14	et	et	CCONJ	_	_	16	cc	_	_none=|id=s1.u1.w13
+15	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	16	det	_	id=s1.u1.w14
+16	environs	environ	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	id=s1.u1.w15
+17	genre	genre	NOUN	_	Gender=Masc|Number=Sing	18	discourse	_	id=s1.u1.w16
+18	macarons	macaron	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	id=s1.u1.w18
+19	Michelin	Michelin	PROPN	_	_	18	conj	_	id=s1.u1.w19
+20	e	e	PUNCT	_	_	2	punct	_	id=s1.u1.w21
+
+# sent_id = 1AG0563_3
+# text = e là vous avez les restaurants e de Grenoble mais enfin il y a pas de on n' a pas de restaurants avec étoiles
+1	e	e	CCONJ	_	_	4	expl:subj	_	_none=|id=s1.u3.w0
+2	là	là	ADV	_	_	4	advmod	_	_none=|id=s1.u3.w1
+3	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	id=s1.u3.w2
+4	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u3.w3
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	id=s1.u3.w4
+6	restaurants	restaurant	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_none=|id=s1.u3.w5
+7	e	e	PROPN	_	_	9	punct	_	id=s1.u3.w6
+8	de	de	ADP	_	_	9	case	_	_none=|id=s1.u3.w7
+9	Grenoble	Grenoble	PROPN	_	_	6	nmod	_	_none=|id=s1.u3.w8
+10	mais	mais	CCONJ	_	_	14	cc	_	_none=|id=s1.u3.w9
+11	enfin	enfin	ADV	_	_	14	discourse	_	_none=|id=s1.u3.w10
+12	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	expl:subj	_	_none=|id=s1.u3.w11
+13	y	y	PRON	_	Person=3|PronType=Prs	14	expl:comp	_	_none=|id=s1.u3.w12
+14	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	reparandum	_	_none=|id=s1.u3.w13
+15	pas	pas	ADV	_	Polarity=Neg	14	advmod	_	_none=|id=s1.u3.w14
+16	de	un	ADP	_	_	14	dep	_	_none=|id=s1.u3.w15
+17	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	19	nsubj	_	id=s1.u3.w16
+18	n'	ne	ADV	_	Polarity=Neg	19	advmod	_	id=s1.u3.w17
+19	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	id=s1.u3.w18
+20	pas	pas	ADV	_	Polarity=Neg	19	advmod	_	id=s1.u3.w19
+21	de	un	ADP	_	_	22	det	_	id=s1.u3.w20
+22	restaurants	restaurant	NOUN	_	Gender=Masc|Number=Plur	19	obj	_	id=s1.u3.w21
+23	avec	avec	ADP	_	_	22	case	_	id=s1.u3.w22
+24	étoiles	étoiles	PUNCT	_	_	19	punct	_	id=s1.u3.w23
+
+# sent_id = 1AG0563_4
+# text = non
+1	non	non	ADV	_	Polarity=Neg	0	root	_	_none=|id=s1.u4.w0
+
+# sent_id = 1AG0563_5
+# text = e puis en plus je peux même pas vous dire lesquels sont les meilleurs parce que bon comme ils sont tous adhérents je peux pas donner de jugements
+1	e	e	CCONJ	_	_	6	cc	_	_none=|id=s1.u5.w0
+2	puis	puis	CCONJ	_	_	1	fixed	_	id=s1.u5.w1
+3	en	en	ADP	_	_	4	case	_	_none=|id=s1.u5.w2
+4	plus	plus	ADV	_	_	6	advmod	_	_none=|id=s1.u5.w3
+5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_none=|id=s1.u5.w4
+6	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u5.w5
+7	même	même	ADV	_	_	6	advmod	_	_none=|id=s1.u5.w6
+8	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	_none=|id=s1.u5.w7
+9	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	10	iobj	_	id=s1.u5.w8
+10	dire	dire	VERB	_	VerbForm=Inf	6	xcomp	_	_none=|id=s1.u5.w9
+11	lesquels	lesquel	PRON	_	Gender=Masc|Number=Plur	14	nsubj	_	id=s1.u5.w10
+12	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	id=s1.u5.w11
+13	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	14	det	_	id=s1.u5.w12
+14	meilleurs	meilleur	ADJ	_	Gender=Masc|Number=Plur	10	ccomp	_	id=s1.u5.w13
+15	parce	parce	ADV	_	_	24	mark	_	_none=|id=s1.u5.w14
+16	que	que	SCONJ	_	_	15	fixed	_	id=s1.u5.w15
+17	bon	bon	INTJ	_	_	24	discourse	_	_none=|id=s1.u5.w16
+18	comme	comme	SCONJ	_	_	22	mark	_	_none=|id=s1.u5.w17
+19	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	22	nsubj	_	_none=|id=s1.u5.w18
+20	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_none=|id=s1.u5.w19
+21	tous	tout	PRON	_	Gender=Masc|Number=Plur	22	obl:mod	_	_none=|id=s1.u5.w20
+22	adhérents	adhérent	NOUN	_	Gender=Masc|Number=Plur	24	advcl	_	id=s1.u5.w21
+23	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	24	nsubj	_	_none=|id=s1.u5.w22
+24	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	ccomp	_	_none=|id=s1.u5.w23
+25	pas	pas	ADV	_	Polarity=Neg	24	advmod	_	id=s1.u5.w24
+26	donner	donner	VERB	_	VerbForm=Inf	24	xcomp	_	id=s1.u5.w25
+27	de	un	ADP	_	_	28	det	_	id=s1.u5.w26
+28	jugements	jugement	NOUN	_	Gender=Masc|Number=Plur	26	obj	_	id=s1.u5.w27
+
+# sent_id = 1AG0563_6
+# text = ouais c' est normal hein
+1	ouais	ouais	INTJ	_	_	4	discourse	_	_none=|id=s1.u6.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_none=|id=s1.u6.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	id=s1.u6.w2
+4	normal	normal	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u6.w3
+5	hein	hein	INTJ	_	_	4	discourse	_	_none=|id=s1.u6.w4
+
+# sent_id = 1AG0563_7
+# text = mais e
+1	mais	mais	CCONJ	_	_	2	cc	_	_none=|id=s1.u7.w0
+2	e	e	CCONJ	_	_	0	root	_	id=s1.u7.w1
+
+# sent_id = 1AG0563_8
+# text = même dans les dans un environ de 30 kilomètres il y a pas de " macarons Michelin " rien du tout sur Grenoble
+1	même	même	ADV	_	_	3	advmod	_	_none=|id=s1.u8.w0
+2	dans	dans	ADP	_	_	3	case	_	_none=|id=s1.u8.w1
+3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	reparandum	_	_none=|id=s1.u8.w2
+4	dans	dans	ADP	_	_	6	case	_	_none=|id=s1.u8.w3
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_none=|id=s1.u8.w4
+6	environ	environ	NOUN	_	Gender=Masc|Number=Sing	12	obl:mod	_	_none=|id=s1.u8.w5
+7	de	de	ADP	_	_	9	case	_	_none=|id=s1.u8.w6
+8	30	30	DET	_	Number=Plur	9	det	_	id=s1.u8.w7
+9	kilomètres	kilomètre	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	_none=|id=s1.u8.w8
+10	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl:subj	_	_none=|id=s1.u8.w9
+11	y	y	PRON	_	Person=3|PronType=Prs	12	expl:comp	_	id=s1.u8.w10
+12	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u8.w11
+13	pas	pas	ADV	_	Polarity=Neg	12	advmod	_	id=s1.u8.w12
+14	de	un	DET	_	Definite=Ind|Number=Sing|PronType=Art	15	det	_	id=s1.u8.w13
+15	macarons	macaron	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	id=s1.u8.w15
+16	Michelin	Michelin	PROPN	_	_	15	nmod:appos	_	_none=|id=s1.u8.w16
+17	rien	rien	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	12	conj	_	_none=|id=s1.u8.w18
+18	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_none=|id=s1.u8.w19
+19	tout	tout	NOUN	_	Number=Sing	17	nmod	_	_none=|id=s1.u8.w20
+20	sur	sur	ADP	_	_	21	case	_	id=s1.u8.w21
+21	Grenoble	Grenoble	PROPN	_	_	17	nmod	_	id=s1.u8.w22
+
+# sent_id = 1AG0563_9
+# text = si il y a des restaurants comme e attendez
+1	si	si	SCONJ	_	_	4	mark	_	_none=|id=s1.u9.w0
+2	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	_none=|id=s1.u9.w1
+3	y	y	PRON	_	Person=3|PronType=Prs	4	expl:comp	_	_none=|id=s1.u9.w2
+4	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u9.w3
+5	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	6	det	_	id=s1.u9.w4
+6	restaurants	restaurant	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	id=s1.u9.w5
+7	comme	comme	SCONJ	_	_	9	mark	_	_none=|id=s1.u9.w6
+8	e	e	PRON	_	Person=3|PronType=Prs	9	obj	_	_none=|id=s1.u9.w7
+9	attendez	attendre	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	discourse	_	_none=|id=s1.u9.w8
+
+# sent_id = 1AG0563_10
+# text = ou style restauration gastronomique ou
+1	ou	ou	CCONJ	_	_	2	cc	_	_none=|id=s1.u10.w0
+2	style	style	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u10.w1
+3	restauration	restauration	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	id=s1.u10.w2
+4	gastronomique	gastronomique	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	id=s1.u10.w3
+5	ou	ou	CCONJ	_	_	2	cc	_	_none=|id=s1.u10.w4
+
+# sent_id = 1AG0563_11
+# text = et tout ça sont de restaurants voyez à spécialité régionale gastronomie française vous voyez à toute toute à chaque fois les spécificités sont écrites prévoyez en fonction des du cadre
+1	et	et	CCONJ	_	_	4	cc	_	_none=|id=s1.u11.w0
+2	tout	tout	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_none=|id=s1.u11.w1
+3	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_none=|id=s1.u11.w2
+4	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u11.w3
+5	de	de	ADP	_	_	6	case	_	_none=|id=s1.u11.w4
+6	restaurants	restaurant	NOUN	_	Gender=Masc|Number=Plur	4	obl:arg	_	id=s1.u11.w5
+7	voyez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	advcl	_	id=s1.u11.w6
+8	à	à	ADP	_	_	9	case	_	_none=|id=s1.u11.w7
+9	spécialité	spécialité	NOUN	_	Gender=Fem|Number=Sing	7	obl:mod	_	id=s1.u11.w8
+10	régionale	régional	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	id=s1.u11.w9
+11	gastronomie	gastronomie	NOUN	_	Gender=Fem|Number=Sing	9	conj	_	id=s1.u11.w10
+12	française	français	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	id=s1.u11.w11
+13	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	14	nsubj	_	id=s1.u11.w12
+14	voyez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	advcl	_	_none=|id=s1.u11.w13
+15	à	à	ADP	_	_	17	case	_	_none=|id=s1.u11.w14
+16	toute	tout	DET	_	Gender=Fem|Number=Plur|Person=3|PronType=Ind	17	reparandum	_	_none=|id=s1.u11.w15
+17	toute	tout	ADJ	_	Gender=Fem|Number=Sing	14	obl:mod	_	_none=|id=s1.u11.w16
+18	à	à	ADP	_	_	20	case	_	_none=|id=s1.u11.w17
+19	chaque	chaque	DET	_	Number=Sing|Person=3|PronType=Ind	20	det	_	_none=|id=s1.u11.w18
+20	fois	fois	NOUN	_	Gender=Fem|Number=Sing	24	obl:mod	_	_none=|id=s1.u11.w19
+21	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	22	det	_	id=s1.u11.w20
+22	spécificités	spécificité	NOUN	_	Gender=Fem|Number=Plur	24	nsubj:pass	_	id=s1.u11.w21
+23	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	aux:pass	_	_none=|id=s1.u11.w22
+24	écrites	écrier	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	conj	_	id=s1.u11.w23
+25	prévoyez	prévoyer	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	24	conj	_	id=s1.u11.w24
+26	en	en	ADP	_	_	27	case	_	_none=|id=s1.u11.w25
+27	fonction	fonction	NOUN	_	Gender=Fem|Number=Sing	25	obl:mod	_	id=s1.u11.w26
+28	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	30	reparandum	_	_none=|id=s1.u11.w27
+29	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_none=|id=s1.u11.w28
+30	cadre	cadre	NOUN	_	Gender=Masc|Number=Sing	27	nmod	_	_none=|id=s1.u11.w29
+
+# sent_id = 1AG0563_13
+# text = d' accord je vous remercie au revoir
+1	d'	de	ADP	_	_	5	dep	_	_none=|id=s1.u13.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	id=s1.u13.w1
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u13.w2
+4	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	5	iobj	_	id=s1.u13.w3
+5	remercie	remercier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u13.w4
+6	au	au	ADP	_	_	7	case	_	_none=|id=s1.u13.w5
+7	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_none=|id=s1.u13.w6
+
+# sent_id = 1AG0563_14
+# text = je vous en prie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u14.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u14.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u14.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u14.w3
+

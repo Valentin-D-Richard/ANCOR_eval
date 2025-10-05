@@ -1,0 +1,49 @@
+# sent_id = 1AG0570_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 1AG0570_1
+# text = bonjour c' est serait pour les sports sur Grenoble e c' est où que je peux me renseigner e musculation le
+1	bonjour	bonjour	INTJ	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	id=s1.u1.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	reparandum	_	_none=|id=s1.u1.w2
+4	serait	être	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w3
+5	pour	pour	ADP	_	_	7	case	_	_none=|id=s1.u1.w4
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	id=s1.u1.w5
+7	sports	sport	NOUN	_	Gender=Masc|Number=Plur	4	obl:mod	_	id=s1.u1.w6
+8	sur	sur	ADP	_	_	9	case	_	_none=|id=s1.u1.w7
+9	Grenoble	Grenoble	PROPN	_	_	7	nmod	_	_none=|id=s1.u1.w8
+10	e	e	CCONJ	_	_	13	cc	_	_none=|id=s1.u1.w9
+11	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj	_	_none=|id=s1.u1.w10
+12	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	id=s1.u1.w11
+13	où	où	PRON	_	PronType=Rel	4	advcl	_	_none=|id=s1.u1.w12
+14	que	que	SCONJ	_	_	16	mark	_	_none=|id=s1.u1.w13
+15	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_none=|id=s1.u1.w14
+16	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	ccomp	_	_none=|id=s1.u1.w15
+17	me	se	PRON	_	Number=Sing|Person=1|PronType=Prs	18	obj	_	_none=|id=s1.u1.w16
+18	renseigner	renseigner	VERB	_	VerbForm=Inf	16	xcomp	_	id=s1.u1.w17
+19	e		DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	id=s1.u1.w18
+20	musculation	musculation	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	id=s1.u1.w19
+21	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	dep	_	_none=|id=s1.u1.w20
+
+# sent_id = 1AG0570_2
+# text = quels sports
+1	quels	quel	DET	_	Gender=Masc|Number=Plur	2	det	_	id=s1.u2.w0
+2	sports	sport	NOUN	_	Gender=Masc|Number=Plur	0	root	_	id=s1.u2.w1
+
+# sent_id = 1AG0570_3
+# text = e ça c' est les clubs de sport voilà je vous laisse consulter
+1	e	e	CCONJ	_	_	6	cc	_	_none=|id=s1.u3.w0
+2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	dislocated	_	_none=|id=s1.u3.w1
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	_none=|id=s1.u3.w2
+4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	id=s1.u3.w3
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	id=s1.u3.w4
+6	clubs	club	NOUN	_	Gender=Masc|Number=Plur	0	root	_	id=s1.u3.w5
+7	de	de	ADP	_	_	8	case	_	_none=|id=s1.u3.w6
+8	sport	sport	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	id=s1.u3.w7
+9	voilà	voilà	VERB	_	_	12	discourse	_	id=s1.u3.w8
+10	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_none=|id=s1.u3.w9
+11	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	12	iobj	_	id=s1.u3.w10
+12	laisse	laisser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	id=s1.u3.w11
+13	consulter	consulter	VERB	_	VerbForm=Inf	12	xcomp	_	id=s1.u3.w12
+

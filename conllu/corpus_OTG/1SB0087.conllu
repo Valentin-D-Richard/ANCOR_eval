@@ -1,0 +1,31 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1SB0087_0
+# text = 
+
+# sent_id = 1SB0087_1
+# text = bonjour est ce que je pourrais avoir une carte de Grenoble
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	est	_	_	_	_	_	_	_	id=s1.u1.w1
+3	ce	_	_	_	_	_	_	_	id=s1.u1.w2
+4	que	_	_	_	_	_	_	_	id=s1.u1.w3
+5	je	_	_	_	_	_	_	_	id=s1.u1.w4
+6	pourrais	_	_	_	_	_	_	_	id=s1.u1.w5
+7	avoir	_	_	_	_	_	_	_	id=s1.u1.w6
+8	une	_	_	_	_	_	_	_	id=s1.u1.w7
+9	carte	_	_	_	_	_	_	_	id=s1.u1.w8
+10	de	_	_	_	_	_	_	_	id=s1.u1.w9
+11	Grenoble	_	_	_	_	_	_	_	id=s1.u1.w10
+
+# sent_id = 1SB0087_2
+# text = oui bien sûr voilà
+1	oui	_	_	_	_	_	_	_	id=s1.u2.w0
+2	bien	_	_	_	_	_	_	_	id=s1.u2.w1
+3	sûr	_	_	_	_	_	_	_	id=s1.u2.w2
+4	voilà	_	_	_	_	_	_	_	id=s1.u2.w3
+
+# sent_id = 1SB0087_3
+# text = merci au revoir
+1	merci	_	_	_	_	_	_	_	id=s1.u3.w0
+2	au	_	_	_	_	_	_	_	id=s1.u3.w1
+3	revoir	_	_	_	_	_	_	_	id=s1.u3.w2
+

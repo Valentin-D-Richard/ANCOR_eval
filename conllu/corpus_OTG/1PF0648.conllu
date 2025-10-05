@@ -1,0 +1,62 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 1PF0648_0
+# text = bonjour
+1	bonjour	_	_	_	_	_	_	_	id=s1.u0.w0
+
+# sent_id = 1PF0648_1
+# text = bonjour est ce que vous avez le programme des M J C
+1	bonjour	_	_	_	_	_	_	_	id=s1.u1.w0
+2	est	_	_	_	_	_	_	_	id=s1.u1.w1
+3	ce	_	_	_	_	_	_	_	id=s1.u1.w2
+4	que	_	_	_	_	_	_	_	id=s1.u1.w3
+5	vous	_	_	_	_	_	_	_	id=s1.u1.w4
+6	avez	_	_	_	_	_	_	_	id=s1.u1.w5
+7	le	_	_	_	_	_	_	_	id=s1.u1.w6
+8	programme	_	_	_	_	_	_	_	id=s1.u1.w7
+9	des	_	_	_	_	_	_	_	id=s1.u1.w8
+10	M	_	_	_	_	_	_	_	id=s1.u1.w9
+11	J	_	_	_	_	_	_	_	id=s1.u1.w10
+12	C	_	_	_	_	_	_	_	id=s1.u1.w11
+
+# sent_id = 1PF0648_2
+# text = ah voilà vous avez toutes les M J C
+1	ah	_	_	_	_	_	_	_	id=s1.u2.w0
+2	voilà	_	_	_	_	_	_	_	id=s1.u2.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u2.w2
+4	avez	_	_	_	_	_	_	_	id=s1.u2.w3
+5	toutes	_	_	_	_	_	_	_	id=s1.u2.w4
+6	les	_	_	_	_	_	_	_	id=s1.u2.w5
+7	M	_	_	_	_	_	_	_	id=s1.u2.w6
+8	J	_	_	_	_	_	_	_	id=s1.u2.w7
+9	C	_	_	_	_	_	_	_	id=s1.u2.w8
+
+# sent_id = 1PF0648_3
+# text = d' accord vous avez pas le ah si voilà ce qui faut en
+1	d'	_	_	_	_	_	_	_	id=s1.u3.w0
+2	accord	_	_	_	_	_	_	_	id=s1.u3.w1
+3	vous	_	_	_	_	_	_	_	id=s1.u3.w2
+4	avez	_	_	_	_	_	_	_	id=s1.u3.w3
+5	pas	_	_	_	_	_	_	_	id=s1.u3.w4
+6	le	_	_	_	_	_	_	_	id=s1.u3.w5
+7	ah	_	_	_	_	_	_	_	id=s1.u3.w6
+8	si	_	_	_	_	_	_	_	id=s1.u3.w7
+9	voilà	_	_	_	_	_	_	_	id=s1.u3.w8
+10	ce	_	_	_	_	_	_	_	id=s1.u3.w9
+11	qui	_	_	_	_	_	_	_	id=s1.u3.w10
+12	faut	_	_	_	_	_	_	_	id=s1.u3.w11
+13	en	_	_	_	_	_	_	_	id=s1.u3.w12
+
+# sent_id = 1PF0648_4
+# text = si il y a le le descriptif annuel
+1	si	_	_	_	_	_	_	_	id=s1.u4.w0
+2	il	_	_	_	_	_	_	_	id=s1.u4.w1
+3	y	_	_	_	_	_	_	_	id=s1.u4.w2
+4	a	_	_	_	_	_	_	_	id=s1.u4.w3
+5	le	_	_	_	_	_	_	_	id=s1.u4.w4
+6	le	_	_	_	_	_	_	_	id=s1.u4.w5
+7	descriptif	_	_	_	_	_	_	_	id=s1.u4.w6
+8	annuel	_	_	_	_	_	_	_	id=s1.u4.w7
+
+# sent_id = 1PF0648_5
+# text = 
+

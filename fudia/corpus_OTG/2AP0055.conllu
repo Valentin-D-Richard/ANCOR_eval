@@ -1,0 +1,141 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 2AP0055_0
+# text = bonjour
+1	bonjour	bonjour	INTJ	_	_	0	root	_	_none=|id=s1.u0.w0
+
+# sent_id = 2AP0055_1
+# text = bonjour e j' aurais souhaité e une brochure avec tous les commerces de Grenoble e répertoriés quoi vous n' avez pas
+1	bonjour	bonjour	INTJ	_	_	5	discourse	_	_none=|id=s1.u1.w0
+2	e	e	CCONJ	_	_	5	cc	_	_none=|id=s1.u1.w1
+3	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u1.w2
+4	aurais	avoir	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_none=|id=s1.u1.w3
+5	souhaité	souhaiter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_none=|id=s1.u1.w4
+6	e	e	DET	_	Number=Sing	8	det	_	id=s1.u1.w5
+7	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	id=s1.u1.w6
+8	brochure	brochure	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	id=s1.u1.w7
+9	avec	avec	ADP	_	_	12	case	_	id=s1.u1.w8
+10	tous	tout	ADJ	_	Gender=Masc|Number=Plur	12	amod	_	id=s1.u1.w9
+11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	id=s1.u1.w10
+12	commerces	commerce	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	id=s1.u1.w11
+13	de	de	ADP	_	_	14	case	_	id=s1.u1.w12
+14	Grenoble	Grenoble	PROPN	_	_	12	nmod	_	_none=|id=s1.u1.w13
+15	e	e	CCONJ	_	_	16	mark	_	_none=|id=s1.u1.w14
+16	répertoriés	répertorier	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	acl	_	id=s1.u1.w15
+17	quoi	quoi	PRON	_	Person=3|PronType=Ind	20	obj	_	id=s1.u1.w16
+18	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	20	nsubj	_	id=s1.u1.w17
+19	n'	ne	ADV	_	Polarity=Neg	20	advmod	_	id=s1.u1.w18
+20	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	16	ccomp	_	_none=|id=s1.u1.w19
+21	pas	pas	ADV	_	Polarity=Neg	20	advmod	_	_none=|id=s1.u1.w20
+
+# sent_id = 2AP0055_2
+# text = ça c' est " pages jaunes " on n' a pas mieux que " les pages jaunes "
+1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	dislocated	_	_none=|id=s1.u2.w0
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_none=|id=s1.u2.w1
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	id=s1.u2.w2
+4	pages	page	NOUN	_	Gender=Fem|Number=Plur	8	dislocated	_	id=s1.u2.w4
+5	jaunes	jaune	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	id=s1.u2.w5
+6	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	8	nsubj	_	_none=|id=s1.u2.w7
+7	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	id=s1.u2.w8
+8	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u2.w9
+9	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	id=s1.u2.w10
+10	mieux	mieux	ADV	_	_	8	obj	_	_none=|id=s1.u2.w11
+11	que	que	SCONJ	_	_	13	case	_	id=s1.u2.w12
+12	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	13	det	_	id=s1.u2.w14
+13	pages	page	NOUN	_	Gender=Fem|Number=Plur	10	obl:arg	_	id=s1.u2.w15
+14	jaunes	jaune	ADJ	_	Gender=Fem|Number=Plur	13	amod	_	id=s1.u2.w16
+
+# sent_id = 2AP0055_3
+# text = " les pages jaunes "
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	id=s1.u3.w1
+2	pages	page	NOUN	_	Gender=Fem|Number=Plur	0	root	_	id=s1.u3.w2
+3	jaunes	jaun	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	id=s1.u3.w3
+
+# sent_id = 2AP0055_4
+# text = ouais on n' a pas de liste de commerces toute faite après c' est les la Chambre de Commerce et d' Industrie qui peut vous fournir une liste hein
+1	ouais	ouais	INTJ	_	_	4	discourse	_	_none=|id=s1.u4.w0
+2	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	_none=|id=s1.u4.w1
+3	n'	ne	ADV	_	Polarity=Neg	4	advmod	_	_none=|id=s1.u4.w2
+4	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u4.w3
+5	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	_none=|id=s1.u4.w4
+6	de	de	ADP	_	Definite=Ind|Number=Sing|PronType=Art	7	case	_	_none=|id=s1.u4.w5
+7	liste	liste	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	id=s1.u4.w6
+8	de	de	ADP	_	_	9	case	_	id=s1.u4.w7
+9	commerces	commerce	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	id=s1.u4.w8
+10	toute	tout	ADV	_	_	11	advmod	_	_none=|id=s1.u4.w9
+11	faite	fait	ADJ	_	Gender=Fem|Number=Sing	7	acl	_	id=s1.u4.w10
+12	après	après	ADV	_	_	17	advmod	_	_none=|id=s1.u4.w11
+13	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	17	expl:subj	_	id=s1.u4.w12
+14	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	id=s1.u4.w13
+15	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	16	reparandum	_	id=s1.u4.w14
+16	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	id=s1.u4.w15
+17	Chambre	Chambre	PROPN	_	_	7	conj	_	id=s1.u4.w16
+18	de	de	ADP	_	_	19	case	_	_none=|id=s1.u4.w17
+19	Commerce	Commerce	PROPN	_	_	17	nmod	_	id=s1.u4.w18
+20	et	et	CCONJ	_	_	22	cc	_	_none=|id=s1.u4.w19
+21	d'	de	ADP	_	_	22	case	_	_none=|id=s1.u4.w20
+22	Industrie	Industrie	PROPN	_	_	19	conj	_	id=s1.u4.w21
+23	qui	qui	PRON	_	PronType=Rel	24	nsubj	_	_none=|id=s1.u4.w22
+24	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	_none=|id=s1.u4.w23
+25	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	26	iobj	_	id=s1.u4.w24
+26	fournir	fournir	VERB	_	VerbForm=Inf	24	xcomp	_	id=s1.u4.w25
+27	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	28	det	_	id=s1.u4.w26
+28	liste	liste	NOUN	_	Gender=Fem|Number=Sing	26	obj	_	id=s1.u4.w27
+29	hein	hein	INTJ	_	_	17	discourse	_	_none=|id=s1.u4.w28
+
+# sent_id = 2AP0055_5
+# text = ouais d' accord ok e vous pouvez me donner également une ou deux brochures que les les personnes préfèrent parfois et puis celle avec les logements
+1	ouais	ouais	INTJ	_	_	7	discourse	_	_none=|id=s1.u5.w0
+2	d'	de	ADP	_	_	3	case	_	_none=|id=s1.u5.w1
+3	accord	accord	NOUN	_	Gender=Masc|Number=Sing	7	discourse	_	id=s1.u5.w2
+4	ok	ok	ADJ	_	_	7	discourse	_	_none=|id=s1.u5.w3
+5	e	e	SCONJ	_	_	7	discourse	_	_none=|id=s1.u5.w4
+6	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_none=|id=s1.u5.w5
+7	pouvez	pouvoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u5.w6
+8	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	9	iobj	_	_none=|id=s1.u5.w7
+9	donner	donner	VERB	_	VerbForm=Inf	7	xcomp	_	_none=|id=s1.u5.w8
+10	également	également	ADV	_	_	7	advmod	_	_none=|id=s1.u5.w9
+11	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	id=s1.u5.w10
+12	ou	ou	CCONJ	_	_	13	cc	_	id=s1.u5.w11
+13	deux	deux	NUM	_	Number=Plur	11	conj	_	id=s1.u5.w12
+14	brochures	brochure	NOUN	_	Gender=Fem|Number=Plur	9	obj	_	id=s1.u5.w13
+15	que	que	PRON	_	PronType=Rel	19	obj	_	_none=|id=s1.u5.w14
+16	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	17	reparandum	_	id=s1.u5.w15
+17	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	18	det	_	_none=|id=s1.u5.w16
+18	personnes	personne	NOUN	_	Gender=Fem|Number=Plur	19	nsubj	_	_none=|id=s1.u5.w17
+19	préfèrent	préfèrer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	id=s1.u5.w18
+20	parfois	parfois	ADV	_	_	19	advmod	_	_none=|id=s1.u5.w19
+21	et	et	CCONJ	_	_	23	cc	_	_none=|id=s1.u5.w20
+22	puis	puis	CCONJ	_	_	21	fixed	_	id=s1.u5.w21
+23	celle	celle	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	conj	_	id=s1.u5.w22
+24	avec	avec	ADP	_	_	26	case	_	id=s1.u5.w23
+25	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	26	det	_	id=s1.u5.w24
+26	logements	logement	NOUN	_	Gender=Masc|Number=Plur	23	nmod	_	id=s1.u5.w25
+
+# sent_id = 2AP0055_6
+# text = celle-ci
+1	celle-ci	celle	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	id=s1.u6.w0
+
+# sent_id = 2AP0055_7
+# text = Cléconfort
+1	Cléconfort	Cléconfort	PROPN	_	_	0	root	_	_none=|id=s1.u7.w0
+
+# sent_id = 2AP0055_8
+# text = ouais
+1	ouais	ouais	INTJ	_	_	0	root	_	_none=|id=s1.u8.w0
+
+# sent_id = 2AP0055_9
+# text = les locations voilà
+1	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	id=s1.u9.w0
+2	locations	location	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	id=s1.u9.w1
+3	voilà	voilà	VERB	_	_	0	root	_	_none=|id=s1.u9.w2
+
+# sent_id = 2AP0055_10
+# text = merci
+1	merci	merci	INTJ	_	_	0	root	_	_none=|id=s1.u10.w0
+
+# sent_id = 2AP0055_11
+# text = au revoir monsieur
+1	au	au	DET	_	_	2	det	_	_none=|id=s1.u11.w0
+2	revoir	revoir	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u11.w1
+3	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	_none=|id=s1.u11.w2
+

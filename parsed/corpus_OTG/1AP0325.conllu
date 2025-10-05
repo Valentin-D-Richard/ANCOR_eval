@@ -1,0 +1,127 @@
+# sent_id = 1AP0325_0
+# text = bonjour monsieur
+1	bonjour	bonjour	NOUN	_	_	0	root	_	_none=|id=s1.u0.w0
+2	monsieur	monsieur	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	_none=|id=s1.u0.w1
+
+# sent_id = 1AP0325_1
+# text = bonjour je veux me renseigner e pour avoir un bouquin on m' a dit qu' il existait un bouquin de e pour les les chalets les trucs comme ça dans la région les réservations
+1	bonjour	bonjour	NOUN	_	_	3	discourse	_	_none=|id=s1.u1.w0
+2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_none=|id=s1.u1.w1
+3	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u1.w2
+4	me	se	PRON	_	Number=Sing|Person=1|PronType=Prs	5	expl:comp	_	_none=|id=s1.u1.w3
+5	renseigner	renseigner	VERB	_	VerbForm=Inf	3	xcomp	_	_none=|id=s1.u1.w4
+6	e	e	CCONJ	_	_	14	cc	_	_none=|id=s1.u1.w5
+7	pour	pour	ADP	_	_	8	mark	_	_none=|id=s1.u1.w6
+8	avoir	avoir	VERB	_	VerbForm=Inf	5	advcl	_	_none=|id=s1.u1.w7
+9	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_none=|id=s1.u1.w8
+10	bouquin	bouquin	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_none=|id=s1.u1.w9
+11	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	_none=|id=s1.u1.w10
+12	m'	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	14	iobj	_	_none=|id=s1.u1.w11
+13	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:tense	_	_none=|id=s1.u1.w12
+14	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_none=|id=s1.u1.w13
+15	qu'	que	SCONJ	_	_	17	mark	_	_none=|id=s1.u1.w14
+16	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	expl:subj	_	_none=|id=s1.u1.w15
+17	existait	exister	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	ccomp	_	id=s1.u1.w16
+18	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	id=s1.u1.w17
+19	bouquin	bouquin	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	id=s1.u1.w18
+20	de	de	ADP	_	_	21	reparandum	_	_none=|id=s1.u1.w19
+21	e	e	NOUN	_	_	19	nmod	_	id=s1.u1.w20
+22	pour	pour	ADP	_	_	25	case	_	_none=|id=s1.u1.w21
+23	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	24	reparandum	_	id=s1.u1.w22
+24	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	25	det	_	_none=|id=s1.u1.w23
+25	chalets	chalet	NOUN	_	Gender=Masc|Number=Plur	19	nmod	_	_none=|id=s1.u1.w24
+26	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	27	det	_	id=s1.u1.w25
+27	trucs	truc	NOUN	_	Gender=Masc|Number=Plur	25	conj	_	id=s1.u1.w26
+28	comme	comme	ADP	_	_	29	case	_	_none=|id=s1.u1.w27
+29	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	27	nmod	_	id=s1.u1.w28
+30	dans	dans	ADP	_	_	32	case	_	_none=|id=s1.u1.w29
+31	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	id=s1.u1.w30
+32	région	région	NOUN	_	Gender=Fem|Number=Sing	27	nmod	_	id=s1.u1.w31
+33	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	34	det	_	id=s1.u1.w32
+34	réservations	réservation	NOUN	_	Gender=Fem|Number=Plur	19	conj	_	id=s1.u1.w33
+
+# sent_id = 1AP0325_2
+# text = c' est Cléconfort c' est Cléconfort
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	id=s1.u2.w0
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	id=s1.u2.w1
+3	Cléconfort	Cléconfort	PROPN	_	_	6	reparandum	_	_none=|id=s1.u2.w2
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	id=s1.u2.w3
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	id=s1.u2.w4
+6	Cléconfort	cléconfore	PROPN	_	_	0	root	_	id=s1.u2.w5
+
+# sent_id = 1AP0325_3
+# text = ah ben voilà je crois que c' est ça il y a les numéros de téléphone c' est ça
+1	ah	ah	INTJ	_	_	5	discourse	_	_none=|id=s1.u3.w0
+2	ben	ben	INTJ	_	_	5	discourse	_	_none=|id=s1.u3.w1
+3	voilà	voilà	VERB	_	_	5	discourse	_	_none=|id=s1.u3.w2
+4	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_none=|id=s1.u3.w3
+5	crois	croire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u3.w4
+6	que	que	SCONJ	_	_	19	mark	_	_none=|id=s1.u3.w5
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	_none=|id=s1.u3.w6
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	id=s1.u3.w7
+9	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	19	reparandum	_	id=s1.u3.w8
+10	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl:subj	_	_none=|id=s1.u3.w9
+11	y	y	PRON	_	Person=3|PronType=Prs	12	expl:comp	_	id=s1.u3.w10
+12	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	reparandum	_	id=s1.u3.w11
+13	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	14	det	_	id=s1.u3.w12
+14	numéros	numéro	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	id=s1.u3.w13
+15	de	de	ADP	_	_	16	case	_	_none=|id=s1.u3.w14
+16	téléphone	téléphone	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	id=s1.u3.w15
+17	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	19	nsubj	_	id=s1.u3.w16
+18	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	id=s1.u3.w17
+19	ça	çe	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	ccomp	_	id=s1.u3.w18
+
+# sent_id = 1AP0325_5
+# text = il y a tout à l' intérieur c' est classé par massif donc c' est sur les hauteurs de Grenoble en général hein dans les stations aussi
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_none=|id=s1.u5.w0
+2	y	y	PRON	_	Person=3|PronType=Prs	3	expl:comp	_	id=s1.u5.w1
+3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	id=s1.u5.w2
+4	tout	tout	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	obj	_	_none=|id=s1.u5.w3
+5	à	à	ADP	_	_	7	case	_	_none=|id=s1.u5.w4
+6	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	_none=|id=s1.u5.w5
+7	intérieur	intérieur	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_none=|id=s1.u5.w6
+8	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	nsubj:pass	_	_none=|id=s1.u5.w7
+9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	id=s1.u5.w8
+10	classé	classer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	id=s1.u5.w9
+11	par	par	ADP	_	_	12	case	_	_none=|id=s1.u5.w10
+12	massif	massif	NOUN	_	Gender=Masc|Number=Sing	10	obl:mod	_	_none=|id=s1.u5.w11
+13	donc	donc	ADV	_	_	15	cc	_	_none=|id=s1.u5.w12
+14	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	nsubj	_	_none=|id=s1.u5.w13
+15	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	id=s1.u5.w14
+16	sur	sur	ADP	_	_	18	case	_	id=s1.u5.w15
+17	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	18	det	_	id=s1.u5.w16
+18	hauteurs	hauteur	NOUN	_	Gender=Fem|Number=Plur	15	obl:arg	_	id=s1.u5.w17
+19	de	de	ADP	_	_	20	case	_	id=s1.u5.w18
+20	Grenoble	Grenoble	PROPN	_	_	18	nmod	_	_none=|id=s1.u5.w19
+21	en	en	ADP	_	_	22	case	_	_none=|id=s1.u5.w20
+22	général	général	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	_none=|id=s1.u5.w21
+23	hein	hein	INTJ	_	_	26	discourse	_	_none=|id=s1.u5.w22
+24	dans	dans	ADP	_	_	26	case	_	_none=|id=s1.u5.w23
+25	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	26	det	_	id=s1.u5.w24
+26	stations	station	NOUN	_	Gender=Fem|Number=Plur	18	conj	_	id=s1.u5.w25
+27	aussi	aussi	ADV	_	_	26	advmod	_	_none=|id=s1.u5.w26
+
+# sent_id = 1AP0325_6
+# text = d' accord merci bien
+1	d'	de	ADP	_	_	2	case	_	_none=|id=s1.u6.w0
+2	accord	accord	NOUN	_	Gender=Masc|Number=Sing	0	root	_	id=s1.u6.w1
+3	merci	merci	INTJ	_	_	2	conj	_	_none=|id=s1.u6.w2
+4	bien	bien	ADV	_	_	3	advmod	_	_none=|id=s1.u6.w3
+
+# sent_id = 1AP0325_7
+# text = je vous en prie
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_none=|id=s1.u7.w0
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_none=|id=s1.u7.w1
+3	en	en	PRON	_	Person=3|PronType=Prs	4	iobj	_	_none=|id=s1.u7.w2
+4	prie	prier	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_none=|id=s1.u7.w3
+
+# sent_id = 1AP0325_8
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u8.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u8.w1
+
+# sent_id = 1AP0325_9
+# text = au revoir
+1	au	au	DET	_	_	2	case	_	_none=|id=s1.u9.w0
+2	revoir	revoir	ADV	_	Gender=Masc|Number=Sing	0	root	_	_none=|id=s1.u9.w1
+
